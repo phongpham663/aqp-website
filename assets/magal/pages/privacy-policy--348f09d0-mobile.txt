@@ -1,0 +1,215 @@
+Home Page
+Solutions
+Industry
+Seaports & Terminals
+Oil & Gas
+National Borders
+Critical Sites
+Technologies
+Fortis-X, C5I
+Video Analytics
+Gates & Access
+PIDS
+Fensor
+DTR
+Magbar
+Innofence
+TunnelGuard
+Resources
+Brochures
+Videos
+eBooks & Booklets
+Infographics
+Blog
+Newsroom
+Events
+In the Media
+Professional Services
+Company
+About us & Management
+Careers
+Sustainability & International Standards Certification
+Contact us & Global Offices
+English
+Español
+Privacy Policy
+
+Website and Services Privacy Policy
+
+Last update: December 15, 2020
+
+(*All capitalized terms shall have the meanings ascribed to them in the full Privacy Policy).
+
+This Website is operated by Magal Security Systems Ltd., an Israeli corporation, with its principal office and place of Yehud Industrial Zone, Israel 561001 (the “Company“).
+
+This Privacy Policy explains the privacy practices of Magal Group of companies when processing Personal Data within the operation of our Website and in the provision of our Services.
+
+Protecting your privacy and processing your Personal Data fairly and lawfully is important to us. You can access our full Privacy Policy below to help you understand better how we collect and use Personal Data. In it, we explain in more detail the types of Personal Data we collect, how we collect it, what is legal basis of collection, what we may use it for, who we may share it with, what our retention periods are and what are your rights in relation to the Personal Data we collect.
+
+Within the Privacy Policy you will find some specific examples of why and how we use your Personal Data.
+
+Read this policy and make sure you fully understand our practices in relation to your Personal Data, before you access or use the Website or any of our Services.  If you read and fully understand this Privacy Policy, and remain opposed to our practices, you must immediately leave this Website, and avoid or discontinue all use of the Website, and/or Services. If you have further questions or concerns regarding this policy please contact us at: Privacy@magalsolutions.com.
+
+FULL PRIVACY POLICY
+
+Magal Security Systems Ltd. (the “Company”, “we”, “our” or “us”), provides this Privacy Policy, as will be updated from time to time (our “Policy” or “Privacy Policy”) to inform Visitors of  our Website and Users of our Services of our policies and procedures regarding the collection, use and disclosure of Personal Data in our operations.
+
+Definitions:
+“Account” means an account to any Service or product provided by the Company or one of its Affiliates.
+“Affiliate” means a legal entity which means a company, person or entity that is owned or controlled by, that owns or controls or is under common ownership or control with a Party. Ownership shall mean direct or indirect ownership of more than 50% of the shares in a company or entity and control shall mean any power to appoint persons to the board of directors of a company or entity;
+“Applicable Laws” means the Personal Information Protection and Electronic Documents Act (S.C. 2000, c. 5) (PIPEDA), the GDPR, European Union Member State laws implementing the GDPR and any data protection, privacy or other laws to the extent applicable to Company Group.
+“Business Contact” means a Data Subject which is authorized to manage a Contract with us on behalf of a Client.
+“Contract” means any order form, terms and conditions, end user license agreement and any other legally binding agreement signed between the Company or one of its Affiliate and a Client.
+“Client” means a legal entity which has signed a legally binding agreement with the Company or one of its Affiliates.
+“Client’s Data Subjects” means Data Subjects whose Personal Data is collected through devices operated on our Clients’ premises.
+“GDPR” means the General Data Protection Regulation (EU) 2016/679, as amended from time to time.
+“Personal Data” means information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked to, directly or indirectly, a particular individual, consumer, data subject, or household, and is defined as “personally identifiable information,” “personal information, “personal data,” or similar terms under applicable data protection laws.
+“Non Personal Data” means information that does not personally identify you and does not reveal your specific identity as an individual, such as anonymized information.
+The terms “Controller”, “Data Subject”, “Processor”, “Processing”, “Supervisory Authority” and “Personal Data Breach” shall have the meanings ascribed to them in the GDPR and the meaning of similar terms in other applicable laws.
+“Company Group” is a group of companies affiliated with the Company.
+“Services” means our proprietary products, devices, software applications and all related implementation, support and maintenance services, as agreed upon in the respective Agreement signed with each Client.
+“User” means an employee, contractor or other appointed person of our Client which is authorized by such Client to use, manage and/or supervise the usage of our Services on behalf of the Client.
+“Visitor(s)” means Data Subjects who browse our Website.
+“Website” means our public websites available at:  https://www.magalsolutions.com/
+
+This Policy was originally written in English. If you are reading a translation and it conflicts with the English version, please note that the English version prevails.
+
+When Does This Privacy Policy Apply
+This Privacy Policy applies to Personal Data about Visitors and Users that we collect, use or otherwise process within the operation of our Website and Services.
+We provide our Clients with technological Services for the protection of their premises and for cyber security. When our Clients use our Services, they may collect Personal Data. Such  Personal Data is stored by the Client (locally or through third party storage), and is subject to the privacy policies, practices and procedures of the Client as a Controller and is in the sole responsibility of the Client. The Client is responsible to inform the Client Data Subjects of its processing of their Personal Data in accordance with transparency requirements of the Applicable Laws.
+This Privacy Policy does not apply to Services that may have separate privacy policies that do not incorporate this Policy. This Privacy Policy does not apply to services provided directly by third parties and facilitated by us.
+The Types of Personal Data That We Collect
+Personal Data That You Provide to Us:
+Visitors: When visiting our Website, you may choose to provide us information through our “Contact Us” form. In order to submit the form you are required to provide your name, company name, phone and email and country (“Contact Details”); the service you are interested in and how you found out about Magal, solely for the purpose of responding to you efficiently. You may also provide more information in the “free text” section. Please do not provide more information than is required for us to contact you.
+Business Contacts: Business Contacts may provide us their Contact Details, and other information as required for the purpose of managing the Contract with us.
+Users: If you are a User, we may ask you to provide your Contact Details and to select a username and password  in order for you to register to and open an Account for the Client you are associated with and in order to communicate with you for the provision of our Services, including to respond to support and maintenance requests submitted by you. The particular Personal Data we require may vary depending on the nature of the Services to the Client. We process the Personal Data of Visitors and Business Contacts in the quality of Controllers.
+Client Data Subjects: When a Client uses our Services, the Client may collect Personal Data of Data Subjects who enter and/or exit the Client’s premises and/or use it’s information technology (IT) networks, systems and applications.  Such Personal Data may include, depending on the Services, facial images, video recordings, license plates and other Personal Data categories. Company Group’s entities may process Client Data Subjects’ Personal Data in the course of provision of installation, implementation, maintenance and support Services to the Client. Company Group’s companies shall process the Personal Data of the Client Data Subjects in quality of processors solely for the purpose of provision of our Services and in accordance with Applicable Laws.
+The Personal Data That We Collect or Generate
+If a Data Subject browses our Website and/or uses our Services, we may collect Personal Data. This includes (by way of a non-exhaustive list): User’s device Internet Protocol (IP) address through the use of “cookies”. For more information about the cookies we use, please see Section ‎11 below.
+
+Account information: if a Client opens an Account with us, we may collect a log of the activity of the Users associated with that Client’s Account, including entry/exit time stamps, the webpages the Users browsed, features and functions that Users used.
+Non-Personal Data
+In addition to the categories of Personal Data described above, we will also process further anonymized information and data that does not identify a specific individual, including but not limited to: Information that a Visitor’s/User’s browser sends (“Log Data”). This Log Data may include, but is not limited to, non-identifying information regarding the User’s device, operating system, internet browser type, screen resolution, language and keyboard settings, internet service provider, referring/exit pages, date/time stamps, the web page you were visiting and information you search, etc.
+We may collect this Non-Personal Data through the Website in the following ways:
+Use of cookies, as detailed in Section ‎11‎11 “Cookies” below;
+Use of other analytical tools, including tools which are supplied by third party service providers. For more information see Section ‎8 “Sharing Data With Others” below.
+The Purposes for Processing Personal Data
+Personal Data is used for the following primary purposes (as may be updated from time to time), in order to:
+provide and operate the Website and Services and enable their functions and features;
+monitor and analyze use of the Services and study and analyze the functionality of the Services;
+provide ongoing customer assistance, technical support and maintenance of the Services;
+provide service announcements and notices, promotional messages and market the our Services, in accordance with applicable laws;
+enforce our Terms of Use, policies and other contractual arrangements, to comply with court orders and warrants, and prevent misuse of the Services, and to take any action in any legal dispute and proceeding.;
+better understand your needs, both on an aggregated and individualized basis, in order to further develop, customize and improve our Website and Services based on Visitor’s and Users’ preferences, experiences and difficulties;
+communicate with you and contact you to obtain feedback from you regarding the Services;
+disclose to third party vendors, service providers, contractors or agents who perform functions on our behalf with respect to the Services;​​
+to create aggregated statistical data and other aggregated and/or inferred Non-Personal Data, which we or our business partners may use to provide and improve our Services; and
+​​​​as otherwise authorized by you.
+We may use your email address to contact you when necessary, including in order to send you reminders, offers and to provide you information and notices about the Services. At any time, you may choose (opt out) whether your Personal Data is to be used for sending such marketing materials which are not an essential part of the services on the Website. You may exercise your choice by contacting us at: Privacy@magal-s3.com.
+How We Use Non-Personal Data
+We may use information that is Non-Personal Data, for the same purposes we use Personal Data (where applicable) and in addition in order to:
+compile anonymous or aggregate information,​​​​​
+disclose to third party vendors, service providers, contractors or agents who perform tasks on our behalf in connection with the Services,
+monitor and analyze use of the Services and for the technical administration and troubleshooting of the Services, and
+provide us with statistical data.
+We may use anonymous, statistical or aggregated information, which may be based on extracts of your Personal Data, for legitimate business purposes including for testing, development, improvement, control and operation of the Services. We may share such information with our third-party providers. It has no effect on your privacy, because there is no reasonable way to extract data from the aggregated information that can be associated with you. We will share your Non-Personal Data only subject to the terms of this Policy, or subject to your prior informed consent.
+The Legal Basis for Use Of Personal Data
+We will only process a Data Subject’s Personal Data where we have a legal basis to do so. The legal basis will depend on the reason or reasons we collected and need to use the Personal Data. In almost all cases the legal basis will be:​​
+​​​To provide the Services and otherwise perform a Contract.
+To fulfill a legitimate interest that we have as a business.
+Because a Data Subject consented to us using the Personal Data for a particular purpose.
+More information on the basis of processing:
+Processing the Personal Data is required for performing the Services, for example:
+(1) We must process a Business Contact’s Personal Data in order to conclude a Contract with a Client;
+(2) a User must provide Personal Data in order for us to provide support Services.
+Processing the Personal Data is required for fulfilling our or a third party’s legitimate interests, for example:
+(1) we collect information about use of our Website in order to identify and prevent its abuse;
+(2) we use Personal Data to improve our Services by identifying usage trends and technical issues.
+A Visitor/User consents to the processing of Personal Data for one or more specific purposes, for example: to the extent that a Visitor consents, we will send it promotional information about our Services.
+It is hereby clarified that the legal bases detailed above are the legal bases for actions to process Personal Data, carried out by us in accordance with the GDPR. If processing of Personal Data is subject to other Applicable Laws, then the legal basis for processing Personal Data may differ according to those Applicable Laws.
+Sharing Data with Others
+We do not sell, rent or lease your Personal Data. We may share your Personal Data with service providers and other third parties, if necessary to fulfil the purposes for collecting the information, such as cloud vendors, subcontractors providing us processing services, etc., provided that any such third party will commit to protect your privacy as required under the applicable laws and this Policy.
+We may also share Personal Data with Affiliates, with the express provision that their use of such Personal Data must comply with this Policy.
+Additionally, a merger, acquisition or any other structural change may require us to transfer your Personal Data to another entity, and in such case we will use best efforts to ensure that the receiving entity will comply with this Policy.
+We may need to disclose Personal Data in response to lawful requests by public authorities or law enforcement officials, including meeting national security or law enforcement requirements. We cooperate with government and law enforcement officials to enforce and comply with the law.
+Transfer of Data Outside Your Territory
+We may store, process or maintain Personal Data in various sites worldwide, including through cloud-based service providers worldwide. When we transfer Personal Data of Data Subjects in the EU outside the EEA, we will ensure that it is protected and transferred in one of the following ways:​
+​​​​​the country that we send the Personal Data to, is approved by the European Commission as offering an adequate level of protection for Personal Data;
+the recipient might have signed up to a contract based on “model contractual clauses” approved by the European Commission, obliging them to protect your Personal Data;
+where the recipient is located in the US, it might be a certified member of the EU-US Privacy Shield scheme; or
+​​​​​in other circumstances the law may permit us to otherwise transfer your Personal Data outside the EEA.
+If you are a Data Subject in the EU, you may request more information including a copy of the standard data protection clauses which we have entered into with recipients of your Personal Data) by contacting us as described the Section ‎17 “Contact Us” below.
+If you are located in a jurisdiction where transfer of your Personal Data to another jurisdiction requires your consent, then you provide us your express and unambiguous consent to such transfer or the storage, processing or maintenance of the information in other jurisdictions by using the Services.
+Access Rights
+In all of the above cases in which we collect, use or store your Personal Data, you may have the following rights, and, in most cases, you can exercise them free of charge.
+At any time, you may contact us at: Privacy@magal-s3.com. and request to know what Personal Data we keep about you. We will make reasonable efforts to locate the data that you request to access.
+Under your right of access, you may obtain confirmation from us of whether we are processing Personal Data related to you, receive a copy of that data, so that you could verify its accuracy and the lawfulness of its processing, request the correction, amendment or deletion of the Personal Data if it is inaccurate, incomplete, outdated or processed in violation of applicable law. If you are a Data Subject in the EU, you may also have the right, under certain circumstances, to object to processing of your Personal Data, to request us to restrict the processing of your Personal Data and to request us to transfer your Personal Data to another entity. However, we may retain certain information as deemed required by us in accordance with Applicable Laws, or for legitimate business reasons, for the duration required or permitted under Applicable Laws.
+In addition, we may delete any Personal Data pursuant to our policies, as in effect from time to time.
+When you request us to exercise any of your rights under this Policy and the Applicable Laws, we may need to ask you to provide us certain information to identify you and verify that you are who you claim you are, to avoid disclosure to you of Personal Data related to others. We may also ask you questions to better understand the nature and scope of your request.
+We may redact from the data which we will make available to you, any Personal Data related to others.
+Cookies
+A cookie is a small data file that we use in order to transfer to your computer’s hard disk for record-keeping purposes. We may use cookies to enable certain features of the Website, to better understand how you interact with the Website and to monitor web traffic routing and aggregate usage of the Website.
+You are free to disable cookies through your browser as detailed in your browser’s settings. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the website you visit. If you do not accept cookies, however, you may not be able to use portions of or all functionality of the Website.
+When you browse the Website, our cookies collect non-Personal Data as detailed in Section ‎4.1 above.
+We may use automated devices and applications to evaluate usage of our Service. We use these tools to help us improve our Services, performance and user experience including by tracking page content, and click/touch, movements, scrolls and keystroke activities. We may also engage third parties to track and analyze Service data or provide other services on our behalf. Such third parties may combine the information that we provide about you with other information that they have collected from other sources. This Policy does not cover such third parties’ use of the data and such use is governed by such third parties’ privacy policies.By entering and using our Website, you agree to the usage of cookies. If you do not agree to the use of these cookies, you are required to discontinue your use of the Website.
+Data Security
+We take the safeguarding of Personal Data and Non-Personal Data seriously, and use a variety of systems, applications and procedures to protect the information from loss, theft, damage or unauthorized use or access when it is in our possession or control. However, although we make efforts to protect your privacy, we cannot guarantee that the Services will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. In addition, you should take steps to protect against unauthorized access to Personal Data stored on your premises as well as defining limited access rights to such information on a need to know basis.
+If you receive an e-mail asking you to update your information with respect to the Services, do not reply and please contact us at Privacy@magal-s3.com.
+Data Retention
+We retain different types of information for different periods, depending on the purposes for processing the Personal Data, our legitimate business purposes as well as pursuant to legal requirements under the Applicable Laws. We may retain Personal Data for as long as necessary to support the collection and the use purposes under this Policy and for other legitimate business purposes, for example, for storing data, for documentation, for cyber-security management purposes, legal proceedings and tax issues.
+We may store aggregated Non-Personal Data without time limit. In any case, as long as you use the Services and/or browse our Website, we will keep information about you, unless we are legally required to delete it, or if you exercise your rights to delete the information.
+Our Policy Toward Children
+Our Services and Website are not meant to be used by or for persons under 18, as such, we do not knowingly collect Personal Data from minors younger than 18. If you are under 18, please do not enter, access and/or use the Services on this Website.
+Changes to This Privacy Policy
+We may change the terms of this Privacy Policy from time to time by posting notice on our Website or through the Services, with a seven (7) day advance notice. However, substantial changes will be effective thirty (30) days after the notice was initially posted. We will make an effort to inform you of substantial changes through the channels of communication generally used in such circumstances, and subject to the requirements of applicable laws – to obtain your consent.
+If we need to adapt the Policy to legal requirements, the amended Policy will become effective immediately or as required.
+Your continued use of the Website and Services following such notice shall constitute your consent to any changes made and a waiver of any claim or demand in relation to such changes. If you do not agree to the new or different terms, you should not use and are free to discontinue using the Services.
+ Applicable Law and Dispute Resolution
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of Israel, without regard to its conflict of law provisions.
+The courts of Tel Aviv shall have exclusive jurisdiction in all disputes and proceedings arising from this Privacy Policy.
+Contact Us
+
+For further information about this Policy, please contact our customers services department at Privacy@magalsolutions.com.
+
+We work hard to handle your information responsibly. If you are unhappy about the way we do this, please contact us and we will make good-faith efforts to address your concerns. If you are not satisfied with the response you receive from us, you may escalate concerns to the applicable privacy regulator in your jurisdiction. Upon request, we will provide you with the contact information for that regulator.
+
+Copyright © 2020, Magal Security Systems Ltd. All rights reserved.
+
+Last Update: December 15, 2020
+
+Home Page
+Solutions
+Industry
+Seaports & Terminals
+Oil & Gas
+National Borders
+Critical Sites
+Technologies
+Fortis-X, C5I
+Video Analytics
+Gates & Access
+PIDS
+Fensor
+DTR
+Magbar
+Innofence
+TunnelGuard
+Resources
+Brochures
+Videos
+eBooks & Booklets
+Infographics
+Blog
+Newsroom
+Events
+In the Media
+Professional Services
+Company
+About us & Management
+Careers
+Sustainability & International Standards Certification
+Contact us & Global Offices
+Privacy Policy
+marketing@magalsolutions.com
+Design: KRAFT

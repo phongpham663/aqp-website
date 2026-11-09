@@ -1,0 +1,131 @@
+CASE STUDY
+SATS BRF Chooses Auk As Their First Step Into Industry 4.0
+
+SATS BRF, a leading Singapore food manufacturer, chose Auk as its first step into Industry 4.0: a new way of tracking machine efficiency.
+
+With a growing footprint, SATS BRF Food sets the benchmark for the production of high quality food products that meet world-class food safety standards. This is recognized by hundreds of major retailers, restaurant chains and caterers globally. As a leading food manufacturer in Singapore, SATS BRF products are supplied to supermarkets and restaurants located in Singapore and other parts of South-East Asia.
+
+The company is consistently at the forefront of the food manufacturing industry, keeping up with market trends and innovating new products to satisfy consumer demand.
+
+Facing an ever growing demand for their products and services, SATS BRF was looking for a cost-efficient and reliable method to monitor their factory efficiency. To help achieve this, the SATS BRF team engaged Auk Industries.
+
+A New Way of Tracking Machine Efficiency
+
+“(Previously), machine data was recorded manually on paper or by word of mouth. This (data) was difficult to preserve and biased at times,” commented Alphonse Evalle, manufacturing analyst at SATS BRF Food.
+
+Before Auk, the team was tracking machine productivity manually, which was both labor and time intensive. Alphonse said that this data was not only difficult to preserve, but also biased at times, as much of this data collection relied on the employee’s experience in operating the machines. Furthermore, this couldn’t be done 24/7, and speed loss couldn’t be monitored.
+
+With Auk, real-time data from their machines is retrieved and analyzed, allowing the team to respond and take action should there be an anomaly in the data collected.
+
+“Ever since we installed Auk across all our 3 plants, it has been a great help. Management is able to open (the) dashboard and gain a bird’s eye view over the goings on in the 3 plants.”
+
+SATS BRF has since fully installed Auk’s solution in all their 3 plants. With Auk’s solution, the management is also able to be constantly updated with the activity on all 3 production floors.
+
+The Auk System as a Golden Record
+
+“As a single source of truth, it has been irreplaceable.”
+
+As a single source of truth, Auk’s system has been invaluable to SATS BRF. Value added came in the form of a database that allows users to view data from weeks and months before. This served to be a useful way for the production team to have a basis of comparison between how the machine is faring in present day and how it was faring previously. With this, the team is able to implement changes to the system and compare the change in performance of the machine before and after the changes made. This helps to verify if the changes made were positive or negative. The Auk system data served to provide a baseline of production, a useful tool that SATS BRF never had before.
+
+SATS BRF then took on the Auk system full scale across their 3 plants, and made use of it to rebalance their work shifts to increase efficiency. The team used 1 plant as a base case and experimented with rebalancing workloads and shifts in their other 2 plants, successfully streamlining the operations further.
+
+Using Auk Data to Bring Everyone Onboard
+
+As a relatively new technology, the ground teams had their doubts about the effectiveness and necessity for such a system. It was a challenge to get their experienced plant managers, who were comfortable with and set in their current ways of operation, to recognise that their incumbent methods are not the most ideal, and as such, to make the switch to i4.0 – the Auk system.
+
+One particular example was a product line which involved an old machine that was operated by a few of their more experienced staff. As they were unable to meet the growing demand, the team decided to monitor this product line and use the data to determine if they should increase the number of shifts or buy more machines.
+
+Once the team started to monitor this line, they found their overall equipment efficiency (OEE) to be surprisingly low – 55%. This came unexpected as the team was always occupied. Making use of the data collected to investigate further, they found out that the 45% loss of OEE could be attributed to 2 issues. Firstly, flawed standard operating procedures (SOPs) which led to a myriad of problems and subsequently a few hours of downtime per week. Secondly, non-staggered shifts. These 2 issues alone resulted in a 20% loss in output.
+
+With this knowledge, the management retrained and cross-trained key staff, and staggered work shifts differently, all according to the data collected and analysed by the Auk system. This allowed the team to successfully raise OEE from 55% to 75%, and even up to 80% on better days. This amounts to a 34% increase when it came to volume output.
+
+Previously, the team did not see value in looking at the numbers as they did not have the resources to interpret this data. Now, with the Auk system, the team has managed to gain many insights from the data collected and are better equipped to tackle the problems on the production floor.
+
+Why Auk?
+
+“The trend analyser is a feature that we very much appreciate.”
+
+Part of Auk’s appeal came from the multitude of features that the system has, one of which is the trend analyser. This feature allows the production team at SATS BRF to filter and view individual machines during a designated time frame, to compare specific data across these machines. With this, the team could monitor and identify the time periods where the machine was not performing as well, and take steps to identify the problem.
+
+Another deciding factor for SATS BRF was the fact that Auk’s hardware node is very flexible.
+
+“The team that worked on deployment with me will share that our machines are rather unique – we have a mixture of old and new, big and small.”
+
+SATS BRF has different brands and types of machines across their different lines, but despite that, the Auk node has been successfully installed on every machine that the team at SATS BRF has chosen to monitor. Relevant data needed has also been able to be pulled from the existing sensors in the machines.
+
+“This was a key differentiator for us as we did not need to make any modifications to our machines, other than the attaching of nodes to our sensors and powering it up. There was no need for complex work.”
+
+The Auk system was able to be deployed rapidly, despite a tight production schedule and a sizeable number of installations on individual machines.
+
+In the coming years, SATS BRF is expected to expand their production lines to increase output, in order to meet their growing demand.
+
+“We are very much looking forward to working with Auk again, given that we will be able to bring in different new machines and not have to worry about whether our monitoring system can be installed successfully on them as well.”
+
+SHARE THIS
+Facebook
+LinkedIn
+Twitter
+Telegram
+WhatsApp
+More Case Studies
+
+Food & Beverage, Consumer
+
+Achieving Greater Efficiency Through Digitalisation: Fonterra
+
+How Fonterra Brands Manufacturing Indonesia used Auk's real-time production data to raise efficiency…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Better Visualisation with Auk: A SATS Case Study
+
+How SATS, Asia's in-flight and institutional caterer, used Auk's real-time visualisation to work…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Zero to One: Rapid Digital Transformation of a Chocolatier
+
+IIoT digitalisation puts an end to a Chocolatier’s years-long search for a suitable…
+
+Read More →
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

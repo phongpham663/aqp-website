@@ -1,0 +1,465 @@
+{
+  "url": "https://auk.industries/leanworkshop-chonburi/",
+  "title": "Digital Lean Manufacturing Workshop (Chon Buri) - Auk Industries",
+  "description": "Achieving Operational Excellence with Digital Lean Solution. 29th October 2024, Morino Hotel, Sriracha, Chonburi.",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.8127.18 Safari/537.36",
+  "dimensions": {
+    "width": 1440,
+    "height": 4084
+  },
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Digital Lean Manufacturing Workshop (Chon Buri)"
+    },
+    {
+      "tag": "H2",
+      "text": "Maximize the potential of your factory operations today"
+    },
+    {
+      "tag": "H2",
+      "text": "PRODUCT"
+    },
+    {
+      "tag": "H2",
+      "text": "INDUSTRIES"
+    },
+    {
+      "tag": "H2",
+      "text": "SOLUTIONS"
+    },
+    {
+      "tag": "H2",
+      "text": "LEARN"
+    },
+    {
+      "tag": "H2",
+      "text": "ABOUT US"
+    },
+    {
+      "tag": "H2",
+      "text": "QUICKLINKS"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://auk.industries/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/oee-roi-excel-calculator/",
+      "text": "ROI & OEE Calculator"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://ops.auk.industries/login",
+      "text": "Sign In"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/oee-roi-excel-calculator/",
+      "text": "ROI & OEE Calculator"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://ops.auk.industries/login",
+      "text": "Sign In"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://youtu.be/cEvl_PURLuo",
+      "text": "Watch Product Video"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://auk.industries/hardware-warranty/",
+      "text": "Hardware Warranty"
+    },
+    {
+      "url": "https://auk.industries/service-level-agreement/",
+      "text": "Service Level Agreement"
+    },
+    {
+      "url": "https://www.linkedin.com/company/auk.industries/",
+      "text": ""
+    },
+    {
+      "url": "https://www.facebook.com/Auk.Industries",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://auk.industries/terms-and-conditions/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "url": "https://auk.industries/leanworkshop-chonburi/#cookie-settings",
+      "text": "Cookie settings"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://auk.industries/auk-logo-tagline.svg",
+      "alt": "Auk Industries",
+      "width": 300,
+      "height": 79,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2024/09/Picture1.png",
+      "alt": "Achieving Operational Excellence with Digital Lean Solution. Co-organisers: True North Lean, Auk Industries. 29th October 2024, Morino Hotel, Sriracha, Chonburi.",
+      "width": 2729,
+      "height": 2102,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2024/09/WhatsApp-Image-2024-08-08-at-21.41.18.jpeg",
+      "alt": "Auk team demonstrating the Spider Kit to workshop participants",
+      "width": 1600,
+      "height": 1200,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2024/09/1.jpeg",
+      "alt": "Participants at an Auk workshop presentation",
+      "width": 1600,
+      "height": 1200,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2024/09/1726077448757.jpg",
+      "alt": "Participants at an Auk workshop",
+      "width": 800,
+      "height": 600,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2024/09/IMG_7622-scaled.jpg",
+      "alt": "Hands-on IIoT set-up at an Auk workshop",
+      "width": 2560,
+      "height": 1707,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2024/09/IMG_7686-scaled.jpg",
+      "alt": "Participants discussing a demo at an Auk workshop",
+      "width": 2560,
+      "height": 1707,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2024/09/IMG_7715-scaled.jpg",
+      "alt": "Participants talking beside an Auk Industries banner",
+      "width": 2560,
+      "height": 1707,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2024/10/EDM-TH-copy.png",
+      "alt": "Workshop agenda, 08:30 - 15:15, and speaker & facilitator line-up.",
+      "width": 1651,
+      "height": 3440,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/auk-logo-tagline.svg",
+      "alt": "Auk Industries",
+      "width": 300,
+      "height": 79,
+      "loaded": true
+    }
+  ],
+  "forms": [],
+  "stylesheets": [
+    "https://auk.industries/_astro/Consent.teixN1nf.css",
+    "https://auk.industries/_astro/BaseLayout.CcV9G0jb.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-R9LD4PY6L4",
+    "https://auk.industries/_astro/Consent.astro_astro_type_script_index_0_lang.DfehhebY.js",
+    "https://auk.industries/_astro/BaseLayout.astro_astro_type_script_index_0_lang.D4xMoNkI.js"
+  ],
+  "capturedAt": "2026-11-09T04:58:26.581Z",
+  "issues": [],
+  "adjustments": [],
+  "formSubmissionTested": false,
+  "viewportMode": "Desktop viewport"
+}

@@ -1,0 +1,27 @@
+SOLUTIONS
+
+Solutions for Agriculture
+
+Farmers are moving to precision agriculture with IoT sensors to grow their crop yields. IClab tools make it easier to take action only when needed, saving time and resources.
+
+DECISIONS LEADED BY IMAGES AND DATA
+
+The platform for smart agriculture.
+
+Your devices can always connect directly with the IClab Solutions Platform using TCP/IP and a secure network, with end-to-end SSL encryption — improving performance with low bandwidth and not overloading the internet or your devices.
+
+Real-time information provided by local cameras and sensors, combined with third-party services, can be monitored and combined to provide users with recommendations on the best actions to take to increase yields and reduce the use of agricultural inputs such as seeds and fertilizers.
+
+Monitoring greenhouses, animal husbandry facilities and open environments with IoT cameras and sensors brings unparalleled benefits.
+
+INTEGRATION
+
+All In One
+
+Users expect to access their data from anywhere, easily and reliably. Service providers and integrators can add more value by offering a higher level of customization and specific functions within the same application.
+
+Ready to See the Platform in Action?
+
+Let's talk about how IClab can power your operation.
+
+CONTACT US

@@ -1,0 +1,610 @@
+{
+  "url": "https://www.opretail.com/products",
+  "title": "People Counters & NVR | retail analytics products | OVOPARK",
+  "description": "Explore OVOPARK people counting products, NVRs, and retail analytics software for accurate traffic measurement, customer insights, and smarter retail operations.",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.8127.18 Safari/537.36",
+  "dimensions": {
+    "width": 700,
+    "height": 3065
+  },
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "All Products"
+    },
+    {
+      "tag": "H4",
+      "text": "Binocular people counter"
+    },
+    {
+      "tag": "H4",
+      "text": "Passersby counter"
+    },
+    {
+      "tag": "H4",
+      "text": "AI-powered people counter"
+    },
+    {
+      "tag": "H4",
+      "text": "People counting analytics"
+    },
+    {
+      "tag": "H4",
+      "text": "A1 Intelligent camera"
+    },
+    {
+      "tag": "H4",
+      "text": "HD fixed turret camera"
+    },
+    {
+      "tag": "H4",
+      "text": "HD high-speed dome camera"
+    },
+    {
+      "tag": "H4",
+      "text": "AI Inspection robot"
+    },
+    {
+      "tag": "H4",
+      "text": "Store inspection software"
+    },
+    {
+      "tag": "H4",
+      "text": "AI NVR"
+    },
+    {
+      "tag": "H4",
+      "text": "NVR"
+    },
+    {
+      "tag": "H2",
+      "text": "Explore more"
+    },
+    {
+      "tag": "H3",
+      "text": "Industries"
+    },
+    {
+      "tag": "H3",
+      "text": "Products"
+    },
+    {
+      "tag": "H3",
+      "text": "Solutions"
+    },
+    {
+      "tag": "H2",
+      "text": "Contact now"
+    },
+    {
+      "tag": "H4",
+      "text": "Products"
+    },
+    {
+      "tag": "H4",
+      "text": "Industries"
+    },
+    {
+      "tag": "H4",
+      "text": "Resources"
+    },
+    {
+      "tag": "H4",
+      "text": "Company"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.ovopark.com/",
+      "text": "中文"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/contact-us",
+      "text": "Demo"
+    },
+    {
+      "url": "https://www.ovopark.com/",
+      "text": "Chinese"
+    },
+    {
+      "url": "https://wa.me/13771942521",
+      "text": "+86-13771942521"
+    },
+    {
+      "url": "mailto:info@opretail.com",
+      "text": "info@opretail.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/opretail",
+      "text": ""
+    },
+    {
+      "url": "https://www.facebook.com/ovoparkofficial/",
+      "text": ""
+    },
+    {
+      "url": "https://www.instagram.com/ovopark_official/",
+      "text": ""
+    },
+    {
+      "url": "https://www.youtube.com/@OVOPARK6063",
+      "text": ""
+    },
+    {
+      "url": "https://x.com/ovopark",
+      "text": ""
+    },
+    {
+      "url": "https://www.opretail.com/products",
+      "text": "All products"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/contact-us",
+      "text": "Request a demo"
+    },
+    {
+      "url": "https://www.opretail.com/login",
+      "text": "Login"
+    },
+    {
+      "url": "https://www.opretail.com/industries/retail-store",
+      "text": "Retail store"
+    },
+    {
+      "url": "https://www.opretail.com/industries/shopping-mall",
+      "text": "Shopping mall"
+    },
+    {
+      "url": "https://www.opretail.com/industries/event-exhibition",
+      "text": "Event & exhibition"
+    },
+    {
+      "url": "https://blog.opretail.com/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://www.opretail.com/resources/help-center",
+      "text": "Help center"
+    },
+    {
+      "url": "https://www.opretail.com/resources/download",
+      "text": "Download"
+    },
+    {
+      "url": "https://docs.open.opretail.com/",
+      "text": "Open API"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/company-introduction",
+      "text": "About us"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/contact-us",
+      "text": "Contact us"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/agency-cooperation",
+      "text": "Become a partner"
+    },
+    {
+      "url": "https://beian.miit.gov.cn/",
+      "text": "苏ICP备16028066号-11"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_logo_202406.webp",
+      "alt": "OVOPARK | To know everything about every store",
+      "width": 3055,
+      "height": 1047,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Products",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_products_logo_1_202312.webp",
+      "alt": "ProductsPeople counters",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_products_logo_2_202312.webp",
+      "alt": "ProductsNetwork video recorder (NVR)",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_products_logo_3_202312.webp",
+      "alt": "ProductsPeople counting analytics",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_products_logo_4_202312.webp",
+      "alt": "ProductsStore inspection devices",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Solutions",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_1_202312.webp",
+      "alt": "SolutionsPeople counting",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_2_202312.webp",
+      "alt": "SolutionsDemographic analysis",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_3_202312.webp",
+      "alt": "SolutionsHeatmap analysis",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_4_202312.webp",
+      "alt": "SolutionsOccupancy management",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_5_202312.webp",
+      "alt": "SolutionsStore KPI analysis",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_6_202312.webp",
+      "alt": "SolutionsMarketing effectiveness measurement",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_7_202312.webp",
+      "alt": "SolutionsQueue management",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Industries",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_industries_logo_1_202312.webp",
+      "alt": "IndustriesRetail store",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_industries_logo_2_202312.webp",
+      "alt": "IndustriesShopping mall",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_industries_logo_3_202312.webp",
+      "alt": "IndustriesEvent & exhibition",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Help center",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_1_202312.webp",
+      "alt": "ResourcesTechnical support",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_2_202312.webp",
+      "alt": "ResourcesInstallation service",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_3_202312.webp",
+      "alt": "ResourcesFAQs",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_4_202312.webp",
+      "alt": "ResourcesBlog",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_5_202312.webp",
+      "alt": "ResourcesDownload",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_6_202312.webp",
+      "alt": "ResourcesOpen API",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_about_logo_1_202312.webp",
+      "alt": "CompanyAbout us",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_about_logo_2_202312.webp",
+      "alt": "CompanyContact us",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_about_logo_3_202312.webp",
+      "alt": "CompanyBecome a partner",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_logo_202406.webp",
+      "alt": "OVOPARK | To know everything about every store",
+      "width": 3055,
+      "height": 1047,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/site_header_m_menu_icon_202205.png",
+      "alt": "",
+      "width": 48,
+      "height": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_1_202312.webp",
+      "alt": "A Dual-lens binocular people counting sensor for real-time customer traffic and dwell-time analysis",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_2_202312.webp",
+      "alt": "Passersby counter",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_3_202312.webp",
+      "alt": "AI-powered people counter",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_5_202312.webp",
+      "alt": "People counting analytics",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_6_20240824.webp",
+      "alt": "A1 Intelligent camera",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_7_20240824.webp",
+      "alt": "HD fixed turret camera",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_9_20240824.webp",
+      "alt": "HD high-speed dome camera",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_8_20240824.webp",
+      "alt": "AI Inspection robot",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_10_20240824.webp",
+      "alt": "Store inspection software ",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_4_202312.webp",
+      "alt": "AI NVR",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_product_list_11_20240824.webp",
+      "alt": "NVR",
+      "width": 400,
+      "height": 400,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_industries_202312.webp",
+      "alt": "Industries",
+      "width": 40,
+      "height": 40,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Read more",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_products_202312.webp",
+      "alt": "Products",
+      "width": 40,
+      "height": 40,
+      "loaded": true
+    },
+    {
+      "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "Read more",
+      "width": 1,
+      "height": 1,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_solutions_202312.webp",
+      "alt": "Solutions",
+      "width": 40,
+      "height": 40,
+      "loaded": true
+    },
+    {
+      "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "Read more",
+      "width": 1,
+      "height": 1,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_nextlevel_202312.webp",
+      "alt": "Become a partner",
+      "width": 639,
+      "height": 426,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_logo_white_footer_202406.webp",
+      "alt": "People counting for retail operation",
+      "width": 238,
+      "height": 38,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_linkedIn_202401.webp",
+      "alt": "LinkedIn",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_facebook_202401.webp",
+      "alt": "Facebook",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_ins_202401.webp",
+      "alt": "Instagram",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_youtube_202401.webp",
+      "alt": "YouTube",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_twitter_202401.webp",
+      "alt": "Twitter",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/su_gong_an_back_oversea.png",
+      "alt": "苏ICP备",
+      "width": 819,
+      "height": 772,
+      "loaded": true
+    }
+  ],
+  "forms": [],
+  "stylesheets": [
+    "https://www.opretail.com/_nuxt/css/b4bdf36.css",
+    "https://www.opretail.com/_nuxt/css/64122c7.css",
+    "https://www.opretail.com/_nuxt/css/6768dff.css",
+    "https://www.opretail.com/_nuxt/css/6768dff.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-2B82NCZ3G6&cx=c&gtm=4e6b41",
+    "https://www.googletagmanager.com/gtag/js?id=UA-152686747-1&cx=c&gtm=4e6b41",
+    "https://www.googletagmanager.com/gtag/js?id=AW-698061754&cx=c&gtm=4e6b41",
+    "https://www.googletagmanager.com/gtag/js?id=AW-698061754",
+    "https://www.googletagmanager.com/gtag/js?id=G-HE3M2V80LZ",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/698061754/?random=1794198885658&cv=11&fst=1794198885658&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41v9134995034za208zb9254843544zd9254843544xecxf1&gcd=13l3l3l3l5l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123814183&u_w=390&u_h=844&url=https%3A%2F%2Fwww.opretail.com%2Fproducts&rcb=2&frm=0&tiba=People%20Counters%20%26%20NVR%20%7C%20retail%20analytics%20products%20%7C%20OVOPARK&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1533953524.1794198863&uaa=arm&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "https://www.opretail.com/_nuxt/7572603.js",
+    "https://www.opretail.com/_nuxt/d4c9995.js",
+    "https://www.opretail.com/_nuxt/b243812.js",
+    "https://www.opretail.com/_nuxt/0526c3c.js",
+    "https://www.opretail.com/_nuxt/efca9c1.js"
+  ],
+  "capturedAt": "2026-11-09T04:34:47.505Z",
+  "issues": [],
+  "adjustments": [],
+  "formSubmissionTested": false,
+  "viewportMode": "Responsive 390px viewport; not a mobile user-agent emulation. Full-page PNG includes any horizontal overflow of the source."
+}

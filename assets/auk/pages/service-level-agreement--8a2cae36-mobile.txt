@@ -1,0 +1,95 @@
+Service Level Agreement
+
+Auk Industries Service Level Agreement (SLA)
+
+Version from December 2020
+
+IMPORTANT NOTES:
+
+This Service Level Agreement (“this SLA”) sets out the service levels for the sale or provision of software and software related services (“the Software/Services”) sold or made available to or otherwise provided by Auk Industries Pte Ltd or its affiliates, as the case may be (collectively or singularly, “AUK”) and the purchaser or the recipient of the Software/Services (“the CLIENT”).
+
+If this SLA is made pursuant to or in relation to any other agreement between AUK and the CLIENT (“the Main Agreement”) and unless expressly agreed otherwise in the Main Agreement, this SLA and the Main Agreement shall be taken as mutually explanatory of one another. In case of any conflict or inconsistency between any provision of this SLA and the Main Agreement, such conflict or inconsistency shall be resolved by AUK at its discretion. Except as expressly agreed otherwise or unless the context requires otherwise, this SLA shall not modify or delete or add to the terms and conditions of the Main Agreement.
+
+AUK and the CLIENT are referred to in this SLA collectively as “Parties” or individually as “Party”.
+
+1. TERM OF AGREEMENT
+
+Unless specified otherwise by AUK, this SLA has effect for the period of the Main Agreement until terminated sooner in accordance with this SLA or at law (“the Term”).
+
+2. SERVICE AVAILABILITY
+
+2.1 The expression “Available Uptime” used in this SLA means the total time in a month less any time during which the Software/Services are not available to the CLIENT due to:
+(1) scheduled or emergency maintenance works by AUK;
+(2) the action or omission of the CLIENT or its employees, agents or contractors or any third party; or
+(3) any cause outside AUK’s reasonable control which shall include –
+  (a) any defect or deficiency (latent or otherwise), slowness or other performance issues related to individual features of the Software/Services, any products or features identified or having the status as being a pilot, or in alpha and/or beta testing or network or equipment issues; and
+  (b) any downtime agreed between the Parties.
+
+2.2 AUK shall use its commercially reasonable efforts to ensure that Available Uptime is not less than 99.5% of a calendar quarter.
+
+2.3 In the event that AUK is unable to meet or maintain Available Uptime, AUK shall extend the Term directly corresponding to the downtime (rounded to the nearest day) (“the Credit Extension Period”). The Credit Extension Period shall not exceed 30 days per calendar year of this SLA, subject to:
+(1) the CLIENT having fully paid to AUK on before the start of the period of the Credit Extension Period, all sums due to AUK as at such start;
+(2) the CLIENT making a request for the Credit Extension Period by an email sent to AUK at its email address stated in Clause 3.1(1) below not more than 7 working days from the occurrence of the instance of alleged downtime –
+  (a) stating “SLA Credit Extension Request” in the subject line;
+  (b) specifying the dates and times of each instance of downtime alleged by the CLIENT; and
+  (c) including all necessary and relevant technical logs that evidence the instances of alleged downtime and all other material information.
+
+The Client agrees and acknowledges that the provision and/or obtaining of a Credit Extension Period shall be its sole remedy for any lapses in Available Uptime.
+
+3. SUPPORT SERVICE AVAILABLE HOURS, CONTACT DETAILS AND BENCHMARKS
+
+AUK shall make support services for the the Software/Services available remotely to the CLIENT from 0900 hours to 1800 hours (GMT+8) daily from Mondays to Fridays (except public holidays) after the CLIENT requests such service from AUK:
+
+(1) by email at service@auk.industries;
+
+(2) by web chat via Auk’s software dashboard; or
+
+(3) by telephone at +65 68163655.
+
+4. ASSIGNMENT AND RIGHTS OF THIRD PARTIES
+
+4.1 The CLIENT may not share or assign or otherwise transfer its rights and obligations under this SLA without AUK’s prior written consent. AUK may, without requiring the CLIENT’s consent, share or assign or otherwise transfer all or part of its rights and obligations under this SLA in any way with or to a third party.
+
+4.2 A person who is not a party to this SLA has no right under the Contracts (Rights of Third Parties) Act, Chapter 53B of Singapore, to enforce any term herein.
+
+5. GOVERNING LAW AND JURISDICTION
+
+This SLA shall be governed by, and construed in accordance with, the laws of Singapore and the Parties agree to submit to the exclusive jurisdiction of the Singapore courts.
+
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

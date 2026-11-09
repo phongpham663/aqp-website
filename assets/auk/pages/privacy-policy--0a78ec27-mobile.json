@@ -1,0 +1,457 @@
+{
+  "url": "https://auk.industries/privacy-policy/",
+  "title": "Privacy Policy | Auk Industries",
+  "description": "Protecting your personal information is important to us. Learn more about Auk Industries' digital security policy.",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.8127.18 Safari/537.36",
+  "dimensions": {
+    "width": 390,
+    "height": 7769
+  },
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Privacy Policy"
+    },
+    {
+      "tag": "H2",
+      "text": "Consent"
+    },
+    {
+      "tag": "H2",
+      "text": "Information we collect"
+    },
+    {
+      "tag": "H2",
+      "text": "How we use your information"
+    },
+    {
+      "tag": "H2",
+      "text": "Log Files"
+    },
+    {
+      "tag": "H2",
+      "text": "Cookies and Web Beacons"
+    },
+    {
+      "tag": "H2",
+      "text": "Advertising Partners Privacy Policies"
+    },
+    {
+      "tag": "H2",
+      "text": "Third Party Privacy Policies"
+    },
+    {
+      "tag": "H2",
+      "text": "CCPA Privacy Rights (Do Not Sell My Personal Information)"
+    },
+    {
+      "tag": "H2",
+      "text": "GDPR Data Protection Rights"
+    },
+    {
+      "tag": "H2",
+      "text": "Children’s Information"
+    },
+    {
+      "tag": "H2",
+      "text": "Changes to This Privacy Policy"
+    },
+    {
+      "tag": "H2",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "H2",
+      "text": "PRODUCT"
+    },
+    {
+      "tag": "H2",
+      "text": "INDUSTRIES"
+    },
+    {
+      "tag": "H2",
+      "text": "SOLUTIONS"
+    },
+    {
+      "tag": "H2",
+      "text": "LEARN"
+    },
+    {
+      "tag": "H2",
+      "text": "ABOUT US"
+    },
+    {
+      "tag": "H2",
+      "text": "QUICKLINKS"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://auk.industries/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/oee-roi-excel-calculator/",
+      "text": "ROI & OEE Calculator"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://ops.auk.industries/login",
+      "text": "Sign In"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/oee-roi-excel-calculator/",
+      "text": "ROI & OEE Calculator"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://ops.auk.industries/login",
+      "text": "Sign In"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/",
+      "text": "https://auk.industries/"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "contact us."
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "contact us"
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://auk.industries/hardware-warranty/",
+      "text": "Hardware Warranty"
+    },
+    {
+      "url": "https://auk.industries/service-level-agreement/",
+      "text": "Service Level Agreement"
+    },
+    {
+      "url": "https://www.linkedin.com/company/auk.industries/",
+      "text": ""
+    },
+    {
+      "url": "https://www.facebook.com/Auk.Industries",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://auk.industries/terms-and-conditions/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "url": "https://auk.industries/privacy-policy/#cookie-settings",
+      "text": "Cookie settings"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://auk.industries/auk-logo-tagline.svg",
+      "alt": "Auk Industries",
+      "width": 300,
+      "height": 79,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/auk-logo-tagline.svg",
+      "alt": "Auk Industries",
+      "width": 300,
+      "height": 79,
+      "loaded": true
+    }
+  ],
+  "forms": [],
+  "stylesheets": [
+    "https://auk.industries/_astro/Consent.teixN1nf.css",
+    "https://auk.industries/_astro/BaseLayout.CcV9G0jb.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-R9LD4PY6L4",
+    "https://auk.industries/_astro/Consent.astro_astro_type_script_index_0_lang.DfehhebY.js",
+    "https://auk.industries/_astro/BaseLayout.astro_astro_type_script_index_0_lang.D4xMoNkI.js"
+  ],
+  "capturedAt": "2026-11-09T04:58:49.463Z",
+  "issues": [],
+  "adjustments": [],
+  "formSubmissionTested": false,
+  "viewportMode": "Responsive 390px viewport; not a mobile user-agent emulation. Full-page PNG includes any horizontal overflow of the source."
+}

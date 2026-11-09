@@ -1,0 +1,110 @@
+Blog · 25 November 2020
+
+Is Your Digital Transformation Failing? This Could Be Why.
+
+In the beginning, industrial companies digitised by converting analogue information into digital data. Next, came digitalisation which used digital technologies to simplify work and quicken processes. In this age of digital transformation, companies are using technology to execute old processes faster and work in ways like never before. According to McKinsey, well-executed digital transformations have the potential to deliver up to 1.5 times the original profit expectations. Yet success from such transformations should not be taken for granted – another research from McKinsey revealed that only less than 30% of organisations succeed in their digital transformation efforts to achieve desired outcomes.
+
+As shown, digital transformation is not an easy feat. Kickstarting the digital transformation journey is commendable, but that is just the beginning. Similarly, while short-term success from digital transformation is motivating and exciting, companies may find it increasingly difficult to sustain their efforts and success will become more elusive in the long run. Companies should, however, remain resilient and not be deterred. Long-term success requires strong capabilities and careful avoidance of the mistakes commonly made by others.
+
+In this article, we highlight some key reasons for digital transformation failures and provide companies with recommendations to overcome them and restart their transformation journey on the right foot.
+
+Key Reasons Why Digital Transformations Fail
+1. Divided views among management
+
+While digital transformation is a top priority for C-suite executives and managers across all industries, Wall Street Journal published that digital transformation risk is also the number one concern among top managers in 2019. Why is this so?
+
+Apart from the dollars and cents involved, digital transformation is demanding on the employees, processes, culture and intelligence of any organisation. Though smaller and younger companies can react more agilely to digital transformation, larger corporations usually require more time and effort in changing their organisational structures and business models to embrace it. Given the complexities involved, the top management may not come to a unanimous consensus on the business strategies to undertake with digital transformation – some may focus on big data and advanced analytics whereas others want more automation.
+
+These conflicting views regarding which business strategy to undertake can cause confusion to cascade down the organisation, leaving the direct reports and employees at a loss of what to do. This often leads to trust issues, low morale, and loss in impetus – it is only a matter of time before digital transformation crumbles into dust and things return to status quo ante.
+
+Lesson: Management should agree and focus on the same set of digital transformation agendas so that the organisation can move forward as one and pursue them with unity.
+
+2. Loss of commitment and resources
+
+Why do some organisations see phenomenal results at the beginning of their digital transformation process but only to have them falter over time?
+
+Whether digital transformation can sustain and scale beyond the initial stages, the key is to have unwavering commitment to the plan and dedicated resources for the long run. Unfortunately, many companies forget about these after kickstarting their transformation journey. Rather than building on the hard work and seeing through the plan, some choose to prematurely withdraw from their digital transformation efforts and pursue new agendas such as capital expansion whereas others become overwhelmed by naysayers and lose confidence in the project.
+
+Consequently, resources such as budget and manpower which were dedicated for the later stages of digital transformation either get reallocated or cut down. This is perilous because the later stages of transformation are often more resource-intensive and they set the stage for continuous success.
+
+“The company has just started enacting changes, managing new roles, processes, systems, tracking and extracting insights from data – it is still at the infant stage. Imagine how these would lose steam and come to a standstill if its supporting resources were withheld! With resources only available for the short-term, one can only imagine the difficulties of pushing digital transformation forward.”
+
+Lesson: It is easy for any company’s digital transformation efforts to be derailed by other agendas or the ‘horror stories’ of failing. To guard against these problems, companies need to first acknowledge that digital transformation is not a walk in the park and consequently, manage expectations against reality by anticipating the possible risks and failures, challenges and lead time necessary. Second, vital financial and human resources such as project managers, champions and their team members who drive the transformation efforts must be set aside for digital transformation and should not be reallocated to other purposes or scaled back without proper justifications.
+
+3. Ignoring underlying reasons behind resistance
+
+At least 7 out of 10 companies experience employee resistance to change when rolling out digital transformation initiatives. Examples of overt resistances to digital transformation include a prolonged reduction in output, higher absenteeism, refusal to learn the new technology and most common of all, rebuking.
+
+“We tried this years ago and it didn’t work. Let us stop wasting time on this again.”
+
+All too often, the management sees resistance as unreasonable and ignores them, citing reasons such as “They [employees] are merely worried that their jobs will be replaced” or “They just need some time to adjust”. Yet, this is overgeneralisation and there may be more to this than meets the eye.
+
+“It is not resistance that causes the digital transformation journey to halt, but the culmination of their root causes.”
+
+Many companies fail to recognise that their production foremen and operators are experts on the production floor and specialists of the production process. Their resistance should be regarded as red flags signalling deeper problems that require the company’s attention. It may be that the digital transformation process has some threatening technical imperfections that will lead to major problems in the long run or some careless integration of certain processes which may be too late to change in the future.
+
+Lesson: When resistance appears, companies should not blindly stop or stifle them. What is needed is for someone like the project champion to listen to the employees and diagnose the underlying problems so that the company does not remain oblivious to their blind spots.
+
+4. Lack of discipline due to the ‘Out-of-sight, out-of-mind’ syndrome
+
+The ‘out-of-sight, out-of-mind’ syndrome is the tendency for employees to slacken in their commitment to digital transformation because they feel that they are not under the watchful eyes of the management.
+
+“Any company can experience the ‘out-of-sight, out-of-mind’ syndrome but those with multiple production plants across geographies are much likelier than others to suffer from it because of differences in time zone and the lack of face-to-face communication.”
+
+The syndrome is worsened when there is neither a system in place for employees to report their digital transformation performance nor a project champion tasked to keep a tab on them. As a result, employees believe they can get away with maintaining the status quo and lack the discipline and rigour to follow through the digital transformation milestones to achieve the goals set by management.
+
+Lesson: Companies should understand that employees may not intentionally disengage from the digital transformation efforts. Many of their priorities at work are to deliver their job well, meet their KPIs and knock off – they may not understand and share the same passion for digital transformation as the management. It is therefore incumbent on the management to maintain close contact with the employees and to set a cut-off date where employees must report their KPIs or performance using the ‘new digital tool’.
+
+Whether the head office is remotely situated from the production floor or not, companies should set up a real-time dashboard displaying the most important KPIs so management can keep track of the current performance of each production line and even compare between pre and post-digital transformation performances. This facilitates remote but live exchanges between the management and the employees, weakening the physical barriers between them. Employees who are performing well can be commended right away while others can be nudged in the right direction to improve performance.
+
+Conclusion
+
+There is now greater clarity – challenges such as divided views, loss in commitment, ignorance to root causes, and lack of discipline loom large, but they can be overcome – with the right mindset. A failed digital transformation does not mark the end of the company; it is an opportunity to pick oneself up and try again, avoiding the common pitfalls and mistakes while doubling on the good practices.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

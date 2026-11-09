@@ -1,0 +1,31 @@
+{
+  "verifiedAt": "2026-11-07T14:24:11.128Z",
+  "images": 637,
+  "screenshots": 42,
+  "uniquePages": 44,
+  "totalImageBytes": 142912835,
+  "imageFailures": [],
+  "pageFailures": [],
+  "screenshotFailures": [],
+  "rejectedNonImages": [
+    {
+      "url": "https://velasea.com/support/",
+      "kinds": [
+        "inline-style"
+      ],
+      "alt": "",
+      "pages": [
+        "https://velasea.com/support/"
+      ],
+      "contentType": "text/html; charset=UTF-8",
+      "reason": "Reference does not return a supported image"
+    }
+  ],
+  "invalid": [],
+  "types": {
+    "svg": 177,
+    "jpg": 404,
+    "png": 54,
+    "webp": 2
+  }
+}

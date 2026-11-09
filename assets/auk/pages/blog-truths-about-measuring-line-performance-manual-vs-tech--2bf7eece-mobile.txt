@@ -1,0 +1,89 @@
+Blog · 4 November 2020
+
+Truths About Measuring Line Performance: Manual vs Tech
+
+Technology has an indisputable role in pushing forward Industry 4.0. The provision of new opportunities and reshaping of the manufacturing industry lies at the heart of advanced manufacturing technologies.
+
+“Line performance is about capturing real-time manufacturing data from the production line to find, analyse and resolve availability, quality and performance limitations. It aims to bring to light the hidden potentials of your production plant and increase total equipment uptime.”
+
+Before the proliferation of these technologies, however, manufacturers relied mostly on manual work and labour to manage plant performance and fulfil orders. In the context of measuring line performance, some operators had to stand in front of each machine to manually count the number of throughputs per hour and report the numbers to their managers whereas others simply used the output for a certain time frame to estimate the machine downtime.
+
+For factories with barcode scanners, operators would usually have to scan the finished goods and transfer the relevant data to a database or excel file. The Overall Equipment Effective (OEE) will then be manually calculated (based on final output and estimated downtime) and presented to the management for review. Managers can use the daily OEE of each production line to compare line performance on a day-to-day, month-to-month or year-to-year basis.
+
+It would be wrong to assert that manufacturers must invest in technology to measure line performance – that would be no different from fully dismissing the usefulness of manual calculation and manual work. Manual measurements of line performance have been used since a long time ago and it continues to serve a purpose for manufacturers who have yet or just started digitalisation.
+
+Manual vs Tech
+
+Nonetheless, manual measurements (e.g. manually counting throughputs) alone are unable to transform a manufacturing plant into one that can monitor real-time line performance and make adjustments to improve productivity synchronously. From an organisational standpoint, manufacturers are always on the lookout for information which can help them to allocate manpower more effectively (e.g. reduce unnecessary labour) or increase throughputs. From the perspective of an increasingly competitive business scene, manufacturers also need to be more agile in responding to hiccups along the production line to meet the demands and expectations of clients.
+
+For a start, production line performance should be monitored and measured in real-time. This could be done with the help of cost-effective Industrial IoT technologies such as universal IoT nodes, which can be readily ‘plugged’ and connected to any machine via the standard I/O terminals. After which, they can read data from the sensors and actuators of these machines to record and collect a stream of raw machine data at high frequencies. Do not belittle these raw machine data for they are the key ingredients to obtaining and calculating real-time system-level metrics such as OEE.
+
+“Single source of truth”
+
+The value in real-time OEE is that it accurately captures and pinpoints details such as the specific locations where efficiency losses occur, the reasons for OEE losses etc. without tedious manual data collection or unreliable ‘guesstimations’. Real-time OEE is, therefore, the go-to metric that provides instantaneous feedback for managers and operators to execute production optimisation and other appropriate measures to improve performance.
+
+Real-time OEE is akin to the real-time data captured, displayed and stored on a fitness tracker. The fitness tracker is constantly recording data based on an individual’s daily activities and outputs (e.g. number of steps taken, distance walked or ran, heart rate). In turn, these data come in useful for individuals to monitor their health and fitness plan – when individuals realise that they have been exercising less frequently than required to achieve their fitness goals, they are likely to exercise more. Similarly, OEE provides real-time feedback for factory managers – when managers realise that their production line’s OEE is below the benchmark, they would reasonably perform diagnostics and do whatever necessary to improve performance.
+
+“Democratisation of data”
+
+With the help of a robust analytics platform, the stream of raw machine data can be further analysed from different angles (machine level, system-level, across the entire production floor) and used to draw meaningful inferences. An overview of the real-time data can also be displayed on a dashboard, making the production floor’s performance readily accessible to even operators who may not be technologically-savvy.
+
+_Secondly, it is crucial to select the suitable type(s) of technology used to measure line performance. _
+
+“With so much (technology) changing so fast, it had seemed pointless to focus on getting everything “just right” when something newer and better was sure to come along.” – Ray Dalio, Principles
+
+Technology is ever-changing. To stay relevant and competitive, manufacturers should set their sight on technological solutions which are future-proof and cost-effective. Many in-market technological solutions, however, are highly-customised and have long lead time which ranges from months to years. They may also require a dedicated team to understand the complex system architecture, which further compounds the cost of implementation.
+
+Fortunately, there are more cost-effective, simple and universal technological solutions available for manufacturers to consider. One example would include the universal IoT nodes and the analytics platform which were mentioned earlier on. Since the universal IoT can be easily ‘plugged’ and attached to any machine via the standard I/O terminals, it bypasses the complexity associated with most technology deployment and may be completed within a shorter lead time. As part of the Industry 4.0 ecosystem, some analytics platforms also have the ability to integrate with other Industry 4.0 solutions through application programming interfaces (APIs).
+
+By using universal IoT nodes instead of MES/ERP barcode scanners or electronic shop floor data collection via manual entry operators, equipment throughput can be measured at a much higher frequency (minutes compared to days). In return, the operators and production line managers would be empowered with more insights and clarity like never before – by becoming aware of the frequent minor stops/ speed losses which were previously overlooked, investigations and improvements could be implemented to increase throughput rate as quickly as possible. Additionally, the manpower dedicated to doing manual calculation could be freed up for more productive purposes.
+
+The industrial transformation of our age is earmarked by digitalisation and technology-enablement. The demand for manual work and calculation is only expected to decrease as technology outperforms manual labour. Manufacturers who recognise the capability of digital transformation, however, must look beyond the fanciness of using the latest technology. As technology is constantly evolving, successful manufacturers must choose the right kind of technology that can keep up with times and deliver long-term results. Resources should also be dedicated to help operators and production managers stay technologically-savvy so that they are always equipped for Industry 4.0 and are well-prepared to capture the value from real-time data.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

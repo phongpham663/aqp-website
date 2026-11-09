@@ -1,0 +1,999 @@
+{
+  "source": "https://iclab.identifycapacity.com",
+  "startedAt": "2026-11-07T16:53:49.352Z",
+  "state": "complete",
+  "scope": "11 allowlisted public pages, desktop 1440x1000 full-page screenshots, rendered HTML/text/metadata and public same-origin images. 16 MB per image, 150 MB total images. No authentication or private operational dashboard access; no form submissions; not a complete offline mirror.",
+  "rightsNote": "Original content, images and trademarks belong to their owners. Collection does not grant reuse rights.",
+  "pages": [
+    {
+      "url": "https://iclab.identifycapacity.com/",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:53:54.265Z",
+      "status": 200,
+      "metadata": "pages/home-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/home-source.html",
+          "bytes": 2399,
+          "sha256": "ac52653a15ab0fb82b19cbf8ec5a7f3ddcddf4966f60147b2db1e4ed2452c9c1"
+        },
+        {
+          "file": "pages/home-desktop.html",
+          "bytes": 39753,
+          "sha256": "1a510b26d8f42d6905de6519793defe8217205532d616619f5193fa2c8bd7dba"
+        },
+        {
+          "file": "pages/home-desktop.txt",
+          "bytes": 2418,
+          "sha256": "488ccc962aa8642c5be96df36e1b32b21825030598d6565d55f51d91982fba93"
+        },
+        {
+          "file": "pages/home-desktop.json",
+          "bytes": 19227,
+          "sha256": "c759eb9e6fa197ffeafb542ca8a3d89476e008695a9b987e632e3b06cd9cccbd"
+        },
+        {
+          "file": "styles/home-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/platform",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:53:56.233Z",
+      "status": 200,
+      "metadata": "pages/platform-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/platform-source.html",
+          "bytes": 2399,
+          "sha256": "7f4448d419439e0a51e9d8a6d8573010347fd1265d0195ca9aab943a24b39097"
+        },
+        {
+          "file": "pages/platform-desktop.html",
+          "bytes": 29864,
+          "sha256": "1332656bc06216d1316e3dc8d770ee24b648328f9e217343f0bcc7163544afbf"
+        },
+        {
+          "file": "pages/platform-desktop.txt",
+          "bytes": 1615,
+          "sha256": "2af45ff5455ec71dc62fd72ded336da463a92acabc5f149736224d8d0eab45b2"
+        },
+        {
+          "file": "pages/platform-desktop.json",
+          "bytes": 12800,
+          "sha256": "008a9f66a38dddc0d71b7e9712af41d5d040e31d6b2fe33533ce54db685ad03f"
+        },
+        {
+          "file": "styles/platform-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/multilayer-objects",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:53:57.984Z",
+      "status": 200,
+      "metadata": "pages/multilayer-objects-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/multilayer-objects-source.html",
+          "bytes": 2399,
+          "sha256": "eb60b8067618cfe45023f93835ed6df09fdb1f70abd5d7a5c791885be6d177b9"
+        },
+        {
+          "file": "pages/multilayer-objects-desktop.html",
+          "bytes": 27612,
+          "sha256": "f01137b4c15434688fdb0719feca9d8889e314adb7e5413cab698bfb85a0244c"
+        },
+        {
+          "file": "pages/multilayer-objects-desktop.txt",
+          "bytes": 1516,
+          "sha256": "4302673ed97e00dfd10cde0acd34b7242f2c44f927be4182f8a3d5f2801191dc"
+        },
+        {
+          "file": "pages/multilayer-objects-desktop.json",
+          "bytes": 11550,
+          "sha256": "ddbd6c17c2ff7630c295d69c6b95c48fa0271c1740a356b8e399ae2f61331dba"
+        },
+        {
+          "file": "styles/multilayer-objects-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:53:59.990Z",
+      "status": 200,
+      "metadata": "pages/solutions-agriculture-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/solutions-agriculture-source.html",
+          "bytes": 2399,
+          "sha256": "669e5430869203bc5e658afa351da6085cb8a2577e666c993750c9529c3030e6"
+        },
+        {
+          "file": "pages/solutions-agriculture-desktop.html",
+          "bytes": 27237,
+          "sha256": "1ef4b27ad715cd3f7ac71f134bcb142c63f7cdf79b0270852debd8146cf7385c"
+        },
+        {
+          "file": "pages/solutions-agriculture-desktop.txt",
+          "bytes": 1292,
+          "sha256": "24f8a47c74bc65d64444a15b45bdc69201cc65919794fe9b4175fa4090fc2e13"
+        },
+        {
+          "file": "pages/solutions-agriculture-desktop.json",
+          "bytes": 10286,
+          "sha256": "e8780a0a3d85f0db366ede4edf866485aa75aa1f6df3ed774015c258de16b38f"
+        },
+        {
+          "file": "styles/solutions-agriculture-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/cities",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:54:01.456Z",
+      "status": 200,
+      "metadata": "pages/solutions-cities-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/solutions-cities-source.html",
+          "bytes": 2399,
+          "sha256": "0311ae648b7ee2ad0ef77f8c34f58a605f83e08784e0c846e0f273962507e335"
+        },
+        {
+          "file": "pages/solutions-cities-desktop.html",
+          "bytes": 27103,
+          "sha256": "3fd6930c4622d4f20e25e50a46197ad977425de9b02725862d4865c680ae9a0b"
+        },
+        {
+          "file": "pages/solutions-cities-desktop.txt",
+          "bytes": 1134,
+          "sha256": "700b315132a6f0e409012b609d30ddda19ecc708672ed1bdca57ee29d40e1cf6"
+        },
+        {
+          "file": "pages/solutions-cities-desktop.json",
+          "bytes": 10086,
+          "sha256": "529f671a8af82759587d792bb79e64c8e816dc374c2baced395db718d4cc8416"
+        },
+        {
+          "file": "styles/solutions-cities-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/energy",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:54:02.946Z",
+      "status": 200,
+      "metadata": "pages/solutions-energy-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/solutions-energy-source.html",
+          "bytes": 2399,
+          "sha256": "0130781faec9898c9f1fa1f80c082d780317aa9e9667622b3181d29c3369915b"
+        },
+        {
+          "file": "pages/solutions-energy-desktop.html",
+          "bytes": 26934,
+          "sha256": "35f1aca1ea422c797d973b3c02f9b59e9c7392b763eeffe1bd2d603a087616da"
+        },
+        {
+          "file": "pages/solutions-energy-desktop.txt",
+          "bytes": 1080,
+          "sha256": "8cf7294678276ed56017d654fc6ad8ff22f0897ded33aa95c3f871cadd36af30"
+        },
+        {
+          "file": "pages/solutions-energy-desktop.json",
+          "bytes": 9968,
+          "sha256": "1a65ab78864823dfb96ae95536278b3e7cc3b312cbd621ab0c2de30a25901bbb"
+        },
+        {
+          "file": "styles/solutions-energy-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/industry",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:54:04.457Z",
+      "status": 200,
+      "metadata": "pages/solutions-industry-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/solutions-industry-source.html",
+          "bytes": 2399,
+          "sha256": "a6dfd2cf8eadd627a64e86ac57362e1df0a6ddda08d3149ce77af353b1cbd1e0"
+        },
+        {
+          "file": "pages/solutions-industry-desktop.html",
+          "bytes": 27001,
+          "sha256": "babd85f4804e557b9610a3285bd7579fe0a9f50aa0b6290c806f1c86e147806b"
+        },
+        {
+          "file": "pages/solutions-industry-desktop.txt",
+          "bytes": 1184,
+          "sha256": "165d6ce41896c170efddca7598f555c7830066a312e744f63d351e124aa4c1e7"
+        },
+        {
+          "file": "pages/solutions-industry-desktop.json",
+          "bytes": 10066,
+          "sha256": "6b90ee024bbaa8aed843c28417e451ec8f79e024994a17c78e0e2eaee34552eb"
+        },
+        {
+          "file": "styles/solutions-industry-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/supply-chain",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:54:06.082Z",
+      "status": 200,
+      "metadata": "pages/solutions-supply-chain-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/solutions-supply-chain-source.html",
+          "bytes": 2399,
+          "sha256": "7d3984a34986390b7aff8ac9f16d60aeadb517ca18f73fa129e825841c2b7e26"
+        },
+        {
+          "file": "pages/solutions-supply-chain-desktop.html",
+          "bytes": 27179,
+          "sha256": "1c585d4ac05f5a3187edbc3ae4452adfde0c7cdcd199e74f3e409cd61099fc82"
+        },
+        {
+          "file": "pages/solutions-supply-chain-desktop.txt",
+          "bytes": 1239,
+          "sha256": "3989bb4321cbe6ba70a512f5ae5c3f139f813b749a7871f0bd5b646019973ad3"
+        },
+        {
+          "file": "pages/solutions-supply-chain-desktop.json",
+          "bytes": 10244,
+          "sha256": "00004e752de525d4edc7bdd2132eb25a106367825c5c85796b1fc14ef7363e6c"
+        },
+        {
+          "file": "styles/solutions-supply-chain-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/transport",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:54:07.613Z",
+      "status": 200,
+      "metadata": "pages/solutions-transport-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/solutions-transport-source.html",
+          "bytes": 2399,
+          "sha256": "c9bf19a00438038724506e54eaa28191a2ea34c884849f12957b3f451cc272c5"
+        },
+        {
+          "file": "pages/solutions-transport-desktop.html",
+          "bytes": 27068,
+          "sha256": "b234b5f01d6bb5efd4df371ee1ab6f04f73d3e877cfcf57efa4f449d4d804af2"
+        },
+        {
+          "file": "pages/solutions-transport-desktop.txt",
+          "bytes": 1175,
+          "sha256": "ebfe6d70cfacb360975162fa803cda49076b8156c6272b0c01f24d8e51da1733"
+        },
+        {
+          "file": "pages/solutions-transport-desktop.json",
+          "bytes": 10145,
+          "sha256": "7f03a5356859d943e188a8dfe429fdb58a8a7220e2d115c8d473f36a194eaf4e"
+        },
+        {
+          "file": "styles/solutions-transport-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/contact",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:54:08.950Z",
+      "status": 200,
+      "metadata": "pages/contact-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/contact-source.html",
+          "bytes": 2399,
+          "sha256": "53ddeb687190e01735dfa17e050f182c256fee833156620e4f7b3c30f02bccee"
+        },
+        {
+          "file": "pages/contact-desktop.html",
+          "bytes": 25358,
+          "sha256": "ec1416379a9f61b48622b776a837c69d39724b4c8957b26628803d316dd9b200"
+        },
+        {
+          "file": "pages/contact-desktop.txt",
+          "bytes": 193,
+          "sha256": "9bf9ac68d072c35b102661496e432e292fc931658a22b4166c68076adc9a8eed"
+        },
+        {
+          "file": "pages/contact-desktop.json",
+          "bytes": 5710,
+          "sha256": "4a344866e618a6801bea40f0380e36d99a37d6c2a50f90282e5230af8e114408"
+        },
+        {
+          "file": "styles/contact-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/privacypolicy",
+      "title": "Identify Capacity",
+      "capturedAt": "2026-11-07T16:54:10.107Z",
+      "status": 200,
+      "metadata": "pages/privacypolicy-desktop.json",
+      "artifacts": [
+        {
+          "file": "pages/privacypolicy-source.html",
+          "bytes": 2399,
+          "sha256": "f51609575309332de1a87428911f83d531024577ba5793c908a6acbe94b7b4ba"
+        },
+        {
+          "file": "pages/privacypolicy-desktop.html",
+          "bytes": 24874,
+          "sha256": "718ffcd0344cc684f03f4403d7cf148f5c498615f853f3501a1fee957929f111"
+        },
+        {
+          "file": "pages/privacypolicy-desktop.txt",
+          "bytes": 790,
+          "sha256": "a7ff8905aa396c17afc1d9e30c2ad3c1de23086450abb8068724f41050298d3f"
+        },
+        {
+          "file": "pages/privacypolicy-desktop.json",
+          "bytes": 7614,
+          "sha256": "8eeab1799f15dac9028676399e9cdc9d08737981ef31b7348f430698d58019b2"
+        },
+        {
+          "file": "styles/privacypolicy-inline.css",
+          "bytes": 14625,
+          "sha256": "39df661cc1fbc761ba42ea15de1b0f9030b0232a9b8360d7dc5e672de0984017",
+          "kind": "styles",
+          "source": "embedded in source HTML"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "url": "https://iclab.identifycapacity.com/",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/home.png",
+      "bytes": 1630040,
+      "sha256": "3ce7959c64ef0de93edf855f1a132cf945d320a09d132c2bcc562d629a73be91"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "area": "initial-viewport",
+      "file": "screenshots/desktop/home-viewport.png",
+      "bytes": 494838,
+      "sha256": "e170b311cbec9f61b610026cbbebb5aa91fc8ccd5555ebb2bedf67b3d8ab2fda"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/platform",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/platform.png",
+      "bytes": 1564312,
+      "sha256": "ad9d9232a76ea609970fdf973fe7af6cca750bfa21e294bc26c950b98f0cc406"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/multilayer-objects",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/multilayer-objects.png",
+      "bytes": 2623825,
+      "sha256": "53a87123c6110340f1b89e0cddf822651b3d1cebe816bf93cd76ea5d3c702a1e"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/solutions-agriculture.png",
+      "bytes": 825662,
+      "sha256": "1c7e68ed10417e8c8778729e1aa2dcdeccea1b03c7330665011df293201576c7"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/cities",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/solutions-cities.png",
+      "bytes": 1136362,
+      "sha256": "2d7f927da7e1b7bf5d3c498c8f94dd66186cf494b5a34af76e3e55ccc23b9857"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/energy",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/solutions-energy.png",
+      "bytes": 1247009,
+      "sha256": "fc02cdd17e5f43da391e037f7b2e547318ce0bc0cbe5ee69dc4d61ef3b072126"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/industry",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/solutions-industry.png",
+      "bytes": 1283486,
+      "sha256": "83ab94c3e01e37acce53bf63328bec01842577fb634d4b26d094f6113e439325"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/supply-chain",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/solutions-supply-chain.png",
+      "bytes": 1034903,
+      "sha256": "f302634c61dfe6e75fc1b3a347db865cd2e12e31a79e8301167b39f21f1d96aa"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/transport",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/solutions-transport.png",
+      "bytes": 961927,
+      "sha256": "214fd6f4e23cf0d316fb608954790f236f19261bdc9110a6227f311f7b923e3c"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/contact",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/contact.png",
+      "bytes": 80806,
+      "sha256": "59d17a93418ca2c2eeb35bd8550136043a0e8234bc583fa8e7bf20ac9251fde2"
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/privacypolicy",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "truncated": false,
+      "file": "screenshots/desktop/privacypolicy.png",
+      "bytes": 119494,
+      "sha256": "5fcbe03ddd51d7be2e679ab6ed27ba7880781f84b901fddea31100f3d4abd671"
+    }
+  ],
+  "downloaded": [
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/IClab_IC-DoiY9bqq--36fd7fce7f.png",
+      "bytes": 35525,
+      "sha256": "be452768dc65e921ed7f56041baa5430e52b299443742e538d71493a90b889e6",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/",
+        "https://iclab.identifycapacity.com/platform",
+        "https://iclab.identifycapacity.com/multilayer-objects",
+        "https://iclab.identifycapacity.com/solutions/agriculture",
+        "https://iclab.identifycapacity.com/solutions/cities",
+        "https://iclab.identifycapacity.com/solutions/energy",
+        "https://iclab.identifycapacity.com/solutions/industry",
+        "https://iclab.identifycapacity.com/solutions/supply-chain",
+        "https://iclab.identifycapacity.com/solutions/transport",
+        "https://iclab.identifycapacity.com/contact",
+        "https://iclab.identifycapacity.com/privacypolicy"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/62cfde47-e252-432f-b70a-c6a8e270acc1/site-iclab_31.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_31--584cd050ba.png",
+      "bytes": 3103,
+      "sha256": "fd1daba8b68a49520a717046e153aef002b1dd2b5288deb00d45d8dbc116d2c6",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/94eb5723-bf6f-46df-bec4-e230d37a3d04/site-iclab_17.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_17--6d70c226a2.png",
+      "bytes": 4430,
+      "sha256": "31ac9522e7f1186a78424b2e82a6af8c4df08b1716d62edb0991e6eaf7884ea0",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/bdc012c6-0088-4958-8e32-742041530a98/site-iclab_23.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_23--03a159da24.png",
+      "bytes": 3338,
+      "sha256": "729f361c67951377d955a6cdc5db5d4bdf2c96f82d3fe4302a836388c87f67ae",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/b8a3e569-6187-4f02-ad1c-6d113aa15712/site-iclab_25.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_25--92ee59aca7.png",
+      "bytes": 3041,
+      "sha256": "59bc15d74cb0470c7fd89479bf58cde7691a4336b9774d80072ba9f724a423ff",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/d7da1e21-2c02-4bbc-9b1a-fab35a52c970/site-iclab_15.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_15--d79b382103.png",
+      "bytes": 4555,
+      "sha256": "d2997f9b9043dc0bec4f39370fe430ad7cb0d110fcb097b2f400d3f8200d04f4",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/c87be02d-7807-4d17-8f1f-9c1aeb6f60ba/edge-computing.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/edge-computing--45fb738959.png",
+      "bytes": 3745,
+      "sha256": "59eae7ce00afba6878116836f9a10767a9494a7bd44ce9c973353ef6c4ad85dd",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/69d8ac38-2cf9-447b-b4ef-3df72ac15797/site-iclab_13.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_13--ee168189f2.png",
+      "bytes": 4343,
+      "sha256": "776105de92f8a6871b13161cb2b4cfed213e4c3c639e7319648ef2651f7b5706",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/cbcf53b5-6268-4e06-a554-c7986f40d9d0/site-iclab_29.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_29--3aee600212.png",
+      "bytes": 2646,
+      "sha256": "f58089bb40bb096f7d35560680d76f405be054b49093c6d29fff23410a95ac73",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/99b6d173-e549-4a88-899c-8140feb27f29/site-iclab_27.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_27--5c7c1f7ecb.png",
+      "bytes": 3412,
+      "sha256": "4f0414c7d3508feb01892c4a687ac77d5b3cbd6f4f87f6d568424492da276441",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/f7eb93e1-1880-4d4f-b73d-06cdb87d7b6f/site-iclab_07.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_07--8bcf27c910.png",
+      "bytes": 1647329,
+      "sha256": "623d4cfd179240eee8b46dc8c714f47c1173f7408f7fdb0669ed05307b1c368d",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/8a5f0952-4c7a-4197-bea7-2b7e45dd3a6f/site-iclab_33.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/site-iclab_33--f502e28757.png",
+      "bytes": 4107,
+      "sha256": "d2314f3f3f01fcbe3cb62c7e82cd9b2f1cdd3c9a993c254b61a89d66a9681477",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/b0ddcbc9-1c5a-4dd5-9e12-eebb2b1c860a/bg_tophome_01.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/bg_tophome_01--a383f5018a.jpg",
+      "bytes": 57010,
+      "sha256": "a9e189647d5814dd4f17627634f87bab8fda3ce1893572e47281e0b6723c4a08",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/0b6f2d4c-6cd8-4147-a245-92ae74fe6f13/img_iclab2_02.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/img_iclab2_02--7a83971670.png",
+      "bytes": 752720,
+      "sha256": "c96061bdaca5305361cf1759fb60060337e07802a644796903a7244b6df84215",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/5c7a6106-ef2f-423c-ba54-e606045f1006/img-home_02.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/img-home_02--eed0d42894.png",
+      "bytes": 730601,
+      "sha256": "fd6959131d6b6812e3332c40d71d0d9d390a7f0757561dab700343bc9470e80c",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/platform"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/5104c1aa-ca1b-4b6d-813c-1a994683aa59/plataform-iclab.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/plataform-iclab--ef128d8895.jpg",
+      "bytes": 136603,
+      "sha256": "9f5b9cf4bca1ded497febf24020b5f3effb089573e1431a066353b83bf3bd369",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/platform"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/0c567cef-6b12-481c-9178-6dc8c923aca3/img_1.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/img_1--10b5727626.jpg",
+      "bytes": 394827,
+      "sha256": "4008880b2aa1ab2d822fbbfb2450b7ede9f404005c2f65237a6a3ae053dd821f",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/platform"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/5463eef3-23bf-466e-ad3b-9e1cc498930d/objects-augmented-550x564.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/objects-augmented-550x564--0efebe5564.jpg",
+      "bytes": 72563,
+      "sha256": "17130055deb8df2922a89937201fc205f6afe1989ba2cf065ae31575dd011efb",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/multilayer-objects"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/d7345351-b0e1-434a-abcc-3e1603b0aec2/multilayer-object-2c.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/multilayer-object-2c--d86963de2d.jpg",
+      "bytes": 184956,
+      "sha256": "d78333f3ba756b4a99b3488e53e8a2467c41c6be5e1167cc137c5ae2051f3d0b",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/multilayer-objects"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/21904ebe-7435-4687-b794-8581d4e11bfb/objects-flat.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/objects-flat--b92fa9659f.jpg",
+      "bytes": 120180,
+      "sha256": "869e512e1e3454f45f85d8587944437b8fb83593207f6ed3c742842a9fa4812a",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/multilayer-objects"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/2ed2671c-5ac9-4e39-846c-31fb9000a70a/multilayer-object-3f.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/multilayer-object-3f--18beaf26b1.jpg",
+      "bytes": 93842,
+      "sha256": "7fc7d28c0c6716cab1add62705dd73ccae84ee03716aaff3a1b6fdc6c99d0c9f",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/multilayer-objects"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/a8f3fd2b-8f87-4c66-b866-565039929b87/farm.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/farm--0c414a0bf2.jpg",
+      "bytes": 38510,
+      "sha256": "3a2c9e699410c5efb2895f8beee458d26a1cf790a00ab0515d80e53345698489",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/agriculture"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/f96e09b8-9b15-44cd-bad3-70cb7df5fbd4/agricultura-inteligente-com-iot-agricola.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/agricultura-inteligente-com-iot-agricola--e068cabb72.jpg",
+      "bytes": 1450130,
+      "sha256": "cced8afd05735ad91c6e4d3130a68d053cfbfdcf212d57d50c8b75bcdbbb4814",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/agriculture"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/011fda28-e3d3-4876-998a-d15bd2222ac5/csm_12182019_20pic_20intelligent_20intersection_71846a1a45.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/csm_12182019_20pic_20intelligent_20intersection_71846a1a45--79e5c49bd7.jpg",
+      "bytes": 124720,
+      "sha256": "0505e3a9228083e53f71d4bd088e03b5931746801eba1bc7e6f34e1cdaa26998",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/cities"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/e0dd9ea3-4c39-40c4-a651-21c408fb7758/smartcities.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/smartcities--4cf1f0f833.jpg",
+      "bytes": 205318,
+      "sha256": "730197dc56afe7408e2cfe59242163eb7e2db55d1d0158b2570440e5500f73a3",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/cities"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/d7d73b52-d31a-4317-90f8-7c1fa80b8ddd/5-Ways-Smart-Grid-Technology-Is-Pushing-Renewable-Energy-1.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "file": "images/5-Ways-Smart-Grid-Technology-Is-Pushing-Renewable-Energy-1--e4507d8222.png",
+      "bytes": 223042,
+      "sha256": "7bb6f41125b2e368bd070e3cccc979a7716d244631f04ce9abbe86008e123eef",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/energy"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/ed7dfd57-4b4a-4818-9768-5762ca98c607/energy.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/energy--f12500d407.jpg",
+      "bytes": 302269,
+      "sha256": "6cd747a5241f9a14c1be415e237601df7065a64f457bb0b2adf905107be6d6ef",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/energy"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/a631362b-997f-4d96-a4ce-60d8cc820086/960x0.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/960x0--9f73517331.jpg",
+      "bytes": 111115,
+      "sha256": "f690b4fc9c8dd645fa03fc33182096f3f54c1973779654cd6be157c3e8543f81",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/industry"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/65eaef94-149d-4082-9ce1-60b175984fac/industrial2.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/industrial2--9c0de818e4.jpg",
+      "bytes": 310227,
+      "sha256": "0daf8aa42882ada55eb5d6537937038080750a9d6b4c256d1b9bc23390f44830",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/industry"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/1cce094e-24d1-47c4-abaa-91cd57a07171/supply-chain.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/supply-chain--6f3f3ab06d.jpg",
+      "bytes": 263932,
+      "sha256": "dd795711058d7029d25063b7ef676bdd2224ce8b15b61430205f21f1a7caf05c",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/supply-chain"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/d1c605a0-928e-48c5-b5f8-4eb4ca6c2f58/iStock-1159801440-1024x430-1.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/iStock-1159801440-1024x430-1--b5b7fdaee4.jpg",
+      "bytes": 93221,
+      "sha256": "3bca4f1578de0f4f91a0289299336c9fd9cc3f6d4075e64cc4bf2e0d0c6f29ad",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/supply-chain"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/af039337-bab0-4d31-8c14-20de4bfe309d/transport.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/transport--7662ffc74c.jpg",
+      "bytes": 204025,
+      "sha256": "8a57cd764ed8ab0c38f1b5c79c1537e97db4495b8c14cfe5857298a114ae52b4",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/transport"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/6ad04a5c-9c79-4d55-af98-3d52d4689b90/51632_20221014-transport-and-logistics__w1200__.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "file": "images/51632_20221014-transport-and-logistics__w1200__--1ad022718b.jpg",
+      "bytes": 74101,
+      "sha256": "7ad5df987781a46296f49218ff72fa791caa70157d536acfb15ad162ab8612ae",
+      "sourcePages": [
+        "https://iclab.identifycapacity.com/solutions/transport"
+      ]
+    }
+  ],
+  "failures": [],
+  "skipped": [],
+  "imageReferences": [
+    "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/62cfde47-e252-432f-b70a-c6a8e270acc1/site-iclab_31.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/f7eb93e1-1880-4d4f-b73d-06cdb87d7b6f/site-iclab_07.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/94eb5723-bf6f-46df-bec4-e230d37a3d04/site-iclab_17.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/b8a3e569-6187-4f02-ad1c-6d113aa15712/site-iclab_25.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/bdc012c6-0088-4958-8e32-742041530a98/site-iclab_23.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/d7da1e21-2c02-4bbc-9b1a-fab35a52c970/site-iclab_15.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/c87be02d-7807-4d17-8f1f-9c1aeb6f60ba/edge-computing.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/cbcf53b5-6268-4e06-a554-c7986f40d9d0/site-iclab_29.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/69d8ac38-2cf9-447b-b4ef-3df72ac15797/site-iclab_13.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/99b6d173-e549-4a88-899c-8140feb27f29/site-iclab_27.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/8a5f0952-4c7a-4197-bea7-2b7e45dd3a6f/site-iclab_33.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/b0ddcbc9-1c5a-4dd5-9e12-eebb2b1c860a/bg_tophome_01.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/0b6f2d4c-6cd8-4147-a245-92ae74fe6f13/img_iclab2_02.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/5c7a6106-ef2f-423c-ba54-e606045f1006/img-home_02.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/5104c1aa-ca1b-4b6d-813c-1a994683aa59/plataform-iclab.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/0c567cef-6b12-481c-9178-6dc8c923aca3/img_1.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/5463eef3-23bf-466e-ad3b-9e1cc498930d/objects-augmented-550x564.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/d7345351-b0e1-434a-abcc-3e1603b0aec2/multilayer-object-2c.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/21904ebe-7435-4687-b794-8581d4e11bfb/objects-flat.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/2ed2671c-5ac9-4e39-846c-31fb9000a70a/multilayer-object-3f.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/f96e09b8-9b15-44cd-bad3-70cb7df5fbd4/agricultura-inteligente-com-iot-agricola.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/a8f3fd2b-8f87-4c66-b866-565039929b87/farm.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/011fda28-e3d3-4876-998a-d15bd2222ac5/csm_12182019_20pic_20intelligent_20intersection_71846a1a45.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/e0dd9ea3-4c39-40c4-a651-21c408fb7758/smartcities.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/d7d73b52-d31a-4317-90f8-7c1fa80b8ddd/5-Ways-Smart-Grid-Technology-Is-Pushing-Renewable-Energy-1.png",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/ed7dfd57-4b4a-4818-9768-5762ca98c607/energy.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/a631362b-997f-4d96-a4ce-60d8cc820086/960x0.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/65eaef94-149d-4082-9ce1-60b175984fac/industrial2.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/1cce094e-24d1-47c4-abaa-91cd57a07171/supply-chain.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/d1c605a0-928e-48c5-b5f8-4eb4ca6c2f58/iStock-1159801440-1024x430-1.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/af039337-bab0-4d31-8c14-20de4bfe309d/transport.jpg",
+    "https://iclab.identifycapacity.com/__l5e/assets-v1/6ad04a5c-9c79-4d55-af98-3d52d4689b90/51632_20221014-transport-and-logistics__w1200__.jpg"
+  ],
+  "externalReferences": [],
+  "crawlDelayMs": 1000,
+  "finishedAt": "2026-11-07T16:54:10.185Z"
+}

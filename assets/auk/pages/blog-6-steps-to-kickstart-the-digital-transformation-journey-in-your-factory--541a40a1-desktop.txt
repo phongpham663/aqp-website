@@ -1,0 +1,129 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+
+Blog · 24 November 2020
+
+6 Steps to Kickstart the Digital Transformation Journey in Your Factory
+
+“Your current thinking got you here. Only new thinking will get you out.” – Robert G. Allen
+
+Digital transformation is business transformation. Unlike digitisation which merely uses technology to automate existing processes, digital transformation leverages technological innovations to achieve a strategic positioning. The radical effects of digital transformation can be felt throughout the company – from every task and activity to all employees, and even the supply chain.
+
+According to Deloitte, industrial companies around the world are embarking on digital transformation to grow their competitiveness and future-readiness. With strong competition on all sides, companies have no time to waste – their goal should be to implement digital transformation right, on the first try. In this article, we discuss six steps enabling manufacturers to succeed in their foray into digital transformation.
+
+Step 1: Identifying the ‘pain’ – data as the starting point
+
+Data is the cornerstone of successful digital transformation – but what kind of data? Industrial companies know the importance of data and have spent years and a significant amount of man-hours to perfect the art of data collection. A sizable food manufacturer in the region is just one example of manufacturers tasking engineers and production operatives to collect data (such as OEE, output, process parameters) from hundreds of machines when these human resources could be better used elsewhere. Yet, they continue lamenting about unreliable data, citing ‘yesterday’s data’ or inaccurate data as one of their most problematic ‘pains’ (pain points).
+
+This is because manual collection results in historic data which has a ‘lag’. Since many events would have transpired by the time the data is analysed, analysis based on it would become irrelevant and inaccurate. The biggest losses of yesterday may not be the same as those of today.
+
+“Playing catchup using dated insights inhibits companies from making real-time interventions to increase productivity.”
+
+Moreover, it is challenging for management to verify the authenticity and accuracy of data collected by operatives – they do not know when valuable information is recorded incorrectly due to biases and mistakes. Relying solely on historic data would be akin to driving a car only with the rear-view mirror – it is myopic and dangerous because one would not be able to see what is ahead.
+
+It may be a hard pill to swallow but manual data collection has to stop. Given that it is resource-intensive yet unreliable, there is a valid business case to push for real-time data enabled by technology. Companies would see multiple data sources consolidated into one place. Everyone can also independently access the live data they need to do their job on-the-fly. Those who were manually collecting data would be redeployed to other value-adding functions.
+
+Real-time data analysis would also allow for error notifications to be triggered before and at the time where issues arise, allowing employees to correct the problems at the earliest and improve Overall Equipment Efficiency (OEE). From the lens of manufacturers with OEE scores of the production line and machines falling far behind the world-class standards of 85 to 90%, the cost savings and output gain from real-time data are apparent.
+
+Step 2. Getting buy-in at all levels
+
+Before kickstarting digital transformation, industrial companies would already have the support of key decision-makers such as C-suite executives. But this alone won’t do it. Companies also require buy-in from end-users such as the production and operations team in the factory. Understandably, this cannot be obtained with a snap of the fingers because change management is difficult – while some welcome it with open arms, others are afraid. Nonetheless, it is not impossible.
+
+Most companies who successfully obtain buy-ins at all levels are those with a strong corporate culture on:
+
+Inclusivity. Employees find themselves as a part of all change initiatives because they are provided with lifelong learning and training programmes (e.g. learning how to use new digital tools) to keep pace with continuous changes. Furthermore, when there is a need to redefine their roles and responsibilities to better align with the company’s transformation efforts, the supervisors would take time to explain and guide them, rather than leaving them in the lurch.
+‘Failing forward’. Employees are prone to make more mistakes when they do something new (e.g. assuming new duties to support digital transformation efforts). Rather than frowning upon those who make mistakes, the company encourages them to learn from it and do better in the future.
+Step 3. Finding the right person – your group of ‘project champions’
+
+One commonly misunderstood aspect of project champions is that they should be representatives from the various departments. This is not recommended because individuals from different teams have varying priorities and driving change may not be their forte. For example, the finance representative may pigeonhole the digital transformation project as a finance project where decisions are made solely based on money coming in and going out, whereas the production representative is only interested in increasing production and quality product. Digital transformation involves rethinking every aspect of the company and a group with no synergy would not do.
+
+“Innovations are lost without champions.”
+
+In our experience, it does not matter which departments the project managers come from – they just need to have sufficient authority to make things happen. Project champions are also firm believers of the company’s digital transformation project. They understand the details and complexities and work through the layers of bureaucracy to mobilise essential resources (e.g. capital and manpower) and lead the company towards successful implementation.
+
+Even in the face of capricious situations such as unexpected disagreements among key stakeholders during the transformation journey, project champions remain steadfast and undeterred in their push to advance and see through it.
+
+Step 4. Pilot testing first, full-scale adoption later
+
+Digital transformation is never about instant changes, neither does it have to happen all at once. Rather than rushing and worrying about the full-scale deployment of technological solution(s), companies should start with pilots.
+
+“Pilots are the minimum viable product (MVP) of the new solution or innovative technology that the company is considering. Start by selecting a pilot line, section or site.”
+
+Pilots help on three fronts. First, it is a testing ground to determine if the technology is viable for the company. Pilots that have delivered benefits such as cost reduction and higher productivity on the production line should be deployed on a wider scale while those who do not would be dropped. Second, pilots are a credible demonstration model to educate relevant employees and sceptics about the new technologies and how to operate them. And third, pilots offer opportunities to resolve ‘kinks’ and improve the ease of full-scale adoption. For instance, once the IT department learns how to integrate the new technology with the existing technologies for one section of the production floor, the learning could be applied to the other sections during the full-scale adoption phase. This saves the company from unnecessary complications and greater focus can be placed on training the employees to use the new tool and technology.
+
+In our experience, full-scale adoption is best implemented within one to two quarters from the end of the pilot testing phase, before the takeaways are forgotten and employees lose interest in the project.
+
+Step 5. Selecting the right technologies
+
+The key characteristic of Industry 4.0 is interconnectivity – it is an ecosystem consisting of various specialised service providers offering respective solutions such as ERP, MES, IIoT, WMS, VR, fleet management, energy management, and more. Indeed, Industry 4.0 involves many specialised vendors and no single player – not even the big boys such as Siemens and ABB – can provide a full suite of end-to-end solutions to serve the varying needs of companies.
+
+To sustain a lead in implementing Industry 4.0 technologies, here are five important areas companies need to look at:
+
+Selecting vendors who are ‘future-proofed’ and able to ‘handshake’ with others in the Industry 4.0 ecosystem. As manufacturers expand their level of technology adoption based on their strategy and roadmap – for example, from IIoT to ERP to WMS (or any other sequence) – they need to ensure that the vendors for each of these individual technologies are willing and able to communicate with one another to integrate their technologies and achieve the desired digital transformation solution for the company. This also entails that vendors offering ‘closed’ technological solutions may not be the best fit. Often, such solutions are designed in a way that discourages the transferring of information and is therefore difficult to connect with other systems and technologies in the Industry 4.0 ecosystem.
+Knowing the real cost to ensure a good ROI. Clarify the cost of implementation, configuration, scaling up, and training. It is not uncommon for vendors to charge a low subscription fee or purchase price, only to mark up the cost in other areas – these hidden costs can greatly harm net gains in the long run.
+The IT policy – cloud or on-premise solution. The difference between these two solutions lies in where they reside. Cloud solutions are hosted on an enterprise-grade secured server and they are responsible for monitoring and maintaining it, whereas on-premise solutions are located within in-house servers and IT infrastructures. Both have their pros and cons, but cloud solutions are gaining popularity because the onus is on the vendor to maintain the servers, network, and software; companies can, therefore, better focus on their core business strategies. Furthermore, ‘handshake’ is much easier to be performed between cloud solutions, via APIs.
+Having strong vendor support. This is especially pertinent at the start of your digital transformation journey where consistent training is critical to overcoming the inertia to ‘change’. Furthermore, there are occasions where the company comes into unique customisation problems or technological challenges where personalised support from the vendor is highly appreciated. Often, these challenges cannot be resolved using self-diagnosis tools or answers provided in the knowledge bases. As such, vendors who provide ‘live’ support become a plus – these vendors can promptly and remotely offer the help and assistance needed.
+Choosing a simple-to-use system. Systems that focus on simplicity and ease of use do not require lengthy training before they can be deployed and quickly scaled up. Since they are easily understood, anyone including the machine operators/supervisors on the production floor would be able to adopt them. Having eliminated complexity and hassle, simple-to-use systems reduce the likelihood of ‘pushbacks’ during the adoption phase. Unlike complex systems which often require external parties to set up, some of these simple-to-use systems are easy enough for companies to self-implement and configure on their own.
+Step 6. Tracking and reviewing outcomes vigorously
+
+With an ever-burgeoning number of tasks to do, some companies forget to keep a tab on their transformation outcomes and see if everything remains aligned with the business strategy and plans. To measure success and ensure long term success of the transformation efforts, the following performance tracking initiatives must be in place:
+
+Analyse regularly and ask questions. Identify and remove the activities and processes which do not value-add to the organisation. For those which remain, companies should question the status quo and constantly ask themselves, “Then, at what new levels and frequency could these activities be carried out so that performance can be improved?”
+Being transparent. Performance and outcomes should be made visible and accessible to all employees. Apart from increasing employee engagement and improving performance, transparency prevents miscommunication and builds trust in the digital transformation journey.
+Having good governance. The management should be responsible for regular check-ins and to review performance against KPIs. Teams should also have clearly stated goals and targets to ensure that transformation efforts are progressing and not floundering.
+Conclusion
+
+Digital transformation is future-oriented. Industrial companies who embark on the transformation journey would never know it all. But those with a strong organisational change culture, specific goals and ability to leverage data and Industry 4.0 technologies to review, anticipate and adapt to future trends would be much more likely to succeed on their first try
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

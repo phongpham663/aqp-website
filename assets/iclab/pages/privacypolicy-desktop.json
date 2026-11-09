@@ -1,0 +1,264 @@
+{
+  "url": "https://iclab.identifycapacity.com/privacypolicy",
+  "title": "Identify Capacity",
+  "description": "AI-powered Operational Intelligence for Critical Infrastructure",
+  "author": "Lovable",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Privacy Policy"
+    },
+    {
+      "tag": "H2",
+      "text": "Information We Collect"
+    },
+    {
+      "tag": "H2",
+      "text": "How We Use Your Information"
+    },
+    {
+      "tag": "H2",
+      "text": "Contact Us"
+    }
+  ],
+  "paragraphs": [
+    "Last Updated: 11/7/2026",
+    "Identify Capacity (\"we,\" \"our,\" or \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.",
+    "We collect information you provide directly to us, such as when you create an account, contact us, or use our services. This may include your name, email address, and any other information you choose to provide.",
+    "We use the information we collect to provide, maintain, and improve our services, to communicate with you, and to comply with legal obligations.",
+    "If you have any questions about this Privacy Policy, please contact us at contact@identifycapacity.com."
+  ],
+  "links": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "ICLab Platform",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "Multilayer Visual Objects",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "Agriculture",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "Cities",
+      "url": "https://iclab.identifycapacity.com/solutions/cities"
+    },
+    {
+      "text": "Energy",
+      "url": "https://iclab.identifycapacity.com/solutions/energy"
+    },
+    {
+      "text": "Industry",
+      "url": "https://iclab.identifycapacity.com/solutions/industry"
+    },
+    {
+      "text": "Supply Chain",
+      "url": "https://iclab.identifycapacity.com/solutions/supply-chain"
+    },
+    {
+      "text": "Transport",
+      "url": "https://iclab.identifycapacity.com/solutions/transport"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    },
+    {
+      "text": "contact@identifycapacity.com",
+      "url": "mailto:contact@identifycapacity.com"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "PLATFORM",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "MULTILAYER OBJECTS",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "SOLUTIONS",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "url": "https://iclab.identifycapacity.com/privacypolicy"
+    }
+  ],
+  "navigation": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "src": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "srcset": "",
+      "alt": "IClab logo",
+      "loaded": true,
+      "width": 286,
+      "height": 288
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "src": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "srcset": "",
+      "alt": "IClab",
+      "loaded": true,
+      "width": 286,
+      "height": 288
+    }
+  ],
+  "backgrounds": [],
+  "forms": [],
+  "colors": [
+    {
+      "color": "rgba(30, 32, 36, 0.8)",
+      "count": 11
+    },
+    {
+      "color": "rgb(30, 32, 36)",
+      "count": 6
+    },
+    {
+      "color": "rgb(0, 141, 235)",
+      "count": 1
+    }
+  ],
+  "typography": [
+    {
+      "tag": "H1",
+      "text": "Privacy Policy",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "36px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "Last Updated: 11/7/2026",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "Identify Capacity (\"we,\" \"our,\" or \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H2",
+      "text": "Information We Collect",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "600",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "We collect information you provide directly to us, such as when you create an account, contact us, or use our services. This may include your name, email address, and any other information you choose to provide.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H2",
+      "text": "How We Use Your Information",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "600",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "We use the information we collect to provide, maintain, and improve our services, to communicate with you, and to comply with legal obligations.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H2",
+      "text": "Contact Us",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "600",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "If you have any questions about this Privacy Policy, please contact us at contact@identifycapacity.com.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    }
+  ],
+  "stylesheets": [
+    "https://iclab.identifycapacity.com/assets/index-Cc61ABCl.css"
+  ],
+  "scripts": [
+    "https://iclab.identifycapacity.com/assets/index-C7m6lm7u.js",
+    "https://iclab.identifycapacity.com/~flock.js",
+    "https://iclab.identifycapacity.com/__l5e/events.270c78a44fc53e7b.js"
+  ],
+  "reactDetected": true,
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "dimensions": {
+    "width": 1440,
+    "height": 1000
+  },
+  "capturedAt": "2026-11-07T16:54:10.107Z",
+  "issues": []
+}

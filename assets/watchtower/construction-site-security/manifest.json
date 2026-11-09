@@ -1,0 +1,140 @@
+{
+  "source": "https://wt-security.com/en-gb/application/construction-site-security",
+  "startedAt": "2026-11-08T12:04:26.704Z",
+  "state": "complete",
+  "mode": "screenshot",
+  "scope": "One public Construction Site Security page, original/rendered HTML, text, embedded JSON, its two public display-data endpoints, metadata and desktop/mobile screenshots. No separate image downloads. No login, form submissions, portal, other pages, video streams or tracking requests.",
+  "rightsNote": "Downloaded content, images and trademarks belong to their owners; collection does not grant reuse rights.",
+  "pages": [
+    {
+      "url": "https://wt-security.com/en-gb/application/construction-site-security",
+      "status": 200,
+      "capturedAt": "2026-11-08T12:04:28.363Z",
+      "artifacts": [
+        {
+          "file": "pages/construction-site-security-source.html",
+          "bytes": 435410,
+          "sha256": "57eb14771c9fbe599746858dd2bf180237cb5501ccc09c0789f2b89172af676e"
+        },
+        {
+          "file": "pages/construction-site-security-solutionsData.json",
+          "bytes": 149501,
+          "sha256": "5acf5fd69253489a80dd91f010f0bc691d13e9a4b5b0bbac14555d6de5933b20"
+        },
+        {
+          "file": "pages/construction-site-security-newsData.json",
+          "bytes": 33412,
+          "sha256": "7081786d02bd0279a6d244d27fbe6a4b101c2c59ea1ae972d45c1113c1858ea4"
+        },
+        {
+          "file": "pages/construction-site-security-desktop.html",
+          "bytes": 508067,
+          "sha256": "ecf26bd789c8af48516323f7359156d863f40ba9dd88369275aa8989e05320e8"
+        },
+        {
+          "file": "pages/construction-site-security-desktop.txt",
+          "bytes": 5875,
+          "sha256": "0847641589db1b943c9ab80cb708dce2c99d6fbe1433e4190fb0b39d7bea9100"
+        },
+        {
+          "file": "pages/construction-site-security-desktop.json",
+          "bytes": 444004,
+          "sha256": "8b8978fc0664e217e54ac750b13f1528d764524ca1d16cc3e2dbaa914f527f1c"
+        },
+        {
+          "file": "pages/construction-site-security-embedded-data.json",
+          "bytes": 412851,
+          "sha256": "a08e11cd6bddca82d48410616fe768ae9063e38c155114b36ee5871ef69edf9e"
+        },
+        {
+          "file": "pages/construction-site-security-content.txt",
+          "bytes": 4904,
+          "sha256": "21b8e0fd0d2a8425ef9b20d9153036f7d8011086a5fc8db91d9159b0154c5420"
+        },
+        {
+          "file": "pages/construction-site-security-mobile.html",
+          "bytes": 508202,
+          "sha256": "41a9e8bf97d90f76d92711e36f4378723122dd654b16642a98237fe85a41c38c"
+        },
+        {
+          "file": "pages/construction-site-security-mobile.txt",
+          "bytes": 5818,
+          "sha256": "e6cc609536e8ded396ae3379cb1dab5eee70c987e56e1b1eee73edce6476cb6e"
+        },
+        {
+          "file": "pages/construction-site-security-mobile.json",
+          "bytes": 444029,
+          "sha256": "36a8ba9bcb7056438e3e18b0d430d5f23ee197d410e47365f64a64a156080874"
+        }
+      ],
+      "issues": [],
+      "title": "Construction site security · Watchtower Security Solutions"
+    }
+  ],
+  "screenshots": [
+    {
+      "device": "desktop",
+      "url": "https://wt-security.com/en-gb/application/construction-site-security",
+      "file": "screenshots/desktop/construction-site-security.png",
+      "bytes": 5352861,
+      "sha256": "e7b3ba6a6a3ccc6ebe1464c3744d67f7535914adcd1c8589ef7c7efeca68541b"
+    },
+    {
+      "device": "mobile",
+      "url": "https://wt-security.com/en-gb/application/construction-site-security",
+      "file": "screenshots/mobile/construction-site-security.png",
+      "bytes": 2806931,
+      "sha256": "73555be28a7219f4cbfd4c5b3414d99888bceb5e9ed26eddf58c207e38ee7b06"
+    }
+  ],
+  "downloaded": [],
+  "failures": [],
+  "skipped": [],
+  "imageReferences": [
+    "https://a.storyblok.com/f/236211/3000x2000/6544ce6237/watchtower-nl-constructionsite.jpg",
+    "https://a.storyblok.com/f/236211/2881x1632/df8eaccc18/wt-outline.jpg",
+    "https://a.storyblok.com/f/236211/3000x2000/7b003affbf/construction-site-header-2.jpg",
+    "https://a.storyblok.com/f/236211/1500x1000/4f4e1bcb62/mosaicworld_8752_as.jpg",
+    "https://wt-security.com/_next/static/media/flags.02985cd6.png",
+    "https://a.storyblok.com/f/236211/4000x6000/bae509e068/watchtower-360-close-up.JPG",
+    "https://a.storyblok.com/f/236211/5921x3947/aaea9ae5e0/famingjia-inventor-rltwtw1pqi0-unsplash.jpg",
+    "https://a.storyblok.com/f/236211/1095x730/7430050d8a/watchtower-solutions-images-00019.jpg",
+    "https://a.storyblok.com/f/236211/5472x3648/2e93990c0c/afvalverwerking-bedrijf.jpg",
+    "https://a.storyblok.com/f/236211/5464x3640/8d480bdbeb/zonnepark-header.jpg",
+    "https://a.storyblok.com/f/236211/1920x1080/8a5eb4c932/header-image-watchbox.jpg",
+    "https://a.storyblok.com/f/236211/1200x1200/46c7e376ed/watchtower-inside-security-set.jpg",
+    "https://a.storyblok.com/f/236211/6720x4480/98a4489570/watchtower-uk-photography-wt-1-86.jpg",
+    "https://a.storyblok.com/f/236211/3840x2160/5e5298b704/wts_celsius_render.png",
+    "https://a.storyblok.com/f/236211/600x250/faace99eb4/wts-app.png",
+    "https://a.storyblok.com/f/236211/774x440/44cefc07a5/chas_logo1.webp",
+    "https://a.storyblok.com/f/236211/400x180/d76d73a7eb/2.png",
+    "https://a.storyblok.com/f/236211/2028x1249/a33aaabae3/securedbydesign.png",
+    "https://a.storyblok.com/f/236211/600x575/0543c973b7/iso-logo-transparent-white.png",
+    "https://a.storyblok.com/f/236211/376x82/1e061841f1/wt-logo-light.png",
+    "https://a.storyblok.com/f/236211/2028x1249/d9dd13b84d/securedbydesign.png"
+  ],
+  "robots": [
+    {
+      "origin": "https://wt-security.com",
+      "status": "available",
+      "artifact": {
+        "file": "discovery/wt-security.com-robots.txt",
+        "bytes": 122,
+        "sha256": "1d9c1c3698b8a151cd7db5f4f0c6b8d1ac7770061ad961f87497a36407b49bba"
+      }
+    },
+    {
+      "origin": "https://a.storyblok.com",
+      "status": "unavailable",
+      "error": "HTTP 403"
+    }
+  ],
+  "blockedRequestCounts": {
+    "GET userlyze.com script": 1,
+    "GET xignals.net script": 1,
+    "GET cdn.popt.in script": 1,
+    "GET connection.wt-security.com script": 1,
+    "GET wt-security.com fetch": 26
+  },
+  "finishedAt": "2026-11-08T12:04:39.865Z"
+}

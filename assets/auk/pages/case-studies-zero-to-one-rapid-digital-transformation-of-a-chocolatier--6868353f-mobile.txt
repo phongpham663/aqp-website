@@ -1,0 +1,134 @@
+CASE STUDY
+Zero to One: Rapid Digital Transformation of a Chocolatier
+
+IIoT digitalisation puts an end to a Chocolatier’s years-long search for a suitable digital transformation solution.
+
+Freyabadi is one of the largest and most established chocolatiers in the region. Its presence covers more than 20 countries internationally. For the past 20 odd years, Freyabadi has been relentless in sourcing the best ingredients and investing in R&D to bring innovative and quality products to their clients.
+
+In the late 2010s, Freyabadi was urgently finding an easy-to-implement yet effective digitalisation solution that could improve its plant performance. Despite having a production capacity that exceeds 65,000 tonnes annually, Freyabadi needed to produce even better and faster to meet its rapidly growing demand.
+
+In late 2018, Freyabadi engaged Auk Industries and embarked on a digital transformation journey to increase productivity quickly. A project of such magnitude usually takes more than a year to implement but by December 2018, a section of the factory was already digitalised.
+
+Freyabadi’s pain points
+1. Inaccurate and missing data
+
+Auk Industries worked closely with Freyabadi to review its day-to-day production operations and data. Freyabadi, like many other manufacturing firms, relied heavily on operators to manually track and record data (such as OEE, output, process parameters) on paper logs – this was a problem.
+
+“We tried to record [data] by paper but the operators didn’t fill it consistently…there were [also] time inaccuracy and validity issues.”
+
+– Adi Christian, Project Manager of Freyabadi.
+
+Freyabadi’s manual data collection method was not only labour-intensive and highly susceptible to human errors, but it also resulted in low resolution data – data collected at a low frequency of only once or twice a day/ end of shift. This hindered Freyabadi’s ability to deep dive and investigate problems such as minor stops/speed losses within a time frame because they only have a single number collected at the end of such a time frame.
+
+“Real-time data, on the other hand, allow metrics such as equipment throughput to be measured at a much higher frequency (minutes compared to days), allowing for operators and production line managers to become aware of the gaps in production which were previously overlooked.”
+
+2. Inability to make data-driven decisions
+
+When demand surged and Freyabadi’s production had difficulties catching up, the management considered purchasing more machines for the production floor to ramp up the production level. However, they were unsure if it was necessary. Surely, investing in physical assets would help to meet growing demand, but it is expensive. Moreover, Freyabadi was uncertain if its existing equipment and manpower were already effectively and optimally utilised. If they were not, the blind purchase of new machines would only compound the problem of resource underutilisation and lead to a low return on investment (ROI).
+
+What Freyabadi needed was a set of reliable production data – data that serves as a ‘single source of truth’ – to answer their questions. Alas, its existing set of manually collected data would not do and could not be used to support or debunk their hypotheses.
+
+The Breakthrough
+
+With these pain points in mind, Auk Industries executed a digitalisation model for Freyabadi that prioritised on three key areas: timeliness, elimination, and growth.
+
+By connecting Auk Industries’ IIoT nodes to sensors of the machines on the production floor and having the 24/7 real-time data displayed on a live Auk Industries’ dashboard, Freyabadi gained near-real-time access to all the important production figures and measurements such as individual machine’s performance, throughput rate and cycle time for each process, determine real batch processing time and identify trends.
+
+“By having the actual [production] numbers, we can convince the supervisors and production managers to do better.”
+
+– Adi Christian, Project Manager of Freyabadi.
+
+With Auk Industries’ software, Freyabadi could further evaluate their Overall Equipment Effectiveness on a shift-to-shift and day-to-day basis and work more intimately with the supervisors and operators to maximise asset utilisation. They also realised a more cost-effective way of production which was to run certain machines concurrently and save electricity.
+
+In the event of a machine breakdown, Freyabadi was able to immediately locate the source of the problem, perform a Pareto analysis to identify the breakdown causes and inform the relevant personnel to resolve the issue as soon as possible.
+
+Additionally, Freyabadi became more aware and started paying heed to the waste in its production line – inventory, overproduction, waiting, transportation etc. Although often neglected, the minimisation of waste along the manufacturing workflow has allowed Freyabadi to benefit from higher cash flow and lower space requirements.
+
+Lasting impact: Staying competitive even in times of a pandemic
+
+The COVID-19 outbreak has ushered a host of challenges to manufacturers worldwide. Apart from negative financial impacts, the implementation of lockdowns and safe distancing measures (or PSBB) have greatly hindered the on-site production capabilities of many manufacturing plants, including those of Freyabadi’s.
+
+Amidst the uncertainties and challenges, Freyabadi was quick to respond. Freyabadi leveraged Auk Industries’ IIoT solution and created a business continuity plan that enabled it to maintain operational effectiveness even in such unprecedented times.
+
+“In times of this pandemic, Auk Industries’ solution has been very helpful in monitoring [our] production activity despite limited physical access to our factory.”
+
+– Adi Christian, Project Manager of Freyabadi.
+
+Given that Freyabadi already had the necessary IIoT tools in place, the management, supervisors, operators and engineers had immediate remote access to all the data on the production floor. Even though most of them were working from home (WFH) and were not physically present at the production plants, the management and supervisors could continue to optimise production floor performance remotely.
+
+Why Auk Industries?
+
+“Auk Industries’ solution is simple, easy to use, and good… because the investment price is affordable. It is a company filled with energetic, enthusiastic, and smart people whom we can collaborate and grow together.”
+
+– Adi Christian, Project Manager of Freyabadi.
+
+Digitalising your factory should not break the bank. While conventional digitalisation projects are complex and can take up to millions of dollars to implement, Auk Industries’ ready-to-use and end-to-end IIoT solution removes unnecessary overheads and mark-ups, allowing for a short project-cycle time and rapid digitalisation at an affordable price.
+
+SHARE THIS
+Facebook
+LinkedIn
+Twitter
+Telegram
+WhatsApp
+More Case Studies
+
+Food & Beverage, Consumer
+
+Achieving Greater Efficiency Through Digitalisation: Fonterra
+
+How Fonterra Brands Manufacturing Indonesia used Auk's real-time production data to raise efficiency…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Better Visualisation with Auk: A SATS Case Study
+
+How SATS, Asia's in-flight and institutional caterer, used Auk's real-time visualisation to work…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Charting Long-Term Growth & Receptiveness Towards Technology
+
+Indonesian Snack Manufacturer leverages IoT technologies to not only digitalise for growth but…
+
+Read More →
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

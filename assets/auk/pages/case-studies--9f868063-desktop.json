@@ -1,0 +1,764 @@
+{
+  "url": "https://auk.industries/case-studies/",
+  "title": "Case Studies - Auk Industries",
+  "description": "How manufacturers in food, FMCG, automotive, electronics and more use Auk's real-time production data to lift OEE and output. Read their stories.",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.8127.18 Safari/537.36",
+  "dimensions": {
+    "width": 1440,
+    "height": 3241
+  },
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Case Studies"
+    },
+    {
+      "tag": "H2",
+      "text": "Achieving Greater Efficiency Through Digitalisation: Fonterra"
+    },
+    {
+      "tag": "H2",
+      "text": "Better Visualisation with Auk: A SATS Case Study"
+    },
+    {
+      "tag": "H2",
+      "text": "Zero to One: Rapid Digital Transformation of a Chocolatier"
+    },
+    {
+      "tag": "H2",
+      "text": "Charting Long-Term Growth & Receptiveness Towards Technology"
+    },
+    {
+      "tag": "H2",
+      "text": "Getting Onboard I4.0 with a Cost Effective Plug-and-Play System: Pere Ocean"
+    },
+    {
+      "tag": "H2",
+      "text": "SATS BRF Chooses Auk As Their First Step Into Industry 4.0"
+    },
+    {
+      "tag": "H2",
+      "text": "Fidel Engineering: Testimonial"
+    },
+    {
+      "tag": "H2",
+      "text": "Stallion Accelerates Operational Excellence with Auk Industries"
+    },
+    {
+      "tag": "H2",
+      "text": "Godrej Partners with Auk Industries to Drive Digital Transformation!"
+    },
+    {
+      "tag": "H2",
+      "text": "Green Spot Co. Ltd goes live with Auk Industries — within weeks!"
+    },
+    {
+      "tag": "H2",
+      "text": "Mandom Embarks on a Journey Towards Technology-enabled Operational Excellence"
+    },
+    {
+      "tag": "H2",
+      "text": "FB Battery Accelerates Operations Excellence with Digital Technology"
+    },
+    {
+      "tag": "H2",
+      "text": "PRODUCT"
+    },
+    {
+      "tag": "H2",
+      "text": "INDUSTRIES"
+    },
+    {
+      "tag": "H2",
+      "text": "SOLUTIONS"
+    },
+    {
+      "tag": "H2",
+      "text": "LEARN"
+    },
+    {
+      "tag": "H2",
+      "text": "ABOUT US"
+    },
+    {
+      "tag": "H2",
+      "text": "QUICKLINKS"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://auk.industries/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/oee-roi-excel-calculator/",
+      "text": "ROI & OEE Calculator"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://ops.auk.industries/login",
+      "text": "Sign In"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/oee-roi-excel-calculator/",
+      "text": "ROI & OEE Calculator"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://ops.auk.industries/login",
+      "text": "Sign In"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/case-studies/achieving-greater-efficiency-through-digitalisation-pt-fbmi/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/achieving-greater-efficiency-through-digitalisation-pt-fbmi/",
+      "text": "Achieving Greater Efficiency Through Digitalisation: Fonterra"
+    },
+    {
+      "url": "https://auk.industries/case-studies/achieving-greater-efficiency-through-digitalisation-pt-fbmi/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/better-visualisation-with-auk-a-sats-case-study/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/better-visualisation-with-auk-a-sats-case-study/",
+      "text": "Better Visualisation with Auk: A SATS Case Study"
+    },
+    {
+      "url": "https://auk.industries/case-studies/better-visualisation-with-auk-a-sats-case-study/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/zero-to-one-rapid-digital-transformation-of-a-chocolatier/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/zero-to-one-rapid-digital-transformation-of-a-chocolatier/",
+      "text": "Zero to One: Rapid Digital Transformation of a Chocolatier"
+    },
+    {
+      "url": "https://auk.industries/case-studies/zero-to-one-rapid-digital-transformation-of-a-chocolatier/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/charting-long-term-growth-receptiveness-towards-technology/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/charting-long-term-growth-receptiveness-towards-technology/",
+      "text": "Charting Long-Term Growth & Receptiveness Towards Technology"
+    },
+    {
+      "url": "https://auk.industries/case-studies/charting-long-term-growth-receptiveness-towards-technology/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/getting-onboard-i4-0-with-a-cost-effective-plug-and-play-system-pere-ocean/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/getting-onboard-i4-0-with-a-cost-effective-plug-and-play-system-pere-ocean/",
+      "text": "Getting Onboard I4.0 with a Cost Effective Plug-and-Play System: Pere Ocean"
+    },
+    {
+      "url": "https://auk.industries/case-studies/getting-onboard-i4-0-with-a-cost-effective-plug-and-play-system-pere-ocean/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/sats-brf-chooses-auk-as-their-first-step-into-industry-4-0/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/sats-brf-chooses-auk-as-their-first-step-into-industry-4-0/",
+      "text": "SATS BRF Chooses Auk As Their First Step Into Industry 4.0"
+    },
+    {
+      "url": "https://auk.industries/case-studies/sats-brf-chooses-auk-as-their-first-step-into-industry-4-0/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/fidel-engineering-testimonial/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/fidel-engineering-testimonial/",
+      "text": "Fidel Engineering: Testimonial"
+    },
+    {
+      "url": "https://auk.industries/case-studies/fidel-engineering-testimonial/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/stallion-accelerates-operational-excellence-with-auk-industries/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/stallion-accelerates-operational-excellence-with-auk-industries/",
+      "text": "Stallion Accelerates Operational Excellence with Auk Industries"
+    },
+    {
+      "url": "https://auk.industries/case-studies/stallion-accelerates-operational-excellence-with-auk-industries/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/godrej-partners-with-auk-industries-to-drive-digital-transformation/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/godrej-partners-with-auk-industries-to-drive-digital-transformation/",
+      "text": "Godrej Partners with Auk Industries to Drive Digital Transformation!"
+    },
+    {
+      "url": "https://auk.industries/case-studies/godrej-partners-with-auk-industries-to-drive-digital-transformation/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/green-spot-co-ltd-goes-live-with-auk-industries-within-weeks/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/green-spot-co-ltd-goes-live-with-auk-industries-within-weeks/",
+      "text": "Green Spot Co. Ltd goes live with Auk Industries — within weeks!"
+    },
+    {
+      "url": "https://auk.industries/case-studies/green-spot-co-ltd-goes-live-with-auk-industries-within-weeks/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/mandom-embarks-on-a-journey-towards-technology-enabled-operational-excellence/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/mandom-embarks-on-a-journey-towards-technology-enabled-operational-excellence/",
+      "text": "Mandom Embarks on a Journey Towards Technology-enabled Operational Excellence"
+    },
+    {
+      "url": "https://auk.industries/case-studies/mandom-embarks-on-a-journey-towards-technology-enabled-operational-excellence/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/case-studies/fb-battery-accelerates-operations-excellence-with-digital-technology/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/case-studies/fb-battery-accelerates-operations-excellence-with-digital-technology/",
+      "text": "FB Battery Accelerates Operations Excellence with Digital Technology"
+    },
+    {
+      "url": "https://auk.industries/case-studies/fb-battery-accelerates-operations-excellence-with-digital-technology/",
+      "text": "Read More →"
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://auk.industries/hardware-warranty/",
+      "text": "Hardware Warranty"
+    },
+    {
+      "url": "https://auk.industries/service-level-agreement/",
+      "text": "Service Level Agreement"
+    },
+    {
+      "url": "https://www.linkedin.com/company/auk.industries/",
+      "text": ""
+    },
+    {
+      "url": "https://www.facebook.com/Auk.Industries",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://auk.industries/terms-and-conditions/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "url": "https://auk.industries/case-studies/#cookie-settings",
+      "text": "Cookie settings"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://auk.industries/auk-logo-tagline.svg",
+      "alt": "Auk Industries",
+      "width": 300,
+      "height": 79,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/08/graphic-red-@2x.webp",
+      "alt": "",
+      "width": 116,
+      "height": 20,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/fonterra-logo-tile-150920a.jpg",
+      "alt": "",
+      "width": 1100,
+      "height": 733,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/case-studies-fonterra.webp",
+      "alt": "Fonterra Brands Manufacturing Indonesia [FBMI] logo",
+      "width": 116,
+      "height": 80,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/id10002-vvs-satstfk_haneda_casserole-3289med-teaser.jpg",
+      "alt": "",
+      "width": 727,
+      "height": 409,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/case-studies-sats.webp",
+      "alt": "SATS logo",
+      "width": 80,
+      "height": 80,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/shutterstock_1536063002-scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1706,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/case-studies-frey-abadi.webp",
+      "alt": "Freyabadi logo",
+      "width": 112,
+      "height": 80,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/AN141-Nuts-In-Wooden-Bowl-732x549-thumb.avif",
+      "alt": "",
+      "width": 732,
+      "height": 549,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/case-studies-dua-kelenci.webp",
+      "alt": "PT Dua Kelinci logo",
+      "width": 82,
+      "height": 80,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/shutterstock_657253750-scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1707,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/case-studies-ocean.webp",
+      "alt": "Pere Ocean logo",
+      "width": 114,
+      "height": 80,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/unnamed.jpg",
+      "alt": "",
+      "width": 2048,
+      "height": 1536,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/BRFS_BIG.png",
+      "alt": "SATS BRF Food logo",
+      "width": 1572,
+      "height": 750,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/shutterstock_1191365239-scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1706,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/case-studies-fidel-engineering.webp",
+      "alt": "Fidel Engineering logo",
+      "width": 270,
+      "height": 80,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/20240828_161720-1.jpeg",
+      "alt": "",
+      "width": 1147,
+      "height": 722,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/Screenshot-2025-11-04-142615.jpg",
+      "alt": "Stallion logo",
+      "width": 141,
+      "height": 162,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/image.png",
+      "alt": "",
+      "width": 1000,
+      "height": 315,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/Godrej_Logo.svg.png",
+      "alt": "Godrej Consumer Products Indonesia (GCPI) logo",
+      "width": 1200,
+      "height": 579,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/Green-Spot-Co-Ltd_1.jpg",
+      "alt": "",
+      "width": 1920,
+      "height": 1371,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/green_spot_thailand_ltd_logo.jpg",
+      "alt": "Green Spot Co. Ltd logo",
+      "width": 200,
+      "height": 200,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/factory2.png",
+      "alt": "",
+      "width": 1344,
+      "height": 672,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/1631107043079.jpg",
+      "alt": "Mandom Indonesia logo",
+      "width": 200,
+      "height": 200,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/Image_25680822_153415_953-scaled.jpeg",
+      "alt": "",
+      "width": 2560,
+      "height": 1920,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/11/FB_Logo.png",
+      "alt": "FB Battery logo",
+      "width": 646,
+      "height": 378,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/auk-logo-tagline.svg",
+      "alt": "Auk Industries",
+      "width": 300,
+      "height": 79,
+      "loaded": true
+    }
+  ],
+  "forms": [],
+  "stylesheets": [
+    "https://auk.industries/_astro/Consent.teixN1nf.css",
+    "https://auk.industries/_astro/BaseLayout.CcV9G0jb.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-R9LD4PY6L4",
+    "https://auk.industries/_astro/Consent.astro_astro_type_script_index_0_lang.DfehhebY.js",
+    "https://auk.industries/_astro/BaseLayout.astro_astro_type_script_index_0_lang.D4xMoNkI.js"
+  ],
+  "capturedAt": "2026-11-09T04:56:20.776Z",
+  "issues": [],
+  "adjustments": [],
+  "formSubmissionTested": false,
+  "viewportMode": "Desktop viewport"
+}

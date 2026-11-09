@@ -1,0 +1,220 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+Auk Blog
+27 Aug 2025
+Auk Community Note: Leveraging Data for TPM
+
+Total Productive Maintenance starts with accurate shop-floor data. How one client built their TPM framework on Auk's OEE, MTBF and MTTR history.
+
+28 Jul 2025
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+
+Connect button or sensor signals to Auk and changeovers, breakdowns and material shortages are detected and listed automatically, ready to label.
+
+1 Jul 2025
+Auk Community Note EP26: Feature Release – Smart Scheduling
+
+Smart Scheduling separates running SKUs automatically, benchmarks each against the right production plan and shows planned versus actual output in real time.
+
+21 Mar 2025
+Auk Community Note EP05: Hidden Opportunity – Uneven Shift Performance
+
+Night shifts often underperform day shifts unnoticed. How one manufacturer used shift-level data to close the gap and lift output.
+
+18 Mar 2025
+Auk Community Note EP04: Mastering MTBF & MTTR for Sustainable Operations Excellence
+
+What MTBF and MTTR mean, how to calculate them, and how manufacturers use both to cut breakdowns and shorten repair time.
+
+7 Mar 2025
+Auk Community Note EP03: Feature Release
+
+This week, we’re excited to announce the enhancement of 2 features, designed to deliver even greater control and visibility over your manufacturing operations.
+
+5 Mar 2025
+Auk Community Note EP02: Unlock Hidden Energy Savings in your Operations
+
+Idling machines quietly burn energy. How a metal fabrication client cut energy costs by 15% by measuring and acting on machine idle time.
+
+12 Aug 2024
+Importance of Takt Time and How to Calculate it
+
+Takt time matches production pace to customer demand. What it is, why it matters in lean manufacturing, and how to calculate it with an example.
+
+10 Aug 2024
+Short Interval Control (SIC) in Manufacturing: Importance and Implementation Challenges
+
+Short Interval Control (SIC) checks and adjusts production in short cycles. Why it matters, how to implement it and the challenges to expect.
+
+10 Aug 2024
+Understanding OEE to Maximize Operational Efficiency
+
+What OEE measures, how availability, performance and quality combine, and how to use OEE to lift operational efficiency in your plant.
+
+21 Jul 2024
+Understanding SMED: Importance and Implementation in a Factory
+
+SMED (Single-Minute Exchange of Dies) cuts changeovers to under 10 minutes. Why it matters and how to implement it in a factory, step by step.
+
+19 Jul 2024
+What is Fulfillment Rate, How to Calculate it and Challenges in Achieving the Targets
+
+Fulfillment (fill) rate is the share of orders delivered complete and on time. How to calculate it and the challenges in hitting the target.
+
+25 Jan 2021
+Capturing Industry 4.0 value: 4 Use Cases for your Plant
+
+Industry 4.0 is more than automation. Four use cases where IoT data improves efficiency, quality and customer satisfaction in a plant.
+
+25 Jan 2021
+What If All Your Staff Understood OEE?
+
+If everyone understood OEE, waste would get found faster. Why OEE literacy across the whole plant matters and how to build it.
+
+5 Jan 2021
+I4.0: 4 Reasons NOT to take the Leap
+
+Tired of hearing all about why you should take the step towards i4.0? Read on to find out why you SHOULD NOT.
+
+5 Jan 2021
+I4.0 Technologies for Business Owners, Operations, Engineering and Operators
+
+What Industry 4.0 technologies mean in practice for business owners, operations, engineering and operators – and what each role gains.
+
+5 Jan 2021
+The Agile Manufacturer: Line Balancing and Production Levelling with Real-Time Data
+
+Line balancing is the arrangement of machine capacity and operators in a line to eliminate bottlenecks and excess capacity.
+
+5 Jan 2021
+What is OEE and How To Get Started
+
+OEE (Overall Equipment Effectiveness) explained: the formula, what good looks like, and practical first steps to start measuring it.
+
+14 Dec 2020
+The 2 Essentials Needed to Commence Remote Operations
+
+Remote factory operations need two things: real-time data from the floor and a way for teams to act on it from anywhere. What each involves.
+
+25 Nov 2020
+Is Your Digital Transformation Failing? This Could Be Why.
+
+Most digital transformations miss their targets. The common reasons factories stall – and what the ones that succeed do differently.
+
+24 Nov 2020
+6 Steps to Kickstart the Digital Transformation Journey in Your Factory
+
+Six practical steps to start a digital transformation in your factory – from goals and quick wins to data, people and scaling what works.
+
+24 Nov 2020
+Moving Out of Adversity: Combating Covid-19 with Auk Industrial IoT System
+
+How manufacturers used Auk's industrial IoT system to keep operations running and visible through COVID-19 – and came out more resilient.
+
+24 Nov 2020
+Theory Of Constraints: Using It Ahead Of Competition
+
+The Theory of Constraints still works: find the bottleneck, exploit it, subordinate everything else to it. How manufacturers use it to stay ahead.
+
+4 Nov 2020
+Achieve More Good Than Harm: Put an End to Over-Maintenance
+
+Too much maintenance costs money and causes failures of its own. How to spot over-maintenance and right-size your maintenance programme.
+
+4 Nov 2020
+Implementing Downtime Analysis The Effective Way
+
+Downtime analysis finds the real reasons behind OEE losses. How to set it up, categorise stoppages and turn the data into fixes that stick.
+
+4 Nov 2020
+IoT-Readiness: Going Beyond IoT-Ready Machines
+
+IoT-ready machines are only the start. What IoT-readiness really takes in a factory – data, connectivity, people and processes – and how to get there.
+
+4 Nov 2020
+The Right Maintenance Techniques for Your Plant
+
+Predictive maintenance is only part of the picture. Reactive, preventive, condition-based and predictive techniques – and which fits which machine.
+
+4 Nov 2020
+Truths About Measuring Line Performance: Manual vs Tech
+
+Manual line-performance tracking vs real-time technology: what each misses, what it costs, and why hidden losses stay hidden on paper.
+
+4 Nov 2020
+Unique Advantages of Cloud-Based OEE Solutions
+
+Why cloud-based OEE beats on-premise: faster rollout, real-time visibility across plants, automatic updates and a lower cost to scale.
+
+4 Nov 2020
+Value Stream Mapping for Continuous Improvement
+
+Lean tools work best on a mapped value stream. What value stream mapping is, how to draw one, and how it drives continuous improvement.
+
+2 Nov 2020
+Invest in Real-Time Machine Monitoring Systems: Yes for these 6 Reasons
+
+Still unsure about real-time machine monitoring? Six reasons the investment pays off for manufacturers – and why it no longer means a costly build.
+
+2 Nov 2020
+OEE For Business Owners: Driving Positive Financial Impacts
+
+OEE explained for business owners: how measuring equipment effectiveness avoids needless CapEx and turns existing assets into profit.
+
+2 Nov 2020
+Should Lights-Out Factories be the Standard for Every Manufacturer?
+
+Lights-out factories run without people on the floor. Whether every manufacturer should aim for one – and what remote operations really need.
+
+2 Nov 2020
+Top 8 Lean Manufacturing Tools and How To Use Them
+
+The 8 most-used lean manufacturing tools – Jidoka, JIT, PDCA, 5S, Six Sigma, Heijunka, OEE and TPM – what each does and when to use it.
+
+2 Nov 2020
+Top 9 Common OEE Mistakes Made by Organisations
+
+Nine OEE mistakes manufacturers keep making – from the wrong baseline to chasing the number – and how to measure and use OEE properly.
+
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

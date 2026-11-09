@@ -1,0 +1,29 @@
+ICLAB PLATFORM
+
+Multilayer Visual Objects
+
+Up to 32 layers of information in a single object — putting data in context with what you can now SEE.
+
+HOW IT WORKS
+
+One object, many layers of insight
+
+A Multilayer Visual Object combines the original camera image with IoT data and AI-driven Machine Vision outputs. Each layer adds context: real-time sensors, detected events, environmental data — overlaid on top of the live scene.
+
+Flat Object
+
+Flat Objects have no treatment and are shown as captured by a camera. It's our single-layer object, where actions based on motion can be configured or a recording made for future reference, research, auditing or accountability.
+
+Augmented Object
+
+Augmented Objects receive new layers from IoT Devices spread across your network. This information is captured by the ICLab Gateway, which sends it for processing together with the captured image, creating a new Multilayer Visual Object that replaces the original flat object. Multiple IoT Devices can be used to add intelligence to the Augmented Scenario.
+
+Machine Vision Object
+
+Machine Vision Objects are flat objects processed by Artificial Intelligence, resulting in a Machine Vision Assessment that adds new layers of information about the analysed scene. The new information is formatted and added as a new layer into a Multilayer Visual Object, generating reports and replacing the flat object in our Dashboard.
+
+Ready to See the Platform in Action?
+
+Let's talk about how IClab can power your operation.
+
+CONTACT US

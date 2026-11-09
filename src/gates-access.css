@@ -1,0 +1,95 @@
+.gates-access-page .about-reference-hero {
+  background: #252525;
+}
+.gates-access-page .about-hero-photo {
+  left: auto;
+  right: 0;
+  width: 58%;
+  object-position: right 70%;
+}
+.gates-access-page .about-hero-panel {
+  border-left: 3px solid #cc0033;
+}
+.gates-access-page .about-hero-geometry:before {
+  right: 14%;
+  width: 210px;
+  height: 130px;
+}
+.gates-access-page .about-hero-geometry:after {
+  right: -75px;
+  width: 170px;
+}
+.gates-access-page .industry-overview-grid > p:last-child {
+  grid-column: 1 / -1;
+}
+.gates-access-page .industry-terminal-photo {
+  top: 0;
+  height: 100%;
+  object-position: right bottom;
+  clip-path: none;
+  opacity: 0.35;
+}
+.gates-access-page .industry-capability-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 26px;
+}
+.gates-access-page .industry-capability {
+  width: 100%;
+  padding: 30px;
+}
+.gates-access-page .industry-capability:nth-child(even) {
+  align-self: stretch;
+}
+.gates-access-page .industry-capability h3 {
+  font-size: 20px;
+}
+.gates-access-page .industry-capability li + li {
+  margin-top: 16px;
+}
+.gates-access-page .industry-capability strong {
+  font-weight: 600;
+  color: #333;
+}
+.gates-access-page .industry-benefit-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+@media (max-width: 1000px) {
+  .gates-access-page .about-hero-photo {
+    width: 75%;
+  }
+  .gates-access-page .industry-capability {
+    padding: 25px;
+  }
+}
+@media (max-width: 760px) {
+  .gates-access-page .about-reference-hero {
+    min-height: 0;
+  }
+  .gates-access-page .about-hero-photo {
+    width: 100%;
+    opacity: 0.4;
+  }
+  .gates-access-page .about-hero-geometry:before {
+    right: -30px;
+    width: 140px;
+  }
+  .gates-access-page .about-hero-geometry:after {
+    display: none;
+  }
+  .gates-access-page .industry-terminal-photo {
+    opacity: 0.2;
+  }
+  .gates-access-page .industry-capability-list,
+  .gates-access-page .industry-benefit-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .gates-access-page .industry-capability {
+    padding: 23px;
+  }
+}
+@media (max-width: 360px) {
+  .gates-access-page .industry-capability {
+    padding-inline: 18px;
+  }
+}

@@ -1,0 +1,142 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+
+Blog · 4 November 2020
+
+The Right Maintenance Techniques for Your Plant
+
+In this age of digital transformation, smart technologies which can forewarn us of equipment breakdowns are garnering popularity. Industrial players and manufacturers invest in various sensor networks and predictive technologies to harness their benefits.
+
+Practically speaking, predictive maintenance techniques form only a part of the bigger picture. Many pieces of machinery breakdown due to common technical problems such as power failures or lubrication failures. These problems can be addressed through simpler and more cost-effective maintenance techniques. On the other hand, some machines may suffer rare kinds of failures and it would be costly to develop an exhaustive amount of predictive models to predict them.
+
+When deciding between which maintenance techniques to adopt, we propose an open-minded approach where manufacturers use a mix of the different techniques, in the proportion tailored to the nature of their industry and the equipment involved.
+
+The five types of maintenance techniques are:
+
+Breakdown maintenance (Reactive)
+Time-based maintenance (Preventive)
+Usage-based maintenance (Preventive)
+Condition-based maintenance (Preventive)
+Predictive maintenance
+Understanding the different maintenance techniques
+Breakdown maintenance
+
+“Breakdown maintenance is akin to repairing your laptop. No maintenance is usually performed on it, until an error or breakdown occurs. It aims to correct the laptop’s problems and restore it to proper working conditions”
+
+Breakdown maintenance is usually unplanned. It is performed when a piece of equipment shows unexpected symptoms of failure or that it has broken down prior to planned maintenance. Breakdown maintenance may be more costly than planned maintenance because it causes unforeseen downtime and disruptions to productions. In practice, breakdown maintenance is feasible when there is no safety risk associated with the breakdown of equipment.
+
+For certain industries such as automobile and aviation, however, breakdown maintenance should not be relied upon. Regular preventive and predictive maintenance has to be performed on both the manufacturing equipment and the final product – e.g. cars and aircraft because any failure could lead to life-threatening situations. It would be too late to perform breakdown maintenance after the occurrence of a fatal accident.
+
+Time-based maintenance
+
+“Time based maintenance is similar to regular maintenance of your air-conditioner. Maintenance is duly scheduled for every three to six months. It is a form of planned maintenance.”
+
+Time-based maintenance is scheduled according to the failure time analysis (e.g. failure rate trends) of each piece of equipment. It presumes that the failure behaviour and expected lifetime of each equipment remain largely similar and hence, may be anticipated.
+
+Example of a failure rate trend used to estimate when a piece of equipment would breakdown.
+
+The common types of time-based maintenance performed include:
+
+Fixed intervals – Fixed amount of time between each scheduled maintenance
+Routine tasks – Maintenance that occurs regularly
+Contractual basis – Performed by external contractors based on the terms of the service contract
+
+To optimise Overall Equipment Effectiveness (OEE) – a metric used to determine the overall efficiency of machines on the production floor, time-based maintenance (planned downtime) is preferred over breakdown maintenance (unplanned downtime). Since time-based maintenance follows a strict maintenance schedule, managers on the production floor can receive notice in advance to reshuffle the work schedule of the operators and make up for the loss of productivity incurred during the scheduled maintenance.
+
+Despite its merits, the main caveat concerned with time-based maintenance is its inability to account for the complexity and the changing conditions of the equipment over time. For instance, equipment often deteriorates when they are utilised more vigorously to meet sudden demand spikes.
+
+Usage-based maintenance
+
+“Usage based maintenance is like changing the engine oil of your car, after every 10,000km travelled. The 10,000km is called the usage threshold. A Computerised Maintenance Management System (CMMS) is often alerted when the use of a piece of equipment exceeds the usage threshold”
+
+Usage-based maintenance is performed when necessary, based on the utilisation level of equipment, rather than an arbitrary maintenance date. This minimises the likelihood of over-maintenance on equipment which are lightly used and under-maintenance on those which are used more intensely. Examples of usage thresholds adopted by manufacturers include machine cycles and the running hours of equipment.
+
+For usage-based maintenance to succeed, manufacturers would have to set up the relevant equipment (such as a meter) and CMMS to capture the readings.
+
+Usage-based maintenance is effective in reducing the occurrences of unplanned failures and downtime which are costly. Unlike time-based maintenance, however, it may be difficult to assemble the necessary resources such as manpower to perform maintenance, as and when a piece of equipment requires usage-based maintenance.
+
+Condition-based maintenance
+
+“Think about maintenance performed on a motorbike when there is a decline in its performance. Perhaps it requires new lubrication or a change of tires. If left without maintenance, the motorbike may eventually breakdown.”
+
+Condition-based maintenance requires monitoring the condition of the equipment and arranging for the relevant maintenance works to be performed. The monitoring of conditions may be performed via non-invasive measurements, visual inspection, performance data or scheduled tests.
+
+The use of monitoring techniques can help to discover anomalies early and provide sufficient time for maintenance.
+
+Some specific examples of condition-based monitoring techniques include:
+
+Motor current (ampere) trend analysis – The study of how the pattern of electrical current consumed by the main motor changes over time. Sudden spikes or sudden increase in peak current may signal deteriorating machine condition.
+Lubricant (oil) analysis – The study of oil health, oil contamination and machine wear to ensure that a lubricated machine is operating normally
+Vibration analysis – Vibration sensors are used to detect when rotating equipment such as compressors and motors are vibrating too much
+Infrared thermography – Infrared cameras are used to detect abnormal high-temperature conditions in energised electrical equipment
+
+Since maintenance is performed whenever an anomaly is discovered, the equipment can be fixed and restored to its normal conditions, avoiding a break down. As previously described, however, condition-based maintenance does not solely rely on visual inspections and other necessary sensors have to be installed. Operators on the production floor would also have to be trained to identify the red flags and rectify them as soon as possible.
+
+Predictive maintenance
+
+“Data collected by sensors on the wear-and-tear of railway tracks and trains allow railway mechanics to predict when they may breakdown and the type of maintenance required. By identifying and rectifying the problem areas, the public transport system can therefore operate more smoothly.”
+
+With CMMS, structured and unstructured, machine and non-machine-based data can be used to generate insights which are unobservable through visual inspections. The intelligence provided by predictive maintenance is proven to help reduce machine downtime by around 30 to 50%.
+
+In our dynamic and ever-changing manufacturing environment, the anticipation of failures and breakdowns remains a top priority for manufacturers. Easy-to-use CMMS which can generate visualisation tables and graphs have made it easier for operators and managers to contribute their expertise and further improve the accuracy of predicting breakdowns ahead of time.
+
+To successfully implement predictive maintenance, manufacturers must not only have a well-established data repository and backbone but also have diligent and systematic housekeeping measures in place to manage the data and allow others in the organisation to utilise them.
+
+As previously mentioned, however, machine failures come in all shapes and sizes. Different machines also breakdown differently. Based on the nature and type of each equipment, it may or may not make sense to invest enormous resources (time and financials) to build predictive models around them.
+
+Most manufacturers are already using a mix of maintenance techniques. Some are using Enterprise Resource Planning (ERP) systems to schedule time-based maintenance whereas others have installed sensors on more costly equipment, for the purpose of predictive maintenance. As shown, each maintenance technique has its own benefits and limitations.
+
+“There is no “one size fits all” approach to maintenance and manufacturers have to engage in an ongoing process to balance between budget, resources and the stage of the production facility to select the optimal mix of maintenance techniques”
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

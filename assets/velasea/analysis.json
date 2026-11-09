@@ -1,0 +1,165 @@
+{
+  "source": "https://velasea.com",
+  "analyzedAt": "2026-11-07T14:24:11.127Z",
+  "business": "B2B purpose-built computing, OEM hardware and enterprise infrastructure for integrators and software partners. Primary conversion paths are solutions, case studies, contact and quote requests.",
+  "navigation": [
+    "Company",
+    "Solutions",
+    "Services",
+    "Products",
+    "Support",
+    "Sales"
+  ],
+  "technology": {
+    "cms": "WordPress",
+    "theme": "Divi v.4.27.9",
+    "observedPlugins": [
+      "Divi Pixel",
+      "Divi Plus",
+      "Divi Mega Pro",
+      "Gravity Forms",
+      "WooCommerce",
+      "YMC Smart Filter"
+    ],
+    "chat": "Zoho SalesIQ"
+  },
+  "visualDesign": {
+    "palette": {
+      "accent": "#CC0033",
+      "darkerAccent": "#AA002B",
+      "headerAndFooter": "#000000",
+      "sectionDark": "#1A1A1A",
+      "contentText": "#444444",
+      "lightText": "#CCCCCC",
+      "lightBackground": "#FFFFFF"
+    },
+    "typography": {
+      "headings": "Josefin Sans, uppercase and spaced lettering",
+      "body": "Overpass",
+      "observedBody": {
+        "text": "Company\nSolutions\nServices\nProducts\nSupport\nSales\nTELL US THE PROBLEM.\nWE’LL ENGINEER THE SYSTEM.\nVelasea designs, builds, and supports purpose-built computing for integrators, OEM",
+        "tag": "BODY",
+        "fontFamily": "Overpass, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "27.2px",
+        "color": "rgb(68, 68, 68)",
+        "backgroundColor": "rgb(255, 255, 255)"
+      }
+    },
+    "motifs": [
+      "Angular red brand shapes",
+      "Diagonal charcoal texture",
+      "Enterprise photography",
+      "Monochrome red SVG icons",
+      "Rectangular red CTA buttons",
+      "Alternating light and dark sections"
+    ],
+    "desktop": "Horizontal navigation, two-column hero, multi-column cards and footer.",
+    "mobile": "Hamburger navigation, smaller logo, image above hero copy, stacked content and footer columns."
+  },
+  "homepageSections": [
+    "Header/navigation",
+    "Problem/solution hero with three CTAs",
+    "Product-category icon carousel",
+    "Pain points and value proposition",
+    "Facility photography and embedded video",
+    "Three engineering/quality/expertise cards",
+    "Company statistics and network/leadership/career links",
+    "News and press carousel",
+    "Newsletter form",
+    "Contact/social footer"
+  ],
+  "observations": {
+    "horizontalOverflow": [
+      {
+        "url": "https://velasea.com/oem/",
+        "device": "mobile",
+        "viewportWidth": 390,
+        "documentWidth": 417
+      }
+    ],
+    "missingDescription": [
+      "https://velasea.com/about/",
+      "https://velasea.com/blog/",
+      "https://velasea.com/careers/",
+      "https://velasea.com/collection/media-players/",
+      "https://velasea.com/collection/professional-series/",
+      "https://velasea.com/collection/video-wall-controllers/",
+      "https://velasea.com/contact/",
+      "https://velasea.com/news/",
+      "https://velasea.com/oem/",
+      "https://velasea.com/partners/",
+      "https://velasea.com/products/networking/",
+      "https://velasea.com/products/nvrs/",
+      "https://velasea.com/products/screening/",
+      "https://velasea.com/products/servers/",
+      "https://velasea.com/products/storage/",
+      "https://velasea.com/products/workstations/",
+      "https://velasea.com/professional-services/",
+      "https://velasea.com/rentals/",
+      "https://velasea.com/solutions/aviation/",
+      "https://velasea.com/solutions/casinos/",
+      "https://velasea.com/solutions/data-centers/",
+      "https://velasea.com/solutions/",
+      "https://velasea.com/solutions/education/",
+      "https://velasea.com/solutions/finance/",
+      "https://velasea.com/solutions/government/",
+      "https://velasea.com/solutions/healthcare/",
+      "https://velasea.com/solutions/hospitality/",
+      "https://velasea.com/solutions/industrial/",
+      "https://velasea.com/solutions/infrastructure/",
+      "https://velasea.com/solutions/maritime/",
+      "https://velasea.com/solutions/mining/",
+      "https://velasea.com/solutions/real-estate/",
+      "https://velasea.com/solutions/retail/",
+      "https://velasea.com/solutions/transportation/",
+      "https://velasea.com/solutions/utilities/",
+      "https://velasea.com/support/"
+    ],
+    "multipleVisibleH1": [
+      {
+        "url": "https://velasea.com/careers/",
+        "count": 3
+      },
+      {
+        "url": "https://velasea.com/",
+        "count": 4
+      },
+      {
+        "url": "https://velasea.com/ironlink/",
+        "count": 2
+      },
+      {
+        "url": "https://velasea.com/professional-services/",
+        "count": 2
+      },
+      {
+        "url": "https://velasea.com/rentals/",
+        "count": 2
+      },
+      {
+        "url": "https://velasea.com/video-analytics/",
+        "count": 2
+      }
+    ],
+    "embeddedVideo": "The homepage embedded video showed a connection/security restriction during capture. The screenshots preserve that observed third-party state.",
+    "floatingChat": "The live chat prompt overlays part of the content on small screens.",
+    "caveat": "These are rendered-page observations, not a full accessibility, SEO or performance audit. Carousel copies can inflate heading counts."
+  },
+  "collection": {
+    "uniquePages": 44,
+    "screenshots": 42,
+    "images": 637,
+    "scope": "20 primary pages on desktop/mobile plus 24 related pages; public same-domain images only; not a complete website mirror",
+    "includesResponsiveVariants": true
+  },
+  "files": {
+    "images": "assets/velasea/images/",
+    "desktopScreenshots": "assets/velasea/screenshots/desktop/",
+    "mobileScreenshots": "assets/velasea/screenshots/mobile/",
+    "imageManifest": "assets/velasea/manifest.json",
+    "pageMetadata": "assets/velasea/pages/"
+  },
+  "rightsNote": "Original images and trademarks belong to their respective owners. Downloading does not grant reuse rights."
+}

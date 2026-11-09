@@ -1,0 +1,123 @@
+CASE STUDY
+Charting Long-Term Growth & Receptiveness Towards Technology
+
+Indonesian Snack Manufacturer leverages IoT technologies to not only digitalise for growth but also develop a technologically-savvy workforce.
+
+Quality, taste, freshness and innovation has always been at the forefront of PT Dua Kelinci, leading snack manufacturer in Indonesia (e.g. Sukro, the roasted nuts brand). It is no surprise that Dua Kelinci is always on the lookout for ways to improve operations and deliver greater value to its consumers across Asia, Europe, North America and more. In 2019, Dua Kelinci decided to implement Auk Industries’ solutions with the goal to maximise the potential of their existing industrial assets and transform into a Industry 4.0-savvy manufacturer.
+
+Why Auk Industries?
+
+Auk Industries was chosen among other Industrial IoT vendors because of its future-proof and plug-and-play systems. The Auk Edge IoT device comes with out-of-the-box connection capabilities—simply connect your machines to it and the implementation would be completed within minutes; no complicated coding or configurations are required. Finally, there is also no need to invest in additional WIFI/LAN infrastructure on the production floor.
+
+The Pain Points
+
+Dua Kelinci was frustrated with its manual data collection process. Not only was it time-consuming to record the performance of each industrial asset and input them individually into a spreadsheet, but it was also difficult to attribute the breakdowns to the responsible parties. Despite many rounds of back-and-forth communications and finger-pointing between the operators, the managers often remain oblivious and do not know who caused the breakdowns.
+
+The business also suffered from repeated delays in the production process but did know how to resolve them. In one instance, Dua Kelinci knew that there were bottlenecks occurring downstream but could not find out where exactly they were. Although Dua Kelinci tried increasing the speed of some downstream machines, the situation still did not improve because they were not making the right improvement efforts on the right areas—i.e. the bottleneck machines.
+
+Little Steps Towards Improvement
+
+In spite of these challenges, Dua Kelinci did not take ‘no’ for an answer. They implemented different measures such as lean manufacturing and TPM, conducting workforce training, and using six sigma to eliminate defects. The main caveat of these methods is that improvements were made based on past data, which prevented the business from optimising performance on-the-fly.
+
+The opportune moment came when Dua Kelinci started their digital transformation journey with Auk Industries. Upon connecting the Edge IoT device to some of their machines, quasi-real-time data started streaming into the paired data analytics platform. This was a breakthrough as the transition from ‘past data’ to ‘real-time data’ has opened new doors to performance improvement.
+
+The company has yet to completely do away with years of cumbersome manual data collection, but many parts of the factory performance can now be visualised anytime, anywhere. With the click of a button, managers can toggle between factory-level view, production line view and even machine view to monitor the health of each machine.
+
+Digitalisation is not without its challenges
+
+While the technical implementation of the Industrial internet of things (IIoT) technologies had gone off without a hitch, the remaining parts of the digital transformation journey has not been easy. One of the biggest challenges faced by Dua Kelinci is to educate and encourage its operators to adopt and embrace the technologies.
+
+In the beginning, many operators preferred the status quo and resisted digitalisation. Despite the many explanations detailing that the technologies were meant to improve operations for the better, the manufacturer experienced oppositions and push-backs from the operators in the form of complaints and refusal to use the new technological tools.
+
+“We implemented an online tagging system for operators to quickly and easily flag out issues along the production line but some operators simply insisted on reverting to the old-school style of recording them on paper chits. When I encourage them to embrace the new technological tool, these operators say they lack the technology-savviness to use it.”
+
+– Pak Thoriq, Project Champion of Dua Kelinci’s 2019 Digitalisation project
+
+Fortunately for Dua Kelinci, Pak Thoriq and team never gave up in the face of these challenges. Rather, they helped to bridge the gaps between the operators and technologies. Since Day 1, Pak Thoriq has been unrelentlessly going around the production floor to conduct on-the-job training to guide operators until they were proficient with the various technological tools at hand.
+
+“Technologies such as Artificial Intelligence are becoming increasingly smarter—some can detect and fix breakdowns before we are even aware while others do automation at the speed of lightning. My urgent task at hand is to help all our operators stay competitive and get ahead of the curve by adapting to the advancement of technologies.”
+
+– Pak Thoriq
+
+The Silver Lining
+
+Pak Thoriq’s monthslong efforts finally paid off when most of the operators stopped complaining and started using the technologies on a daily basis. For instance, some operators have formed the habit of regularly checking the real-time Overall Equipment Effectiveness (OEE) dashboard to monitor the performance of their production line and make sure that they are performing up-to-standard during their shift. Moreover, there was positive feedback from operators that this real-time Overall Equipment Effectiveness (OEE) dashboard has helped them to meet production targets without having to work overtime.
+
+Now, the business is only left with a handful of operators who are less proficient and receptive towards technology but Pak Thoriq is not leaving them to the lurch. Dua Kelinci is currently working with Auk Industries but to create a simple and intuitive changelog function for operators to chronologically record notable changes they have made during their work shift. This user-friendly changelog is intentionally designed in a manner that even the less technologically-savvy operators could use with ease. Pak Thoriq hopes that this initiative will provide the less technologically-savvy operators with a first-hand experience with Industry 4.0 technologies and allow them to discover the positive impact of technology for themselves.
+
+“The creation of the changelog function is another testimony to the adaptability and agility of Auk Industries. If we had selected on-premise, build-to-order technological solutions, we would have been left to fend for ourselves. Who would have thought it was still possible to make improvements along the way and custom-create features specifically suited for Dua Kelinci?”
+
+– Pak Thoriq
+
+What is next?
+
+Alongside the many glamorous and successful stories are the bittersweet experiences of manufacturers, like Dua Kelinci, who are pressing on with digital transformation amidst the challenges. Digitalisation did not come easy but Dua Kelinci remains resolute to strive for long-term growth with Auk Industries. It is an exciting time as the business looks to leveraging IIoT across factories and geographies so they can monitor and analyse all manufacturing activities in real-time and remotely from anywhere in the world.
+
+SHARE THIS
+Facebook
+LinkedIn
+Twitter
+Telegram
+WhatsApp
+More Case Studies
+
+Food & Beverage, Consumer
+
+Achieving Greater Efficiency Through Digitalisation: Fonterra
+
+How Fonterra Brands Manufacturing Indonesia used Auk's real-time production data to raise efficiency…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Better Visualisation with Auk: A SATS Case Study
+
+How SATS, Asia's in-flight and institutional caterer, used Auk's real-time visualisation to work…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Zero to One: Rapid Digital Transformation of a Chocolatier
+
+IIoT digitalisation puts an end to a Chocolatier’s years-long search for a suitable…
+
+Read More →
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

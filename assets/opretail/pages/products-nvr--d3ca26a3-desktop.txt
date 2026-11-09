@@ -1,0 +1,170 @@
+Products
+Products
+People counters
+Network video recorder (NVR)
+People counting analytics
+Store inspection devices
+Solutions
+Solutions
+People counting
+Demographic analysis
+Heatmap analysis
+Occupancy management
+Store KPI analysis
+Marketing effectiveness measurement
+Queue management
+Industries
+Industries
+Retail store
+Shopping mall
+Event & exhibition
+Resources
+Help center
+Technical support
+Installation service
+FAQs
+Others
+Blog
+Download
+Open API
+Company
+About us
+Contact us
+Become a partner
+中文
+Login
+Free trial
+
+Products
+
+Network video recorder
+AI NVR
+Utilize an AI NVR (Dolphin1-A™) to enhance your current camera system with advanced data analysis capabilities.
+NVR
+This network video recorder supports 8, 16, or 32 channels, providing secure storage and management for your store's video footage.
+Why you need an NVR?
+Upgrading your existing cameras with an NVR
+
+Sometimes, upgrading your existing cameras with a Network Video Recorder (NVR) is essential to harness the power of AI-enabled data analysis. NVRs provide the processing power and storage capabilities required for advanced AI algorithms to analyze video data in real-time, enabling features such as object recognition and behavior analysis. By integrating NVRs with existing cameras, businesses can unlock valuable insights, improve security, and optimize operations without having to replace their entire camera infrastructure.
+
+For people counting
+
+Leverage the network video recorder embedded with people counting algorithm for people counting analysis.
+
+Use your existing cameras + NVR
+Utilize your existing video camera setup
+Adopts embedded algorithms, which includes the people counting algorithm
+Easily add your existing video camera to the NVR through the ONVIF protocol
+Plug and Play, with PoE power supply support
+Supports RTSP
+Accommodates up to 8-channel network cameras, with the capability to connect up to 6-channel algorithms
+Note:
+You still have the option to utilize intelligent video cameras (people counters) for comprehensive people flow analysis. For further details, please refer to our people counter products.
+For AI surveillance
+
+Utilize the network video recorder with AI algorithm for monitoring objects and analyzing behavior.
+
+Use your existing cameras + NVR
+Utilize your existing video camera setup
+Low power edge intelligent video analysis
+Supports storage and playback
+Easily add your existing video camera to the NVR through the ONVIF protocol
+Plug and Play, with PoE power supply support
+Supports RTSP
+Accommodates up to 8-channel network cameras, with the capability to connect up to 6-channel algorithms
+Applications:
+Object recognition Behavior analysis Security and safety
+Our product
+AI NVR
+
+Edge AI server. Versatile all-in-one solution
+
+Handles up to 8 HD full-motion video streams with ease
+Integrates with OVOPARK’s cloud platform for store inspections, traffic analysis, and operation insights
+Supports existing cameras
+Dual HDMI outputs for diverse content distribution
+Dolphin1-A™ factsheets
+NVR
+
+Efficient video storage and management
+
+Centralized management of front-end cameras
+Secure storage of surveillance footage
+NVR factsheets
+Features
+Real-time
+
+Harnessing state-of-the-art technology, our people counting solution meticulously tallies real-time data, providing insights into traffic and dwell-time analytics.
+
+Accurate counting
+
+Our people counting solution enables you to eliminate duplicated counts, ensuring the most accurate traffic data in your store.
+
+AI-powered
+
+Elevate your insights with AI-powered people counting, harnessing embedded AI algorithms to discern gender and ages to know your customer bases.
+
+Comprehensive reporting
+
+Advanced analytics that produce thorough reports, providing detailed insights into foot traffic, dwell time, and other essential data.
+
+Frequently asked questions
+Where is OVOPARK based?
+How can I check the data with your analytics software/Apps?
+Can I view periodic Excel reports with data comparisons across stores?
+Can I connect my hardware equipment to your platform?
+Can the people counting system omit the trolley count?
+Read more
+Explore more
+
+Discover more about our products! Explore further details in the following sections.
+
+Industries
+
+OVOPARK's solution is mainly aimed at retail stores, large commercial complexes, events, exhibitions, art galleries, museums and other public spaces.
+
+Read more
+Products
+
+Our people counting devices and software offer accurate measurement of footfalls, dwell time, heatmap, demographics, and more.
+
+Read more
+Solutions
+
+We continuously contemplate the valuable insights and benefits that the people counting system can deliver across various scenarios.
+
+Read more
+Contact now
+
+For further details about our solutions or products, please provide your business information or initiate a live chat with us.
+
+Request a demo
+Become a partner
+
+People counting for retail operation
+
+Building 9, Mudu International Film and Television City, Wuzhong District, Suzhou, Jiangsu Province, China
+WhatsApp:
++86-13771942521
+Email:
+info@opretail.com
+Products
+All products
+Request a demo
+Login
+Industries
+Retail store
+Shopping mall
+Event & exhibition
+Resources
+Blog
+Help center
+Download
+Open API
+Company
+About us
+Contact us
+Become a partner
+© 2025 OVOPARK Technology Co., Ltd. All rights reserved
+ 苏ICP备16028066号-11
+Cookie Policy

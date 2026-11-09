@@ -1,0 +1,149 @@
+.support-reference-page .about-reference-hero { min-height: 460px; }
+.support-reference-page .about-hero-photo { object-position: center 30%; }
+.support-reference-page .about-hero-panel { width: 570px; padding: 26px; }
+.support-hero-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 16px 22px; margin-top: 24px; }
+.support-reference-page .home-button { border-radius: 0; font-size: 12px; gap: 18px; }
+.support-reference-page .home-button svg { width: 16px; height: 16px; }
+.support-text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 44px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.8;
+  color: #b0002d;
+}
+.support-text-link svg { width: 16px; height: 16px; }
+.support-text-link:hover { text-decoration: underline; text-underline-offset: 4px; }
+.support-hero-actions .support-text-link { color: #fff; }
+.support-topics-section { padding-block: 44px 64px; }
+.support-topics-section .industry-breadcrumb { margin-bottom: 36px; }
+.support-section-heading { margin-bottom: 30px; }
+.support-section-heading > p { max-width: 770px; }
+.support-topic-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; }
+.support-topic {
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  align-items: start;
+  gap: 20px;
+  padding: 26px 30px;
+  background: #f5f5f5;
+  border-top: 2px solid #cc0033;
+  transition: background 200ms;
+}
+.support-topic > svg { width: 29px; height: 29px; color: #cc0033; margin-top: 4px; }
+.support-topic h3 { font-size: 19px; line-height: 1.6; font-weight: 500; margin-bottom: 10px; }
+.support-reference-page .support-topic p { font-size: 12px; line-height: 1.9; }
+.support-topic > div > span { display: flex; align-items: center; gap: 9px; font-size: 11px; line-height: 1.8; margin-top: 18px; color: #b0002d; }
+.support-topic > div > span svg { width: 15px; height: 15px; transition: transform 200ms; }
+.support-topic:hover { background: #ededed; }
+.support-topic:hover > div > span svg { transform: translate(2px, -2px); }
+.support-preparation { padding-block: 64px; background: #f3f3f3; }
+.support-preparation-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 70px; align-items: start; }
+.support-preparation-layout > div { min-width: 0; }
+.support-reference-page .support-preparation-layout > div > p { font-size: 13px; }
+.support-checklist { display: grid; gap: 25px; margin: 30px 0 0; padding: 0; list-style: none; }
+.support-checklist li { display: flex; align-items: flex-start; gap: 17px; }
+.support-checklist li > svg { width: 24px; height: 24px; color: #cc0033; margin-top: 3px; }
+.support-checklist h3 { font-size: 14px; font-weight: 500; line-height: 1.7; margin-bottom: 6px; }
+.support-reference-page .support-checklist p { font-size: 12px; line-height: 1.9; }
+.support-process-panel { background: #262626; color: #fff; padding: 31px; border-top: 3px solid #cc0033; }
+.support-process-panel > h3 { font-size: 22px; font-weight: 400; line-height: 1.6; margin-bottom: 26px; }
+.support-process { margin: 0; padding: 0; list-style: none; display: grid; gap: 24px; }
+.support-process li { display: flex; align-items: flex-start; gap: 20px; }
+.support-process li + li { padding-top: 23px; border-top: 1px solid #ffffff26; }
+.support-process li > span { flex-shrink: 0; color: #ff8cab; font-size: 22px; font-weight: 400; line-height: 1.5; }
+.support-process h4 { font-size: 14px; font-weight: 500; line-height: 1.7; margin: 0 0 7px; }
+.support-reference-page .support-process p { color: #ddd; font-size: 12px; line-height: 1.9; }
+.support-safety-note { display: flex; align-items: flex-start; gap: 13px; padding-top: 23px; margin-top: 25px; border-top: 1px solid #ffffff26; }
+.support-safety-note > svg { width: 22px; height: 22px; color: #ff8cab; margin-top: 3px; }
+.support-reference-page .support-safety-note p { font-size: 11px; line-height: 1.9; color: #ccc; }
+.support-process-panel > .support-text-link { margin-top: 17px; color: #ff8cab; }
+.support-faq { display: grid; grid-template-columns: 0.65fr 1.35fr; gap: 70px; padding-block: 64px; }
+.support-faq > div { min-width: 0; }
+.support-reference-page .support-faq-intro p { font-size: 13px; }
+.support-faq-intro > .support-text-link { margin-top: 21px; }
+.support-faq-list { border-top: 1px solid #ddd; }
+.support-faq-list details { border-bottom: 1px solid #ddd; }
+.support-faq-list summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding-block: 22px;
+  min-height: 76px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.8;
+  cursor: pointer;
+  list-style: none;
+}
+.support-faq-list summary::-webkit-details-marker { display: none; }
+.support-faq-list summary::marker { content: ""; }
+.support-faq-list summary > svg { width: 18px; height: 18px; color: #cc0033; transition: transform 200ms; }
+.support-faq-list summary:hover { color: #b0002d; }
+.support-faq-list details[open] summary > svg { transform: rotate(180deg); }
+.support-faq-list details > div { padding: 0 36px 23px 0; }
+.support-reference-page .support-faq-list p { font-size: 12px; line-height: 1.95; }
+.support-contact { padding-block: 52px 26px; color: #fff; }
+.support-contact-layout { display: grid; grid-template-columns: 1fr auto; gap: 70px; align-items: center; }
+.support-contact .industry-kicker { color: #ff8cab; }
+.support-contact h2 { font-size: 29px; font-weight: 400; line-height: 1.6; letter-spacing: 0; margin-bottom: 15px; }
+.support-reference-page .support-contact-layout p { font-size: 13px; color: #ddd; }
+.support-contact-actions { display: flex; flex-direction: column; align-items: flex-start; gap: 12px; }
+.support-contact-actions .support-text-link { color: #fff; }
+.support-scope-note { border-top: 1px solid #ffffff20; padding-top: 21px; margin-top: 36px; }
+.support-reference-page .support-scope-note p { font-size: 10px; line-height: 1.85; color: #ccc; }
+
+/* Keep support information readable when scroll effects are unavailable. */
+.support-reference-page [data-support-reveal].support-revealed {
+  animation: support-reveal 600ms cubic-bezier(0.22, 1, 0.36, 1) var(--support-delay, 0ms) both;
+}
+@keyframes support-reveal {
+  from { opacity: 0; transform: translateY(22px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@media (max-width: 1000px) {
+  .support-preparation-layout, .support-faq { gap: 40px; }
+  .support-faq { grid-template-columns: 0.8fr 1.2fr; }
+  .support-contact-layout { gap: 40px; }
+  .support-topic { padding: 24px; gap: 17px; }
+  .support-topic h3 { font-size: 17px; }
+  .support-process-panel { padding: 27px; }
+}
+@media (max-width: 760px) {
+  .support-reference-page .about-reference-hero { min-height: 0; }
+  .support-reference-page .about-hero-inner { padding-block: 34px; }
+  .support-reference-page .about-hero-panel { width: 100%; padding: 23px; }
+  .support-reference-page .about-hero-panel h1 { font-size: 27px; }
+  .support-hero-actions { gap: 10px 18px; margin-top: 22px; }
+  .support-topics-section { padding-block: 30px 42px; }
+  .support-topics-section .industry-breadcrumb { margin-bottom: 28px; }
+  .support-section-heading { margin-bottom: 25px; }
+  .support-topic-grid { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  .support-topic { grid-template-columns: 29px minmax(0, 1fr); padding: 23px 20px; gap: 15px; }
+  .support-topic > svg { width: 26px; height: 26px; }
+  .support-topic h3 { font-size: 18px; }
+  .support-preparation { padding-block: 42px; }
+  .support-preparation-layout, .support-faq { grid-template-columns: minmax(0, 1fr); gap: 32px; }
+  .support-checklist { gap: 23px; margin-top: 27px; }
+  .support-checklist li { gap: 15px; }
+  .support-process-panel { padding: 26px 23px; }
+  .support-process-panel > h3 { font-size: 21px; }
+  .support-process li { gap: 16px; }
+  .support-faq { padding-block: 42px; }
+  .support-faq-intro > .support-text-link { margin-top: 15px; }
+  .support-faq-list summary { font-size: 13px; padding-block: 19px; min-height: 70px; gap: 15px; }
+  .support-faq-list details > div { padding: 0 0 21px; }
+  .support-contact { padding-block: 40px 25px; }
+  .support-contact-layout { grid-template-columns: minmax(0, 1fr); gap: 26px; }
+  .support-contact h2 { font-size: 25px; }
+  .support-scope-note { margin-top: 28px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .support-reference-page [data-support-reveal],
+  .support-reference-page [data-support-reveal].support-revealed { animation: none; opacity: 1; transform: none; }
+  .support-topic, .support-topic > div > span svg, .support-faq-list summary > svg { transition: none; }
+  .support-topic:hover > div > span svg { transform: none; }
+}

@@ -1,0 +1,101 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+Hardware Warranty
+
+Auk Industries Limited Hardware Warranty (“this Warranty”)
+
+Version from October 2020
+
+IMPORTANT NOTES:
+
+This Warranty applies only where expressly provided so in writing by Auk Industries Pte Ltd or by persons expressly authorized in writing by it (collectively or individually, “Auk Industries”).
+Unless expressly provided otherwise in writing:
+
+if this Warranty forms part of an agreement between Auk Industries and any person, this Warranty and other documents forming such agreement shall be taken as mutually explanatory of one another and
+in case of any conflict or inconsistency between this Warranty and any document comprised in such agreement, such conflict or inconsistency shall be resolved by Auk Industries at its discretion and
+Auk Industries may withdraw this Warranty or revise the terms and conditions of this Warranty from time to time without pre‐notification. The latest terms and conditions are available on Auk Industries’ website
+A person who is not a party to this Warranty shall not have any right under the Contracts (Right of Third Parties) Act (Cap. 53B), statutes of the Republic of Singapore, to enforce any provision of this Warranty.
+1. Warranty Period
+
+1.1 Subject to Customer having fully paid the price for Hardware to Auk Industries on the due date for payment, Auk Industries warrants for a period of twelve (12) months after the date Auk Industries initially ships edge IoT device and gateway sold by Auk Industries (“Hardware”) to purchasers or end users of the same (“Customer”) (“the Warranty Period”), that insofar as known to Auk Industries the Hardware is free from defects in materials and workmanship when Hardware is used according to any product instructions or otherwise normally.
+
+1.2 Subject to Clause 3 below, this Warranty is granted to Customer exclusively and in place of all other warranties or conditions, express or implied, including but not limited to, implied warranties or conditions of merchantability, non-infringement, and fitness for a particular purpose given to Customer or any other person.
+
+1.3 Unless expressly agreed otherwise in writing, any technical or other support provided by Auk Industries relating to Hardware (such as telephone or website support) is provided under the terms and conditions of such other agreement and without any warranty by Auk Industries.
+
+2. Warranty Service
+
+2.1 If Customer provides Auk Industries with satisfactory proof of its purchase of Hardware and sufficiently identifies Hardware (including its serial number or service tag number) and provides Auk Industries with the correct location of Hardware and a detailed description of the suspected defect or failure related to Hardware, Hardware will be repaired or replaced at Auk Industries’ discretion with a new or refurbished part at least equivalent in functionality. Auk Industries will use commercially reasonable efforts to deliver the repaired or replacement part to Customer at premises (as notified by Customer) in the country of purchase of Hardware after such repair or replacement. The actual delivery times may vary depending on the place of delivery of Hardware and the actions or omissions of the relevant authorities. Except as expressly provided otherwise provided, the foregoing is Customer’s sole and exclusive remedy and Auk Industries’ sole and exclusive obligation, for defects or failures related to Hardware.
+
+2.2 Notwithstanding Clause 2.1 and if requested by Auk Industries, Customer shall take actions specified by Auk Industries to determine the defect or failure (if any) related to Hardware.
+
+2.3 Returned Hardware shall become the property of Auk Industries when it has been found by Auk Industries to be defective. Replacement Hardware provided by Auk Industries to Customer shall be Customer’s property with this Warranty for the unexpired remainder of the Warranty Period.
+
+2.4 This Warranty is valid only in the country where Customer installed Hardware at the time of its purchase by Customer. Customer may not novate, assign, share or transfer its rights and obligations under this Warranty to a third party without the prior written consent of Auk Industries. Auk Industries may assign transfer, assign or subcontract its rights and obligations under this Warranty without requiring Customer’s consent.
+
+3. Exclusion from warranty
+
+3.1 Auk Industries does not warrant Hardware against uninterrupted or error-free operation of Hardware. Nor does this Warranty apply to defects, damage or failure of Hardware which Auk Industries considers to have been caused by misuse, accident, unauthorized modification, improper use or maintenance or repair, movement or transportation of Hardware, re-configuration by any person other than Auk Industries of Hardware not in accordance with the specifications of Auk Industries, or due to external factors including any failure or fluctuation of electrical power, inadequate cooling or any event outside Auk Industries’ reasonable control such as earthquake, lightning, flood or fire and the action of Customer or a third party or a third party’s product.
+
+3.2 This Warranty is void if any product or part identification label is removed from Hardware or if, without Auk Industries’ prior written consent, Hardware has been altered or located in an unsuitable operating environment or has been used as part of or in combination with any devices, parts or other things that were not provided by Auk Industries. This Warranty is void also if any addition is made to or if anything is installed on Hardware without Auk Industries’ prior written consent or if Hardware is tampered with in any way.
+
+4. Representations and warranties
+
+4.1 Customer represents and warrants that Customer has, prior to its return of Hardware to Auk Industries for the purposes of this Warranty, Customer has ensured that Hardware is free of any legal obligations or restrictions that may prevent Auk Industries from repairing or replacing Hardware and all necessary consent of third parties have been obtained to allow Auk Industries to repair, or replace Hardware.
+
+4.2 Customer further represents and warrants that if Auk Industries chooses or agrees to provide any services under this Warranty at premises owned or operated by Customer, Customer shall make Hardware available to Auk Industries for such services during Auk Industries Support Service Hours, and such premises shall be in safe condition and that Auk Industries’ personnel will not be subject to undue risk or danger while on the premises.
+
+5. Exclusion and Indemnity
+
+5.1 Notwithstanding the other provisions of this Warranty, Auk Industries shall not under any circumstances be liable to Customer or its officers, employees, agents or contractors or to any third party for any losses or damages arising from any loss of or damage to records or data or for any claims or proceedings by third parties relating to Hardware or for special, incidental, indirect, consequential or exemplary damages, loss of profits, lost opportunities or lost revenues, or the cost of replacement or substitute products, arising from the purchase, use or inability to use Hardware, whether in contract or tort (including negligence). In any case, Auk Industries’ total aggregate liability for damages of any nature, regardless of the form of action, is limited to the purchase price paid by Customer for Hardware.
+
+5.2 Customer shall indemnify and at all times hereafter keep indemnified Auk Industries and its officers, employees, agents or contractors against all and any losses, damages, actions, proceedings, costs, claims, demands, liabilities which may be suffered or incurred by Auk Industries or asserted against Auk Industries by any person in connection with any personal injury or death or damage or loss to property (movable or immovable), or any matter or event whatsoever arising out of, in the course of, by reason of or in respect of any breach of this Agreement by Customer or any inaccurate or unauthorised representation or warranty made by Customer or any act or omission of Customer or its officers, employees, agents or contractors.
+
+6. Contact Information
+Support Service Hours	Support Channels	Response Time	Resolution Time
+Monday to Friday:
+0900-1800 (GMT+8)	Email	24 hours	Replacement or loan unit will be shipped out within 5 working days upon receipt of written notice of failure by Customer (Standard DHL Express, Incoterm: DAP)
+Web chat via dashboard
+Phone call
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

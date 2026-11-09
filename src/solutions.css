@@ -1,0 +1,141 @@
+.solutions-reference-page .about-hero-photo {
+  object-position: center;
+}
+.solutions-reference-page .about-hero-panel {
+  background: #2c2c2cde;
+}
+.solutions-reference-page .about-hero-panel h1 {
+  font-size: 28px;
+  line-height: 1.5;
+  margin-bottom: 13px;
+}
+.solutions-reference-page .about-hero-panel h2 {
+  margin-bottom: 11px;
+}
+.solutions-reference-page .about-hero-panel p {
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.9;
+}
+.solutions-reference-intro {
+  min-height: 374px;
+  padding-block: 80px 90px;
+}
+.solutions-reference-intro h2 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: uppercase;
+  border-bottom: 2px solid #cc0033;
+  padding-bottom: 14px;
+  margin-bottom: 27px;
+}
+.solutions-reference-page .solutions-reference-intro p {
+  color: #444;
+  font-size: 14px;
+  line-height: 1.9;
+}
+.solutions-reference-explore {
+  margin-top: 17px;
+}
+.solutions-reference-explore strong {
+  font-weight: 600;
+}
+.solutions-reference-page .home-footer {
+  padding-top: 50px;
+}
+.solutions-reference-page .nav-dropdown > .nav-link.active {
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: #cc0033;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+}
+@media (max-width: 760px) {
+  .solutions-reference-page .about-reference-hero {
+    min-height: 404px;
+  }
+  .solutions-reference-page .about-hero-photo {
+    object-position: 43% center;
+  }
+  .solutions-reference-page .about-hero-inner,
+  .solutions-reference-page .solutions-reference-intro {
+    width: 80%;
+  }
+  .solutions-reference-page .about-hero-inner {
+    padding-block: 12px;
+  }
+  .solutions-reference-page .about-hero-panel {
+    padding: 15px;
+  }
+  .solutions-reference-page .about-hero-panel h1 {
+    font-size: 28px;
+    margin-bottom: 14px;
+  }
+  .solutions-reference-page .about-hero-panel h2 {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 13px;
+  }
+  .solutions-reference-page .about-hero-panel p {
+    line-height: 1.8;
+  }
+  .solutions-reference-page .about-hero-geometry:before {
+    right: -55px;
+    width: 225px;
+    height: 180px;
+    opacity: 1;
+  }
+  .solutions-reference-page .about-hero-geometry:after {
+    right: -80px;
+    width: 240px;
+    clip-path: polygon(100% 0, 100% 100%, 0 100%);
+  }
+  .solutions-reference-intro {
+    min-height: 0;
+    padding-block: 70px 85px;
+  }
+  .solutions-reference-intro h2 {
+    font-size: 22px;
+    line-height: 1.5;
+    padding-bottom: 14px;
+    margin-bottom: 27px;
+  }
+  .solutions-reference-page .solutions-reference-intro p {
+    line-height: 1.8;
+  }
+  .solutions-reference-explore {
+    margin-top: 20px;
+  }
+  .solutions-reference-page .home-footer {
+    padding-top: 44px;
+  }
+  .solutions-reference-page .home-footer-grid {
+    width: 80%;
+    margin-inline: auto;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 65px;
+  }
+  .solutions-reference-page .home-footer-brand {
+    grid-column: auto;
+  }
+  .solutions-reference-page .home-footer-bottom {
+    justify-content: center;
+    padding-right: 0;
+    margin-top: 60px;
+  }
+}
+@media (max-width: 360px) {
+  .solutions-reference-page .about-hero-panel h1 {
+    font-size: 25px;
+  }
+  .solutions-reference-page .about-hero-panel h2 {
+    font-size: 15px;
+  }
+  .solutions-reference-page .about-hero-panel p {
+    font-size: 13px;
+  }
+  .solutions-reference-intro h2 {
+    font-size: 20px;
+  }
+}

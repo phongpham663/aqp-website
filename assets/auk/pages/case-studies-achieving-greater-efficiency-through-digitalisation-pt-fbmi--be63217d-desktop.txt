@@ -1,0 +1,146 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+CASE STUDY
+Achieving Greater Efficiency Through Digitalisation: Fonterra
+
+How Fonterra Brands Manufacturing Indonesia used Auk's real-time production data to raise efficiency across its dairy plant.
+
+For more than 36 years, Fonterra Brands Manufacturing Indonesia [FBMI] has been providing great tasting, high-quality dairy nutrition for people at all stages of life in Indonesia. With local milk production meeting less than a fifth of demand, the country is one of Fonterra’s key global markets.
+
+Every day, Fonterra’s Indonesia team of more than 290 people are working hard to deliver the world’s best dairy nutrition to the country, and they have been following through on this commitment for the past 36 years.
+
+Given Indonesia’s large and increasingly affluent population, the fast-growing appetite for high-quality dairy nutrition drove FBMI to search for a cost-efficient and reliable solution to improve productivity and efficiency in the factory.
+
+Pain Points and Problems Faced Before Digitalisation
+
+Before Auk, the team ran reports manually, where operators recorded downtime and how much actual production, which was then reported to the team leader.
+
+The previous manual data collection system caused FBMI to recognise the need for the human error factor to be eliminated in the field as collecting data manually takes effort and time. Additionally, it does not provide good benefits or productivity for business.
+
+Furthermore, with the previous manual data collection process, FBMI mentioned that they had to do a double cross check to ensure that the data obtained were accurate and correct. However, this process took a significant amount of time and was not efficient at all. To solve this, FBMI engaged Auk Industries’ solutions.
+
+Revamping Day-to-Day Operations
+
+Through digitalization, FBMI was aiming to eliminate human error and improve data accuracy.
+
+“All previous systems were still very manual and the possibility of human error was greater than the automated system. The time required for analysis and summary data was also long.
+
+In business, time is very valuable, time is money, so it is very important to know the data in real-time,” commented Mr. Aslam, FBMI’s plant manager.
+
+The move of digitalization was also in line with the government’s current initiative of making Indonesia 4.0. “To go at a higher pace, we must have an automatic system that is also in line with the government’s Making Indonesia 4.0 program. Including the current volatility conditions and technological developments, we must change according to developments.”
+
+Before engaging with Auk, FBMI had meetings with the operator and team leader every morning to gather information from the previous 24 hours, which restricted them as it only allowed them to solve issues with their machines and formulate the action plan the next day. Hence, FBMI wanted to improve this process by identifying the right gaps and taking fast, immediate actions.
+
+Instead of “hearsay” and “guesstimation”, right now, they have all the data at their fingertips and any improvement projects and discussions can be done using reliable insights and most importantly, the whole organization is basing the decision on a single-source of truth.
+
+Challenges Faced During Digitisation Process
+
+Being a relatively new technology to FBMI, there were a few requests and questions from FBMI to Auk regarding adjusting their current system to the Auk system. With teamwork and good communication from both ends, there were no problems throughout the digitization process and the project was successful. FBMI also felt that Auk Industries met their needs, and the whole process was “well-organized and flawless”.
+
+“Thank you very much to the Auk team for helping us and always providing a fast response. Whenever we have a problem, they quickly fix it.”
+
+Condition Before and After Implementation of Auk Solution
+
+According to Mr Hari, assistant production manager, FBMI factory operators did not understand the OEE calculations previously. However, through the process of learning more about OEE, they grew a sense of ownership and teamwork.
+
+“Before Auk, we had no idea when the machine was down, what the reason was and so on. It took us quite some time to realize the problem and take certain action to resolve it. Now, the team leader and operator mindset has changed, and even set a target on how to make the data green (increase the effective time).”
+
+With real time data, it provides better transparency and visibility of overall shop floor performance which encourages more effective discussion within the team. Auk also provides a single source of truth that allows management to identify gaps and make informed decisions.
+
+Why Auk?
+
+Auk provides a lightweight infrastructure with deep data analysis. No additional investment on WIFI/LAN infrastructure is required, which saves up a lot of time and cost.
+
+“When it comes to MES, people usually talk about OEE online to MES. Big names like Schneider, Rockwell Automation, I’ve just heard about Auk Industries, frankly. Of the existing big players, the difference with Auk Industries is that the MES concept still uses data cabling, using PLC to retrieve data. This is an extra effort for the production, engineering, and maintenance team during this pandemic. Auk Industries is compatible with I4.0, already wireless, and efficient. Better infrastructure helps Fonterra to choose Auk.”
+
+Improvement That Happened In FBMI
+
+FBMI saw great improvement in OEE%. At the beginning, the OEE were in the 60-65% range, with subpar timing and data accuracy. However, over time, there was an IWS Integration working system program. It is a journey for FBMI to track the increase in OEE every year.
+
+With Auk, their lean manufacturing program is now far more efficient with digitalisation and the real-time data obtained, empowering them to take action immediately as problems arise. Additionally, the team observes an increase in OEE to above 80% after digitalisation.
+
+Despite the quick implementation of Auk’s system at FBMI, the existing quality standards of FBMI’s products are not compromised.
+
+Although it was not an easy task to synchronise the system and people, with time and discipline, it was worth it as FBMI was able to reach the stage they are at today.
+
+Future Plans
+
+Given the volatility, uncertainty, complexity, ambiguity during this pandemic, FBMI’s goal was to adopt a paperless system, where they can track real-time performance, online energy and in-line traceability. As FBMI plans for the future sustainability of energy, the introduction of OEE by Auk allows them to monitor energy consumption for each machine and analyse them as a system to capture how much energy FBMI uses.
+
+In the coming years, FBMI will continue to work with Auk to achieve more objectives.
+
+“Thanks to Auk and the FBMI team for being well. We hope that in the future we can work with Auk for other programs. For example, energy online data, sync between OEE, MTBF and MTTR. This is what FBMI needs for the future,” commented Mr Aslam.
+
+SHARE THIS
+Facebook
+LinkedIn
+Twitter
+Telegram
+WhatsApp
+More Case Studies
+
+Food & Beverage, Consumer
+
+Better Visualisation with Auk: A SATS Case Study
+
+How SATS, Asia's in-flight and institutional caterer, used Auk's real-time visualisation to work…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Zero to One: Rapid Digital Transformation of a Chocolatier
+
+IIoT digitalisation puts an end to a Chocolatier’s years-long search for a suitable…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Charting Long-Term Growth & Receptiveness Towards Technology
+
+Indonesian Snack Manufacturer leverages IoT technologies to not only digitalise for growth but…
+
+Read More →
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

@@ -1,0 +1,17 @@
+{
+  "verifiedAt": "2026-11-07T15:49:35.938Z",
+  "valid": true,
+  "pages": 36,
+  "screenshots": 74,
+  "assets": 195,
+  "inlineStyleFiles": 36,
+  "totalAssetBytes": 103385153,
+  "assetTypes": {
+    "scripts": 8,
+    "images": 178,
+    "documents": 9
+  },
+  "failures": 11,
+  "skipped": 6,
+  "invalid": []
+}

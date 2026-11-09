@@ -1,0 +1,129 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+
+Blog · 4 November 2020
+
+Implementing Downtime Analysis The Effective Way
+
+“Why should I dedicate additional resources to perform downtime analysis?”
+
+The longer equipment downtimes are, the lower the OEE and productivity of the production plant. Downtime analysis is akin to an error management tool. It helps the operations and engineering team to better understand the underlying issues behind OEE losses and provide insights into the areas that require improvements or maintenance.
+
+Getting started with downtime analysis sounds more daunting than it actually is. Through our experience working with various industrial players, we have put together this ‘cheat sheet’ to help you implement downtime analysis the more effective way.
+
+1. Appoint a leader to helm the downtime analysis project
+
+As with all projects, implementing downtime analysis also requires a project manager. The project manager supervises the implementation process and plays a guiding role for the rest of the team members and operators.
+
+When selecting the project manager, choose a candidate who is familiar with industrial IoT systems and OEE. In the event where such a candidate is absent, select someone who is keen and willing to learn about these systems then train them to be proficient.
+
+The project manager helps to ensure that all operators follow it to record and define downtimes properly and accurately. These downtime records are crucial data which will be further analysed and acted upon.
+
+2. Classify the root causes of an equipment downtime
+
+A successful and sustainable downtime analysis must include the causes of your equipment downtime. There are, however, a plethora of causes and manufacturers are often at a loss as to where to start.
+
+Based on our experience, manufacturers should start small and quick with an MVP (Minimal Viable Product), where the operators record only the top few causes of machine downtime. When the operators are familiar with the process, they may begin to expand the list.
+
+Before proceeding, it is noteworthy to differentiate downtime causes from the 3 main categories of OEE losses (i.e. Availability, Performance, Quality). Downtime causes result in OEE losses but they are not the same.
+
+Here are 4 main groups of common downtime causes to kickstart your downtime analysis process:
+
+The main benefit of limiting the number of downtime groups and causes is that it provides a manageable starting point for operators to troubleshoot. When there are too many downtime causes, a lengthy cost-benefit analysis would have to be performed before the operators can start resolving the downtime causes.
+
+“The criteria for selecting the relevant downtime causes is to follow the K.I.S.S principle (keep it stupid simple), rather than choosing quantity (i.e. the number of downtime causes).”
+
+3. Be specific
+
+Defining machine downtime is an art. There is a fine line between keeping the downtime causes simple and specific, as opposed to simple and generalised. A simple and specific downtime cause would be ‘overheating of the motor’ whereas a generic downtime cause could be ‘motor breakdown’. The former is preferred to the latter.
+
+When the downtime causes are too generic, fewer insights can be gathered and harvested for downtime analysis. As such, the operators would be at a loss of the appropriate improvements to make and to prevent downtimes from recurring.
+
+Due to the lack of information, additional time may have to be spent on reinvestigating the downtime causes. This hassle can be reduced if those downtime causes were well-defined right from the beginning.
+
+4. Double-check to ensure all downtimes causes are recorded
+
+When the work schedule is packed, operators may sometimes forget to record the reasons for certain downtimes. This is especially common for production plants who have just implemented downtime analysis.
+
+To overcome this problem, the project manager and managers of each product line can check on each and every operator after their shift and remind them to register each downtime reasons and causes. However, this is time-consuming and may not be the most efficient way to go about.
+
+A better and more technologically-savvy way to do so would be to use the dashboard of your industrial IoT system and find the specific downtimes which have missing reasons and causes. Only the operators who were responsible for these downtimes would be alerted and reminded to register the downtimes reasons.
+
+It is crucial to note that managers should check for missing downtimes causes after every shift, and not at the end of the day. This ensures that the operators can clearly remember the downtime causes and minimises the chances of them providing inaccurate information.
+
+In the long-run, accounting for all downtime causes is a good practice because it provides transparency and accountability for the production stops experienced. Imagine a situation where 15% of the production stops are unexplained and unaccounted for — this would pose as incomplete information for downtime analysis and the analysis would be inaccurate.
+
+5. Analyse the causes: Pareto Analysis
+
+Suppose your manufacturing plant has 10 downtime causes recorded. How do you differentiate the more problematic downtime causes from the less serious ones? Which downtime cause should you prioritise and resolve before others? This is where Pareto Analysis (80/20 rule) comes in handy.
+
+Rule of Thumb: Always resolve the downtime causes that result in the greatest amount of OEE losses
+
+As the term 80/20 suggests, Pareto Analysis can help you to find the 20 percent of downtime causes which result in 80 percent of OEE losses. By resolving these 20 percent of downtime causes, majority (80 percent) of the OEE losses can be eliminated.
+
+From the graph, we can see that SKU changeover and conveyor belt jam account for about 80% of all OEE losses.
+
+Pareto Analysis enables manufacturers to correctly prioritise their downtime causes and focus their improvement efforts on the downtime causes which are the main perpetrators of OEE losses. With more time and resources on hand, manufacturers can then proceed to resolve the remaining downtime causes.
+
+6. Follow through to transform data into action
+
+With the necessary data and information in place, it would be much easier to uncover the underlying causes of OEE losses and strategise ways to improve them.
+
+At this stage, the project manager has the responsibility to work with the plant management to ensure that the knowledge and action plan developed from downtime analysis are promptly executed. A continuous improvement programme would come in handy to ensure that the action plan is carried through.
+
+Implementing downtime analysis requires buy-in at both the management and operations level. The incorporation of downtime analysis into a continuous improvement program helps ensure that areas of improvement identified by the analysis are executed.
+
+Equipment downtimes are inevitable but repeated downtimes are unacceptable. Having a robust equipment downtime analysis would go a long way in preventing downtimes from recurring. It also provides adequate information for troubleshooting and improvements, reducing the time it takes to restore OEE score to its pre-downtime level.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

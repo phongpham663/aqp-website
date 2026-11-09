@@ -1,0 +1,1899 @@
+{
+  "url": "https://www.opretail.com/",
+  "title": "Industry-leading AI Retail Analytics & People Counting | OVOPARK",
+  "description": "Trusted by 4,000+ brands worldwide. OVOPARK provides retail analytics and people counting solutions with customer behavior insights for data-driven operations.",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.8127.18 Safari/537.36",
+  "dimensions": {
+    "width": 1440,
+    "height": 5062
+  },
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "Smart Retail - Efficient Operations"
+    },
+    {
+      "tag": "H2",
+      "text": "Smart Retail Solutions"
+    },
+    {
+      "tag": "H3",
+      "text": "Accurate People Counting"
+    },
+    {
+      "tag": "H3",
+      "text": "Heatmap Analysis"
+    },
+    {
+      "tag": "H3",
+      "text": "Customer Profiling"
+    },
+    {
+      "tag": "H3",
+      "text": "AI-Powered Event Detection"
+    },
+    {
+      "tag": "H3",
+      "text": "Anti-Theft Solutions"
+    },
+    {
+      "tag": "H3",
+      "text": "Data Privacy Compliance"
+    },
+    {
+      "tag": "H3",
+      "text": "Accurate People Counting"
+    },
+    {
+      "tag": "H2",
+      "text": "30"
+    },
+    {
+      "tag": "H2",
+      "text": "300"
+    },
+    {
+      "tag": "H2",
+      "text": "4000"
+    },
+    {
+      "tag": "H2",
+      "text": "400,000"
+    },
+    {
+      "tag": "H2",
+      "text": "Smart Retail Scenarios"
+    },
+    {
+      "tag": "H2",
+      "text": "Features"
+    },
+    {
+      "tag": "H3",
+      "text": "Real-time"
+    },
+    {
+      "tag": "H3",
+      "text": "Accurate counting"
+    },
+    {
+      "tag": "H3",
+      "text": "AI-powered"
+    },
+    {
+      "tag": "H3",
+      "text": "Comprehensive reporting"
+    },
+    {
+      "tag": "H2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "tag": "H3",
+      "text": "Where is OVOPARK based?"
+    },
+    {
+      "tag": "H3",
+      "text": "How can I check the data with your analytics software/Apps?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can I view periodic Excel reports with data comparisons across stores?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can I connect my hardware equipment to your platform?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can the people counting system omit the trolley count?"
+    },
+    {
+      "tag": "H2",
+      "text": "Want to Become an OVOPARK Distributor or Provider?"
+    },
+    {
+      "tag": "H3",
+      "text": "Here’s why you don’t want to miss out."
+    },
+    {
+      "tag": "H4",
+      "text": "Products"
+    },
+    {
+      "tag": "H4",
+      "text": "Industries"
+    },
+    {
+      "tag": "H4",
+      "text": "Resources"
+    },
+    {
+      "tag": "H4",
+      "text": "Company"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.ovopark.com/",
+      "text": "中文"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/contact-us",
+      "text": "Demo"
+    },
+    {
+      "url": "https://www.ovopark.com/",
+      "text": "Chinese"
+    },
+    {
+      "url": "mailto:info@opretail.com",
+      "text": "email"
+    },
+    {
+      "url": "https://wa.me/8618013509087",
+      "text": "WhatsApp"
+    },
+    {
+      "url": "https://wa.me/13771942521",
+      "text": "+86-13771942521"
+    },
+    {
+      "url": "mailto:info@opretail.com",
+      "text": "info@opretail.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/opretail",
+      "text": ""
+    },
+    {
+      "url": "https://www.facebook.com/ovoparkofficial/",
+      "text": ""
+    },
+    {
+      "url": "https://www.instagram.com/ovopark_official/",
+      "text": ""
+    },
+    {
+      "url": "https://www.youtube.com/@OVOPARK6063",
+      "text": ""
+    },
+    {
+      "url": "https://x.com/ovopark",
+      "text": ""
+    },
+    {
+      "url": "https://www.opretail.com/products",
+      "text": "All products"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/contact-us",
+      "text": "Request a demo"
+    },
+    {
+      "url": "https://www.opretail.com/login",
+      "text": "Login"
+    },
+    {
+      "url": "https://www.opretail.com/industries/retail-store",
+      "text": "Retail store"
+    },
+    {
+      "url": "https://www.opretail.com/industries/shopping-mall",
+      "text": "Shopping mall"
+    },
+    {
+      "url": "https://www.opretail.com/industries/event-exhibition",
+      "text": "Event & exhibition"
+    },
+    {
+      "url": "https://blog.opretail.com/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://www.opretail.com/resources/help-center",
+      "text": "Help center"
+    },
+    {
+      "url": "https://www.opretail.com/resources/download",
+      "text": "Download"
+    },
+    {
+      "url": "https://docs.open.opretail.com/",
+      "text": "Open API"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/company-introduction",
+      "text": "About us"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/contact-us",
+      "text": "Contact us"
+    },
+    {
+      "url": "https://www.opretail.com/about-us/agency-cooperation",
+      "text": "Become a partner"
+    },
+    {
+      "url": "https://beian.miit.gov.cn/",
+      "text": "苏ICP备16028066号-11"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_logo_202406.webp",
+      "alt": "OVOPARK | To know everything about every store",
+      "width": 3055,
+      "height": 1047,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Products",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_products_logo_1_202312.webp",
+      "alt": "ProductsPeople counters",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_products_logo_2_202312.webp",
+      "alt": "ProductsNetwork video recorder (NVR)",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_products_logo_3_202312.webp",
+      "alt": "ProductsPeople counting analytics",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_products_logo_4_202312.webp",
+      "alt": "ProductsStore inspection devices",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Solutions",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_1_202312.webp",
+      "alt": "SolutionsPeople counting",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_2_202312.webp",
+      "alt": "SolutionsDemographic analysis",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_3_202312.webp",
+      "alt": "SolutionsHeatmap analysis",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_4_202312.webp",
+      "alt": "SolutionsOccupancy management",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_5_202312.webp",
+      "alt": "SolutionsStore KPI analysis",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_6_202312.webp",
+      "alt": "SolutionsMarketing effectiveness measurement",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_solutions_logo_7_202312.webp",
+      "alt": "SolutionsQueue management",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Industries",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_industries_logo_1_202312.webp",
+      "alt": "IndustriesRetail store",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_industries_logo_2_202312.webp",
+      "alt": "IndustriesShopping mall",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_industries_logo_3_202312.webp",
+      "alt": "IndustriesEvent & exhibition",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_next_arrow_202312.webp",
+      "alt": "Help center",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_1_202312.webp",
+      "alt": "ResourcesTechnical support",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_2_202312.webp",
+      "alt": "ResourcesInstallation service",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_3_202312.webp",
+      "alt": "ResourcesFAQs",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_4_202312.webp",
+      "alt": "ResourcesBlog",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_5_202312.webp",
+      "alt": "ResourcesDownload",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_resource_logo_6_202312.webp",
+      "alt": "ResourcesOpen API",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_about_logo_1_202312.webp",
+      "alt": "CompanyAbout us",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_about_logo_2_202312.webp",
+      "alt": "CompanyContact us",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/header_about_logo_3_202312.webp",
+      "alt": "CompanyBecome a partner",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_logo_202406.webp",
+      "alt": "OVOPARK | To know everything about every store",
+      "width": 3055,
+      "height": 1047,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/site_header_m_menu_icon_202205.png",
+      "alt": "",
+      "width": 48,
+      "height": 48,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAMCAYAAACA0IaCAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAADpSURBVCiRpdM/agJREMfx7zyff2IsUu4BUmwR0ieVghfwEgshMZgi54iQbOE5PIAB8QYWloIWe4Al2bj6xsYlS8DibX7VwMCHmeIneERjOjuYAy0cg+aQVXlvfLDvA1fADRCqYfbzTlgZaz+zVeUVQCBQwyyLua6EAbSeGKvyUoAC0zQmABCdUM8P3PqiQKRKdJpXDUPf5ns+Fe4rYOWEO8fC6D+VIgrYhqX7lfm/WasRify+6Qx9qXJF9sFIhLcCyqHXeSTxxv5AiTPcXTywBvDC0pigDhvAAgmOXrkF1ge7hDSHpZ6p0xGRikdqad7sUwAAAABJRU5ErkJggg==",
+      "alt": "",
+      "width": 19,
+      "height": 12,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/558.9d74545.svg",
+      "alt": "",
+      "width": 101,
+      "height": 24,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_banner_202312.webp",
+      "alt": "An Overhead retail camera monitoring shoppers in a mall with footfall analytics and walk-in rate data charts",
+      "width": 1490,
+      "height": 1038,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_banner_20240824.webp",
+      "alt": "",
+      "width": 745,
+      "height": 519,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_banner_202312.webp",
+      "alt": "An Overhead retail camera monitoring shoppers in a mall with footfall analytics and walk-in rate data charts",
+      "width": 1490,
+      "height": 1038,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_banner_20240824.webp",
+      "alt": "",
+      "width": 745,
+      "height": 519,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/home_banner_20240905_0.webp",
+      "alt": "",
+      "width": 512,
+      "height": 320,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/player.webp",
+      "alt": "",
+      "width": 112,
+      "height": 112,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/youtube.e924ddc.webp",
+      "alt": "",
+      "width": 48,
+      "height": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/home_banner_20240905_1.webp",
+      "alt": "",
+      "width": 512,
+      "height": 298,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/facebook.97c4139.webp",
+      "alt": "",
+      "width": 48,
+      "height": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/home_banner_20240905_2.webp",
+      "alt": "",
+      "width": 512,
+      "height": 288,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/in.5aa4698.webp",
+      "alt": "",
+      "width": 48,
+      "height": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/home_banner_20240905_3.webp",
+      "alt": "",
+      "width": 512,
+      "height": 289,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/in.5aa4698.webp",
+      "alt": "",
+      "width": 48,
+      "height": 48,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAUCAYAAACXtf2DAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAHfSURBVDiN7dS9a1NRGAbw3ylXcRC0JZ10KFgHB7FDF8Gl0KFDB5NmaEGHQqW4ubkIFlREnPwLFApamn6Bg2MsRBAcrODgYKGCQodiMjgUEnoccpsmTU1E3PSZ7nnej+f9uOcEHRBXXME83up1PYyodfJviX0u47hMONJYlCi7jTkkKb2k11QnkbjqquguBnESH3vanJadVfEK9wUb9lwQLSOv7EUsNgTbkSiJ+tPkUGoRiCvGBe9Fo3jitMsh75M+k91EYlGi6p7gTBO9HhrGiseiW9gR3AhZa20JvlsQTBweV1w1gIJoGOuCORRUXUziokFlBQyhJJoKOV/jSxlVs6JjoKyqx4w9BHllYtGUslHRPDKiR/rcSYX761NLvEtn9kCvucYSa8bSPRyg5o2MybSTvLLBtLCKIBtyrV3XBbgp2A5Zr1ssexJH/GNhRC0WGyITgg1kQ9ZWXDKsx6zY2NGXJOQstKfpjDCiFp+65pQlFWth2m7dYBwzzYUlcdGQxKWm+M2QU+oqUk/atbhE4iHGDiJ9xvnfbKYrEpxoYWKHi7TvUn9CzjUVtR6ytn4l8CeYx0DT+Rmmj3Jseyr+Nv4L/CMCHw5xm9i/cLtN/A/Bdvr9rSUipudo51Cu7Z8G25k1YN7EwAAAAABJRU5ErkJggg==",
+      "alt": "",
+      "width": 24,
+      "height": 20,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAJvSURBVEiJrZW/b9NAFMe/zz6bKMqQgYHBSEUgAUNFZ5pI5yYDEhMSWxkYWJGYqjbtYImSClgYGWDLxh+AELQ2OJWohARVK9GtGYIUiSUSDK1/PYYk1HZ+1IR+t3vv/Lnnu+/do1qz8hXAHFJiRvtcEM5aptNN5waybFk8Fup3IlwYkf4m+uAAxO14hkBdAME4cF8BETogPkpWRgaAOao1KwziVn1+69IpoMyqbS8cgmlGOSvgKIlxCcuWuVCjy798/vFiwr5P0sjKV11ZOhbqYQhlP6+pP1e3Fx5PBye0wfS3MsuWOZD6JuYAwUxra25VZqYydUFoC90LZxFzhafjGnjYWhEiCcDJwtb9sAxAiLSPdQ8tT0OA9HkQEladJMt0fgMj9twynS6YnyaCzDu6HzWywk/qGaNlt1JVwCUQ2rofNSzTSVwUy5bC18VtJjbA4cf6vLOfGT5Jli1znqa+B1DqhwICP3xS2noZnzfVJfI15X4MDACCQc8tW+b+Gw4oV0cEC0dIumwqOEe8k44R0Mkh6Sh6ZMtiEQgG9olr2a1KhXhRAT6vlzZfx3MrzUqDgMX+sKsw3Vkvf3AAwLJloQsIJa+re56mumnwki0NhfgtgAcR8GrlU+VuPL9R2rzHSng9YjJ1P7w4AAOAp6luXlf3BBgGiIfebU0TBoNPDoj4SnrOxk3nAMBBOg7iIpiMsXuu+cEXMN71h60w+PdLNP7JNZ0AwK0lWxp5oFPvjc8GPtAz08n8pqTVa3NAwBjuoboflke5aCDLlgVPU10GF1PfGgCEYOZdIrpBoJnksmjj9D8TIJynXkNOiJl3/wB4tusvBluwXgAAAABJRU5ErkJggg==",
+      "alt": "",
+      "width": 23,
+      "height": 23,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/srs_3.206009f.png",
+      "alt": "",
+      "width": 30,
+      "height": 23,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAZCAYAAAA14t7uAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAIeSURBVEiJxZY/aFNRFIe/c/NSAyIIiaXUgolJoYNgHIQOGQw6uEgqRKgPhwiKbk4ODiLiVDoVB5EidulDcFBnM2RwEFzqJiTVCAohvoDgYCTpPQ6J/0Ly8mgo/qb73j3n49z7e+feJ4xR053PGvSOwlkAhIqq3Jr2qltBeRIIvXg0J2JeCjgIrwBQckAb7PmE9748KtcEgY2YdQGs2nxis5ZPbNbyVm0ecMA8CKxYT+G0DmeuqZLVTvf29NN6o+XO37DYRUGWgU+gA5XJGWBO0ScG8zruVdeaF5IzEnXuibAV/1x76LRm0/dRrgu0zZTzCGgo9pwgp/uUOZDS0KqQZcUeAtYiU05SlUsoV1qz6WPyxc18F6X2bV/3ZGqj3g5a3jh9KCVjB344b1TIGIEY4E8KBegzfIFYoHmTyBkX4LuZAujSv2/lecKrvZgIrHBCBsxT+AgEgkNvRcd2Ux3bTYWNH1pxczlTNKL7+4/Hw8LGgiNGVxVJ7gYYCO7rHegKSAEYMI+C76aPAAjGj3vVm4PJo/dYaSS87Q2Ft4NTAtleN0oJbHFY+q6+Y4W7Ca8mKJVRMXvWIP+j83TBd9OPFbIAUXFW/5rsmae6AAw9Y0aDRWaA0u8rRij+GZIFyfbuH62HBse97dAdNkp7a56Ijj2MwuoXy0GoqJWc72aegX6dEHtQlUVEy05np3s5aiLrIEtj/gZCsrXcsTtXfwKLrrFNZUxDrgAAAABJRU5ErkJggg==",
+      "alt": "",
+      "width": 22,
+      "height": 25,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/srs_5.0588d41.png",
+      "alt": "",
+      "width": 25,
+      "height": 25,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/srs_6.76dd4fc.png",
+      "alt": "",
+      "width": 22,
+      "height": 23,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/srs_1_r.299c4ac.png",
+      "alt": "",
+      "width": 42,
+      "height": 42,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_ata_assaudia_technology_202312.webp",
+      "alt": "Ata Assaudia Technology",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_adidas_202312.webp",
+      "alt": "adidas",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_blink_202312.webp",
+      "alt": "blink",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_DUBAI_UAE_202312.webp",
+      "alt": "Expo 2020 DUBAI UAE",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Unilever_202312.webp",
+      "alt": "Unilever",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Manyavar_202312.webp",
+      "alt": "Manyavar",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_SKECHERS_202312.webp",
+      "alt": "SKECHERS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_LASKASAS_202312.webp",
+      "alt": "LASKASAS",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_AOKANG_202312.webp",
+      "alt": "AOKANG",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Gadget_Time_202312.webp",
+      "alt": "Gadget Time",
+      "width": 234,
+      "height": 101,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Leysen_202312.webp",
+      "alt": "Leysen",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_Superdry_202312.webp",
+      "alt": "Superdry",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_UNDER_ARMOUR_202312.webp",
+      "alt": "UNDER ARMOUR",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_beko_202312.webp",
+      "alt": "beko",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_trusted_BOSIDENG_202312.webp",
+      "alt": "BOSIDENG",
+      "width": 234,
+      "height": 102,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/sreo_bg_1.d33d2d8.webp",
+      "alt": "Smart Retail Scenarios",
+      "width": 1480,
+      "height": 894,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAHESURBVDiNjVTLcdswFNwFfPFNJfCSCQ9mBg1kQlTgdCC6Ao0rsF2BRxVI6sCqgLLdACb2gTO5sIP45kuAzUFmIomfybsRu2/5sLMPxEA9564U4lyiA+T2p2xJ7SK08c3r7rSHhx917jKjVO8BPZB2+xtoAcCm6GToIC0IhEh75ZvQ9oTqT84ZE2uQy2/Nj9uhSQGgdm5m39ONoCol6/3PEI4mefxc/KrzojptfMqL1VNerHqCeVHte1wGAAYArOKK4No3L+vTBgmVhO+n5755WYNcdlaYOr8oBbh4bu5GbvMG8G0I6Cx4zl1pLDgHufQhDJLHRP6i0IMQ50ZiyaQwSabaccxuJToDKIvGjgpNiQDAPh5yZop0UJNiAGAAhjMg+0/BXtkUHcDWkApSvJzgbmLCdgyUoSO1M4TdCOzl5B+TM0sOTlw7N4O0iNDGfG3CDgAe8y+3PWLuMkH3gu67BB9d6z3dEAi+ed0ZAEg0HtLidEV8E1qC1wSvDxd0/5OiElRF2itgYGkJruO5uRsP6Mf00uJwaXvPiFVcCXAgl0wKXcbOgEyKl52ficYPPiPHghelBecSS0Af3jCQCoTddL4e1h8PC9+Jf5gLCgAAAABJRU5ErkJggg==",
+      "alt": "",
+      "width": 18,
+      "height": 18,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAADsSURBVBiVdZDNTQJRAIS/ecZwUJPtwO3AUAGvA/Gi8bYdSAdgBYQK5LYuF+yALQErkA7AyE8i8Y0HgcQE5jpfZiYjTii+LjuWnoAMyHQwyk1OSAXimuR3Gtsh2/Pc1guQCyBWq56hK6kGz2za+wCl0HRIE8XRsrDVV0p39eNVfWio1n3jQik00U+b1mg9idWqd2xnq1p9xNGyAAjYEZgeAwVTHG7+QFggZ8dASxn4EyBIvNnqxvH8HxzLr4gdSakGUCw3uUOaAAvJA3Q2I/nWuCN4rh8uersZEMfzjO9G17jYHTyVPKjvL4f7hl/udmX18b42AQAAAABJRU5ErkJggg==",
+      "alt": "",
+      "width": 10,
+      "height": 10,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAADUSURBVBiVbZDBTcNAFETffMh9S3AJLiGuAEciZ+ggd8hhLfkeSghXSESoAFMBKYES9o7Yz8GryEie4+jN6P8RE/nD8R75BqiBBNqzsE5xlXSBtq8R1wa0R/mdbFUJBRZXjQq0xPWBvFG/Hi7h+Bb4+f0CDTY6dgMMUwhAcZVwdeCtFS8gEnMyT0AojXzi1LMgXgNn8+2hxfI3EPzxuPu/wks9PujPKt/eAWFy3Ql5hbNE3qlfRyP7qUAJzw14N9bpXFaIANfIdnhuMLXIKvW3T3OX/gEwtlVXhPqnSgAAAABJRU5ErkJggg==",
+      "alt": "",
+      "width": 10,
+      "height": 10,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAA8CAYAAAAHbrgUAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAGLSURBVFiF5dnBUYNAFIDhfxnHc0oIYwNaQjrQDuTmwCUdaAee1NywA0qIJdgAAyV4jhPw4JgxQsIu+3YJyDGH/N8AszwW8HwUS2Z5TFbcMQdQvuPVhjVwCZRBxcIb4E8cAKV48wJoi+PrDByLhytKp4CuODi8CXXizgC6cScAk7g4wDQOEEgCqg2pSVwUkCekwLVJHIQuQZ6QUnNrGhcB2MStAbZxK4BEvDdAKt4LIBk3BkjHwWAdaMQVHwHc2MS1AUXCYyNeswifebeJawHymIeqZuki/v13HXHg3lX8KMBH/CDAV7wV4DPeAPiO7wGGiO8AQ8UBzhpxoK6Iwhf3cRCeCfscg1+C07gJh0Sc1kI0BOI0H0Y+EZ0zoWuE1lDqEqE9FbcOpVuuvAylABdPRChedz/UzKqA9c+GY99jXC8mLhDjfDmVRIx7g0ICIbZN1xchuk+Yx2QY7pSJzoTBORHsLc/zrsVqWlu1fRDT3K43QUz7k40O4n98tjuA8HsGfiPqTzK1JQpXlF+CGojNvrhklAAAAABJRU5ErkJggg==",
+      "alt": "left_arrow",
+      "width": 32,
+      "height": 60,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_home_hardware_features_real_time_202312.webp",
+      "alt": "Real-time",
+      "width": 1200,
+      "height": 1200,
+      "loaded": true
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAA8CAYAAAAHbrgUAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAG5SURBVFiF3dnNUcJAFMDx/y6jZ0tIhgYoQTqADuQW8aIdSAdcYLhhB7GDlKAFyIQSPDtj1gOCkYSQj919ju9ENmTeL1+b3bcKII0ITI+1umAcznnHY+g0Isg0iTFcZx8k6T1XXgGmxxoIvrcHvhFafTIBtrk2rwgFu2cg0yT8XAmAV33J0PUzofY/pBAqvyGBUMcNvhEFgG9EKcAnQp/aEa7Y6owhxVd0bSt5JaACMdrc2UOcvAX5KL0diqf+gokXgEtEbYArRCOAC0RjgG1EK4BNRGuALUQnwAHR4wWTGz80QFR2RHUiXLHVhiEq1z0bbjZTHusc3/kK7COdMsgUya8rAbP+shpiDdAWYRXQBmEd0BThBNAE4QxQF+EUUAfhHHAO4QUA8HbLSCnio+ZZ556wa/z/WyD6EIq+hqIdkWhXLPoxEv0ciw5IypJrxTxc8HDu2O6D0rIz9zUoTSOCDOK2yXd/75JcamIiOjUTnZyKTs9FCxSiJRqXyc8CTtQKn/tLxjaSQ0VHVFGotHLm+/h7pVrRYrVouV50wUJ0yUYyORSX7bwmh+Kyndfkh0gjgs2U2PeqKcAXu1xPE2+VJm8AAAAASUVORK5CYII=",
+      "alt": "right_arrow",
+      "width": 32,
+      "height": 60,
+      "loaded": true
+    },
+    {
+      "url": "https://www.opretail.com/_nuxt/img/514.fc4dd23.svg",
+      "alt": "",
+      "width": 18,
+      "height": 12,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_logo_white_footer_202406.webp",
+      "alt": "People counting for retail operation",
+      "width": 238,
+      "height": 38,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_linkedIn_202401.webp",
+      "alt": "LinkedIn",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_facebook_202401.webp",
+      "alt": "Facebook",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_ins_202401.webp",
+      "alt": "Instagram",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_youtube_202401.webp",
+      "alt": "YouTube",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/os_footer_link_twitter_202401.webp",
+      "alt": "Twitter",
+      "width": 16,
+      "height": 16,
+      "loaded": true
+    },
+    {
+      "url": "https://oss-cdn.opretail.com/web/images/su_gong_an_back_oversea.png",
+      "alt": "苏ICP备",
+      "width": 819,
+      "height": 772,
+      "loaded": true
+    }
+  ],
+  "forms": [],
+  "stylesheets": [
+    "https://www.opretail.com/_nuxt/css/b4bdf36.css",
+    "https://www.opretail.com/_nuxt/css/64122c7.css",
+    "https://www.opretail.com/_nuxt/css/e3351d4.css",
+    "https://www.opretail.com/_nuxt/css/e3351d4.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-2B82NCZ3G6&cx=c&gtm=4e6b41",
+    "https://www.googletagmanager.com/gtag/js?id=UA-152686747-1&cx=c&gtm=4e6b41",
+    "https://www.googletagmanager.com/gtag/js?id=AW-698061754&cx=c&gtm=4e6b41",
+    "https://www.googletagmanager.com/gtag/js?id=AW-698061754",
+    "https://www.googletagmanager.com/gtag/js?id=G-HE3M2V80LZ",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/698061754/?random=1794198854852&cv=11&fst=1794198854852&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41h1v9134995034za208zb9254843544zd9254843544xecxf1&gcd=13l3l3l3l5l1&dma=0&tag_exp=115938466~115938469~117776795~118131810~118897920~118897930~119863601~120213116~120385422~120412526~120420414~120469145~120469153~121191155~121246026~121246034~121399757~123814183~124013660&u_w=1440&u_h=1000&url=https%3A%2F%2Fwww.opretail.com%2F&rcb=13&frm=0&tiba=Industry-leading%20AI%20Retail%20Analytics%20%26%20People%20Counting%20%7C%20OVOPARK&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=605966527.1794198855&uaa=arm&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "https://www.opretail.com/_nuxt/7572603.js",
+    "https://www.opretail.com/_nuxt/5503068.js",
+    "https://www.opretail.com/_nuxt/b243812.js",
+    "https://www.opretail.com/_nuxt/0526c3c.js",
+    "https://www.opretail.com/_nuxt/efca9c1.js"
+  ],
+  "capturedAt": "2026-11-09T04:34:20.619Z",
+  "issues": [],
+  "adjustments": [
+    "Rejected optional cookies in isolated context"
+  ],
+  "formSubmissionTested": false,
+  "viewportMode": "Desktop viewport"
+}

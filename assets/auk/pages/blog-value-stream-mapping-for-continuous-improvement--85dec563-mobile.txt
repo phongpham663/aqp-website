@@ -1,0 +1,144 @@
+Blog · 4 November 2020
+
+Value Stream Mapping for Continuous Improvement
+
+Manufacturers often plunge headlong into using various lean manufacturing tools such as Six Sigma or Kaizen to eliminate waste. While it is well-intentioned, these tools can only go as far as improving one part of the value stream and the benefits would often be negated further downstream. By implementing lean manufacturing tools without considering and mapping the value stream for the production plant’s products, manufacturers tend to look at processes in isolation and miss out on the bigger picture.
+
+“The whole is greater than the sum of its parts. Isolated improvements on each part of the value stream are unlikely to generate better results than improving the value stream on the whole.”
+
+A value stream is similar to all the parts in a car that enable it to move. There is the engine, oil pump, wheels, wires and connectors. When manufacturers focus only on one small part of the value stream for each of their products, it is quite the same as only maintaining the engine of a car and leaving the wheels to wear-out and deflate over time. While parts of the car are improving, other parts are deteriorating and there is little net benefit. To avoid such mistakes, manufacturers must, therefore, stop focusing on a single point of the value stream and learn to look at the flow and value of the entire value stream in whole.
+
+Be the organisation that understands and utilitises value stream mapping
+
+A value stream is all the steps required (from start to finish) to provide the product or service that a customer needs while a value stream map (VSM) visually displays the aforementioned steps in the work process which are necessary to deliver value.
+
+Do not belittle the value stream map – it helps manufacturers understand both the material and information flow involved as a product goes through the value stream. Material flow is the movement of materials whereas information flow includes communications and orders on what each process must produce or do.
+
+Start by mapping out the current VSM and future-state VSM
+
+As more manufacturers attempt to ‘go lean’ and eliminate waste, acknowledging the presence of waste is just the tip of the iceberg. Manufacturers need a current-state value stream mapping to accustom themselves to look beyond single processes such as stamping, welding, assembling and start seeing the end-to-end production flow. With that, manufacturers and the team can discover where actual value is being added in the flow and the sources of waste.
+
+Drawing out the current-state and future-state value stream map is an iterative process as there is always room for improvements. The future-state will become the current-state and new areas for optimisation would be discovered.
+
+The main goal of a future-state value stream map is to discover and eliminate the root causes of wastes from the entire value stream. From experience, overproduction is one of the biggest culprits of waste – when one process produces too much or too quickly than what the next process needs, excess inventory is produced and additional costs such as storage cost and labour cost are incurred. By tying in lean manufacturing concepts with the future-state value stream map, manufacturers become better at producing ‘just in time’ – making what the next process requires, only when it is required.
+
+Do value stream mapping for one product family – one at a time
+
+Some manufacturers produce one kind of product (e.g. mineral water bottling plant, mattresses) while others produce a myriad of products (e.g. fast-moving consumer goods or dairy products). The former would certainly be doing a value stream mapping for its one product but the latter would need to identify and select a product family to kickstart the mapping.
+
+“A product family is a group of products that share similar processing steps and passes through a similar set of equipment.”
+
+To streamline the process of identifying the different product families, a product family matrix can be used to group products into families based on assembly steps and equipment. For manufacturers with too many products, it may be extremely time-consuming to do product family grouping for every single product. Our recommendation is to first conduct a Pareto analysis to first sift out the products which generate the highest value for the organisation and proceed to group them using the product family matrix.
+
+Products B & C belong to one product family whereas D & E belong to another.
+
+Products B & C belong to one product family whereas D & E belong to another.
+
+Creating a new role: The Value Stream Manager (the personnel who is responsible for managing the value stream)
+
+The value stream for a product family spans across departments and functions. It is unlikely for anyone to have a clear and distinct understanding of the material and information flow for a product, from upstream to downstream – not even the operators who are usually focused with specific tasks at work stations or the production line managers who are responsible only for the performance of the production line.
+
+Some manufacturers are aware that it is difficult to manage the value stream and effect positive changes when no one person is responsible for the entire value stream. Fortunately, they found a way to overcome the problem – put in place a value stream manager who has full authority and accountability for the value stream. Apart from holding meetings and presenting their findings to the management team, a value stream manager should be given the permission to experiment and redesign the value stream, where appropriate.
+
+A value stream manager does not have to be a full-time role, neither does it require someone who is profoundly knowledgeable on all the aspects of the value stream. He or she should preferably be someone who is driven by results and willing to understand the suppliers, operations and customers well.
+
+“Ideally, a value stream manager should be a leader capable of mapping the current and future-state value stream maps and coming up with plans to bridge the gap between the existing and ideal state of things.”
+
+For many of the Small Medium Enterprises (SMEs) that we work with, many have appointed their process engineer or assistant production manager to take on the additional role of a value stream manager and it usually takes up less than 20% of their working time.
+
+Understanding and collecting key information for the value stream team to drive performance
+
+The value stream manager has the overall responsibility to understand and manage the value stream to improve the flow, quality and generate more value for customers. Nonetheless, the value stream manager cannot do everything by himself – a value stream team should be formed to support the endeavours of the value stream manager.
+
+To align the value stream team with the goals of the value stream manager, they would have to understand some common value stream terminologies:
+
+1. Takt time: How often one part/ a product should be produced, based on the rate of sales to meet the demands of customers.
+
+Takt time = available working time per day / customer demand rate per day
+
+= 30,000 seconds / 300 pieces = 300 seconds
+
+2. Value-added (VA): The time spent working on a product. When there is no change in the product (i.e. the product is sitting in the queue), the time that passes is considered to be non-value added time.
+
+3. Cycle time (C/T): How often a part or product is completed by a process
+
+4. Lead time (L/T): The total time taken for one piece to move through a process or value stream from beginning to end.
+
+5. % Complete/accurate (%C/A): Percentage of time where products are finished and received in the form required by the customer (products that require re-work are excluded)
+
+6. Uptime (%): The time during which processes or systems are active and in operation
+
+7. Waiting: Delays and the time spent by a product sitting in queue
+
+Ready to get the ball rolling: Scenario-based practice on value stream mapping
+
+Manufacturer 123 produces widgets A, B, C and supplies them to various hardware shops. In recent months, manufacturer 123 experienced the following problems:
+
+Shortage and delay in supply of widget A to the hardware shops
+Increasing number of complains about the poor quality of the widget A
+High levels of inventory stored in the manufacturing plant
+
+To solve the above problem, manufacturer 123 decided to use value stream mapping.
+
+Step 1: Appoint a value stream manager and the members to make up the value stream team
+Step 2: Decide to do value stream mapping on widget A’s process
+Step 3: Collect current-state information and draw current-state map
+The value stream manager should map the entire value stream by himself. He would not be able to understand and get a full picture if different people were tasked to map different segments of the value stream
+Information such as process times, inventory, materials and information flow, customers’ needs should be recorded
+Record first-hand data – do not rely on data which were not personally recorded. Past data may not accurately reflect the current state of things
+Step 4: Analyse the current state
+Work with the value stream team to look into the current-state value stream map to find areas of improvements, root causes of wastes and solutions to eliminate wastes
+Step 5: Map out the future-state value stream map
+Step 6: Create an action plan and effect changes
+See the future-state value stream map as the ‘ideal’ state of things and come up with actions required to achieve the future-state from the current-state
+Step 7: Measure and review the results
+
+Quick-fix solutions are available for manufacturers but their impacts are often less pronounced and permanent than those from value stream mapping. Value stream mapping is a continuous improvement tool which challenges manufacturers to look beyond single-processes and find new perspectives to eliminate waste and increase value for customers. While the value stream manager works on the front line to map out the current-state and future-state value stream map, the rest of the value stream team and management should demonstrate dedication to executing plans and actions for improvements. With one heart, achieving the future state is not impossible – it is only a matter of time.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

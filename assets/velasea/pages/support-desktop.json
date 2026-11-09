@@ -1,0 +1,1113 @@
+{
+  "capturedAt": "2026-11-07T14:09:13.345Z",
+  "device": "desktop",
+  "status": 200,
+  "url": "https://velasea.com/support/",
+  "title": "Support – Velasea",
+  "description": "",
+  "generator": "Divi v.4.27.9",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "dimensions": {
+    "width": 1440,
+    "height": 3202
+  },
+  "headings": [
+    {
+      "text": "SUPPORT",
+      "tag": "H1",
+      "fontFamily": "\"Josefin Sans\", sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "400",
+      "lineHeight": "48px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "The Velasea difference begins and ends with service",
+      "tag": "H3",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "19.2px",
+      "fontWeight": "600",
+      "lineHeight": "28.8px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "GET HELP NOW",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "+1 (833) 551-1068",
+      "tag": "H3",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "19.2px",
+      "fontWeight": "600",
+      "lineHeight": "28.8px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "Pre + Post-Sales Support",
+      "tag": "H3",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "19.2px",
+      "fontWeight": "600",
+      "lineHeight": "28.8px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "Warranty (Manufacturer + Extended)",
+      "tag": "H3",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "19.2px",
+      "fontWeight": "600",
+      "lineHeight": "28.8px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "Return Merchandise Authorization",
+      "tag": "H3",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "19.2px",
+      "fontWeight": "600",
+      "lineHeight": "28.8px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK WARRANTY",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "STANDARD WARRANTY BY PRODUCT TYPE",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "EXTENDED WARRANTY OPTIONS",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "1 (833) 599-4614",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "1 (833) 551-1068",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "EXPLORE",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "CONNECT",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "bodyStyle": {
+    "text": "Company\nSolutions\nServices\nProducts\nSupport\nSales\nSUPPORT\nThe Velasea difference begins and ends with service\n\n\nWe take service seriously. Every customer is given a dedicated team ",
+    "tag": "BODY",
+    "fontFamily": "Overpass, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "27.2px",
+    "color": "rgb(68, 68, 68)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  "topColors": [
+    [
+      "rgb(68, 68, 68)",
+      140
+    ],
+    [
+      "rgb(255, 255, 255)",
+      77
+    ],
+    [
+      "rgb(204, 204, 204)",
+      40
+    ],
+    [
+      "rgb(204, 0, 51)",
+      30
+    ],
+    [
+      "rgb(0, 0, 0)",
+      5
+    ],
+    [
+      "rgba(255, 255, 255, 0)",
+      3
+    ],
+    [
+      "rgba(40, 40, 40, 0.85)",
+      1
+    ],
+    [
+      "rgb(26, 26, 26)",
+      1
+    ],
+    [
+      "rgb(18, 18, 18)",
+      1
+    ],
+    [
+      "rgb(102, 102, 102)",
+      1
+    ]
+  ],
+  "links": [
+    {
+      "text": "About",
+      "url": "https://velasea.com/about"
+    },
+    {
+      "text": "News",
+      "url": "https://velasea.com/news"
+    },
+    {
+      "text": "Events",
+      "url": "https://velasea.com/events"
+    },
+    {
+      "text": "Insights",
+      "url": "https://velasea.com/blog"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://velasea.com/contact"
+    },
+    {
+      "text": "Partners",
+      "url": "https://velasea.com/partners"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://velasea.com/leadership"
+    },
+    {
+      "text": "Careers",
+      "url": "https://velasea.com/careers"
+    },
+    {
+      "text": "Aviation",
+      "url": "https://velasea.com/solutions/aviation"
+    },
+    {
+      "text": "Banking + Finance",
+      "url": "https://velasea.com/solutions/finance"
+    },
+    {
+      "text": "Casinos + Gaming",
+      "url": "https://velasea.com/solutions/casinos"
+    },
+    {
+      "text": "Data Centers",
+      "url": "https://velasea.com/solutions/data-centers"
+    },
+    {
+      "text": "Education + Research",
+      "url": "https://velasea.com/solutions/education"
+    },
+    {
+      "text": "Government",
+      "url": "https://velasea.com/solutions/government"
+    },
+    {
+      "text": "Healthcare",
+      "url": "https://velasea.com/solutions/healthcare"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://velasea.com/solutions/hospitality"
+    },
+    {
+      "text": "Industrial + Mfg",
+      "url": "https://velasea.com/solutions/industrial"
+    },
+    {
+      "text": "Infrastructure",
+      "url": "https://velasea.com/solutions/infrastructure"
+    },
+    {
+      "text": "Maritime + Logistics",
+      "url": "https://velasea.com/solutions/maritime"
+    },
+    {
+      "text": "Mining + Resources",
+      "url": "https://velasea.com/solutions/mining"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://velasea.com/solutions/real-estate"
+    },
+    {
+      "text": "Retail + Mixed-Use",
+      "url": "https://velasea.com/solutions/retail"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://velasea.com/solutions/transportation"
+    },
+    {
+      "text": "Utilities + Energy",
+      "url": "https://velasea.com/solutions/utilities"
+    },
+    {
+      "text": "OEM Program",
+      "url": "https://velasea.com/oem"
+    },
+    {
+      "text": "Case Studies",
+      "url": "https://velasea.com/case-studies"
+    },
+    {
+      "text": "Pro Services",
+      "url": "https://velasea.com/professional-services"
+    },
+    {
+      "text": "Iron Link Brand",
+      "url": "https://velasea.com/ironlink"
+    },
+    {
+      "text": "Rental Program",
+      "url": "https://velasea.com/rentals"
+    },
+    {
+      "text": "Canopy RMM",
+      "url": "https://velasea.com/remote-management"
+    },
+    {
+      "text": "Servers",
+      "url": "https://velasea.com/products/servers"
+    },
+    {
+      "text": "NVRs",
+      "url": "https://velasea.com/products/nvrs"
+    },
+    {
+      "text": "Platform Certified",
+      "url": "https://velasea.com/platform-certified"
+    },
+    {
+      "text": "Screening",
+      "url": "https://velasea.com/products/screening"
+    },
+    {
+      "text": "Professional Series",
+      "url": "https://velasea.com/collection/professional-series"
+    },
+    {
+      "text": "Workstations",
+      "url": "https://velasea.com/products/workstations"
+    },
+    {
+      "text": "Networking",
+      "url": "https://velasea.com/products/networking"
+    },
+    {
+      "text": "Storage",
+      "url": "https://velasea.com/products/storage"
+    },
+    {
+      "text": "Edge Industrial",
+      "url": "https://ipc.velasea.com/"
+    },
+    {
+      "text": "Media Players",
+      "url": "https://velasea.com/collection/media-players"
+    },
+    {
+      "text": "Video Wall Controllers",
+      "url": "https://velasea.com/collection/video-wall-controllers"
+    },
+    {
+      "text": "AI Analytics",
+      "url": "https://velasea.com/video-analytics"
+    },
+    {
+      "text": "Support",
+      "url": "https://velasea.com/support"
+    },
+    {
+      "text": "Velasea RMA Policy",
+      "url": "https://velasea.com/returns"
+    },
+    {
+      "text": "limited hardware warranty",
+      "url": "https://velasea.com/warranty"
+    },
+    {
+      "text": "Transfer Support",
+      "url": "https://velasea.com/transfer-support"
+    },
+    {
+      "text": "How to Buy",
+      "url": "https://velasea.com/how-to-buy"
+    },
+    {
+      "text": "Get Price List",
+      "url": "https://velasea.com/price-request"
+    },
+    {
+      "text": "LATAM",
+      "url": "https://velasea.com/latam"
+    },
+    {
+      "text": "NVR Quote Tool",
+      "url": "https://velasea.com/nvr-quote"
+    },
+    {
+      "text": "Quote Request",
+      "url": "https://velasea.com/quote-request"
+    },
+    {
+      "text": "RAID Calculator",
+      "url": "https://velasea.com/raid-calculator"
+    },
+    {
+      "text": "Customer Login",
+      "url": "https://custportal.velasea.com/"
+    },
+    {
+      "text": "",
+      "url": "https://velasea.com/"
+    },
+    {
+      "text": "About",
+      "url": "https://velasea.com/about/"
+    },
+    {
+      "text": "Sales",
+      "url": "https://velasea.com/support/#"
+    },
+    {
+      "text": "News",
+      "url": "https://velasea.com/news/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://velasea.com/blog/"
+    },
+    {
+      "text": "Partners",
+      "url": "https://velasea.com/partners/"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://velasea.com/leadership/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://velasea.com/careers/"
+    },
+    {
+      "text": "Solutions",
+      "url": "https://velasea.com/solutions/"
+    },
+    {
+      "text": "Solutions",
+      "url": "https://velasea.com/solutions"
+    },
+    {
+      "text": "Aviation",
+      "url": "https://velasea.com/solutions/aviation/"
+    },
+    {
+      "text": "Banking + Finance",
+      "url": "https://velasea.com/solutions/finance/"
+    },
+    {
+      "text": "Casinos + Gaming",
+      "url": "https://velasea.com/solutions/casinos/"
+    },
+    {
+      "text": "Commercial Real Estate",
+      "url": "https://velasea.com/solutions/real-estate/"
+    },
+    {
+      "text": "Critical Infrastructure",
+      "url": "https://velasea.com/solutions/infrastructure/"
+    },
+    {
+      "text": "Data Centers",
+      "url": "https://velasea.com/solutions/data-centers/"
+    },
+    {
+      "text": "Education + Research",
+      "url": "https://velasea.com/solutions/education/"
+    },
+    {
+      "text": "Government",
+      "url": "https://velasea.com/solutions/government/"
+    },
+    {
+      "text": "Healthcare",
+      "url": "https://velasea.com/solutions/healthcare/"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://velasea.com/solutions/hospitality/"
+    },
+    {
+      "text": "Industrial + Manufacturing",
+      "url": "https://velasea.com/solutions/industrial/"
+    },
+    {
+      "text": "Maritime + Logistics",
+      "url": "https://velasea.com/solutions/maritime/"
+    },
+    {
+      "text": "Mining + Resources",
+      "url": "https://velasea.com/solutions/mining/"
+    },
+    {
+      "text": "Retail + Mixed-Use",
+      "url": "https://velasea.com/solutions/retail/"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://velasea.com/solutions/transportation/"
+    },
+    {
+      "text": "Utilities + Energy",
+      "url": "https://velasea.com/solutions/utilities/"
+    },
+    {
+      "text": "OEM Program",
+      "url": "https://velasea.com/oem/"
+    },
+    {
+      "text": "Iron Link Brand",
+      "url": "https://velasea.com/ironlink/"
+    },
+    {
+      "text": "Professional Services",
+      "url": "https://velasea.com/professional-services/"
+    },
+    {
+      "text": "Case Studies",
+      "url": "https://velasea.com/case-studies/"
+    },
+    {
+      "text": "Canopy RMM",
+      "url": "https://velasea.com/remote-management/"
+    },
+    {
+      "text": "Rental Program",
+      "url": "https://velasea.com/rentals/"
+    },
+    {
+      "text": "NVRs",
+      "url": "https://velasea.com/products/nvrs/"
+    },
+    {
+      "text": "Servers",
+      "url": "https://velasea.com/products/servers/"
+    },
+    {
+      "text": "Storage",
+      "url": "https://velasea.com/products/storage/"
+    },
+    {
+      "text": "Networking",
+      "url": "https://velasea.com/products/networking/"
+    },
+    {
+      "text": "Workstations",
+      "url": "https://velasea.com/products/workstations/"
+    },
+    {
+      "text": "Screening",
+      "url": "https://velasea.com/products/screening/"
+    },
+    {
+      "text": "Media Players",
+      "url": "https://velasea.com/collection/media-players/"
+    },
+    {
+      "text": "Video Wall Controllers",
+      "url": "https://velasea.com/collection/video-wall-controllers/"
+    },
+    {
+      "text": "Professional Series",
+      "url": "https://velasea.com/collection/professional-series/"
+    },
+    {
+      "text": "Platform-Certified Systems",
+      "url": "https://velasea.com/platform-certified/"
+    },
+    {
+      "text": "Tech Support",
+      "url": "https://velasea.com/support/"
+    },
+    {
+      "text": "Read Iron Link Warranty",
+      "url": "https://velasea.com/warranty/"
+    },
+    {
+      "text": "Returns",
+      "url": "https://velasea.com/returns/"
+    },
+    {
+      "text": "Transfer Support",
+      "url": "https://velasea.com/transfer-support/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://velasea.com/contact/"
+    },
+    {
+      "text": "NVR Quote Tool",
+      "url": "https://velasea.com/nvr-quote/"
+    },
+    {
+      "text": "Quote Request",
+      "url": "https://velasea.com/quote-request/"
+    },
+    {
+      "text": "Get Price List",
+      "url": "https://velasea.com/price-request/"
+    },
+    {
+      "text": "How to Buy",
+      "url": "https://velasea.com/how-to-buy/"
+    },
+    {
+      "text": "Try-and-Buy Program",
+      "url": "https://velasea.com/try-and-buy-program/"
+    },
+    {
+      "text": "Hojas Técnicas LATAM",
+      "url": "https://velasea.com/latam/"
+    },
+    {
+      "text": "RAID Calculator Tool",
+      "url": "https://velasea.com/raid-calculator/"
+    },
+    {
+      "text": "1 (833) 599-4614",
+      "url": "tel:18335994614"
+    },
+    {
+      "text": "1 (833) 551-1068",
+      "url": "tel:18335511068"
+    },
+    {
+      "text": "sales@velasea.com",
+      "url": "mailto:sales@velasea.com"
+    },
+    {
+      "text": "Henderson, NV 89074",
+      "url": "https://maps.app.goo.gl/pZPKepWuGzqL8bneA"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/velasea"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/velaseasystems"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/velaseasystems"
+    },
+    {
+      "text": "",
+      "url": "https://www.x.com/velaseasystems"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@velasea"
+    },
+    {
+      "text": "Terms",
+      "url": "https://velasea.com/terms"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://velasea.com/privacy"
+    },
+    {
+      "text": "Cookies",
+      "url": "https://velasea.com/cookies"
+    }
+  ],
+  "imageElements": [
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/10/why-vel_mega.jpg?ver=1760459397",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-scaled.jpeg",
+      "alt": "",
+      "naturalWidth": 1920,
+      "naturalHeight": 2560,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/services_mega.jpg",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/products_mega.jpg",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/products-servers-bw-sized.jpg",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/08/connect_mega.jpg",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/Velasea-Logotype_Light_RGB.svg",
+      "alt": "Velasea Logo",
+      "naturalWidth": 300,
+      "naturalHeight": 66,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/sos_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/support-agent_red.svg",
+      "alt": "",
+      "naturalWidth": 48,
+      "naturalHeight": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/certified_red.svg",
+      "alt": "",
+      "naturalWidth": 48,
+      "naturalHeight": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/inventory_red.svg",
+      "alt": "",
+      "naturalWidth": 48,
+      "naturalHeight": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/IronLink-Lockup_RGB.svg",
+      "alt": "IronLink Powered by Velasea",
+      "naturalWidth": 271,
+      "naturalHeight": 150,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/Velasea-Logotype_Light_RGB.svg",
+      "alt": "Velasea Logo",
+      "naturalWidth": 300,
+      "naturalHeight": 66,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/call_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/sos_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/mail_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/near_me_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/10/why-vel_mega.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/10/why-vel_mega-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-scaled.jpeg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-1280x1707.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-980x1307.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-480x640.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/services_mega.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/services_mega-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/products_mega.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/products_mega-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/products-servers-bw-sized.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/products-servers-bw-sized-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/08/connect_mega.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/08/connect_mega-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/Velasea-Logotype_Light_RGB.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "Velasea Logo"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/sos_FILL1_wght400_GRAD0_opsz24.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/support-agent_red.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/certified_red.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/inventory_red.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/IronLink-Lockup_RGB.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IronLink Powered by Velasea"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/call_FILL1_wght400_GRAD0_opsz24.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/mail_FILL1_wght400_GRAD0_opsz24.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/near_me_FILL1_wght400_GRAD0_opsz24.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/support-scaled.jpeg",
+      "kinds": [
+        "background"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/support/",
+      "kinds": [
+        "inline-style"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/09/cropped-velasea_profile-circle_transparent-1-32x32.png",
+      "kinds": [
+        "favicon"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/09/cropped-velasea_profile-circle_transparent-1-192x192.png",
+      "kinds": [
+        "favicon"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/09/cropped-velasea_profile-circle_transparent-1-180x180.png",
+      "kinds": [
+        "favicon"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/10/why-vel_mega.jpg?ver=1760459397",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://www.google.com.vn/pagead/1p-user-list/16860226941/?random=1794060551587&cv=11&fst=1794060000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41h1v9210975937za20ozb9206335159zd9206335159xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117227714~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121191155~121246026~121246034~123814183~124013660&u_w=1440&u_h=1000&url=https%3A%2F%2Fvelasea.com%2Fsupport%2F&rcb=2&frm=0&tiba=Support%20%E2%80%93%20Velasea&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1693103903.1794060506&uaa=x86&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-QEAogo4dX50-Adj27CUM-vl4wZCbyCWWisiaXEEgT_f9yfCvs8DLmOEV1RoMMhMn0BZ26CSAPa5JP6hmessJzH72oIPvsIunEmWBpIzhCVhG37KLQNSsjPD7NoN3M6DA4et57kGYj7pvABRspsdJrlJ9z_xzspUUzHMIRc2y64uJqO6jVhyxN1-tcYfZsxng8Xg2vYSqGahsT2fjN1ehpwNeIn0-KGmyHwtB75S1bkZKN_CyTjZlwjG-vEP4GKEiX2fhnTgql6c7dAyldjwaDJXFvySsSz4f9P3fmUS-_B3OlBJPSSYLlNKNtOVQw5tgFwrKeUCr1I1kt4&random=1816458234&rmt_tld=1&ipr=y",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/16860226941/?random=1794060551587&cv=11&fst=1794060000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41h1v9210975937za20ozb9206335159zd9206335159xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117227714~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121191155~121246026~121246034~123814183~124013660&u_w=1440&u_h=1000&url=https%3A%2F%2Fvelasea.com%2Fsupport%2F&rcb=2&frm=0&tiba=Support%20%E2%80%93%20Velasea&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1693103903.1794060506&uaa=x86&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-QEAogo4dX50-Adj27CUM-vl4wZCbyCWWisiaXEEgT_f9yfCvs8DLmOEV1RoMMhMn0BZ26CSAPa5JP6hmessJzH72oIPvsIunEmWBpIzhCVhG37KLQNSsjPD7NoN3M6DA4et57kGYj7pvABRspsdJrlJ9z_xzspUUzHMIRc2y64uJqO6jVhyxN1-tcYfZsxng8Xg2vYSqGahsT2fjN1ehpwNeIn0-KGmyHwtB75S1bkZKN_CyTjZlwjG-vEP4GKEiX2fhnTgql6c7dAyldjwaDJXFvySsSz4f9P3fmUS-_B3OlBJPSSYLlNKNtOVQw5tgFwrKeUCr1I1kt4&random=1816458234&rmt_tld=0&ipr=y",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/tech-problem-scaled.jpeg",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    }
+  ],
+  "stylesheets": [
+    "https://velasea.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/admin/css/dipi-font.min.css?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/css/general.min.css?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/vendor/css/hamburgers.min.css?ver=1.1.3",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/ymc-smart-filter/ymc2/assets/css/style.min.css?ver=3.13.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/styles/style.min.css?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-plus/styles/style.min.css?ver=1.15.0",
+    "https://velasea.com/wp-content/themes/Divi/style-static.min.css?ver=4.27.9",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/css/main.css?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/css/main-media-query.css?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/libraries/tippy/css/animations.css?ver=1.9.8.2",
+    "https://static.zohocdn.com/zoho-salesiq-widgets/embed/fl/css/float.tkG6n0YAhmvzOMcfvCTniE9kRqMLEEz7ww3jg4Y9lvnp_K9BOorile5tfnmLFNNL.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=AW-16860226941&cx=c&gtm=4e6b41h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-8KSECL9Z5R&cx=c&gtm=4e6b41h1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-53LT67NX",
+    "https://velasea.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://velasea.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/js/public.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/js/hamburger.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/js/popper-1.16.1.min.js?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/js/tippy-5.2.1.min.js?ver=1.9.8.2",
+    "https://static.hotjar.com/c/hotjar-5020930.js?sv=6",
+    "https://static.zohocdn.com/zoho-salesiq-widgets/embed/fl/js/float~modern.jGSh9_uUw2XSu2XFbhkTVRwKRz-23OrHjllAHVXqnoaqGYnze7t-43oBlEXfxM0t.js",
+    "https://static.zohocdn.com/zoho-salesiq-widgets/embed/fl/js/float.sUqRPImx5MSYE295WOKiLFSuB5z2IqB7YcPqrEP0nQ4427Gyzuq-DjobivEC0KV5.js",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16860226941/?random=1794060551587&cv=11&fst=1794060551587&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41h1v9210975937za20ozb9206335159zd9206335159xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117227714~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121191155~121246026~121246034~123814183~124013660&u_w=1440&u_h=1000&url=https%3A%2F%2Fvelasea.com%2Fsupport%2F&rcb=2&frm=0&tiba=Support%20%E2%80%93%20Velasea&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1693103903.1794060506&uaa=x86&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "https://script.hotjar.com/modules.47ae0ae40a423a71e31f.js",
+    "https://salesiq.zohopublic.com/widget?wc=siq3f29c0546263748d4696e9070437ef62f5cad8535fd0cda3b534180530e83c44",
+    "https://velasea.com/wp-content/plugins/the-events-calendar/common/build/js/user-agent.js?ver=da75d0bdea6dde3898df",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/js/CollapseSubmenu.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.27.9",
+    "https://velasea.com/wp-content/plugins/divi-pixel/scripts/frontend-bundle.min.js?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-plus/scripts/frontend-bundle.min.js?ver=1.15.0",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/js/main.js?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/js/main.helper.js?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.2.2",
+    "https://velasea.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.27.9",
+    "https://velasea.com/wp-content/plugins/woocommerce-product-table/assets/js/jquery-fitvids/jquery.fitvids.min.js?ver=1.1"
+  ],
+  "issues": []
+}

@@ -1,0 +1,47 @@
+PHÂN TÍCH NỘI DUNG ICLAB
+Nguồn: https://iclab.identifycapacity.com
+Thời điểm: 2026-11-07T16:54:10.188Z
+
+ICLab giới thiệu nền tảng Operational Intelligence cho hạ tầng quan trọng, kết hợp quản lý video, Machine Vision, dữ liệu IoT và edge gateway để hỗ trợ theo dõi vận hành và ra quyết định.
+
+NỀN TẢNG VÀ KHÁC BIỆT
+- ICLab Platform: Dashboard kết hợp video, bản đồ, biểu đồ, widget, cảnh báo và dữ liệu vận hành.
+  Nguồn: https://iclab.identifycapacity.com/platform
+- Multilayer Visual Objects: Ghép hình ảnh camera với dữ liệu IoT và kết quả Machine Vision thành các lớp thông tin có ngữ cảnh. Trang nguồn công bố khả năng tối đa 32 lớp.
+  Nguồn: https://iclab.identifycapacity.com/multilayer-objects
+- Visual Control / AI / IoT / Edge: Bốn nhóm năng lực được trình bày trên home: quản lý video, phân tích AI, quản lý thiết bị IoT và kết nối tại biên.
+  Nguồn: https://iclab.identifycapacity.com
+
+LĨNH VỰC ỨNG DỤNG
+- Solutions for Agriculture: https://iclab.identifycapacity.com/solutions/agriculture
+- Solutions for Cities: https://iclab.identifycapacity.com/solutions/cities
+- Solutions for Energy: https://iclab.identifycapacity.com/solutions/energy
+- Solutions for Industry: https://iclab.identifycapacity.com/solutions/industry
+- Solutions for Supply Chain: https://iclab.identifycapacity.com/solutions/supply-chain
+- Solutions for Transport: https://iclab.identifycapacity.com/solutions/transport
+
+THIẾT KẾ VÀ BỐ CỤC
+Phối nền trắng, nền xanh-đen và nền sáng trung tính; điểm nhấn xanh dương, CTA bo tròn, ảnh dashboard và icon công nghệ. Typography được ghi nhận từ CSS tính toán, không phải kiểm chứng độc lập việc tải từng font.
+Header điều hướng, hero giàu hình ảnh, các khối mô tả nền tảng kết hợp ảnh dashboard, nhóm năng lực, giải pháp theo ngành, công nghệ kết nối, CTA và footer.
+- Font tiêu đề khai báo: Montserrat, Arial, sans-serif
+- Font nội dung khai báo: Roboto, Arial, sans-serif
+
+LUỒNG CHUYỂN ĐỔI
+Tìm hiểu nền tảng và giải pháp, sau đó liên hệ hoặc xem demo. Phần đăng nhập là một luồng riêng, không được truy cập trong quá trình thu thập.
+- Trang có biểu mẫu HTML quan sát được: 0. Không gửi thử biểu mẫu hoặc email.
+
+NỘI DUNG CẦN RÀ SOÁT
+- Nhóm title lặp lại: 1
+- Nhóm meta description lặp lại: 1
+- Trang thiếu meta description: 0
+- Trang cần rà soát số lượng H1: 0
+- Trang có ảnh alt trống: 9 (có thể gồm ảnh trang trí)
+
+THAM KHẢO CHO AQPTECH
+- Tham khảo cách liên kết hạ tầng máy chủ, GPU và lưu trữ với bài toán vận hành bằng video, AI và IoT.
+- Trình bày luồng dữ liệu từ thiết bị hiện trường qua edge đến dashboard, thay vì chỉ liệt kê sản phẩm.
+- Tổ chức giải pháp theo ngành và dùng ảnh giao diện thực tế để giải thích giá trị.
+- Không sử dụng tên sản phẩm, thương hiệu hoặc tuyên bố tính năng của ICLab như năng lực đã xác nhận của AQPTech.
+
+PHẠM VI
+Phân tích dựa trên nội dung marketing công khai và ảnh desktop. Không truy cập tài khoản, dashboard vận hành, không gửi biểu mẫu và không xác minh độc lập các tuyên bố tính năng.

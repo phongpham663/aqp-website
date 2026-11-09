@@ -1,0 +1,95 @@
+Blog · 21 July 2024
+
+Understanding SMED: Importance and Implementation in a Factory
+Understanding SMED: Importance and Implementation in a Factory
+
+In the fast-paced and competitive world of manufacturing, efficiency and flexibility are crucial. One technique that significantly enhances both is SMED (Single-Minute Exchange of Dies).
+
+What is SMED?
+
+The core objective of SMED is to reduce the time it takes to changeover from one product (or process) to another to less than 10 minutes (hence the term “single-minute”). The technique involves streamlining and standardizing changeover procedures to minimize downtime and improve production efficiency.
+
+Why SMED?
+Increased Flexibility and Competitive Advantage: SMED allows manufacturers to switch between different products or processes efficiently. This allows for smaller batch sizes, and increased responsiveness to customer demands.
+Reduced Cost and/or Increased Output: By reducing changeover times, SMED minimizes downtime, leading to higher OEE. Higher OEE in turn reduces the need for additional machinery or overtime labor to meet the demand.
+Reduced Finished Goods Inventory Cost: By being able to produce smaller batch sizes fast, manufacturers do not need to keep a high buffer of finished goods to meet the customer demands.
+Enhanced Quality: Consistent and standardized changeover processes reduce the likelihood of errors and defects, leading to improved product quality.
+How to Implement SMED in a Factory
+
+Implementing SMED involves a systematic approach to analyzing and optimizing changeover activities. Here is a step-by-step guide:
+
+Document the Current Process
+Observe and record (do a video recording if possible) the current changeover process in detail. Break it down into individual steps and time each step.
+
+Identify and Separate Internal from External Activities
+Internal Activities: Tasks that can only be performed when the machine is stopped, for example:
+Removing and installing molds, dies, flexible packaging
+Adjusting machine settings such as temperature, pressure etc
+Cleaning of machines
+External Activities: Tasks that can be performed while the machine is running, for example**:**
+Retrieving and preparing parts, tools or materials
+Assembling necessary fixtures required for the next setup
+
+Convert Internal Activities to External
+Analyze each internal activity to determine if it can be moved to external. For example:
+Pre-assembling tools and fixtures while the machine is still running the previous job so it can be quickly swapped in when the machine stops.
+Retrieving and preparing all necessary materials in advance, so they are ready to be placed on the machine immediately after the previous job finishes
+
+Streamline & Eliminate Internal Activities
+Simplify and standardize the remaining internal activities. For example:
+Use quick-release mechanisms, modular fixtures, and other tools to speed up the process.
+Arranging tools and materials in a predefined, ergonomic layout near the machine to minimize movement and reduce the time spent searching for tools during the changeover.
+Implementing visual aids like color-coded labels, tool shadow boards, and digital displays to guide operators through the changeover process, reducing the time spent on decision-making and searching for instructions.
+Eliminate unnecessary steps and ensure that necessary steps are performed in the most efficient sequence.
+
+Conclusion
+
+SMED (Single-Minute Exchange of Die) is a lean manufacturing tool that reduces changeover times, enhances production flexibility, and boosts efficiency. By optimizing changeover processes, manufacturers can achieve significant cost savings, better resource utilization, and higher product quality. Integrating SMED with smart, connected manufacturing lines provides real-time data, enabling quicker maintenance and further process improvements for even greater efficiency.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

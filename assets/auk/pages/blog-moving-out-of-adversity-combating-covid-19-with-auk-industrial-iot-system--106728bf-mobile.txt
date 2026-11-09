@@ -1,0 +1,90 @@
+Blog · 24 November 2020
+
+Moving Out of Adversity: Combating Covid-19 with Auk Industrial IoT System
+
+The worldwide spread of COVID-19 presents unprecedented challenges and its impact is much higher than that of the severe acute respiratory syndrome (SARS) outbreak in 2003 or the 2008 global financial crisis – GDP growth for 2020 has contracted to 0%.
+
+Although manufacturing, alongside automotive and electronics, is one of the sectors worst hit by the global pandemic, hope is not lost. The sector is set to experience the fastest rebound as production steps up to meet the pickup in demand towards the end of the crisis.
+
+Yet, the key factor governing how quickly industrial companies can recover from the crisis and emerge stronger in the long run would depend on their ability to think further and reform during this brief hiatus.
+
+So, what should industrial companies do?
+
+1. Building leaner teams
+
+Consider the stay-at-home order (i.e. movement control order, lockdown, circuit breaker) which recently came into force. Almost every country has tightened border control and mandated their people to stay and work from home in a bid to combat COVID-19. In Singapore, many industrial companies experienced manpower shortage when a significant number of their foreign employees were in lockdown and could no longer commute to work from Malaysia.
+
+Volatility is likely to ensue in the months ahead and even when the lockdown measures begin to ease, the issue of manpower and human capital flow remains a question mark. What is clear, however, is the importance for industrial companies to reduce reliance on manpower so operations can continue as usual even in the face of future manpower shortage.
+
+With that, we believe that industrial companies should:
+
+Digitalise processes requiring basic cognitive skills. Activities such as equipment monitoring and process parameter monitoring can be automated, freeing up manpower for activities requiring higher cognitive skills. A client of ours has seen surprising results from doing so – by connecting IoT nodes to the sensors of their injection moulding machines and using the paired control software to set relevant warning and limit values, the company was alerted of potential failures in real-time. What took hours of labour-intensive and imprecise manual observation was now condensed into seconds at a fraction of the labour.
+Measure and optimise Overall Equipment Effectiveness (OEE) to reduce labour-hours. Some industrial companies only collect data such as the number of operatives working per batch, or the time spent on production at each workstation. While these micro-level metrics can be useful, they might obscure insights that would surface if industrial companies looked at the bigger picture – e.g. how could the workforce be rotated across production lines to reduce unnecessary manpower and equipment downtime? As such, OEE is a better metric because it measures and identifies the root causes of overall productivity loss. In 2019, Auk supported a frozen meat supplier in leveraging on IoT to measure OEE performance across three processing plants. Through OEE performance optimisation, the supplier could level-load their machines and schedule more efficiently. Together, the end result was better than expected – not only was there a 25% reduction in labour-hours but also a 30% increase in equipment output.
+2. Making more with less
+
+In parallel with possible increase in demand when COVID-19 abates, industrial companies should also consider innovative ways to increase outputs without breaking the bank.
+
+To do that, industrial companies could actively leverage technologies in the following three areas:
+
+Increasing throughput through IoT adoption. Historically, operatives manually counted the number of throughputs per hour. Additionally, machine downtimes were often estimated at the end of the shift and not calculated in real-time. These imprecise and retrospective data provided industrial companies with limited insights to improve productivity. Fortunately, the scene has changed with the introduction of powerful technological solutions. After adopting IoT, one regional beverage company was able to identify sources of bottlenecks (e.g. sleeve labeller jams, auto-packer minor stops and conveyor line speed loss) ahead of time and could resolve the problems before productivity took a hit. With production lines running twice as fast as before (now producing 12,000 bottles per hour instead of 5,000), the company no longer had to invest in capacity expansion.
+Real-time quality monitoring to reduce rejects. Traditionally, quality of outputs is only checked at the end of the line either by operatives or some testing technologies. Industrial companies have learnt the hard way that end of line quality inspection is costly because additional time and resources are required to rework outputs with conformity issues. A better way to ensure quality would be to use technology to track and stream process parameters (e.g. temperatures, flow rates, cooling processes) in real-time. When the essential parameters exceed acceptable tolerances or outliers are found, the relevant parties are alerted and corrective actions can be taken immediately. For instance, one precision engineering company uses Auk’s control software to trigger quasi-real-time alerts via SMS, WhatsApp and email whenever outliers surfaced – this greatly improved yield while driving down wastes.
+Identifying anomalies via multivariate regression. Auk has developed and released a new feature in our software where industrial companies can detect anomalies based upon past and ongoing operations data. First, industrial companies could ingress long-term historical data to build a baseline. Second, deviations from the baseline would be automatically recognised as anomalies. Third, triggers would be sent to alert the relevant parties so early intervention can be taken to prevent costly losses.
+Load and performance optimisation via energy load curve analysis. The load curve analysis is particularly helpful for energy-intensive process industries such as the automotive industry. With a growing emphasis on reducing energy costs and environmental impacts, this approach hinges on existing data to improve energy cost allocation and importantly, overall production scheduling.
+3. Becoming future-ready
+
+COVID-19 has changed the way people live, work and consume technology – the situation is dynamic and the future continues to evolve. Despite the uncertainty, industrial companies who want to grow beyond reclaiming their losses from COVID-19 must reimagine and reform their ways. With all this in mind, we believe that industrial companies can become future-ready by the following three steps:
+
+Stronger remote collaboration. When the pandemic first unfolded, many industrial companies were caught off-guard – not many had a contingency plan to remotely manage operations on the production floor. With connectivity and the appropriate IoT tools, however, some managers, engineers and production controllers had immediate access to all the data on the production floor. And so they have been doing remote data monitoring and root-cause problem solving (RCPS) via telecommuting to optimise production floor performance synchronously. Moving forward, it is expected that more industrial companies will leverage technologies as they witness the benefits of remote management across multi-functional teams.
+Making apple-to-apple comparisons. Apart from benchmarking against competitors, industrial companies also do internal benchmarking to compare the performance of their production facilities or processes across geographies. It is a great exercise but one problem exists – how can there be parity and consistency in cross-lines and cross sites comparison? For instance, a company wants to compare performance between its 2 chocolate factories – one in Singapore producing small chocolate bars and the other in Malaysia producing large chocolate bars. In such cases, manual data collection and comparison is not ideal – operatives would be at a loss for how to compare performance across dissimilar products and there may be bad actors present to manipulate the results. The best practice to do such a comparison and benchmarking would be to use a quantitative baseline (e.g. common unit); autonomous algorithms could do just that.
+Staying resilient. The current lull period is an opportunity for industrial companies to emerge stronger – and not to falter. Companies that are resolute to recover ahead of the competition have been upgrading their physical and technological infrastructures to empower managers and operatives with improved equipment, newer technologies, greater access to shared data and higher transparency. Finally, companies are investing in workforce upskilling so employees can better respond to new opportunities.
+Conclusion
+
+Restarting operations and strategising a game plan only when COVID-19 shows signs of abating would be nothing but too late. Ramping up on digital transformation could prove critical for industrial companies to increase productivity, stay resilient and rebound quickly. This pandemic is not so much of a foe but an accelerant for companies to make strategic improvements through the use of technologies and analytical methods in the increasingly complex and dynamic economy.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

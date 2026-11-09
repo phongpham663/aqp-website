@@ -1,0 +1,119 @@
+Customer Platform Upgrade Notice (Sep 2026)
+
+Scheduled platform upgrade — Sunday 6 & 13 September 2026
+
+We are moving the Auk platform to a new, faster foundation. The upgrade happens on Sunday 6 September 2026 & 13 September 2026 at 11:00 (GMT+8).
+
+Your dashboard address does not change, your login does not change, and your production data keeps being collected throughout. There are two short periods where we ask you not to make certain changes, and one thing your IT team may need to do in advance.
+
+At a glance
+When (GMT+8)	What happens	What we ask of you
+Fri 4 Sep, 09:00 → Sun 6 Sep, 11:00	Settings freeze	Please make no changes to OEE settings, schedules or standard times
+Sun 6 Sep, 09:00 → 11:00	Labelling freeze	Please pause labelling of issues and work orders
+Sun 6 Sep, from 11:00	New platform serving	Carry on as normal — label in the new dashboard
+Action required: Network and firewall requirements:
+
+This is the one item that needs advance action. If your network filters outbound traffic by hostname, your IT or OT team should add the entries below before Friday 4 September. If they are missing, the dashboard may not load after the upgrade.
+
+Baseline ask: allow outbound TCP 8883 and 443. If your firewall whitelists specific hostnames, use the tables below. Please whitelist by hostname (DNS/SNI-based filtering), never by static IP address — the underlying IP addresses rotate, and IP-based rules will break intermittently.
+
+#	URL	Port	Purpose
+1	iot.auk.industries	8883 (or 443 if outbound 8883 is blocked on your network — same connection; tell us and we enable it for your site)	Secure telemetry and control (MQTT/TLS) — data, commands, configuration
+2	dl.auk.industries	443	Gateway firmware updates (over-the-air)
+3	ops.auk.industries	443	Auk Factory Dashboard
+4	bff.auk.industries	443	Dashboard API
+5	api.auk.industries	443	Customer data API. api.aukindustries.com remains a permanent alias — whitelist both if your integration predates this upgrade
+6	mcp.auk.industries	443	Auk MCP endpoint for customer AI agents
+7	work.auk.industries	443	Digital Workspace app
+8	work-api.auk.industries	443	Workspace API — also called by the main dashboard (row 3), so please include it even if you only use the dashboard
+9	work-ws.auk.industries	443	Workspace real-time updates (WebSocket)
+
+⚠️ Important: the gateway uses mutual TLS with pinned certificates. Its connections must be exempted from SSL/TLS inspection. TLS-intercepting proxies will break every gateway row above.
+
+The settings freeze — Friday 4 September, 09:00 onwards
+
+So that your configuration transfers to the new platform exactly as it stands, we need it to hold still for the final 48 hours. From Friday 4 September at 09:00 (GMT+8) until the upgrade completes, please do not change:
+
+OEE settings and downtime categories
+Shift schedules and shift patterns
+Standard cycle times and SKU standard times
+Machine, line and asset setup
+
+Your machines keep running and data keeps being recorded as normal. The freeze applies only to configuration changes made by people — nothing about production monitoring stops.
+
+If you have a configuration change that genuinely cannot wait, contact us before Friday and we will schedule it either side of the window.
+
+The labelling freeze — Sunday 6 September, 09:00 to 11:00
+
+Labelling stays fully available through Friday and Saturday. We only need a two-hour pause immediately before the switch:
+
+Before Sunday 09:00 — label issues and work orders as normal. Everything is carried across, including labels applied retroactively to earlier days.
+Sunday 09:00 – 11:00 — please pause labelling. Any label added or edited in this window may not carry across to the new platform.
+After Sunday 11:00 — label in the new dashboard as normal.
+What happens to your data and history
+Nothing is lost. Data collection from your machines continues without interruption throughout the freeze and the switchover.
+Your history comes with you. Detailed history from 31 December 2024 onwards is available in the new platform from day one.
+Earlier history follows. Records going back to January 2022 are being restored progressively in the weeks after launch.
+Same address, same login. Continue to sign in at ops.auk.industries with your existing email and password. You do not need to create a new account or reset anything.
+If something does not look right
+
+Your current dashboard remains available as a read-only fallback for a period after the upgrade, so nothing is at risk.
+
+If after the upgrade you see missing data, an unexpected OEE figure, or cannot reach the dashboard, contact us straight away and we will investigate:
+
+Email: service@auk.industries
+Your usual Auk contact — also fine, and often fastest
+Frequently asked questions
+
+Do we need to stop production? No. Machines keep running and data keeps being recorded throughout. Only human configuration edits and, for two hours, labelling are paused.
+
+Will we lose any production data during the interruption? No. Data continues to be collected and stored during the switchover and appears once the new dashboard is live.
+
+Does the dashboard address change? No. It stays at ops.auk.industries.
+
+Do we need new accounts or passwords? No. Sign in with your existing email and password.
+
+What if we forget and change a setting during the freeze? Tell us and we will re-apply it after the upgrade. Nothing breaks — the change simply may not be reflected in the new platform’s historical figures.
+
+What if our IT team cannot complete the firewall changes in time? Contact us before Friday 4 September. We can confirm whether your site is affected and help work through it.
+
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

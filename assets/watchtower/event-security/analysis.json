@@ -1,0 +1,658 @@
+{
+  "source": "https://wt-security.com/en-gb/application/event-security",
+  "analyzedAt": "2026-11-08T10:57:38.245Z",
+  "language": "vi",
+  "title": "Event security · Watchtower Security Solutions",
+  "description": "A properly secured event ensures that your visitors go home with the great experience you provided and you look back on it with the same pleasure. We are happy to help with that.",
+  "content": {
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Event security"
+      },
+      {
+        "tag": "H2",
+        "text": "Every inch of your event protected"
+      },
+      {
+        "tag": "H2",
+        "text": "At your Christmas market, festival or other event, we provide a mix of cameras in both public and private areas. Thanks to the local network we set up for our cameras, you can easily monitor the situation in real time."
+      },
+      {
+        "tag": "H2",
+        "text": "Request information without obligation"
+      },
+      {
+        "tag": "H2",
+        "text": "Our solutions"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower 360"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower AI"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Celsius"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Solar"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Box"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Alarmkit"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Thermal"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Security Plan"
+      },
+      {
+        "tag": "H2",
+        "text": "Stay up to date with our latest developments"
+      },
+      {
+        "tag": "H2",
+        "text": "Let us unburden you from your worries"
+      },
+      {
+        "tag": "H3",
+        "text": "Talk to our experts"
+      },
+      {
+        "tag": "H3",
+        "text": "Request a custom quote"
+      }
+    ],
+    "paragraphs": [
+      "To properly secure your event, we make sure that we think along with you in time about what risks exist and how you can minimize them through a good security plan",
+      "At your Christmas market, festival or other event, we provide a mix of cameras in both public and private areas. Thanks to the local network we set up for our cameras, you can easily monitor the situation in real time.",
+      "To properly secure your event, we make sure to sit down with you in a timely manner to discuss what risks exist and how you can minimize them through a good security plan. At your Christmas market, festival or other event, we provide a mix of eye-catching camera surveillance and manpower, as well as, for example, the security of temporary spaces where your valuables are stored.\n\nOur cameras are managed remotely by our private alarm center, who can take quick action when an incident occurs. That way, you don't have to worry about calling in the police, for example, when necessary.",
+      "Request information without obligation",
+      "Do you have a question or want more information? Let us know via the form below.",
+      "Our solutions",
+      "Stay up to date with our latest developments",
+      "Watchtower launches Watchtower Celsius: intelligent thermal detection for early fire prevention",
+      "Our mission is simple: to make temporary site security smarter, more reliable and easier to manage. We invest heavily in developing new technologies, and I, Wouter Ommeslag Managing Dirctor of Watchtower, am proud to present our latest products and services",
+      "Let us unburden you from your worries"
+    ]
+  },
+  "conversion": {
+    "callsToAction": [
+      {
+        "text": "Contact",
+        "url": "https://wt-security.com/en-gb/contact"
+      },
+      {
+        "text": "Request a custom quote",
+        "url": "https://wt-security.com/en-gb/request-quote"
+      },
+      {
+        "text": "Request a custom quote",
+        "url": "https://wt-security.com/en-gb/request-quote"
+      },
+      {
+        "text": "Contact us",
+        "url": "https://wt-security.com/en-gb/contact"
+      },
+      {
+        "text": "Get in touch",
+        "url": "https://wt-security.com/en-gb/request-quote"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00D20000000CLAh",
+        "method": "post",
+        "fields": [
+          {
+            "name": "oid",
+            "type": "hidden",
+            "label": ""
+          },
+          {
+            "name": "oid",
+            "type": "hidden",
+            "label": ""
+          },
+          {
+            "name": "retURL",
+            "type": "hidden",
+            "label": ""
+          },
+          {
+            "name": "lead_source",
+            "type": "hidden",
+            "label": ""
+          },
+          {
+            "name": "CurrencyIsoCode",
+            "type": "hidden",
+            "label": ""
+          },
+          {
+            "name": "00NQ50000030ZSJ",
+            "type": "hidden",
+            "label": ""
+          },
+          {
+            "name": "",
+            "type": "text",
+            "label": "First name"
+          },
+          {
+            "name": "",
+            "type": "text",
+            "label": "Last name"
+          },
+          {
+            "name": "phone_number",
+            "type": "tel",
+            "label": "Telphone number"
+          },
+          {
+            "name": "",
+            "type": "text",
+            "label": "E-Mail address"
+          },
+          {
+            "name": "",
+            "type": "text",
+            "label": "Company"
+          },
+          {
+            "name": "",
+            "type": "textarea",
+            "label": "I need temporary security for:"
+          },
+          {
+            "name": "phone_prefix",
+            "type": "hidden",
+            "label": ""
+          },
+          {
+            "name": "phone",
+            "type": "hidden",
+            "label": ""
+          },
+          {
+            "name": "utm_Source__c",
+            "type": "hidden",
+            "label": ""
+          }
+        ]
+      }
+    ],
+    "formSubmissionTested": false
+  },
+  "visualDesign": {
+    "typography": [
+      {
+        "tag": "H1",
+        "text": "Event security",
+        "font": "\"GT America\"",
+        "size": "67.5px",
+        "weight": "600",
+        "color": "rgb(245, 245, 245)"
+      },
+      {
+        "tag": "H2",
+        "text": "Every inch of your event protected",
+        "font": "\"GT America\"",
+        "size": "22.5px",
+        "weight": "600",
+        "color": "rgb(245, 245, 245)"
+      },
+      {
+        "tag": "P",
+        "text": "To properly secure your event, we make sure that we think along with you in time about what risks exist and how you can minimize them through a good security plan",
+        "font": "\"GT America\"",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(245, 245, 245)"
+      },
+      {
+        "tag": "H2",
+        "text": "At your Christmas market, festival or other event, we provide a mix of cameras in both public and private areas. Thanks to the local network we set up for our cameras, you can easily monitor the situation in real time.",
+        "font": "\"GT America\"",
+        "size": "60px",
+        "weight": "600",
+        "color": "rgb(17, 33, 50)"
+      },
+      {
+        "tag": "P",
+        "text": "At your Christmas market, festival or other event, we provide a mix of cameras in both public and private areas. Thanks to the local network we set up for our cameras, you can easily monitor the situation in real time.",
+        "font": "\"GT America\"",
+        "size": "60px",
+        "weight": "600",
+        "color": "rgb(17, 33, 50)"
+      },
+      {
+        "tag": "H2",
+        "text": "Request information without obligation",
+        "font": "\"GT America\"",
+        "size": "82.5px",
+        "weight": "600",
+        "color": "rgb(245, 245, 245)"
+      },
+      {
+        "tag": "P",
+        "text": "Request information without obligation",
+        "font": "\"GT America\"",
+        "size": "82.5px",
+        "weight": "600",
+        "color": "rgb(245, 245, 245)"
+      },
+      {
+        "tag": "P",
+        "text": "Do you have a question or want more information? Let us know via the form below.",
+        "font": "\"GT America\"",
+        "size": "22.5px",
+        "weight": "600",
+        "color": "rgb(245, 245, 245)"
+      },
+      {
+        "tag": "H2",
+        "text": "Our solutions",
+        "font": "\"GT America\"",
+        "size": "60px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "P",
+        "text": "Our solutions",
+        "font": "\"GT America\"",
+        "size": "60px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower 360",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower AI",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Celsius",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Solar",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Box",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Alarmkit",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Thermal",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Watchtower Security Plan",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H2",
+        "text": "Stay up to date with our latest developments",
+        "font": "\"GT America\"",
+        "size": "60px",
+        "weight": "600",
+        "color": "rgb(17, 33, 50)"
+      },
+      {
+        "tag": "P",
+        "text": "Stay up to date with our latest developments",
+        "font": "\"GT America\"",
+        "size": "60px",
+        "weight": "600",
+        "color": "rgb(17, 33, 50)"
+      },
+      {
+        "tag": "P",
+        "text": "Watchtower launches Watchtower Celsius: intelligent thermal detection for early fire prevention",
+        "font": "\"GT America\"",
+        "size": "14.25px",
+        "weight": "400",
+        "color": "rgb(17, 33, 50)"
+      },
+      {
+        "tag": "P",
+        "text": "Our mission is simple: to make temporary site security smarter, more reliable and easier to manage. We invest heavily in developing new technologies, and I, Wouter Ommeslag Managing Dirctor of Watchtower, am proud to present our latest products and s",
+        "font": "\"GT America\"",
+        "size": "14.25px",
+        "weight": "400",
+        "color": "rgb(17, 33, 50)"
+      },
+      {
+        "tag": "H2",
+        "text": "Let us unburden you from your worries",
+        "font": "\"GT America\"",
+        "size": "60px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "P",
+        "text": "Let us unburden you from your worries",
+        "font": "\"GT America\"",
+        "size": "60px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Talk to our experts",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      },
+      {
+        "tag": "H3",
+        "text": "Request a custom quote",
+        "font": "\"GT America\"",
+        "size": "28.5px",
+        "weight": "600",
+        "color": "rgb(228, 239, 236)"
+      }
+    ],
+    "colors": [
+      "rgb(245, 245, 245)",
+      "rgb(17, 33, 50)",
+      "rgb(228, 239, 236)"
+    ],
+    "dimensions": {
+      "width": 1440,
+      "height": 8966
+    }
+  },
+  "quality": {
+    "h1Count": 1,
+    "missingDescription": false,
+    "emptyAltImages": [
+      {
+        "src": "https://a.storyblok.com/f/236211/2700x1516/7e713b012c/eventsecurity-marathon.jpg",
+        "alt": "",
+        "width": 1440,
+        "height": 810,
+        "naturalWidth": 2700,
+        "naturalHeight": 1516
+      },
+      {
+        "src": "https://a.storyblok.com/f/236211/1600x1200/294869d79f/wts-be-project-20250911-4.jpg",
+        "alt": "",
+        "width": 720,
+        "height": 743,
+        "naturalWidth": 1600,
+        "naturalHeight": 1200
+      },
+      {
+        "src": "https://a.storyblok.com/f/236211/3840x2160/5e5298b704/wts_celsius_render.png",
+        "alt": "",
+        "width": 653,
+        "height": 301,
+        "naturalWidth": 3840,
+        "naturalHeight": 2160
+      },
+      {
+        "src": "https://a.storyblok.com/f/236211/774x440/44cefc07a5/chas_logo1.webp",
+        "alt": "",
+        "width": 309,
+        "height": 45,
+        "naturalWidth": 774,
+        "naturalHeight": 440
+      },
+      {
+        "src": "https://a.storyblok.com/f/236211/400x180/d76d73a7eb/2.png",
+        "alt": "",
+        "width": 309,
+        "height": 45,
+        "naturalWidth": 400,
+        "naturalHeight": 180
+      },
+      {
+        "src": "https://a.storyblok.com/f/236211/2028x1249/a33aaabae3/securedbydesign.png",
+        "alt": "",
+        "width": 309,
+        "height": 45,
+        "naturalWidth": 2028,
+        "naturalHeight": 1249
+      },
+      {
+        "src": "https://a.storyblok.com/f/236211/600x575/0543c973b7/iso-logo-transparent-white.png",
+        "alt": "",
+        "width": 309,
+        "height": 45,
+        "naturalWidth": 600,
+        "naturalHeight": 575
+      }
+    ],
+    "brokenImages": [],
+    "issues": []
+  },
+  "images": [
+    {
+      "src": "https://a.storyblok.com/f/236211/2700x1516/7e713b012c/eventsecurity-marathon.jpg",
+      "alt": "",
+      "width": 1440,
+      "height": 810,
+      "naturalWidth": 2700,
+      "naturalHeight": 1516
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/1600x1200/294869d79f/wts-be-project-20250911-4.jpg",
+      "alt": "",
+      "width": 720,
+      "height": 743,
+      "naturalWidth": 1600,
+      "naturalHeight": 1200
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/4000x6000/bae509e068/watchtower-360-close-up.JPG",
+      "alt": "Watchtower 360",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 4000,
+      "naturalHeight": 6000
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/5921x3947/aaea9ae5e0/famingjia-inventor-rltwtw1pqi0-unsplash.jpg",
+      "alt": "Watchtower AI",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 5921,
+      "naturalHeight": 3947
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/1095x730/7430050d8a/watchtower-solutions-images-00019.jpg",
+      "alt": "Watchtower",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 1095,
+      "naturalHeight": 730
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/5472x3648/2e93990c0c/afvalverwerking-bedrijf.jpg",
+      "alt": "Watchtower Celsius",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 5472,
+      "naturalHeight": 3648
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/5464x3640/8d480bdbeb/zonnepark-header.jpg",
+      "alt": "Watchtower Solar",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 5464,
+      "naturalHeight": 3640
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/1920x1080/8a5eb4c932/header-image-watchbox.jpg",
+      "alt": "Watchtower Box",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 1920,
+      "naturalHeight": 1080
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/1200x1200/46c7e376ed/watchtower-inside-security-set.jpg",
+      "alt": "Watchtower Alarmkit",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 1200,
+      "naturalHeight": 1200
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/5464x3640/8d480bdbeb/zonnepark-header.jpg",
+      "alt": "Watchtower Thermal",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 5464,
+      "naturalHeight": 3640
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/6720x4480/98a4489570/watchtower-uk-photography-wt-1-86.jpg",
+      "alt": "Watchtower Security Plan",
+      "width": 248,
+      "height": 150,
+      "naturalWidth": 1920,
+      "naturalHeight": 1080
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/3840x2160/5e5298b704/wts_celsius_render.png",
+      "alt": "",
+      "width": 653,
+      "height": 301,
+      "naturalWidth": 3840,
+      "naturalHeight": 2160
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/600x250/faace99eb4/wts-app.png",
+      "alt": "Person holding a smartphone displaying a dark-themed app interface with options for sharing, settings, and managing Wi-Fi networks.",
+      "width": 653,
+      "height": 301,
+      "naturalWidth": 600,
+      "naturalHeight": 250
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/774x440/44cefc07a5/chas_logo1.webp",
+      "alt": "",
+      "width": 309,
+      "height": 45,
+      "naturalWidth": 774,
+      "naturalHeight": 440
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/400x180/d76d73a7eb/2.png",
+      "alt": "",
+      "width": 309,
+      "height": 45,
+      "naturalWidth": 400,
+      "naturalHeight": 180
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/2028x1249/a33aaabae3/securedbydesign.png",
+      "alt": "",
+      "width": 309,
+      "height": 45,
+      "naturalWidth": 2028,
+      "naturalHeight": 1249
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/600x575/0543c973b7/iso-logo-transparent-white.png",
+      "alt": "",
+      "width": 309,
+      "height": 45,
+      "naturalWidth": 600,
+      "naturalHeight": 575
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/376x82/1e061841f1/wt-logo-light.png",
+      "alt": "Light Watchtower Security Logo",
+      "width": 188,
+      "height": 41,
+      "naturalWidth": 376,
+      "naturalHeight": 82
+    },
+    {
+      "src": "https://a.storyblok.com/f/236211/2028x1249/d9dd13b84d/securedbydesign.png",
+      "alt": "Light Watchtower Security Logo",
+      "width": 188,
+      "height": 41,
+      "naturalWidth": 2028,
+      "naturalHeight": 1249
+    }
+  ],
+  "sourceClaimsNotIndependentlyVerified": true,
+  "limitations": "Phân tích nội dung và giao diện công khai của một trang tại thời điểm thu thập. Các mô tả về dịch vụ thuộc Watchtower, chưa được kiểm chứng độc lập. Không đăng nhập, gửi biểu mẫu hoặc thu thập dữ liệu khách hàng; không phải bản sao website hoạt động offline. Nội dung, hình ảnh và nhãn hiệu vẫn thuộc chủ sở hữu, việc tải về không cấp quyền tái sử dụng.",
+  "collection": {
+    "images": 20,
+    "imageBytes": 31839211,
+    "failures": [],
+    "skipped": []
+  }
+}

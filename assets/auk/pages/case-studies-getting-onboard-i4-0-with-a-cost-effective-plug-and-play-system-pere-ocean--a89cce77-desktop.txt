@@ -1,0 +1,150 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+CASE STUDY
+Getting Onboard I4.0 with a Cost Effective Plug-and-Play System: Pere Ocean
+
+To the billions in the world who live on drinking water, bottled water is often seen as a safer and cleaner option to other sources such as tap water.
+
+To the billions in the world who live on drinking water, bottled water is often seen as a safer and cleaner option to other sources such as tap water. Even when clean tap water is present, many of us still turn to bottled water. The brand “Pere Ocean” has been around for over 30 years, a trusted supplier of home and office water dispensing and purification systems. Pere Ocean also has its hand in the market for vitaminized sports drinks.
+
+Introduced by Wanin Industries, Pere Ocean has been heading the bottled water and cooler industry in Singapore since 1986, making it a house brand for such products in Singapore. Pere Ocean commenced manufacturing operations in Singapore in its starting years, subsequently expanding production to Malaysia in the 1990s. Pere Ocean is currently an international exporter with clients globally, mostly concentrated in Asia and Oceania.
+
+Committed to providing quality water products and excellent services to its consumers, Pere Ocean is steadfast in ensuring brilliance in every aspect of its operations, from product manufacturing to making certain consumer satisfaction.
+
+Revamping Day-to-Day Factory Operations
+
+Pere Ocean first tried Auk’s technology end of 2017, when they were beginning to build towards a digitalised factory. By March 2018, Pere Ocean fully digitalised their factory with Auk Industries’ solution, tying their machines together into an integrated system.
+
+“Our factory is functioning a lot more efficiently. Production has increased, and we have seen a huge jump in terms of production output,” commented Eugene Tan, Head of Special Projects at Wanin Industries.
+
+As a manufacturer of bottled water, Pere Ocean faces very high sensitivity to changes in costs of production, the cost of raw materials being a major attributor. The production team connected the Auk node to sensors on different parts of their manufacturing line, drawing out data to keep the team better informed about changes in output and quality.
+
+“Previously, we were unable to track the different processes that led to wastage of raw materials. Now, we can track every part of our manufacturing line, to more accurately monitor our output and the proportion of wastages at every production interval.”
+
+Eugene brought up a bottling line in his factory which had specs to produce 12,000 bottles per hour. Despite this, it was only producing under 5,000 bottles per hour. With Auk, the team was able to pinpoint the bottleneck machines and identify their losses.
+
+“We can send our technicians to these machines ahead of time to address these issues that were causing the loss in output. In fact, now, we are able to tackle the complications in our machines before they become an actual problem.”
+
+In addition, Pere Ocean has rebalanced their workers and opened a new position.
+
+“When it comes to manpower productivity, we did not retrench so whoever’s job has become redundant, we have repositioned. Auk has also helped us in terms of opening a new role to improve operations.”
+
+With machines doing the work in place of manual labour, Pere Ocean is able to better utilise its team members. The team has also welcomed a fresh graduate to overlook this project with Auk, someone to crunch the data and guide the line operators in understanding the more important uses of the data.
+
+Arriving at Auk
+
+“As an SME, we face similar constraints to other firms of our size. We have the same concerns of having a relatively smaller budget and not being able to afford long downtimes.”
+
+Cost was a major factor that prevented Pere Ocean from taking the first step into i4.0. Most market solutions cater to much bigger MNCs and not smaller firms with smaller budgets, but who nevertheless still wish to be able to digitalise their factories.
+
+“I know that we are not one of the big boys. We cannot afford the luxury of spending millions on a performance monitoring system. Smaller firms like us are simply unable to expend that much resources on such a system no matter how much we want to.”
+
+After doing much research and attending multiple roadshows on i4.0, Eugene met Auk through an A* program.
+
+“When I met the Auk team, I just knew that I wanted to give them a shot at digitalising our factory. They checked all my boxes and were ready to go.”
+
+Shortly after that, Pere Ocean experimented with a few machines on the Auk system and took it on full scale in a few months’ time.
+
+Another factor which gave Auk a leg up among its many competitors and propelled Pere Ocean to take this step, is the ease of using the system.
+
+“We did not want a system that will take a PhD holder to understand and make use of. Auk has made things simple to understand – for example, the red, yellow and green indicators which signal a major stop, minor stop or that the machine is functioning well.”
+
+Eugene further elaborated that his employees are not trained in high level data analytics, a factor which had him hesitating to take on an industrial IoT system initially.
+
+“The Auk system is a breeze to learn and understand. It is core for me that the layman is able to pick up the ins and outs of the system in next to no time at all.”
+
+Data has become much more accessible and monitoring the machines has been a lot easier with the system. With this, the Auk performance monitoring system was able to be seamlessly integrated with Pere Ocean’s day-to-day operations.
+
+A Tool to Collect and Process Machine Data
+
+“Prior to working with Auk, we were unaware of the importance of machine data in the first place. A manufacturing firm like us can be said to be limited to how much its people understand the data that is coming through.”
+
+Previously, the production team did not see the significance of machine data as no one knew how to interpret the numbers. Without the relevant personnel with the technical know-how, the data was meaningless to them. The Auk technology was a game changer in this case, with a system that gathers, analyses and interprets the data, such that anyone is able to make sense of the information provided.
+
+“Despite the simplicity of the system, we came to realise that we can easily deep dive further into the numbers and data to gain valuable insights into our operations, which came to be very critical for senior management.”
+
+The Auk system delivers vital information like the Overall Equipment Efficiency (OEE), quality of output and machine downtime in a format that is effortless to understand, and yet still conveys the essential statistics. This information consists of the key indicators that should be observed and improved in order to boost operations and enhance manufacturing.
+
+Expanding Operations Amidst an Economic Downturn
+
+With the help of the Auk system, Pere Ocean has experienced a boost in manufacturing quantity and quality.
+
+“We have recently built another warehouse to store the excess quantity since we started with Auk. Facing the oncoming recession, we are able to keep our costs lower and improve operations with the new system in place.”
+
+After having taken this step up in terms of manufacturing and the factory’s day-to-day operations, Pere Ocean has found themselves better able to keep their costs lean and economical.
+
+“At this time, we are able to stay competitive and maintain our market position. Now is the best time for us to improve and prepare for the upcoming upturn of the economy.”
+
+SHARE THIS
+Facebook
+LinkedIn
+Twitter
+Telegram
+WhatsApp
+More Case Studies
+
+Food & Beverage, Consumer
+
+Achieving Greater Efficiency Through Digitalisation: Fonterra
+
+How Fonterra Brands Manufacturing Indonesia used Auk's real-time production data to raise efficiency…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Better Visualisation with Auk: A SATS Case Study
+
+How SATS, Asia's in-flight and institutional caterer, used Auk's real-time visualisation to work…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Zero to One: Rapid Digital Transformation of a Chocolatier
+
+IIoT digitalisation puts an end to a Chocolatier’s years-long search for a suitable…
+
+Read More →
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

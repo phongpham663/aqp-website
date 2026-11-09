@@ -1,0 +1,593 @@
+{
+  "url": "https://auk.industries/blog/i4-0-technologies-for-business-owners-operations-engineering-and-operators/",
+  "title": "I4.0 Technologies for Business Owners, Operations, Engineering and Operators",
+  "description": "What Industry 4.0 technologies mean in practice for business owners, operations, engineering and operators – and what each role gains.",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.8127.18 Safari/537.36",
+  "dimensions": {
+    "width": 390,
+    "height": 17360
+  },
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "I4.0 Technologies for Business Owners, Operations, Engineering and Operators"
+    },
+    {
+      "tag": "H3",
+      "text": "What is Industry 4.0?"
+    },
+    {
+      "tag": "H3",
+      "text": "What does Industry 4.0 mean for manufacturers?"
+    },
+    {
+      "tag": "H3",
+      "text": "Benefits of I4.0 technologies: for Business Owners, Operations Directors & Factory Managers"
+    },
+    {
+      "tag": "H3",
+      "text": "Reliable plant data for analysis and performance improvements"
+    },
+    {
+      "tag": "H3",
+      "text": "Open sharing of good practices within and across plants"
+    },
+    {
+      "tag": "H3",
+      "text": "Greater transparency, more learning and less finger-pointing"
+    },
+    {
+      "tag": "H3",
+      "text": "Making the correct CapEx and OpEx decisions"
+    },
+    {
+      "tag": "H3",
+      "text": "Minimising equipment downtime with cost-effective maintenance strategies"
+    },
+    {
+      "tag": "H3",
+      "text": "Load levelling to reduce setup and changeover times"
+    },
+    {
+      "tag": "H3",
+      "text": "Reacting rapidly to problems on the production lines"
+    },
+    {
+      "tag": "H3",
+      "text": "Keeping tabs on Critical Control Points and Other Parameters"
+    },
+    {
+      "tag": "H3",
+      "text": "Empowered to do better"
+    },
+    {
+      "tag": "H3",
+      "text": "Engaged to drive higher performance in the factory"
+    },
+    {
+      "tag": "H3",
+      "text": "Overcoming the challenges of Industry 4.0"
+    },
+    {
+      "tag": "H3",
+      "text": "High initial investment"
+    },
+    {
+      "tag": "H3",
+      "text": "Skilled workers demanded"
+    },
+    {
+      "tag": "H3",
+      "text": "Conclusion"
+    },
+    {
+      "tag": "H2",
+      "text": "Explore More Articles"
+    },
+    {
+      "tag": "H3",
+      "text": "Auk Community Note: Leveraging Data for TPM"
+    },
+    {
+      "tag": "H3",
+      "text": "Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration"
+    },
+    {
+      "tag": "H3",
+      "text": "Auk Community Note EP26: Feature Release – Smart Scheduling"
+    },
+    {
+      "tag": "H2",
+      "text": "Maximize the potential of your factory operations today"
+    },
+    {
+      "tag": "H2",
+      "text": "PRODUCT"
+    },
+    {
+      "tag": "H2",
+      "text": "INDUSTRIES"
+    },
+    {
+      "tag": "H2",
+      "text": "SOLUTIONS"
+    },
+    {
+      "tag": "H2",
+      "text": "LEARN"
+    },
+    {
+      "tag": "H2",
+      "text": "ABOUT US"
+    },
+    {
+      "tag": "H2",
+      "text": "QUICKLINKS"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://auk.industries/",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/oee-roi-excel-calculator/",
+      "text": "ROI & OEE Calculator"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://ops.auk.industries/login",
+      "text": "Sign In"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/oee-roi-excel-calculator/",
+      "text": "ROI & OEE Calculator"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://ops.auk.industries/login",
+      "text": "Sign In"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/blog/auk-community-note-leveraging-data-for-tpm/",
+      "text": "Auk Community Note: Leveraging Data for TPM\nRead More →"
+    },
+    {
+      "url": "https://auk.industries/blog/auk-community-note-feature-release-smarter-event-labelling-with-signal-integration/",
+      "text": "Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration\nRead More →"
+    },
+    {
+      "url": "https://auk.industries/blog/auk-community-note-ep26-feature-release-smart-scheduling/",
+      "text": "Auk Community Note EP26: Feature Release – Smart Scheduling\nRead More →"
+    },
+    {
+      "url": "https://youtu.be/cEvl_PURLuo",
+      "text": "Watch Product Video"
+    },
+    {
+      "url": "https://auk.industries/book-a-demo/",
+      "text": "Book A Demo"
+    },
+    {
+      "url": "https://auk.industries/why-auk/",
+      "text": "Why Auk"
+    },
+    {
+      "url": "https://auk.industries/how-it-works/",
+      "text": "How It Works"
+    },
+    {
+      "url": "https://auk.industries/software-analytics/",
+      "text": "Software Analytics"
+    },
+    {
+      "url": "https://auk.industries/integrations/",
+      "text": "Integrations"
+    },
+    {
+      "url": "https://auk.industries/security/",
+      "text": "Security"
+    },
+    {
+      "url": "https://auk.industries/faq/",
+      "text": "FAQ"
+    },
+    {
+      "url": "https://auk.industries/industries/food-beverage-and-consumer-products/",
+      "text": "Food, Beverage and Consumer Products"
+    },
+    {
+      "url": "https://auk.industries/industries/polymer-molding/",
+      "text": "Polymer Molding"
+    },
+    {
+      "url": "https://auk.industries/industries/electronics-and-semicon/",
+      "text": "Electronics and Semicon"
+    },
+    {
+      "url": "https://auk.industries/industries/metal-processing-and-precision-engineering/",
+      "text": "Metal Processing & Precision Engineering"
+    },
+    {
+      "url": "https://auk.industries/industries/packaging/",
+      "text": "Packaging"
+    },
+    {
+      "url": "https://auk.industries/solutions/digital-performance-management/",
+      "text": "Digital Performance Management"
+    },
+    {
+      "url": "https://auk.industries/solutions/real-time-quality-monitoring/",
+      "text": "Real-time Quality Monitoring"
+    },
+    {
+      "url": "https://auk.industries/solutions/energy-and-sustainability-enablement/",
+      "text": "Energy & Sustainability Enablement"
+    },
+    {
+      "url": "https://auk.industries/solutions/labor-productivity-improvement/",
+      "text": "Labor Productivity Improvement"
+    },
+    {
+      "url": "https://auk.industries/solutions/asset-efficiency-optimisation/",
+      "text": "Asset Efficiency Optimisation"
+    },
+    {
+      "url": "https://auk.industries/solutions/predictive-maintenance/",
+      "text": "Predictive Maintenance"
+    },
+    {
+      "url": "https://auk.industries/solutions/material-consumption-analysis/",
+      "text": "Material Consumption Analysis"
+    },
+    {
+      "url": "https://auk.industries/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "url": "https://auk.industries/blog/",
+      "text": "Blog"
+    },
+    {
+      "url": "https://auk.industries/our-story/",
+      "text": "Our Story"
+    },
+    {
+      "url": "https://auk.industries/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://auk.industries/hardware-warranty/",
+      "text": "Hardware Warranty"
+    },
+    {
+      "url": "https://auk.industries/service-level-agreement/",
+      "text": "Service Level Agreement"
+    },
+    {
+      "url": "https://www.linkedin.com/company/auk.industries/",
+      "text": ""
+    },
+    {
+      "url": "https://www.facebook.com/Auk.Industries",
+      "text": ""
+    },
+    {
+      "url": "https://auk.industries/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://auk.industries/terms-and-conditions/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "url": "https://auk.industries/blog/i4-0-technologies-for-business-owners-operations-engineering-and-operators/#cookie-settings",
+      "text": "Cookie settings"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://auk.industries/auk-logo-tagline.svg",
+      "alt": "Auk Industries",
+      "width": 300,
+      "height": 79,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2021/01/IMG-20230310-WA0010.jpg",
+      "alt": "",
+      "width": 1200,
+      "height": 1600,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/real-time-line-and-plant-performance.webp",
+      "alt": "",
+      "width": 572,
+      "height": 556,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/image.png",
+      "alt": "",
+      "width": 1192,
+      "height": 320,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/image-1.png",
+      "alt": "",
+      "width": 570,
+      "height": 402,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/image-7.png",
+      "alt": "",
+      "width": 1192,
+      "height": 544,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/image-4.png",
+      "alt": "",
+      "width": 1192,
+      "height": 516,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/image-5.png",
+      "alt": "",
+      "width": 1192,
+      "height": 644,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2023/11/image-6.png",
+      "alt": "",
+      "width": 716,
+      "height": 468,
+      "loaded": true
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f1d173_6b56dba6a7e5408b84a6a82056d80dbb~mv2.png/v1/fill/w_1136,h_511,al_c,q_90/industry%204_0%20gradual%20scale%20up.webp",
+      "alt": "industry 4.0 gradual scale up.png",
+      "width": 1136,
+      "height": 511,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/08/title-image.jpg",
+      "alt": "",
+      "width": 1537,
+      "height": 1032,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/07/CM-smarter-event-labelling.jpg",
+      "alt": "",
+      "width": 1329,
+      "height": 792,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/wp-content/uploads/2025/07/Screenshot-2025-07-01-151130.jpg",
+      "alt": "",
+      "width": 1104,
+      "height": 660,
+      "loaded": true
+    },
+    {
+      "url": "https://auk.industries/auk-logo-tagline.svg",
+      "alt": "Auk Industries",
+      "width": 300,
+      "height": 79,
+      "loaded": true
+    }
+  ],
+  "forms": [],
+  "stylesheets": [
+    "https://auk.industries/_astro/Consent.teixN1nf.css",
+    "https://auk.industries/_astro/BaseLayout.CcV9G0jb.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-R9LD4PY6L4",
+    "https://auk.industries/_astro/Consent.astro_astro_type_script_index_0_lang.DfehhebY.js",
+    "https://auk.industries/_astro/BaseLayout.astro_astro_type_script_index_0_lang.D4xMoNkI.js"
+  ],
+  "capturedAt": "2026-11-09T04:53:59.979Z",
+  "issues": [],
+  "adjustments": [],
+  "formSubmissionTested": false,
+  "viewportMode": "Responsive 390px viewport; not a mobile user-agent emulation. Full-page PNG includes any horizontal overflow of the source."
+}

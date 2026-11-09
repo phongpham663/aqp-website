@@ -1,0 +1,118 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+CASE STUDY
+Better Visualisation with Auk: A SATS Case Study
+
+How SATS, Asia's in-flight and institutional caterer, used Auk's real-time visualisation to work faster, better and more consistently.
+
+If you’ve ever taken a flight within Asia, then there is a high chance your in-flight meal was catered by SATS. With the vision to feed and connect Asia, SATS aims to deliver quality food solutions for both institutional and in-flight catering. SATS operates with three main plants in Singapore, one located at Changi and the other two on the west side of the island.
+
+“We wanted to do things faster, better and more consistently”
+
+The team was looking to I4.0 technologies to give them a direction toward standardization while being able to meet high production demand. As Asia’s leading food solution, maintaining high food standards is imperative to their success.
+
+Thus, SATS engaged Auk Industries to take their first step into I4.0 in 2018.
+
+Better visibility with Auk
+
+“There was a lack of visibility to the usage of the machine – we were not 100% sure how many machines were running at one point”
+
+Previously, the SATS team was running their machines without having a clear indicator of the level of capacity the machine was running on and if they were utilising their machines at the optimal level. With Auk, the team can now draw data directly from their machines and have a better sense of the serviceability of their machines, allowing them to spread production out optimally and cut down on costs.
+
+“Auk gave us the visibility to make better business decisions and we saw a 30% increase in efficiency since the deployment of Auk”
+
+A more proactive maintenance regime
+
+“Previously, we were more reactive instead of proactive – doing maintenance only when the machines started showing signs of breakdown.”
+
+Having a proper maintenance regime is essential to ensure smooth productions and to avoid any unwanted surprises such as sudden breakdowns. By calculating OEE in real time, the SATS team was able to pre-empt any potential breakdowns and call for maintenance before it was too late.
+
+“Auk’s sensors allowed us to detect certain anomalies in terms of their machine usage or currents running through the machines and basically calculate OEE for each machine”
+
+Why Auk?
+
+“The thing that came across very strongly to us was that Auk is very easy to deploy. As a plug-and-play device, we didn’t have to make any changes to our equipment or circuit board.”
+
+As a food manufacturing company, the conditions in which the factory was operating under was very harsh and data was definitely a challenge. With the simplicity of Auk’s nodes, it was easy to deploy and work even in such harsh settings.
+
+“Because of the ease of using Auk, it gave us the comfort of knowing that data can be collected even in our current systems and harsh environments”
+
+Big plans for expansion
+
+Looking into the future, SATS plans for expansion is huge, with overseas expansion being one of the biggest goals in the pipeline.
+
+On the basis of quality over quantity, SATS is looking to optimise its machines instead of buying more equipment by driving more analytics and data from machines to optimise their production lines. Together with Auk, SATS is moving toward the direction of achieving machine learning and predictive analytics.
+
+SHARE THIS
+Facebook
+LinkedIn
+Twitter
+Telegram
+WhatsApp
+More Case Studies
+
+Food & Beverage, Consumer
+
+Achieving Greater Efficiency Through Digitalisation: Fonterra
+
+How Fonterra Brands Manufacturing Indonesia used Auk's real-time production data to raise efficiency…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Zero to One: Rapid Digital Transformation of a Chocolatier
+
+IIoT digitalisation puts an end to a Chocolatier’s years-long search for a suitable…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Charting Long-Term Growth & Receptiveness Towards Technology
+
+Indonesian Snack Manufacturer leverages IoT technologies to not only digitalise for growth but…
+
+Read More →
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

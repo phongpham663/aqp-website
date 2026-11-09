@@ -1,0 +1,138 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+CASE STUDY
+Stallion Accelerates Operational Excellence with Auk Industries
+
+Stallion, a tier-1 automotive supplier, partnered with Auk to gain real-time visibility, uncover hidden capacity and lift productivity.
+
+Stallion, a leading tier 1 supplier for the automotive industry, partnered with Auk Industries to unlock real-time visibility, uncover hidden capacity, and drive measurable productivity gains.
+
+Before this collaboration, manual reports showed 90 % + machine utilization—creating pressure to invest in new machines. Auk’s Digital Operational Excellence Platform (I4.0) uncovered the truth: the plant’s actual OEE was only 41 %, revealing substantial untapped capacity and avoiding unnecessary CAPEX.
+
+⚙️ PHASE 1 — BUILDING THE FOUNDATION
+
+Key Achievements
+✅ 100% real-time shopfloor visibility
+✅ Improved operator discipline on start/stop times
+✅ CAPEX avoidance: management cancelled the purchase of 8 machines after seeing under-utilization via Auk’s Utilization Heatmap
+✅ True OEE: 41%, verified by ML-based auto-cycle-time analysis across hundreds of SKUs
+✅ Top 3 losses: material waiting, WIP prep, operator idle (≈15–20% downtime)
+✅ 15% manpower reduction with no throughput loss
+
+🚀 PHASE 2 — OPERATIONAL EXCELLENCE PROGRAM (OEP)
+
+After establishing a solid data foundation, Stallion and Auk Industries launched the Operational Excellence Program (OEP) to drive process stability and continuous improvement.
+
+The program focused on strengthening SIOP (Sales, Inventory & Operations Planning) and executing Value Stream Planning initiatives across key product lines.
+
+Auk’s team conducted Lean Masterclasses and hands-on training sessions, guiding the Stallion team through every stage of the improvement cycle:
+
+Drawing and analyzing Value Stream Maps (VSMs)
+Identifying current bottlenecks and root causes
+Developing actionable improvement plans
+Executing solutions with both on-site and remote guidance
+
+Auk also supported Stallion in refining production planning and recognized participants who successfully completed the program through official certification.
+
+OEP Results
+
+First (Pilot) Product – Labour Productivity Improvement
+Output increased from 1,000 pcs/shift to 1,350 pcs/shift (+35% productivity)
+Achieved within 2–3 months through Auk’s structured coaching and hybrid (offline + remote) support
+Second Product – One-Piece Flow Implementation
+OEE improved from 50% to 78–80% daily
+Production time reduced from 8 hours to 4.5 hours (~40% improvement)
+Achieved within 1.5 months
+Third Product (Ongoing) – Value Stream Redesign
+Machines and operators reduced from 4 to 3, improving utilization and efficiency (~25% improvement)
+
+Through these initiatives, Stallion achieved an additional 10% manpower reduction, bringing the total manpower optimization to 25% while maintaining or increasing production output.
+
+“Auk Industries’ Digital Operational Excellence Platform helped us uncover our true production capacity, eliminate waste, and empower our teams to work smarter – not harder.”
+— Operations Director, Stallion Manufacturing
+
+Next Steps
+
+Auk Industries and Stallion are now implementing a Kanban system to streamline upstream material flow and further strengthen production stability and inventory control.
+
+Key Takeaways
+
+✅ Full visibility across legacy + new machines
+✅ 35–40 % productivity improvement
+✅ 25 % manpower optimization
+✅ Avoided major CAPEX investment
+✅ Sustained Lean culture through data-driven OEP
+
+SHARE THIS
+Facebook
+LinkedIn
+Twitter
+Telegram
+WhatsApp
+More Case Studies
+
+Food & Beverage, Consumer
+
+Achieving Greater Efficiency Through Digitalisation: Fonterra
+
+How Fonterra Brands Manufacturing Indonesia used Auk's real-time production data to raise efficiency…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Better Visualisation with Auk: A SATS Case Study
+
+How SATS, Asia's in-flight and institutional caterer, used Auk's real-time visualisation to work…
+
+Read More →
+
+Food & Beverage, Consumer
+
+Zero to One: Rapid Digital Transformation of a Chocolatier
+
+IIoT digitalisation puts an end to a Chocolatier’s years-long search for a suitable…
+
+Read More →
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

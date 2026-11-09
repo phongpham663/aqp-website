@@ -1,0 +1,367 @@
+{
+  "url": "https://iclab.identifycapacity.com/multilayer-objects",
+  "title": "Identify Capacity",
+  "description": "AI-powered Operational Intelligence for Critical Infrastructure",
+  "author": "Lovable",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Multilayer Visual Objects"
+    },
+    {
+      "tag": "H2",
+      "text": "One object, many layers of insight"
+    },
+    {
+      "tag": "H3",
+      "text": "Flat Object"
+    },
+    {
+      "tag": "H3",
+      "text": "Augmented Object"
+    },
+    {
+      "tag": "H3",
+      "text": "Machine Vision Object"
+    },
+    {
+      "tag": "H2",
+      "text": "Ready to See the Platform in Action?"
+    }
+  ],
+  "paragraphs": [
+    "ICLAB PLATFORM",
+    "Up to 32 layers of information in a single object — putting data in context with what you can now SEE.",
+    "HOW IT WORKS",
+    "A Multilayer Visual Object combines the original camera image with IoT data and AI-driven Machine Vision outputs. Each layer adds context: real-time sensors, detected events, environmental data — overlaid on top of the live scene.",
+    "Flat Objects have no treatment and are shown as captured by a camera. It's our single-layer object, where actions based on motion can be configured or a recording made for future reference, research, auditing or accountability.",
+    "Augmented Objects receive new layers from IoT Devices spread across your network. This information is captured by the ICLab Gateway, which sends it for processing together with the captured image, creating a new Multilayer Visual Object that replaces the original flat object. Multiple IoT Devices can be used to add intelligence to the Augmented Scenario.",
+    "Machine Vision Objects are flat objects processed by Artificial Intelligence, resulting in a Machine Vision Assessment that adds new layers of information about the analysed scene. The new information is formatted and added as a new layer into a Multilayer Visual Object, generating reports and replacing the flat object in our Dashboard.",
+    "Let's talk about how IClab can power your operation."
+  ],
+  "links": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "ICLab Platform",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "Multilayer Visual Objects",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "Agriculture",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "Cities",
+      "url": "https://iclab.identifycapacity.com/solutions/cities"
+    },
+    {
+      "text": "Energy",
+      "url": "https://iclab.identifycapacity.com/solutions/energy"
+    },
+    {
+      "text": "Industry",
+      "url": "https://iclab.identifycapacity.com/solutions/industry"
+    },
+    {
+      "text": "Supply Chain",
+      "url": "https://iclab.identifycapacity.com/solutions/supply-chain"
+    },
+    {
+      "text": "Transport",
+      "url": "https://iclab.identifycapacity.com/solutions/transport"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    },
+    {
+      "text": "CONTACT US",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "PLATFORM",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "MULTILAYER OBJECTS",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "SOLUTIONS",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "url": "https://iclab.identifycapacity.com/privacypolicy"
+    }
+  ],
+  "navigation": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "src": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "srcset": "",
+      "alt": "IClab logo",
+      "loaded": true,
+      "width": 286,
+      "height": 288
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/2ed2671c-5ac9-4e39-846c-31fb9000a70a/multilayer-object-3f.jpg",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/2ed2671c-5ac9-4e39-846c-31fb9000a70a/multilayer-object-3f.jpg",
+      "srcset": "",
+      "alt": "",
+      "loaded": true,
+      "width": 993,
+      "height": 850
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/21904ebe-7435-4687-b794-8581d4e11bfb/objects-flat.jpg",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/21904ebe-7435-4687-b794-8581d4e11bfb/objects-flat.jpg",
+      "srcset": "",
+      "alt": "Flat Object",
+      "loaded": true,
+      "width": 550,
+      "height": 564
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/5463eef3-23bf-466e-ad3b-9e1cc498930d/objects-augmented-550x564.jpg",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/5463eef3-23bf-466e-ad3b-9e1cc498930d/objects-augmented-550x564.jpg",
+      "srcset": "",
+      "alt": "Augmented Object",
+      "loaded": true,
+      "width": 550,
+      "height": 564
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/d7345351-b0e1-434a-abcc-3e1603b0aec2/multilayer-object-2c.jpg",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/d7345351-b0e1-434a-abcc-3e1603b0aec2/multilayer-object-2c.jpg",
+      "srcset": "",
+      "alt": "Machine Vision Object",
+      "loaded": true,
+      "width": 937,
+      "height": 527
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "src": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "srcset": "",
+      "alt": "IClab",
+      "loaded": true,
+      "width": 286,
+      "height": 288
+    }
+  ],
+  "backgrounds": [],
+  "forms": [],
+  "colors": [
+    {
+      "color": "rgb(30, 32, 36)",
+      "count": 14
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "count": 13
+    },
+    {
+      "color": "rgb(0, 141, 235)",
+      "count": 7
+    },
+    {
+      "color": "rgba(30, 32, 36, 0.8)",
+      "count": 4
+    },
+    {
+      "color": "rgb(23, 26, 33)",
+      "count": 1
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.8)",
+      "count": 1
+    },
+    {
+      "color": "rgba(245, 245, 245, 0.4)",
+      "count": 1
+    }
+  ],
+  "typography": [
+    {
+      "tag": "P",
+      "text": "ICLAB PLATFORM",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(0, 141, 235)"
+    },
+    {
+      "tag": "H1",
+      "text": "Multilayer Visual Objects",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "60px",
+      "weight": "700",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "P",
+      "text": "Up to 32 layers of information in a single object — putting data in context with what you can now SEE.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "20px",
+      "weight": "400",
+      "color": "rgba(255, 255, 255, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "HOW IT WORKS",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(0, 141, 235)"
+    },
+    {
+      "tag": "H2",
+      "text": "One object, many layers of insight",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "36px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "A Multilayer Visual Object combines the original camera image with IoT data and AI-driven Machine Vision outputs. Each layer adds context: real-time sensors, detected events, environmental data — overlaid on top of the l",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H3",
+      "text": "Flat Object",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "30px",
+      "weight": "700",
+      "color": "rgb(0, 141, 235)"
+    },
+    {
+      "tag": "P",
+      "text": "Flat Objects have no treatment and are shown as captured by a camera. It's our single-layer object, where actions based on motion can be configured or a recording made for future reference, research, auditing or accounta",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H3",
+      "text": "Augmented Object",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "30px",
+      "weight": "700",
+      "color": "rgb(0, 141, 235)"
+    },
+    {
+      "tag": "P",
+      "text": "Augmented Objects receive new layers from IoT Devices spread across your network. This information is captured by the ICLab Gateway, which sends it for processing together with the captured image, creating a new Multilay",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H3",
+      "text": "Machine Vision Object",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "30px",
+      "weight": "700",
+      "color": "rgb(0, 141, 235)"
+    },
+    {
+      "tag": "P",
+      "text": "Machine Vision Objects are flat objects processed by Artificial Intelligence, resulting in a Machine Vision Assessment that adds new layers of information about the analysed scene. The new information is formatted and ad",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H2",
+      "text": "Ready to See the Platform in Action?",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "36px",
+      "weight": "700",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "P",
+      "text": "Let's talk about how IClab can power your operation.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "18px",
+      "weight": "400",
+      "color": "rgb(255, 255, 255)"
+    }
+  ],
+  "stylesheets": [
+    "https://iclab.identifycapacity.com/assets/index-Cc61ABCl.css"
+  ],
+  "scripts": [
+    "https://iclab.identifycapacity.com/assets/index-C7m6lm7u.js",
+    "https://iclab.identifycapacity.com/~flock.js",
+    "https://iclab.identifycapacity.com/__l5e/events.270c78a44fc53e7b.js"
+  ],
+  "reactDetected": true,
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "dimensions": {
+    "width": 1440,
+    "height": 3295
+  },
+  "capturedAt": "2026-11-07T16:53:57.984Z",
+  "issues": []
+}

@@ -1,0 +1,425 @@
+{
+  "screenshots": [
+    {
+      "url": "https://velasea.com/",
+      "title": "Velasea OEM Services – Custom Enterprise Technology Solutions",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/home.png"
+    },
+    {
+      "url": "https://velasea.com/",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/home-viewport.png",
+      "area": "initial-viewport"
+    },
+    {
+      "url": "https://velasea.com/about/",
+      "title": "About – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/about.png"
+    },
+    {
+      "url": "https://velasea.com/solutions/",
+      "title": "Solutions – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/solutions.png"
+    },
+    {
+      "url": "https://velasea.com/oem/",
+      "title": "OEM Program – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/oem.png"
+    },
+    {
+      "url": "https://velasea.com/ironlink/",
+      "title": "Iron Link by Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/ironlink.png"
+    },
+    {
+      "url": "https://velasea.com/professional-services/",
+      "title": "Professional Services – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/professional-services.png"
+    },
+    {
+      "url": "https://velasea.com/case-studies/",
+      "title": "Case Studies – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/case-studies.png"
+    },
+    {
+      "url": "https://velasea.com/partners/",
+      "title": "Partners – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/partners.png"
+    },
+    {
+      "url": "https://velasea.com/leadership/",
+      "title": "Meet Velasea's Executive Team",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/leadership.png"
+    },
+    {
+      "url": "https://velasea.com/careers/",
+      "title": "Careers – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/careers.png"
+    },
+    {
+      "url": "https://velasea.com/news/",
+      "title": "News + Press – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/news.png"
+    },
+    {
+      "url": "https://velasea.com/blog/",
+      "title": "Insights Blog – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/blog.png"
+    },
+    {
+      "url": "https://velasea.com/support/",
+      "title": "Support – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/support.png"
+    },
+    {
+      "url": "https://velasea.com/contact/",
+      "title": "Contact Us – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/contact.png"
+    },
+    {
+      "url": "https://velasea.com/products/servers/",
+      "title": "Server Products – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/products-servers.png"
+    },
+    {
+      "url": "https://velasea.com/products/nvrs/",
+      "title": "NVR Products – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/products-nvrs.png"
+    },
+    {
+      "url": "https://velasea.com/products/storage/",
+      "title": "Data Storage Products – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/products-storage.png"
+    },
+    {
+      "url": "https://velasea.com/products/networking/",
+      "title": "Networking Products – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/products-networking.png"
+    },
+    {
+      "url": "https://velasea.com/products/workstations/",
+      "title": "Workstation Products – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/products-workstations.png"
+    },
+    {
+      "url": "https://velasea.com/products/screening/",
+      "title": "Screening Products – Velasea",
+      "device": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "file": "assets/velasea/screenshots/desktop/products-screening.png"
+    },
+    {
+      "url": "https://velasea.com/",
+      "title": "Velasea OEM Services – Custom Enterprise Technology Solutions",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/home.png"
+    },
+    {
+      "url": "https://velasea.com/",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/home-viewport.png",
+      "area": "initial-viewport"
+    },
+    {
+      "url": "https://velasea.com/about/",
+      "title": "About – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/about.png"
+    },
+    {
+      "url": "https://velasea.com/solutions/",
+      "title": "Solutions – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/solutions.png"
+    },
+    {
+      "url": "https://velasea.com/oem/",
+      "title": "OEM Program – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/oem.png"
+    },
+    {
+      "url": "https://velasea.com/ironlink/",
+      "title": "Iron Link by Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/ironlink.png"
+    },
+    {
+      "url": "https://velasea.com/professional-services/",
+      "title": "Professional Services – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/professional-services.png"
+    },
+    {
+      "url": "https://velasea.com/case-studies/",
+      "title": "Case Studies – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/case-studies.png"
+    },
+    {
+      "url": "https://velasea.com/partners/",
+      "title": "Partners – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/partners.png"
+    },
+    {
+      "url": "https://velasea.com/leadership/",
+      "title": "Meet Velasea's Executive Team",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/leadership.png"
+    },
+    {
+      "url": "https://velasea.com/careers/",
+      "title": "Careers – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/careers.png"
+    },
+    {
+      "url": "https://velasea.com/news/",
+      "title": "News + Press – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/news.png"
+    },
+    {
+      "url": "https://velasea.com/blog/",
+      "title": "Insights Blog – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/blog.png"
+    },
+    {
+      "url": "https://velasea.com/support/",
+      "title": "Support – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/support.png"
+    },
+    {
+      "url": "https://velasea.com/contact/",
+      "title": "Contact Us – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/contact.png"
+    },
+    {
+      "url": "https://velasea.com/products/servers/",
+      "title": "Server Products – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/products-servers.png"
+    },
+    {
+      "url": "https://velasea.com/products/nvrs/",
+      "title": "NVR Products – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/products-nvrs.png"
+    },
+    {
+      "url": "https://velasea.com/products/storage/",
+      "title": "Data Storage Products – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/products-storage.png"
+    },
+    {
+      "url": "https://velasea.com/products/networking/",
+      "title": "Networking Products – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/products-networking.png"
+    },
+    {
+      "url": "https://velasea.com/products/workstations/",
+      "title": "Workstation Products – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/products-workstations.png"
+    },
+    {
+      "url": "https://velasea.com/products/screening/",
+      "title": "Screening Products – Velasea",
+      "device": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "file": "assets/velasea/screenshots/mobile/products-screening.png"
+    }
+  ],
+  "failures": []
+}

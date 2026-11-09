@@ -1,0 +1,596 @@
+.contact-reference-layout {
+  display: grid;
+  grid-template-columns: 0.88fr 1fr;
+  gap: 105px;
+  padding-block: 54px 65px;
+  align-items: start;
+}
+.contact-reference-info figure {
+  margin: 0 0 29px;
+}
+.contact-reference-info figure img {
+  height: 275px;
+}
+.contact-reference-info figcaption {
+  color: #737373;
+  font-size: 9px;
+  line-height: 1.8;
+  padding-top: 7px;
+}
+.contact-reference-info > h2,
+.contact-reference-form > h2 {
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+.contact-details {
+  margin: 24px 0 32px;
+}
+.contact-details > div {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  margin-top: 24px;
+}
+.contact-details > div > svg {
+  width: 26px;
+  height: 26px;
+  color: #cc0033;
+  margin-top: 3px;
+}
+.contact-details dt {
+  font-size: 11px;
+  color: #666;
+  line-height: 1.6;
+}
+.contact-details dd {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 5px 0 0;
+  line-height: 1.7;
+}
+.contact-details dd > a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  overflow-wrap: anywhere;
+}
+.contact-details dd > a:hover { color: #b0002d; text-decoration: underline; text-underline-offset: 4px; }
+.contact-details .contact-office dt { color: #333; font-size: 12px; font-weight: 500; }
+.contact-details .contact-office dd { font-size: 14px; font-weight: 400; line-height: 1.85; }
+.contact-details address { font-style: normal; }
+.contact-reference-info > h3 {
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 1.7;
+  margin-bottom: 13px;
+}
+.home-page .contact-reference-info > p {
+  font-size: 12px;
+  line-height: 1.9;
+}
+.contact-info-support {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  margin-top: 23px;
+  font-size: 12px;
+  color: #cc0033;
+}
+.contact-info-support > svg {
+  width: 19px;
+  height: 19px;
+}
+.contact-info-support > svg:last-child {
+  width: 14px;
+  margin-left: auto;
+}
+.contact-info-support:hover {
+  text-decoration: underline;
+}
+.contact-info-note {
+  display: flex;
+  gap: 13px;
+  border-top: 1px solid #ddd;
+  padding-top: 23px;
+  margin-top: 26px;
+}
+.contact-info-note > svg {
+  color: #cc0033;
+  width: 19px;
+  height: 19px;
+  margin-top: 2px;
+}
+.home-page .contact-info-note > p {
+  font-size: 10px;
+  line-height: 1.9;
+}
+.contact-support-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 9px;
+  padding-block: 2px 8px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ccc;
+  font-size: 11px;
+  line-height: 1.7;
+}
+.contact-support-bar > span {
+  text-transform: uppercase;
+}
+.contact-support-bar > svg {
+  width: 13px;
+  height: 13px;
+}
+.contact-support-bar > a {
+  color: #cc0033;
+}
+.contact-support-bar > a:hover {
+  text-decoration: underline;
+}
+.contact-reference-page .contact-form {
+  padding: 0;
+  background: #fff;
+  border: 0;
+}
+.home-page .contact-required-note {
+  font-size: 9px;
+  margin-block: 11px 22px;
+  color: #666;
+}
+.contact-required-note > span,
+.contact-name-field legend > span {
+  color: #cc0033;
+}
+.contact-reference-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px 16px;
+}
+.contact-reference-fields > label,
+.contact-name-field legend {
+  display: block;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.8;
+}
+.contact-reference-fields input,
+.contact-reference-fields select,
+.contact-reference-fields textarea {
+  display: block;
+  margin-top: 8px;
+  width: 100%;
+  min-width: 0;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  padding: 10px 12px;
+  background: #fff;
+  color: #333;
+  font-size: 12px;
+  line-height: 1.7;
+  box-shadow: 0 1px 3px #00000006;
+}
+.contact-reference-fields input::placeholder {
+  color: #686868;
+  font-size: 11px;
+}
+.contact-reference-fields textarea {
+  min-height: 160px;
+  resize: vertical;
+}
+.contact-reference-fields select {
+  min-height: 42px;
+}
+.contact-field-full,
+.contact-name-field {
+  grid-column: 1/-1;
+}
+.contact-name-field {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  min-width: 0;
+}
+.contact-name-inputs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.contact-name-inputs > label {
+  min-width: 0;
+}
+.contact-reference-form .consent {
+  margin-block: 21px;
+  font-size: 10px;
+  line-height: 1.85;
+}
+.contact-reference-form .consent input {
+  accent-color: #cc0033;
+}
+.contact-reference-form > .home-button {
+  min-height: 39px;
+  padding-inline: 17px;
+  font-size: 12px;
+}
+.home-page .contact-reference-form .form-status {
+  font-size: 12px;
+  line-height: 1.8;
+  margin-top: 15px;
+}
+.home-page .contact-reference-form .form-footnote {
+  font-size: 9px;
+  margin-top: 14px;
+  line-height: 1.8;
+  max-width: 470px;
+}
+.contact-region-section {
+  padding-block: 0 70px;
+}
+.contact-region-section > h2 {
+  font-size: 25px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+.home-page .contact-region-section > p:not(.contact-map-status) {
+  font-size: 12px;
+  line-height: 1.9;
+}
+.contact-worldmap {
+  position: relative;
+  margin: 45px 0 0;
+  min-height: 300px;
+}
+.contact-world-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1000/560;
+  overflow: hidden;
+  touch-action: pan-y;
+}
+.contact-world-svg.can-pan {
+  cursor: grab;
+}
+.contact-world-svg.is-dragging {
+  cursor: grabbing;
+}
+.contact-map-country {
+  fill: #e3e3e3;
+  stroke: #fff;
+  stroke-width: 0.5;
+}
+.contact-map-country.is-selected {
+  fill: #cc0033;
+}
+.contact-map-controls {
+  position: absolute;
+  right: 7px;
+  bottom: 34px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.contact-map-controls > button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border: 1px solid #ddd;
+  background: #eee;
+  padding: 6px;
+  color: #333;
+}
+.contact-map-controls > button:hover:not(:disabled) {
+  background: #ddd;
+}
+.contact-map-controls > button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+.contact-map-controls svg {
+  width: 19px;
+  height: 19px;
+}
+.contact-map-loading {
+  position: absolute;
+  top: 35px;
+  left: 20px;
+  right: 20px;
+  text-align: center;
+  font-size: 11px !important;
+  color: #666;
+}
+.contact-worldmap figcaption {
+  color: #666;
+  font-size: 9px;
+  line-height: 1.8;
+  padding-top: 14px;
+}
+.contact-worldmap figcaption > a {
+  text-decoration: underline;
+}
+.home-page .contact-map-status {
+  font-size: 10px;
+  margin-top: 18px;
+  color: #666;
+}
+.contact-region-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 52px 105px;
+  margin-top: 44px;
+}
+.contact-region-cards h3 {
+  color: #cc0033;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.6;
+  margin-bottom: 14px;
+}
+.home-page .contact-region-cards p {
+  font-size: 11px;
+  line-height: 1.9;
+}
+.contact-region-cards ul {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 20px;
+}
+.contact-region-cards li {
+  position: relative;
+  padding-left: 25px;
+  font-size: 12px;
+  line-height: 1.9;
+  margin-top: 9px;
+}
+.contact-region-cards li:before {
+  content: "";
+  position: absolute;
+  left: 7px;
+  top: 9px;
+  border-top: 6px solid #cc0033;
+  border-inline: 6px solid transparent;
+}
+.contact-region-choice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 9px 14px;
+  background: #fff;
+  border: 1px solid #ddd;
+  font-size: 11px;
+  color: #cc0033;
+  min-height: 39px;
+}
+.contact-region-choice svg {
+  width: 15px;
+  height: 15px;
+}
+.contact-region-choice:hover {
+  border-color: #cc0033;
+}
+.contact-region-choice[aria-pressed="true"] {
+  background: #cc0033;
+  color: white;
+  border-color: #cc0033;
+}
+.contact-reference-page .home-footer {
+  padding-top: 50px;
+}
+@media (max-width: 1200px) {
+  .contact-reference-layout,
+  .contact-region-cards {
+    column-gap: 70px;
+  }
+  .contact-support-bar {
+    font-size: 10px;
+  }
+  .contact-reference-info > h2,
+  .contact-reference-form > h2 {
+    font-size: 22px;
+  }
+}
+@media (max-width: 1000px) {
+  .contact-reference-layout,
+  .contact-region-cards {
+    column-gap: 40px;
+  }
+  .contact-reference-info figure img {
+    height: 230px;
+  }
+  .contact-support-bar {
+    font-size: 9px;
+    gap: 6px;
+  }
+  .contact-reference-info > h2,
+  .contact-reference-form > h2 {
+    font-size: 21px;
+  }
+  .contact-reference-fields {
+    gap: 22px 13px;
+  }
+  .contact-reference-fields input,
+  .contact-reference-fields select,
+  .contact-reference-fields textarea {
+    padding-inline: 10px;
+    font-size: 11px;
+  }
+  .contact-details dd {
+    font-size: 15px;
+  }
+  .contact-region-cards h3 {
+    font-size: 16px;
+  }
+}
+@media (max-width: 760px) {
+  .contact-reference-layout {
+    grid-template-columns: 1fr;
+    gap: 38px;
+    padding-block: 35px 43px;
+  }
+  .contact-reference-info figure {
+    margin-bottom: 24px;
+  }
+  .contact-reference-info figure img {
+    height: auto;
+    aspect-ratio: 980/653;
+  }
+  .contact-reference-info figcaption {
+    font-size: 8px;
+  }
+  .contact-reference-info > h2,
+  .contact-reference-form > h2 {
+    font-size: 23px;
+  }
+  .contact-details {
+    margin-block: 21px 28px;
+  }
+  .contact-details > div {
+    margin-top: 20px;
+    gap: 17px;
+  }
+  .contact-details dt {
+    font-size: 10px;
+  }
+  .contact-details dd {
+    font-size: 15px;
+  }
+  .contact-reference-info > h3 {
+    font-size: 16px;
+  }
+  .home-page .contact-reference-info > p {
+    font-size: 11px;
+  }
+  .contact-info-note {
+    padding-top: 20px;
+    margin-top: 24px;
+  }
+  .contact-support-bar {
+    font-size: 10px;
+    gap: 8px;
+    margin-bottom: 18px;
+  }
+  .contact-reference-fields {
+    grid-template-columns: 1fr;
+    gap: 23px;
+  }
+  .contact-reference-fields > label,
+  .contact-name-field legend {
+    font-size: 11px;
+  }
+  .contact-reference-fields input,
+  .contact-reference-fields select,
+  .contact-reference-fields textarea {
+    font-size: 12px;
+    padding: 12px;
+  }
+  .contact-reference-fields textarea {
+    min-height: 170px;
+  }
+  .contact-name-inputs {
+    gap: 10px;
+  }
+  .contact-name-inputs input {
+    padding-inline: 10px;
+  }
+  .contact-reference-form .consent {
+    font-size: 10px;
+    margin-block: 23px;
+  }
+  .contact-reference-form > .home-button {
+    min-height: 43px;
+    padding-inline: 20px;
+    font-size: 12px;
+  }
+  .home-page .contact-reference-form .form-footnote {
+    font-size: 9px;
+  }
+  .contact-region-section {
+    padding-bottom: 45px;
+  }
+  .contact-region-section > h2 {
+    font-size: 24px;
+    margin-bottom: 13px;
+  }
+  .home-page .contact-region-section > p:not(.contact-map-status) {
+    font-size: 11px;
+  }
+  .contact-worldmap {
+    margin-top: 32px;
+    min-height: 0;
+    padding-bottom: 55px;
+  }
+  .contact-map-controls {
+    bottom: 0;
+    right: 0;
+    flex-direction: row;
+    gap: 7px;
+  }
+  .contact-map-controls > button {
+    width: 42px;
+    height: 42px;
+  }
+  .contact-worldmap figcaption {
+    font-size: 8px;
+    line-height: 1.9;
+    padding-top: 13px;
+  }
+  .contact-map-loading {
+    top: 20px;
+    font-size: 10px !important;
+  }
+  .home-page .contact-map-status {
+    font-size: 9px;
+    margin-top: 18px;
+  }
+  .contact-region-cards {
+    grid-template-columns: 1fr;
+    gap: 31px;
+    margin-top: 32px;
+  }
+  .contact-region-cards > section + section {
+    border-top: 1px solid #ddd;
+    padding-top: 26px;
+  }
+  .contact-region-cards h3 {
+    font-size: 17px;
+    margin-bottom: 12px;
+  }
+  .home-page .contact-region-cards p {
+    font-size: 11px;
+  }
+  .contact-region-cards li {
+    font-size: 11px;
+  }
+  .contact-region-choice {
+    font-size: 11px;
+    min-height: 42px;
+  }
+  .contact-reference-page .home-footer {
+    padding-top: 35px;
+  }
+}
+@media (max-width: 360px) {
+  .contact-support-bar {
+    font-size: 9px;
+    gap: 6px;
+  }
+  .contact-reference-info > h2,
+  .contact-reference-form > h2 {
+    font-size: 21px;
+  }
+  .contact-name-inputs input::placeholder {
+    font-size: 10px;
+  }
+  .contact-region-section > h2 {
+    font-size: 22px;
+  }
+}

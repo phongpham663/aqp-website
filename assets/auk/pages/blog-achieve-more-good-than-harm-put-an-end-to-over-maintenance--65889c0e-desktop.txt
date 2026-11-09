@@ -1,0 +1,120 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+
+Blog · 4 November 2020
+
+Achieve More Good Than Harm: Put an End to Over-Maintenance
+“The more, the better”. Is it not the same for maintenance? No.
+
+One fatal mistake which many manufacturers are oblivious to is to play victim to over-maintenance.
+
+Having regular maintenance can keep equipment and machinery in good working condition, prolong their longevity and ensure reliability in performance – this is not a secret. What many often do not know, however, is that too much maintenance may lead to diminishing returns. One of the telltale signs of over-maintenance could be a low OEE1 even though the manufacturing plant is already running at maximum capacity.
+
+OEE1 as a small percentage of TEEP. OEE1 can be much improved if the lost time was reduced.
+
+Over-maintenance does little to improve the performance of equipment and the productivity of the plant. It may, on the other hand, cause struggle and stress in terms of human resource and opportunity costs.
+
+At what level then, can maintenance be effectively executed?
+
+There is no one answer to that, but manufacturers should strive for a maintenance strategy where maintenance is performed properly, necessarily and at appropriate frequencies. To achieve the aforementioned, here are some tips we can offer:
+
+1. Use existing knowledge & focus less on the type of maintenance methods used
+
+When thinking about maintenance, it is unavertable that manufacturers would gravitate towards selecting a mix of some of the following maintenance methods: Time-based Maintenance (TBM), Risk-based Maintenance (RBM), Corrective maintenance, etc.
+
+While having an integrated application of both reactive and preventive maintenance methods is ideal, manufacturers should not aimlessly and baselessly select the maintenance methods as they like. What manufacturers should do, is the exact opposite of what they have been doing.
+
+It is better to first consider the functions, design and workflow of each equipment. After which, apply existing knowledge and management skills to see which maintenance method, when applied to each piece of equipment, can best reduce downtime (increase uptime), improve asset utilisation and maximise both TEEP and OEE1.
+
+E.g. It would not be prudent to insist on performing preventive maintenance on all 10 packaging machines when only some of them are usually operating at full capacity. Implementing preventive maintenance in such scenarios, it may be too much of an overkill. Using reactive maintenance would be more appropriate.
+
+On top of that, manufacturers should not shy away from opportunities to learn about the best maintenance practices of other manufacturing plants and gain insights and inspirations on how to plan and schedule the various types of maintenance methods for their plant.
+
+Finally, it is crucial to collect and maintain a repository of data on each piece of equipment. Manufacturers can use these data to determine the relevant parameters which indicate the performance of the equipment – find out whether the machinery is running at its peak, when a breakdown of certain parts is imminent, etc. Over time, a data-backed baseline and benchmark for equipment wear and tear can be obtained. That would be more accurate and reliable than second-guessing.
+
+E.g. The motor of equipment A tends to run harder when the equipment exceeds a certain run-time. This was not previously observed but its erratic behaviour has been brought to light after some analysis on the data collected. As such, the appropriate maintenance method used should be usage or condition-based maintenance rather than time-based maintenance.
+
+By doing the above, manufacturers would be one step closer to deriving and sustaining a maintenance strategy which is best suited to the needs of their equipment, rather than the sake of using certain maintenance methods.
+
+2. Reduce post-maintenance breakdowns
+
+Maintenance, particularly preventive maintenance, is performed to prevent machines from breaking down. Nonetheless, some machines do continue to breakdown or fail, immediately after maintenance. Many manufacturers respond to these incidents by performing more maintenance, with the hope that these maintenances will prevent such post-maintenance breakdowns from recurring. What began as routine preventive maintenance would have morphed into an overwhelming number of additional maintenance which may not be helpful.
+
+Performing more maintenance as a remedy for post-maintenance breakdowns may not be the best solution. The first order of business should be to check if the maintenance/ preventive maintenance was properly carried out. Sometimes it could be that the maintenance work was well done but the replacement parts used were incompatible with the equipment. Other times it could be that some equipment is sensitive to shutdowns and start-ups and the technician may have overlooked these power supply problems when performing maintenance.
+
+Should post-maintenance breakdowns persist, it may be necessary to check if the sensors attached to the equipment are accurately measuring the parameters required to monitor the performance and condition of the equipment. If the measurements collected were not representative, the predictive model would be inaccurate and the predictive maintenance performed would not serve it its purpose. Performing more maintenance does not nib the problem in the bud and would only aggravate the burden on resources.
+
+3. Practice judgement on time-based maintenance
+
+Time-based maintenance is maintenance performed according to a calendar schedule. As previously discussed, its main caveat lies in the fact that it disregards the actual condition of the equipment; maintenance is scheduled at fixed intervals.
+
+”The kitchen ventilator does not have to be cleaned and maintained once every month if the family hardly cooks”
+
+Similarly, a piece of underutilised equipment does not have to be maintained as frequently mandated by time-based maintenance. While time-based maintenance is highly-suitable for equipment with constant production volume, it may not be so for others. Hence, performing time-based maintenance indiscriminately could lead to over-maintenance.
+
+To prevent over-maintenance and the risks associated with it, the schedule for time-based maintenance should be reviewed and revised from time to time, based on the utilisation nature of the equipment. For instances where a piece of equipment has accumulating production volume, switching to usage-based or condition-based maintenance could be better as maintenance is performed based on the state of the equipment, rather than an arbitrary timeline.
+
+”Condition based maintenance could be thought of as a ’24/7 health check-up’ for the equipment. The critical parameters related to a breakdown are monitored and warning signals would be sounded when certain thresholds are exceeded.”
+
+4. Moving from reactive to preventive
+
+The climax of any superhero movie involves the superhero heroically defeating the villain and restoring peace and order to the town. In an organisational setting, equipment failure is akin to the villain and those who perform reactive maintenance to restore the equipment to its working condition are the superheroes. While this is so, less recognition is given to those who manage and perform preventive maintenance – those who pre-empt equipment failures and seeks to resolve them.
+
+Preventive maintenance is typically preferred over reactive maintenance. Too much reactive maintenance, be it breakdown maintenance or post-breakdown maintenance, is undesirable. Reactive maintenance often results in an insurmountable amount of equipment downtime which would take a toll on the OEE of any manufacturing plant.
+
+More emphasis and attention should be placed on preventive maintenance. Successful implementation of preventive maintenance serves as a line of defence for post-maintenance breakdown and downtimes which could be mitigated. The positive value created by one successful preventive maintenance outweighs that of repeated breakdown maintenance.
+
+World-class manufacturers stay ahead of the competition by performing maintenance effectively and not over-doing it. Sometimes less is more, and that is often the case for maintenance. Manufacturers who cut down on unnecessary maintenance by focusing their attention on reducing downtime rather than the specific types of maintenance methods used would see their efforts pay off.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

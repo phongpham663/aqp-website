@@ -1,0 +1,722 @@
+{
+  "url": "https://www.magalsolutions.com/resources/",
+  "title": "Resources | Magal",
+  "description": "Access Magal Solutions' resources for in-depth articles, case studies, and insights on sustainability, integration, and growth.",
+  "lang": "en-US",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "dimensions": {
+    "width": 390,
+    "height": 4411
+  },
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Resources"
+    },
+    {
+      "tag": "H2",
+      "text": "No Network Connection, No Attack Surface: The Case for On-Premises C2"
+    },
+    {
+      "tag": "H2",
+      "text": "Good Technology, Wrong Architecture"
+    },
+    {
+      "tag": "H2",
+      "text": "Drone Defense Has Outgrown Single-System Thinking"
+    },
+    {
+      "tag": "H2",
+      "text": "When the Threat Is the Point"
+    },
+    {
+      "tag": "H2",
+      "text": "Training for the Drill"
+    },
+    {
+      "tag": "H2",
+      "text": "Unified Pipeline Security and Monitoring"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=fl-branding",
+      "text": "",
+      "download": false
+    },
+    {
+      "url": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=sl-branding",
+      "text": "",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/",
+      "text": "",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/",
+      "text": "Home Page",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/seaports-terminals/",
+      "text": "Seaports & Terminals",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/oil-gas/",
+      "text": "Oil & Gas",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/borders/",
+      "text": "National Borders",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/critical-sites/",
+      "text": "Critical Sites",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/fortis-x-c5i-powerful-seamless-and-scalable/",
+      "text": "Fortis-X, C5I",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/intelligent-video-analytics/",
+      "text": "Video Analytics",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/gates-access/",
+      "text": "Gates & Access",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/",
+      "text": "PIDS",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/fensor/",
+      "text": "Fensor",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/dtr/",
+      "text": "DTR",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/magbar/",
+      "text": "Magbar",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/innofence/",
+      "text": "Innofence",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/tunnelguard-2/",
+      "text": "TunnelGuard",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/",
+      "text": "Resources",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/brochures-en/",
+      "text": "Brochures",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/videos/",
+      "text": "Videos",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/ebooks-and-booklets/",
+      "text": "eBooks & Booklets",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/infographics/",
+      "text": "Infographics",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/blog/",
+      "text": "Blog",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/events/",
+      "text": "Events",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/in-the-media/",
+      "text": "In the Media",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/our-professional-services/",
+      "text": "Professional Services",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/about/",
+      "text": "About us & Management",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/join-us/",
+      "text": "Careers",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/sustainability-international-standards-certification/",
+      "text": "Sustainability & International Standards Certification",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/contact-us/",
+      "text": "Contact us & Global Offices",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/",
+      "text": "English",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/es/recursos/",
+      "text": "Español",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/",
+      "text": "All",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/ebooks-and-booklets/",
+      "text": "eBooks & Booklets",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/infographics/",
+      "text": "Infographics",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/videos/",
+      "text": "Videos",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/brochures-en/",
+      "text": "Brochures",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/blog/",
+      "text": "Blog",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/c2-architecture/",
+      "text": "›",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/security-technology/",
+      "text": "›",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/drone-defense/",
+      "text": "›",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/when-the-threat-is-the-point/",
+      "text": "›",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/training-for-the-drill/",
+      "text": "›",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/unified-pipeline-security-and-monitoring/",
+      "text": "›",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/page/2/",
+      "text": "2",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/page/3/",
+      "text": "3",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/page/7/",
+      "text": "7",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/page/2/",
+      "text": ">",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/",
+      "text": "Home Page",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/seaports-terminals/",
+      "text": "Seaports & Terminals",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/oil-gas/",
+      "text": "Oil & Gas",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/borders/",
+      "text": "National Borders",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/critical-sites/",
+      "text": "Critical Sites",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/fortis-x-c5i-powerful-seamless-and-scalable/",
+      "text": "Fortis-X, C5I",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/intelligent-video-analytics/",
+      "text": "Video Analytics",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/gates-access/",
+      "text": "Gates & Access",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/",
+      "text": "PIDS",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/fensor/",
+      "text": "Fensor",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/dtr/",
+      "text": "DTR",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/magbar/",
+      "text": "Magbar",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/innofence/",
+      "text": "Innofence",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/perimeter-intrusion-detection-systems-pids/tunnelguard-2/",
+      "text": "TunnelGuard",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/",
+      "text": "Resources",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/brochures-en/",
+      "text": "Brochures",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/videos/",
+      "text": "Videos",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/ebooks-and-booklets/",
+      "text": "eBooks & Booklets",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/infographics/",
+      "text": "Infographics",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resource-category/blog/",
+      "text": "Blog",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/events/",
+      "text": "Events",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/in-the-media/",
+      "text": "In the Media",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/our-professional-services/",
+      "text": "Professional Services",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/about/",
+      "text": "About us & Management",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/join-us/",
+      "text": "Careers",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/sustainability-international-standards-certification/",
+      "text": "Sustainability & International Standards Certification",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/contact-us/",
+      "text": "Contact us & Global Offices",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/resources/",
+      "text": "<img src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3Cpath%20fill='%23b31942'%20d='M0%200h900v600H0'/%3E%3Cpath%20stroke='%23fff'%20stroke-width='46'%20d='M0%2069h900m0%2093H0m0%2092h900m0%2092H0m0%2092h900m0%2093H0'/%3E%3Cpath%20fill='%230a3161'%20d='M0%200h406v323H0'/%3E%3Cg%20id='e'%3E%3Cg%20id='d'%3E%3Cg%20id='f'%3E%3Cg%20id='c'%3E%3Cg%20id='b'%3E%3Cpath%20id='a'%20fill='%23fff'%20d='m18%2048%2011-33%2010%2033-29-21h36'/%3E%3Cuse%20y='65'%20href='%23a'/%3E%3C/g%3E%3Cuse%20y='129'%20href='%23b'/%3E%3C/g%3E%3Cuse%20y='258'%20href='%23a'/%3E%3C/g%3E%3Cuse%20x='34'%20y='32'%20href='%23c'/%3E%3C/g%3E%3Cuse%20x='68'%20href='%23d'/%3E%3C/g%3E%3Cuse%20x='136'%20href='%23e'/%3E%3Cuse%20x='273'%20href='%23d'/%3E%3Cuse%20x='342'%20href='%23f'/%3E%3C/svg%3E\" alt=\"\" width=\"18\" height=\"12\" style=\"display:block;object-fit:cover;object-position:center;width:100%;height:100%\" />English",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/es/recursos/",
+      "text": "<img src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%20fill='%23b50027'%3E%3Cpath%20fill='%23ad1519'%20d='M0%200h900v600H0'/%3E%3Cpath%20fill='%23fabd00'%20d='M0%20150h900v300H0'/%3E%3Cg%20id='a'%3E%3Cpath%20fill='%239f7e00'%20d='M301%20268h-49v-11l-14-28c-3-6%201-21%2020-21%200-12%2040-17%2040-15v-6h-6v-3h6v-6h3'/%3E%3Cpath%20d='M242%20222q4%2016%2012%2028c2-2%203-2%201-11%203%209%206%208%209%209q-2-17-11-34-11%203-11%208m50-17q-24-1-27%208%203%2018%2012%2034%208-2%206-16%203%2020%2012%2015'/%3E%3Ccircle%20cx='252'%20cy='263'%20r='4'/%3E%3Ccircle%20cx='300'%20cy='260'%20r='4'/%3E%3Ccircle%20fill='%230044ad'%20cx='300'%20cy='197'%20r='7'/%3E%3Ccircle%20fill='%23006f46'%20cx='276'%20cy='261'%20r='4'/%3E%3Cpath%20d='M231%20337v15l-39-28v-15'/%3E%3Cpath%20fill='%23bbb'%20d='M203%20281h20v110h-20'/%3E%3Cpath%20fill='%239f7e00'%20d='M200%20270h26v16h-26zm0%20117h26v14h-26'/%3E%3Cpath%20d='M206%20254q-7%200-6%206l1%2010h24l1-10q-1-6-6-6zm-14%2055v15h59v-15zm0%2028v15h39v-15'/%3E%3Cpath%20fill='%230044ad'%20d='M195%20401h36v17h-36'/%3E%3C/g%3E%3Cuse%20href='%23a'%20transform='matrix(-1%200%200%201%20600%200)'/%3E%3Cpath%20fill='%23b2b2b2'%20d='M241%20382q0%2016%2017%2026%2017%2011%2042%2011t42-11q16-11%2017-26V269H241'/%3E%3Cpath%20fill='%239f7e00'%20d='M241%20379q0%2014%208%2023%209%209%2021%209%2014%200%2021-9%209-9%209-23V269h-59'/%3E%3Cpath%20d='M241%20339v-70h59v110q0%2014-9%2023l-6%205v-68h-15v72q-8%200-14-4v-68zm59%2040c0%2022%2015%2032%2029%2032%2021%200%2030-18%2030-32v-40h-59'/%3E%3Cpath%20fill='%239f7e00'%20d='M266%20277v5h2v12h-3v-5h2v-5h-9v5h2v5h-4v9h3v18h-5v10h34v-10h-5v-18h3v-9h-4v-5h2v-5h-9v5h2v5h-3v-12h2v-5zm42%20101q0%2010%206%2017%206%206%2015%207%2010-1%2016-7%206-7%206-17v-29h-43'/%3E%3Ccircle%20fill='%230044ad'%20cx='329.5'%20cy='372'%20r='6'/%3E%3Cellipse%20fill='%230044ad'%20cx='300'%20cy='340'%20rx='16'%20ry='21'/%3E%3C/svg%3E\" alt=\"\" width=\"18\" height=\"12\" style=\"display:block;object-fit:cover;object-position:center;width:100%;height:100%\" />Español",
+      "download": false
+    },
+    {
+      "url": "https://www.magalsolutions.com/privacy-policy/",
+      "text": "Privacy Policy",
+      "download": false
+    },
+    {
+      "url": "mailto:marketing@magalsolutions.com",
+      "text": "marketing@magalsolutions.com",
+      "download": false
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100083027807629",
+      "text": "",
+      "download": false
+    },
+    {
+      "url": "https://www.linkedin.com/company/magal-security-systems/",
+      "text": "",
+      "download": false
+    },
+    {
+      "url": "https://www.youtube.com/@MagalSolutions/videos",
+      "text": "",
+      "download": false
+    },
+    {
+      "url": "https://www.rachelidesigns.co.il/",
+      "text": "KRAFT",
+      "download": false
+    }
+  ],
+  "references": [
+    "https://cdn-cookieyes.com/assets/images/revisit.svg",
+    "https://cdn-cookieyes.com/assets/images/close.svg",
+    "https://www.magalsolutions.com/wp-content/uploads/Group-6762.svg",
+    "https://www.magalsolutions.com/wp-content/uploads/Depositphotos_488168676_DS.jpg",
+    "https://www.magalsolutions.com/wp-content/uploads/FX-room.png",
+    "https://www.magalsolutions.com/wp-content/uploads/Beige-Minimalist-Desert-Photo-Collage-3.png",
+    "https://www.magalsolutions.com/wp-content/uploads/Depositphotos_790075074_XL-scaled-e1763566042738.jpg",
+    "https://www.magalsolutions.com/wp-content/uploads/Mask-Group-217.webp",
+    "https://www.magalsolutions.com/wp-content/uploads/Group-94.png",
+    "https://www.magalsolutions.com/wp-content/uploads/Group-95.svg",
+    "https://www.magalsolutions.com/wp-content/uploads/Group-98.svg",
+    "https://www.magalsolutions.com/wp-content/uploads/Icon-zocial-youtube.svg"
+  ],
+  "typography": [
+    {
+      "tag": "P",
+      "text": "",
+      "font": "\"Open Sans\"",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(33, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "",
+      "font": "\"Open Sans\"",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(33, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "",
+      "font": "\"Open Sans\"",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(33, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "",
+      "font": "\"Open Sans\"",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(33, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "",
+      "font": "\"Open Sans\"",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(33, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "",
+      "font": "\"Open Sans\"",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(33, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "",
+      "font": "\"Open Sans\"",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(33, 33, 33)"
+    },
+    {
+      "tag": "P",
+      "text": "",
+      "font": "\"Open Sans\"",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(33, 33, 33)"
+    },
+    {
+      "tag": "H1",
+      "text": "Resources",
+      "font": "\"Open Sans\"",
+      "size": "50px",
+      "weight": "800",
+      "color": "rgb(0, 37, 205)"
+    },
+    {
+      "tag": "H2",
+      "text": "No Network Connection, No Attack Surface: The Case for On-Premises C2",
+      "font": "\"Open Sans\"",
+      "size": "24px",
+      "weight": "400",
+      "color": "rgb(0, 37, 205)"
+    },
+    {
+      "tag": "H2",
+      "text": "Good Technology, Wrong Architecture",
+      "font": "\"Open Sans\"",
+      "size": "24px",
+      "weight": "400",
+      "color": "rgb(0, 37, 205)"
+    },
+    {
+      "tag": "H2",
+      "text": "Drone Defense Has Outgrown Single-System Thinking",
+      "font": "\"Open Sans\"",
+      "size": "24px",
+      "weight": "400",
+      "color": "rgb(0, 37, 205)"
+    },
+    {
+      "tag": "H2",
+      "text": "When the Threat Is the Point",
+      "font": "\"Open Sans\"",
+      "size": "24px",
+      "weight": "400",
+      "color": "rgb(0, 37, 205)"
+    },
+    {
+      "tag": "H2",
+      "text": "Training for the Drill",
+      "font": "\"Open Sans\"",
+      "size": "24px",
+      "weight": "400",
+      "color": "rgb(0, 37, 205)"
+    },
+    {
+      "tag": "H2",
+      "text": "Unified Pipeline Security and Monitoring",
+      "font": "\"Open Sans\"",
+      "size": "24px",
+      "weight": "400",
+      "color": "rgb(0, 37, 205)"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn-cookieyes.com/assets/images/revisit.svg",
+      "alt": "Revisit consent button",
+      "loaded": true,
+      "width": 36,
+      "height": 36
+    },
+    {
+      "src": "https://cdn-cookieyes.com/assets/images/close.svg",
+      "alt": "",
+      "loaded": true,
+      "width": 10,
+      "height": 10
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Group-6762.svg",
+      "alt": "Magal solutions",
+      "loaded": true,
+      "width": 169,
+      "height": 68
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3Cpath%20fill='%23b31942'%20d='M0%200h900v600H0'/%3E%3Cpath%20stroke='%23fff'%20stroke-width='46'%20d='M0%2069h900m0%2093H0m0%2092h900m0%2092H0m0%2092h900m0%2093H0'/%3E%3Cpath%20fill='%230a3161'%20d='M0%200h406v323H0'/%3E%3Cg%20id='e'%3E%3Cg%20id='d'%3E%3Cg%20id='f'%3E%3Cg%20id='c'%3E%3Cg%20id='b'%3E%3Cpath%20id='a'%20fill='%23fff'%20d='m18%2048%2011-33%2010%2033-29-21h36'/%3E%3Cuse%20y='65'%20href='%23a'/%3E%3C/g%3E%3Cuse%20y='129'%20href='%23b'/%3E%3C/g%3E%3Cuse%20y='258'%20href='%23a'/%3E%3C/g%3E%3Cuse%20x='34'%20y='32'%20href='%23c'/%3E%3C/g%3E%3Cuse%20x='68'%20href='%23d'/%3E%3C/g%3E%3Cuse%20x='136'%20href='%23e'/%3E%3Cuse%20x='273'%20href='%23d'/%3E%3Cuse%20x='342'%20href='%23f'/%3E%3C/svg%3E",
+      "alt": "",
+      "loaded": true,
+      "width": 225,
+      "height": 150
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%20fill='%23b50027'%3E%3Cpath%20fill='%23ad1519'%20d='M0%200h900v600H0'/%3E%3Cpath%20fill='%23fabd00'%20d='M0%20150h900v300H0'/%3E%3Cg%20id='a'%3E%3Cpath%20fill='%239f7e00'%20d='M301%20268h-49v-11l-14-28c-3-6%201-21%2020-21%200-12%2040-17%2040-15v-6h-6v-3h6v-6h3'/%3E%3Cpath%20d='M242%20222q4%2016%2012%2028c2-2%203-2%201-11%203%209%206%208%209%209q-2-17-11-34-11%203-11%208m50-17q-24-1-27%208%203%2018%2012%2034%208-2%206-16%203%2020%2012%2015'/%3E%3Ccircle%20cx='252'%20cy='263'%20r='4'/%3E%3Ccircle%20cx='300'%20cy='260'%20r='4'/%3E%3Ccircle%20fill='%230044ad'%20cx='300'%20cy='197'%20r='7'/%3E%3Ccircle%20fill='%23006f46'%20cx='276'%20cy='261'%20r='4'/%3E%3Cpath%20d='M231%20337v15l-39-28v-15'/%3E%3Cpath%20fill='%23bbb'%20d='M203%20281h20v110h-20'/%3E%3Cpath%20fill='%239f7e00'%20d='M200%20270h26v16h-26zm0%20117h26v14h-26'/%3E%3Cpath%20d='M206%20254q-7%200-6%206l1%2010h24l1-10q-1-6-6-6zm-14%2055v15h59v-15zm0%2028v15h39v-15'/%3E%3Cpath%20fill='%230044ad'%20d='M195%20401h36v17h-36'/%3E%3C/g%3E%3Cuse%20href='%23a'%20transform='matrix(-1%200%200%201%20600%200)'/%3E%3Cpath%20fill='%23b2b2b2'%20d='M241%20382q0%2016%2017%2026%2017%2011%2042%2011t42-11q16-11%2017-26V269H241'/%3E%3Cpath%20fill='%239f7e00'%20d='M241%20379q0%2014%208%2023%209%209%2021%209%2014%200%2021-9%209-9%209-23V269h-59'/%3E%3Cpath%20d='M241%20339v-70h59v110q0%2014-9%2023l-6%205v-68h-15v72q-8%200-14-4v-68zm59%2040c0%2022%2015%2032%2029%2032%2021%200%2030-18%2030-32v-40h-59'/%3E%3Cpath%20fill='%239f7e00'%20d='M266%20277v5h2v12h-3v-5h2v-5h-9v5h2v5h-4v9h3v18h-5v10h34v-10h-5v-18h3v-9h-4v-5h2v-5h-9v5h2v5h-3v-12h2v-5zm42%20101q0%2010%206%2017%206%206%2015%207%2010-1%2016-7%206-7%206-17v-29h-43'/%3E%3Ccircle%20fill='%230044ad'%20cx='329.5'%20cy='372'%20r='6'/%3E%3Cellipse%20fill='%230044ad'%20cx='300'%20cy='340'%20rx='16'%20ry='21'/%3E%3C/svg%3E",
+      "alt": "",
+      "loaded": true,
+      "width": 225,
+      "height": 150
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Depositphotos_488168676_DS.jpg",
+      "alt": "",
+      "loaded": true,
+      "width": 10240,
+      "height": 5760
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/FX-room.png",
+      "alt": "",
+      "loaded": true,
+      "width": 10240,
+      "height": 5758
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Beige-Minimalist-Desert-Photo-Collage-3.png",
+      "alt": "",
+      "loaded": true,
+      "width": 2000,
+      "height": 1600
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Depositphotos_790075074_XL-scaled-e1763566042738.jpg",
+      "alt": "",
+      "loaded": true,
+      "width": 2090,
+      "height": 1203
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Depositphotos_488168676_DS.jpg",
+      "alt": "",
+      "loaded": true,
+      "width": 10240,
+      "height": 5760
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Mask-Group-217.webp",
+      "alt": "",
+      "loaded": true,
+      "width": 1922,
+      "height": 1817
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3Cpath%20fill='%23b31942'%20d='M0%200h900v600H0'/%3E%3Cpath%20stroke='%23fff'%20stroke-width='46'%20d='M0%2069h900m0%2093H0m0%2092h900m0%2092H0m0%2092h900m0%2093H0'/%3E%3Cpath%20fill='%230a3161'%20d='M0%200h406v323H0'/%3E%3Cg%20id='e'%3E%3Cg%20id='d'%3E%3Cg%20id='f'%3E%3Cg%20id='c'%3E%3Cg%20id='b'%3E%3Cpath%20id='a'%20fill='%23fff'%20d='m18%2048%2011-33%2010%2033-29-21h36'/%3E%3Cuse%20y='65'%20href='%23a'/%3E%3C/g%3E%3Cuse%20y='129'%20href='%23b'/%3E%3C/g%3E%3Cuse%20y='258'%20href='%23a'/%3E%3C/g%3E%3Cuse%20x='34'%20y='32'%20href='%23c'/%3E%3C/g%3E%3Cuse%20x='68'%20href='%23d'/%3E%3C/g%3E%3Cuse%20x='136'%20href='%23e'/%3E%3Cuse%20x='273'%20href='%23d'/%3E%3Cuse%20x='342'%20href='%23f'/%3E%3C/svg%3E",
+      "alt": "",
+      "loaded": true,
+      "width": 225,
+      "height": 150
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%20fill='%23b50027'%3E%3Cpath%20fill='%23ad1519'%20d='M0%200h900v600H0'/%3E%3Cpath%20fill='%23fabd00'%20d='M0%20150h900v300H0'/%3E%3Cg%20id='a'%3E%3Cpath%20fill='%239f7e00'%20d='M301%20268h-49v-11l-14-28c-3-6%201-21%2020-21%200-12%2040-17%2040-15v-6h-6v-3h6v-6h3'/%3E%3Cpath%20d='M242%20222q4%2016%2012%2028c2-2%203-2%201-11%203%209%206%208%209%209q-2-17-11-34-11%203-11%208m50-17q-24-1-27%208%203%2018%2012%2034%208-2%206-16%203%2020%2012%2015'/%3E%3Ccircle%20cx='252'%20cy='263'%20r='4'/%3E%3Ccircle%20cx='300'%20cy='260'%20r='4'/%3E%3Ccircle%20fill='%230044ad'%20cx='300'%20cy='197'%20r='7'/%3E%3Ccircle%20fill='%23006f46'%20cx='276'%20cy='261'%20r='4'/%3E%3Cpath%20d='M231%20337v15l-39-28v-15'/%3E%3Cpath%20fill='%23bbb'%20d='M203%20281h20v110h-20'/%3E%3Cpath%20fill='%239f7e00'%20d='M200%20270h26v16h-26zm0%20117h26v14h-26'/%3E%3Cpath%20d='M206%20254q-7%200-6%206l1%2010h24l1-10q-1-6-6-6zm-14%2055v15h59v-15zm0%2028v15h39v-15'/%3E%3Cpath%20fill='%230044ad'%20d='M195%20401h36v17h-36'/%3E%3C/g%3E%3Cuse%20href='%23a'%20transform='matrix(-1%200%200%201%20600%200)'/%3E%3Cpath%20fill='%23b2b2b2'%20d='M241%20382q0%2016%2017%2026%2017%2011%2042%2011t42-11q16-11%2017-26V269H241'/%3E%3Cpath%20fill='%239f7e00'%20d='M241%20379q0%2014%208%2023%209%209%2021%209%2014%200%2021-9%209-9%209-23V269h-59'/%3E%3Cpath%20d='M241%20339v-70h59v110q0%2014-9%2023l-6%205v-68h-15v72q-8%200-14-4v-68zm59%2040c0%2022%2015%2032%2029%2032%2021%200%2030-18%2030-32v-40h-59'/%3E%3Cpath%20fill='%239f7e00'%20d='M266%20277v5h2v12h-3v-5h2v-5h-9v5h2v5h-4v9h3v18h-5v10h34v-10h-5v-18h3v-9h-4v-5h2v-5h-9v5h2v5h-3v-12h2v-5zm42%20101q0%2010%206%2017%206%206%2015%207%2010-1%2016-7%206-7%206-17v-29h-43'/%3E%3Ccircle%20fill='%230044ad'%20cx='329.5'%20cy='372'%20r='6'/%3E%3Cellipse%20fill='%230044ad'%20cx='300'%20cy='340'%20rx='16'%20ry='21'/%3E%3C/svg%3E",
+      "alt": "",
+      "loaded": true,
+      "width": 225,
+      "height": 150
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Group-94.png",
+      "alt": "",
+      "loaded": true,
+      "width": 191,
+      "height": 45
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Group-95.svg",
+      "alt": "",
+      "loaded": true,
+      "width": 21,
+      "height": 21
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Group-98.svg",
+      "alt": "",
+      "loaded": true,
+      "width": 22,
+      "height": 21
+    },
+    {
+      "src": "https://www.magalsolutions.com/wp-content/uploads/Icon-zocial-youtube.svg",
+      "alt": "",
+      "loaded": true,
+      "width": 18,
+      "height": 21
+    }
+  ],
+  "capturedAt": "2026-11-07T15:37:22.578Z",
+  "device": "mobile",
+  "emulation": "Responsive viewport resize of the same rendered page; not a distinct mobile user-agent",
+  "issues": []
+}

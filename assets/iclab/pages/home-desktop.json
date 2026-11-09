@@ -1,0 +1,618 @@
+{
+  "url": "https://iclab.identifycapacity.com/",
+  "title": "Identify Capacity",
+  "description": "AI-powered Operational Intelligence for Critical Infrastructure",
+  "author": "Lovable",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "AI-powered Operational Intelligence\nfor Critical Infrastructure"
+    },
+    {
+      "tag": "H2",
+      "text": "IClab Platform"
+    },
+    {
+      "tag": "H3",
+      "text": "The perfect tool to optimize your operation."
+    },
+    {
+      "tag": "H2",
+      "text": "Multilayer Visual Object"
+    },
+    {
+      "tag": "H3",
+      "text": "the new management matrix"
+    },
+    {
+      "tag": "H3",
+      "text": "Visual Control"
+    },
+    {
+      "tag": "H4",
+      "text": "Management"
+    },
+    {
+      "tag": "H3",
+      "text": "A.I."
+    },
+    {
+      "tag": "H4",
+      "text": "Artificial Intelligence"
+    },
+    {
+      "tag": "H3",
+      "text": "IoT Devices"
+    },
+    {
+      "tag": "H4",
+      "text": "Management"
+    },
+    {
+      "tag": "H3",
+      "text": "Edge"
+    },
+    {
+      "tag": "H4",
+      "text": "Gateway"
+    },
+    {
+      "tag": "H2",
+      "text": "SOLUTIONS FOR"
+    },
+    {
+      "tag": "H3",
+      "text": "Agriculture"
+    },
+    {
+      "tag": "H3",
+      "text": "Energy"
+    },
+    {
+      "tag": "H3",
+      "text": "Industry"
+    },
+    {
+      "tag": "H3",
+      "text": "Cities"
+    },
+    {
+      "tag": "H3",
+      "text": "Supply Chain"
+    },
+    {
+      "tag": "H3",
+      "text": "Transport"
+    },
+    {
+      "tag": "H2",
+      "text": "GetConnected Technologies"
+    },
+    {
+      "tag": "H2",
+      "text": "Get in touch with our team."
+    }
+  ],
+  "paragraphs": [
+    "A Multifunctional Dashboard, designed to integrate the new Multilayer Visual Object with Legacy Cameras, Device Management, Monitoring Functions, Alerts & Notifications, Logs, Video Recording Research, Graphs, Maps as other key functionalities that are unique to one platform.",
+    "Using the world's most advanced connection protocols, a variety of options available to capture the right information on field, with User Management & Security capabilities that you should consider when choosing your next Operation's Platform.",
+    "Operational and Strategic Decisions are made based in information and for long time we can't see what was happening, only trusting in text data. Multilayer Visual Objects are a representation of data and video, all in one single object to be used in your Dashboards, allowing better content information to support decision's process, draw Operational's Efficiency Boards, Automate process and allow easy management of your IT devices.",
+    "IoT Augmented & Machine Vision in real time.",
+    "Complete video management platform, with advanced and secure resources in the transmission, visualization and recording of images, alarm resources, events, occurrences.",
+    "Machine Vision for all captured video in order to detect events and objects, providing Insight for Operational & Decision Support, create actions, alarms, reports and forecast scenarios.",
+    "Full IoT device management, receiving online data to be used in the new Multilayer Visual Object's layers. Allow customisations, actions, reporting and integration with other systems.",
+    "End-to-end encryption with SSL security, having improved performance with low bandwidth, scalability, low latency, enhanced security and standardization.",
+    "One platform. Six industries transformed.",
+    "Ready to See the Platform in Action?"
+  ],
+  "links": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "ICLab Platform",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "Multilayer Visual Objects",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "Agriculture",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "Cities",
+      "url": "https://iclab.identifycapacity.com/solutions/cities"
+    },
+    {
+      "text": "Energy",
+      "url": "https://iclab.identifycapacity.com/solutions/energy"
+    },
+    {
+      "text": "Industry",
+      "url": "https://iclab.identifycapacity.com/solutions/industry"
+    },
+    {
+      "text": "Supply Chain",
+      "url": "https://iclab.identifycapacity.com/solutions/supply-chain"
+    },
+    {
+      "text": "Transport",
+      "url": "https://iclab.identifycapacity.com/solutions/transport"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    },
+    {
+      "text": "Explore Platform",
+      "url": "https://iclab.identifycapacity.com/#platform"
+    },
+    {
+      "text": "Get in Touch",
+      "url": "https://iclab.identifycapacity.com/#contact"
+    },
+    {
+      "text": "Platform Overview",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "Agriculture\nLearn More →",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "Energy\nLearn More →",
+      "url": "https://iclab.identifycapacity.com/solutions/energy"
+    },
+    {
+      "text": "Industry\nLearn More →",
+      "url": "https://iclab.identifycapacity.com/solutions/industry"
+    },
+    {
+      "text": "Cities\nLearn More →",
+      "url": "https://iclab.identifycapacity.com/solutions/cities"
+    },
+    {
+      "text": "Supply Chain\nLearn More →",
+      "url": "https://iclab.identifycapacity.com/solutions/supply-chain"
+    },
+    {
+      "text": "Transport\nLearn More →",
+      "url": "https://iclab.identifycapacity.com/solutions/transport"
+    },
+    {
+      "text": "Contact Us",
+      "url": "mailto:contact@identifycapacity.com"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "PLATFORM",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "MULTILAYER OBJECTS",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "SOLUTIONS",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "url": "https://iclab.identifycapacity.com/privacypolicy"
+    }
+  ],
+  "navigation": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "src": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "srcset": "",
+      "alt": "IClab logo",
+      "loaded": true,
+      "width": 286,
+      "height": 288
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/b0ddcbc9-1c5a-4dd5-9e12-eebb2b1c860a/bg_tophome_01.jpg",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/b0ddcbc9-1c5a-4dd5-9e12-eebb2b1c860a/bg_tophome_01.jpg",
+      "srcset": "",
+      "alt": "Smart operations powered by IClab",
+      "loaded": true,
+      "width": 1900,
+      "height": 1491
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/f7eb93e1-1880-4d4f-b73d-06cdb87d7b6f/site-iclab_07.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/f7eb93e1-1880-4d4f-b73d-06cdb87d7b6f/site-iclab_07.png",
+      "srcset": "",
+      "alt": "IClab Platform dashboard",
+      "loaded": true,
+      "width": 1201,
+      "height": 614
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/0b6f2d4c-6cd8-4147-a245-92ae74fe6f13/img_iclab2_02.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/0b6f2d4c-6cd8-4147-a245-92ae74fe6f13/img_iclab2_02.png",
+      "srcset": "",
+      "alt": "Multilayer Visual Object",
+      "loaded": true,
+      "width": 964,
+      "height": 654
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/69d8ac38-2cf9-447b-b4ef-3df72ac15797/site-iclab_13.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/69d8ac38-2cf9-447b-b4ef-3df72ac15797/site-iclab_13.png",
+      "srcset": "",
+      "alt": "",
+      "loaded": true,
+      "width": 125,
+      "height": 125
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/d7da1e21-2c02-4bbc-9b1a-fab35a52c970/site-iclab_15.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/d7da1e21-2c02-4bbc-9b1a-fab35a52c970/site-iclab_15.png",
+      "srcset": "",
+      "alt": "",
+      "loaded": true,
+      "width": 125,
+      "height": 125
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/94eb5723-bf6f-46df-bec4-e230d37a3d04/site-iclab_17.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/94eb5723-bf6f-46df-bec4-e230d37a3d04/site-iclab_17.png",
+      "srcset": "",
+      "alt": "",
+      "loaded": true,
+      "width": 125,
+      "height": 125
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/c87be02d-7807-4d17-8f1f-9c1aeb6f60ba/edge-computing.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/c87be02d-7807-4d17-8f1f-9c1aeb6f60ba/edge-computing.png",
+      "srcset": "",
+      "alt": "",
+      "loaded": true,
+      "width": 125,
+      "height": 125
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/bdc012c6-0088-4958-8e32-742041530a98/site-iclab_23.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/bdc012c6-0088-4958-8e32-742041530a98/site-iclab_23.png",
+      "srcset": "",
+      "alt": "Bluetooth",
+      "loaded": true,
+      "width": 97,
+      "height": 97
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/b8a3e569-6187-4f02-ad1c-6d113aa15712/site-iclab_25.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/b8a3e569-6187-4f02-ad1c-6d113aa15712/site-iclab_25.png",
+      "srcset": "",
+      "alt": "IEEE 802.15.4 (Zigbee)",
+      "loaded": true,
+      "width": 96,
+      "height": 96
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/cbcf53b5-6268-4e06-a554-c7986f40d9d0/site-iclab_29.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/cbcf53b5-6268-4e06-a554-c7986f40d9d0/site-iclab_29.png",
+      "srcset": "",
+      "alt": "LoRa®",
+      "loaded": true,
+      "width": 95,
+      "height": 95
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/99b6d173-e549-4a88-899c-8140feb27f29/site-iclab_27.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/99b6d173-e549-4a88-899c-8140feb27f29/site-iclab_27.png",
+      "srcset": "",
+      "alt": "Mobile / GSM",
+      "loaded": true,
+      "width": 95,
+      "height": 95
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/62cfde47-e252-432f-b70a-c6a8e270acc1/site-iclab_31.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/62cfde47-e252-432f-b70a-c6a8e270acc1/site-iclab_31.png",
+      "srcset": "",
+      "alt": "IEEE 802.11",
+      "loaded": true,
+      "width": 95,
+      "height": 95
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/8a5f0952-4c7a-4197-bea7-2b7e45dd3a6f/site-iclab_33.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/8a5f0952-4c7a-4197-bea7-2b7e45dd3a6f/site-iclab_33.png",
+      "srcset": "",
+      "alt": "Satellite",
+      "loaded": true,
+      "width": 95,
+      "height": 95
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "src": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "srcset": "",
+      "alt": "IClab",
+      "loaded": true,
+      "width": 286,
+      "height": 288
+    }
+  ],
+  "backgrounds": [],
+  "forms": [],
+  "colors": [
+    {
+      "color": "rgb(30, 32, 36)",
+      "count": 45
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "count": 41
+    },
+    {
+      "color": "rgb(0, 141, 235)",
+      "count": 39
+    },
+    {
+      "color": "rgba(30, 32, 36, 0.8)",
+      "count": 15
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.05)",
+      "count": 6
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.6)",
+      "count": 6
+    },
+    {
+      "color": "rgba(30, 32, 36, 0.7)",
+      "count": 4
+    },
+    {
+      "color": "rgb(23, 26, 33)",
+      "count": 2
+    },
+    {
+      "color": "rgb(242, 239, 232)",
+      "count": 1
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.8)",
+      "count": 1
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.7)",
+      "count": 1
+    }
+  ],
+  "typography": [
+    {
+      "tag": "H1",
+      "text": "AI-powered Operational Intelligence\nfor Critical Infrastructure",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "48px",
+      "weight": "800",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "IClab Platform",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "36px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "H3",
+      "text": "The perfect tool to optimize your operation.",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "300",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "A Multifunctional Dashboard, designed to integrate the new Multilayer Visual Object with Legacy Cameras, Device Management, Monitoring Functions, Alerts & Notifications, Logs, Video Recording Research, Graphs, Maps as ot",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "Using the world's most advanced connection protocols, a variety of options available to capture the right information on field, with User Management & Security capabilities that you should consider when choosing your nex",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H2",
+      "text": "Multilayer Visual Object",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "36px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "H3",
+      "text": "the new management matrix",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "300",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "Operational and Strategic Decisions are made based in information and for long time we can't see what was happening, only trusting in text data. Multilayer Visual Objects are a representation of data and video, all in on",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "IoT Augmented & Machine Vision in real time.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "600",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "H3",
+      "text": "Visual Control",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "Complete video management platform, with advanced and secure resources in the transmission, visualization and recording of images, alarm resources, events, occurrences.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H3",
+      "text": "A.I.",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "Machine Vision for all captured video in order to detect events and objects, providing Insight for Operational & Decision Support, create actions, alarms, reports and forecast scenarios.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H3",
+      "text": "IoT Devices",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "Full IoT device management, receiving online data to be used in the new Multilayer Visual Object's layers. Allow customisations, actions, reporting and integration with other systems.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H3",
+      "text": "Edge",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "End-to-end encryption with SSL security, having improved performance with low bandwidth, scalability, low latency, enhanced security and standardization.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H2",
+      "text": "SOLUTIONS FOR",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(0, 141, 235)"
+    },
+    {
+      "tag": "P",
+      "text": "One platform. Six industries transformed.",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "30px",
+      "weight": "300",
+      "color": "rgba(255, 255, 255, 0.8)"
+    },
+    {
+      "tag": "H3",
+      "text": "Agriculture",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "20px",
+      "weight": "600",
+      "color": "rgb(255, 255, 255)"
+    }
+  ],
+  "stylesheets": [
+    "https://iclab.identifycapacity.com/assets/index-Cc61ABCl.css"
+  ],
+  "scripts": [
+    "https://iclab.identifycapacity.com/assets/index-C7m6lm7u.js",
+    "https://iclab.identifycapacity.com/~flock.js",
+    "https://iclab.identifycapacity.com/__l5e/events.270c78a44fc53e7b.js"
+  ],
+  "reactDetected": true,
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "dimensions": {
+    "width": 1440,
+    "height": 4510
+  },
+  "capturedAt": "2026-11-07T16:53:54.265Z",
+  "issues": []
+}

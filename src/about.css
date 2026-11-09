@@ -1,0 +1,724 @@
+.about-reference-hero {
+  position: relative;
+  min-height: 448px;
+  overflow: hidden;
+  background: #3a3a3a;
+  isolation: isolate;
+}
+.about-hero-photo {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 46%;
+  z-index: -2;
+}
+.about-hero-inner {
+  padding-block: 57px;
+}
+.about-hero-panel {
+  width: 510px;
+  max-width: 100%;
+  padding: 20px 19px 21px;
+  background: #2c2c2cee;
+  color: #fff;
+}
+.about-hero-panel h1 {
+  font-size: 31px;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+.about-hero-panel h2 {
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.7;
+  margin-bottom: 11px;
+}
+.home-page .about-hero-panel p {
+  font-size: 13px;
+  color: #eee;
+  line-height: 1.85;
+}
+.about-hero-geometry {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+.about-hero-geometry:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 128px;
+  width: 280px;
+  height: 270px;
+  background: #cc0033;
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+}
+.about-hero-geometry:after {
+  content: "";
+  position: absolute;
+  right: -50px;
+  top: 0;
+  height: 100%;
+  width: 328px;
+  background: #cc0033;
+  clip-path: polygon(75% 0, 100% 0, 100% 100%, 0 100%);
+}
+.about-reference-profile {
+  display: grid;
+  grid-template-columns: 0.88fr 1fr;
+  gap: 105px;
+  padding-block: 54px 67px;
+  align-items: start;
+}
+.about-company-photo {
+  margin: 0 0 28px;
+}
+.about-company-photo img {
+  height: 275px;
+}
+.about-company-photo figcaption {
+  font-size: 9px;
+  line-height: 1.8;
+  color: #747474;
+  padding-top: 7px;
+}
+.about-company-column > h2,
+.about-purpose-column > h2 {
+  font-size: 24px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-bottom: 17px;
+}
+.home-page .about-company-column > p {
+  font-size: 13px;
+  line-height: 1.9;
+}
+.about-principles {
+  margin-block: 27px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.about-principles > div {
+  display: flex;
+  align-items: flex-start;
+  gap: 17px;
+}
+.about-principles > div > svg {
+  width: 25px;
+  height: 25px;
+  color: #cc0033;
+  margin-top: 4px;
+}
+.about-principles h3 {
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.6;
+  margin-bottom: 4px;
+}
+.home-page .about-principles p {
+  font-size: 11px;
+  line-height: 1.85;
+}
+.about-company-column > .home-button {
+  font-size: 12px;
+}
+.about-reference-kicker {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 9px;
+  border-bottom: 1px solid #ccc;
+  padding-block: 2px 8px;
+  margin-bottom: 14px;
+  font-size: 11px;
+  line-height: 1.7;
+}
+.about-reference-kicker > span {
+  text-transform: uppercase;
+}
+.about-reference-kicker > svg {
+  width: 13px;
+  height: 13px;
+}
+.about-reference-kicker > a {
+  color: #cc0033;
+}
+.about-reference-kicker > a:hover {
+  text-decoration: underline;
+}
+.about-purpose-block {
+  margin-top: 24px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #e6e6e6;
+}
+.about-purpose-block > span {
+  color: #cc0033;
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+}
+.about-purpose-block h3 {
+  font-size: 17px;
+  line-height: 1.7;
+  font-weight: 500;
+  margin-block: 10px 13px;
+}
+.home-page .about-purpose-block p {
+  font-size: 13px;
+  line-height: 1.95;
+}
+.about-inline-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: #cc0033;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.7;
+}
+.about-inline-link svg {
+  width: 15px;
+  height: 15px;
+}
+.about-inline-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.about-purpose-column > .about-inline-link {
+  margin-top: 24px;
+}
+.about-capabilities {
+  padding-block: 0 50px;
+}
+.about-capabilities > h2 {
+  font-size: 25px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.home-page .about-capabilities-lead {
+  font-size: 12px;
+  line-height: 1.9;
+  margin-top: 13px;
+  max-width: 900px;
+}
+.about-capability-network {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: repeat(3, 1fr);
+  gap: 36px 108px;
+  min-height: 455px;
+  margin-top: 40px;
+  padding-block: 25px;
+  isolation: isolate;
+}
+.about-network-lines {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+.about-network-node {
+  grid-column: var(--network-column);
+  grid-row: var(--network-row);
+  background: #fff;
+  border: 1px solid #dedede;
+  display: grid;
+  grid-template-columns: 32px 1fr;
+  gap: 10px 14px;
+  align-content: center;
+  padding: 20px;
+  transition:
+    border-color 0.2s,
+    background 0.2s;
+}
+.about-network-node > svg {
+  width: 29px;
+  height: 29px;
+  color: #cc0033;
+  grid-row: span 2;
+  align-self: center;
+}
+.about-network-node h3 {
+  font-size: 13px;
+  line-height: 1.6;
+  font-weight: 500;
+}
+.about-network-node > span {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 9px;
+  color: #666;
+}
+.about-network-node > span > svg {
+  width: 12px;
+  height: 12px;
+  color: #cc0033;
+}
+.about-network-node:hover {
+  border-color: #cc0033;
+  background: #fff7f9;
+}
+.about-network-hub {
+  grid-column: 2;
+  grid-row: 1 / span 3;
+  align-self: center;
+  justify-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #cc0033;
+  background: #fff;
+  min-height: 175px;
+  padding: 25px 14px;
+  box-shadow:
+    0 0 0 9px #fff,
+    0 0 0 10px #eee;
+}
+.about-network-hub .brand-name {
+  font-size: 31px;
+}
+.about-network-hub .brand-tagline {
+  color: #666;
+  font-size: 8px;
+}
+.home-page .about-network-hub > p {
+  font-size: 9px;
+  color: #555;
+  margin-top: 20px;
+  letter-spacing: 0.2px;
+}
+.home-page .about-network-caption {
+  font-size: 9px;
+  color: #767676;
+  text-align: center;
+  margin-top: 12px;
+}
+.about-capability-directory {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 55px 105px;
+  margin-top: 48px;
+}
+.about-capability-directory section > h3 {
+  font-size: 17px;
+  color: #cc0033;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+.about-capability-directory details {
+  padding-block: 10px;
+  border-bottom: 1px solid #ececec;
+}
+.about-capability-directory summary {
+  position: relative;
+  padding-left: 24px;
+  cursor: pointer;
+  list-style: none;
+  font-size: 13px;
+  line-height: 1.7;
+  font-weight: 500;
+}
+.about-capability-directory summary::-webkit-details-marker {
+  display: none;
+}
+.about-capability-directory summary:before {
+  content: "";
+  position: absolute;
+  left: 5px;
+  top: 9px;
+  width: 0;
+  height: 0;
+  border-top: 6px solid #cc0033;
+  border-inline: 6px solid transparent;
+  transition: transform 0.2s;
+}
+.about-capability-directory details[open] summary:before {
+  transform: rotate(180deg);
+}
+.home-page .about-capability-directory details > p {
+  font-size: 12px;
+  line-height: 1.9;
+  margin: 13px 0 12px 24px;
+}
+.about-capability-directory .about-inline-link {
+  font-size: 10px;
+  margin-left: 24px;
+  padding-bottom: 3px;
+}
+.about-contact-strip {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 25px;
+  padding-block: 30px 0;
+  border-top: 1px solid #ddd;
+  margin-top: 65px;
+}
+.about-contact-strip h2 {
+  font-size: 22px;
+  line-height: 1.5;
+  font-weight: 500;
+}
+.home-page .about-contact-strip p {
+  font-size: 11px;
+  margin-top: 8px;
+}
+.about-contact-strip .home-button {
+  gap: 20px;
+  font-size: 12px;
+  flex-shrink: 0;
+}
+.about-contact-strip .home-button svg {
+  width: 15px;
+  height: 15px;
+}
+.home-page .nav-link[aria-current="page"] {
+  color: #ff567f;
+}
+.about-reference-page .home-footer {
+  padding-top: 50px;
+}
+@media (max-width: 1200px) {
+  .about-reference-profile {
+    gap: 70px;
+  }
+  .about-hero-geometry:before {
+    right: 60px;
+    width: 240px;
+    height: 250px;
+  }
+  .about-hero-geometry:after {
+    right: -70px;
+    width: 260px;
+  }
+  .about-capability-network {
+    gap: 30px 65px;
+  }
+  .about-network-node {
+    padding: 18px 16px;
+    grid-template-columns: 27px 1fr;
+    gap: 9px 11px;
+  }
+  .about-network-node > svg {
+    width: 25px;
+    height: 25px;
+  }
+  .about-network-node h3 {
+    font-size: 12px;
+  }
+  .about-network-hub .brand-name {
+    font-size: 28px;
+  }
+  .about-capability-directory {
+    column-gap: 70px;
+  }
+}
+@media (max-width: 1000px) {
+  .about-hero-inner {
+    padding-block: 48px;
+  }
+  .about-hero-panel {
+    width: 470px;
+  }
+  .about-hero-geometry:before {
+    right: 15px;
+    width: 230px;
+  }
+  .about-hero-geometry:after {
+    right: -100px;
+  }
+  .about-reference-profile {
+    gap: 40px;
+  }
+  .about-company-photo img {
+    height: 230px;
+  }
+  .about-company-column > h2,
+  .about-purpose-column > h2 {
+    font-size: 21px;
+  }
+  .about-reference-kicker {
+    font-size: 9px;
+    gap: 7px;
+  }
+  .about-purpose-block h3 {
+    font-size: 15px;
+  }
+  .home-page .about-purpose-block p {
+    font-size: 12px;
+  }
+  .about-capability-network {
+    gap: 30px 30px;
+  }
+  .about-network-node {
+    padding: 17px 13px;
+    grid-template-columns: 1fr;
+    gap: 9px;
+  }
+  .about-network-node > svg {
+    grid-row: auto;
+  }
+  .about-network-node h3 {
+    font-size: 11px;
+  }
+  .about-network-hub {
+    padding-inline: 8px;
+  }
+  .about-network-hub .brand-name {
+    font-size: 25px;
+  }
+  .about-network-hub .brand-tagline {
+    font-size: 7px;
+  }
+  .home-page .about-network-hub > p {
+    font-size: 8px;
+  }
+  .about-capability-directory {
+    gap: 40px;
+  }
+  .about-capability-directory section > h3 {
+    font-size: 16px;
+  }
+  .about-capability-directory summary {
+    font-size: 12px;
+  }
+}
+@media (max-width: 760px) {
+  .about-reference-hero {
+    min-height: 420px;
+  }
+  .about-hero-photo {
+    object-position: 61% center;
+  }
+  .about-hero-inner {
+    padding-block: 38px;
+  }
+  .about-hero-panel {
+    position: relative;
+    width: 100%;
+    padding: 22px;
+    background: #292929ed;
+  }
+  .about-hero-panel h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  .about-hero-panel h2 {
+    font-size: 16px;
+    line-height: 1.7;
+  }
+  .home-page .about-hero-panel p {
+    font-size: 12px;
+    line-height: 1.95;
+  }
+  .about-hero-geometry:before {
+    width: 160px;
+    height: 155px;
+    right: -35px;
+    opacity: 0.9;
+  }
+  .about-hero-geometry:after {
+    width: 200px;
+    right: -70px;
+  }
+  .about-reference-profile {
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding-block: 35px 44px;
+  }
+  .about-company-photo {
+    margin-bottom: 23px;
+  }
+  .about-company-photo img {
+    height: auto;
+    aspect-ratio: 980/653;
+  }
+  .about-company-column > h2,
+  .about-purpose-column > h2 {
+    font-size: 23px;
+    margin-bottom: 15px;
+  }
+  .home-page .about-company-column > p {
+    font-size: 12px;
+    line-height: 1.95;
+  }
+  .about-principles {
+    gap: 22px;
+    margin-block: 24px;
+  }
+  .about-principles h3 {
+    font-size: 13px;
+  }
+  .home-page .about-principles p {
+    font-size: 11px;
+  }
+  .about-company-column > .home-button {
+    font-size: 12px;
+    padding: 12px 16px;
+  }
+  .about-reference-kicker {
+    font-size: 9px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  .about-purpose-block {
+    margin-top: 23px;
+    padding-bottom: 24px;
+  }
+  .about-purpose-block h3 {
+    font-size: 17px;
+    line-height: 1.65;
+  }
+  .home-page .about-purpose-block p {
+    font-size: 12px;
+    line-height: 1.95;
+  }
+  .about-purpose-column > .about-inline-link {
+    font-size: 11px;
+  }
+  .about-capabilities {
+    padding-block: 0 40px;
+  }
+  .about-capabilities > h2 {
+    font-size: 22px;
+    line-height: 1.6;
+  }
+  .home-page .about-capabilities-lead {
+    font-size: 11px;
+  }
+  .about-capability-network {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 18px;
+    padding-block: 0;
+    min-height: 0;
+    margin-top: 33px;
+  }
+  .about-network-lines {
+    display: none;
+  }
+  .about-network-hub {
+    grid-column: 1/-1;
+    grid-row: 1;
+    min-height: 125px;
+    justify-self: center;
+    width: min(240px, 100%);
+    margin-bottom: 15px;
+  }
+  .about-network-hub .brand-name {
+    font-size: 30px;
+  }
+  .about-network-hub .brand-tagline {
+    font-size: 8px;
+  }
+  .home-page .about-network-hub > p {
+    font-size: 9px;
+    margin-top: 15px;
+  }
+  .about-network-node {
+    grid-column: auto;
+    grid-row: auto;
+    min-height: 140px;
+    padding: 20px 15px;
+  }
+  .about-network-node h3 {
+    font-size: 11px;
+  }
+  .about-network-node > svg {
+    width: 26px;
+    height: 26px;
+  }
+  .about-network-node > span {
+    font-size: 8px;
+  }
+  .home-page .about-network-caption {
+    font-size: 8px;
+    text-align: left;
+    margin-top: 18px;
+  }
+  .about-capability-directory {
+    grid-template-columns: 1fr;
+    gap: 31px;
+    margin-top: 36px;
+  }
+  .about-capability-directory section > h3 {
+    font-size: 17px;
+    margin-bottom: 13px;
+  }
+  .about-capability-directory summary {
+    font-size: 12px;
+    padding-left: 23px;
+  }
+  .home-page .about-capability-directory details > p {
+    font-size: 11px;
+  }
+  .about-contact-strip {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 42px;
+    gap: 20px;
+    padding-top: 25px;
+  }
+  .about-contact-strip h2 {
+    font-size: 22px;
+  }
+  .home-page .about-contact-strip p {
+    font-size: 11px;
+  }
+  .about-contact-strip .home-button {
+    width: 100%;
+    justify-content: space-between;
+    padding: 13px 17px;
+  }
+  .about-reference-page .home-footer {
+    padding-top: 36px;
+  }
+}
+@media (max-width: 360px) {
+  .about-hero-panel {
+    padding: 20px 17px;
+  }
+  .about-hero-panel h1 {
+    font-size: 25px;
+  }
+  .about-hero-panel h2 {
+    font-size: 15px;
+  }
+  .about-reference-hero {
+    min-height: 425px;
+  }
+  .about-reference-kicker {
+    font-size: 8px;
+    gap: 6px;
+  }
+  .about-capability-network {
+    gap: 14px;
+  }
+  .about-network-node {
+    padding: 18px 11px;
+  }
+  .about-network-node h3 {
+    font-size: 10px;
+  }
+  .about-network-node > span {
+    font-size: 7px;
+  }
+  .about-contact-strip h2 {
+    font-size: 20px;
+  }
+}

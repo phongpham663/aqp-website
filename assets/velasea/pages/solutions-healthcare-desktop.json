@@ -1,0 +1,1556 @@
+{
+  "capturedAt": "2026-11-07T14:13:10.130Z",
+  "device": "desktop",
+  "status": 200,
+  "url": "https://velasea.com/solutions/healthcare/",
+  "title": "Healthcare – Velasea",
+  "description": "",
+  "generator": "Divi v.4.27.9",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "dimensions": {
+    "width": 1440,
+    "height": 3835
+  },
+  "headings": [
+    {
+      "text": "INDUSTRY-SPECIFIC EXCELLENCE",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "22.4px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "SOLUTIONS FOR HEALTHCARE",
+      "tag": "H1",
+      "fontFamily": "\"Josefin Sans\", Helvetica, Arial, Lucida, sans-serif",
+      "fontSize": "32px",
+      "fontWeight": "400",
+      "lineHeight": "36.8px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "EMPOWERING TECHNOLOGY THAT SUPPORTS CLINICAL CONTINUITY",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", Helvetica, Arial, Lucida, sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "KEY FOCUS AREAS + WORKLOADS",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", Helvetica, Arial, Lucida, sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "CLINICAL-GRADE COMPUTE PERFORMANCE",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "22.4px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "ADVANCED FACILITY PROTECTION",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "22.4px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "HIGH-AVAILABILITY INFRASTRUCTURE",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "22.4px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "SCALABLE FOR EXPANDING NETWORKS",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "22.4px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "POPULAR HEALTHCARE-READY SOLUTIONS",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", Helvetica, Arial, Lucida, sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK COMPACT FORM FACTOR GPU-READY WORKSTATION",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK 2U RACKMOUNT 12-BAY PREMIUM NVR",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK AMD RUGGED PC",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK PROFESSIONAL 1U RACKMOUNT 4-BAY NETWORK VIDEO RECORDING SERVER",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK 1U PLUS ULTRA DUAL-GPU SHORT DEPTH SYSTEM",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK 1U RACKMOUNT 4-BAY VALUE NVR",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK IVO35R RACKMOUNT 4-BAY ENTERPRISE NVR",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK 1U MAX AI-READY FULL DEPTH SYSTEM",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK 2U RACKMOUNT 15-BAY ENTERPRISE NETWORK VIDEO RECORDING SERVER",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "IRON LINK 1U RACKMOUNT 8-BAY STANDARD MANAGEMENT SERVER",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "SUCCESS STORIES IN HEALTHCARE",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", Helvetica, Arial, Lucida, sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "28.8px",
+      "color": "rgb(68, 68, 68)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "LET’S DISCUSS YOUR PROJECT",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "Together, we can bring even the most unconventional ideas to life.",
+      "tag": "H3",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "19.2px",
+      "fontWeight": "600",
+      "lineHeight": "28.8px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "1 (833) 599-4614",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "1 (833) 551-1068",
+      "tag": "H4",
+      "fontFamily": "Overpass, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "EXPLORE",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "CONNECT",
+      "tag": "H2",
+      "fontFamily": "\"Josefin Sans\", sans-serif",
+      "fontSize": "24px",
+      "fontWeight": "400",
+      "lineHeight": "36px",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "bodyStyle": {
+    "text": "Company\nSolutions\nServices\nProducts\nSupport\nSales\nINDUSTRY-SPECIFIC EXCELLENCE\nSOLUTIONS FOR HEALTHCARE\n\nDiscover how Velasea enables healthcare organizations to support continuous",
+    "tag": "BODY",
+    "fontFamily": "Overpass, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "27.2px",
+    "color": "rgb(68, 68, 68)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  "topColors": [
+    [
+      "rgb(68, 68, 68)",
+      207
+    ],
+    [
+      "rgb(255, 255, 255)",
+      83
+    ],
+    [
+      "rgb(204, 0, 51)",
+      48
+    ],
+    [
+      "rgb(204, 204, 204)",
+      46
+    ],
+    [
+      "rgb(0, 0, 0)",
+      5
+    ],
+    [
+      "rgb(42, 42, 42)",
+      2
+    ],
+    [
+      "rgba(40, 40, 40, 0.85)",
+      1
+    ],
+    [
+      "rgba(255, 255, 255, 0)",
+      1
+    ],
+    [
+      "rgb(18, 18, 18)",
+      1
+    ],
+    [
+      "rgb(102, 102, 102)",
+      1
+    ]
+  ],
+  "links": [
+    {
+      "text": "About",
+      "url": "https://velasea.com/about"
+    },
+    {
+      "text": "News",
+      "url": "https://velasea.com/news"
+    },
+    {
+      "text": "Events",
+      "url": "https://velasea.com/events"
+    },
+    {
+      "text": "Insights",
+      "url": "https://velasea.com/blog"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://velasea.com/contact"
+    },
+    {
+      "text": "Partners",
+      "url": "https://velasea.com/partners"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://velasea.com/leadership"
+    },
+    {
+      "text": "Careers",
+      "url": "https://velasea.com/careers"
+    },
+    {
+      "text": "Aviation",
+      "url": "https://velasea.com/solutions/aviation"
+    },
+    {
+      "text": "Banking + Finance",
+      "url": "https://velasea.com/solutions/finance"
+    },
+    {
+      "text": "Casinos + Gaming",
+      "url": "https://velasea.com/solutions/casinos"
+    },
+    {
+      "text": "Data Centers",
+      "url": "https://velasea.com/solutions/data-centers"
+    },
+    {
+      "text": "Education + Research",
+      "url": "https://velasea.com/solutions/education"
+    },
+    {
+      "text": "Government",
+      "url": "https://velasea.com/solutions/government"
+    },
+    {
+      "text": "Healthcare",
+      "url": "https://velasea.com/solutions/healthcare"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://velasea.com/solutions/hospitality"
+    },
+    {
+      "text": "Industrial + Mfg",
+      "url": "https://velasea.com/solutions/industrial"
+    },
+    {
+      "text": "Infrastructure",
+      "url": "https://velasea.com/solutions/infrastructure"
+    },
+    {
+      "text": "Maritime + Logistics",
+      "url": "https://velasea.com/solutions/maritime"
+    },
+    {
+      "text": "Mining + Resources",
+      "url": "https://velasea.com/solutions/mining"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://velasea.com/solutions/real-estate"
+    },
+    {
+      "text": "Retail + Mixed-Use",
+      "url": "https://velasea.com/solutions/retail"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://velasea.com/solutions/transportation"
+    },
+    {
+      "text": "Utilities + Energy",
+      "url": "https://velasea.com/solutions/utilities"
+    },
+    {
+      "text": "OEM Program",
+      "url": "https://velasea.com/oem"
+    },
+    {
+      "text": "Case Studies",
+      "url": "https://velasea.com/case-studies"
+    },
+    {
+      "text": "Pro Services",
+      "url": "https://velasea.com/professional-services"
+    },
+    {
+      "text": "Iron Link Brand",
+      "url": "https://velasea.com/ironlink"
+    },
+    {
+      "text": "Rental Program",
+      "url": "https://velasea.com/rentals"
+    },
+    {
+      "text": "Canopy RMM",
+      "url": "https://velasea.com/remote-management"
+    },
+    {
+      "text": "Servers",
+      "url": "https://velasea.com/products/servers"
+    },
+    {
+      "text": "NVRs",
+      "url": "https://velasea.com/products/nvrs"
+    },
+    {
+      "text": "Platform Certified",
+      "url": "https://velasea.com/platform-certified"
+    },
+    {
+      "text": "Screening",
+      "url": "https://velasea.com/products/screening"
+    },
+    {
+      "text": "Professional Series",
+      "url": "https://velasea.com/collection/professional-series"
+    },
+    {
+      "text": "Workstations",
+      "url": "https://velasea.com/products/workstations"
+    },
+    {
+      "text": "Networking",
+      "url": "https://velasea.com/products/networking"
+    },
+    {
+      "text": "Storage",
+      "url": "https://velasea.com/products/storage"
+    },
+    {
+      "text": "Edge Industrial",
+      "url": "https://ipc.velasea.com/"
+    },
+    {
+      "text": "Media Players",
+      "url": "https://velasea.com/collection/media-players"
+    },
+    {
+      "text": "Video Wall Controllers",
+      "url": "https://velasea.com/collection/video-wall-controllers"
+    },
+    {
+      "text": "AI Analytics",
+      "url": "https://velasea.com/video-analytics"
+    },
+    {
+      "text": "Support",
+      "url": "https://velasea.com/support"
+    },
+    {
+      "text": "Returns",
+      "url": "https://velasea.com/returns"
+    },
+    {
+      "text": "Warranties",
+      "url": "https://velasea.com/warranty"
+    },
+    {
+      "text": "Transfer Support",
+      "url": "https://velasea.com/transfer-support"
+    },
+    {
+      "text": "How to Buy",
+      "url": "https://velasea.com/how-to-buy"
+    },
+    {
+      "text": "Get Price List",
+      "url": "https://velasea.com/price-request"
+    },
+    {
+      "text": "LATAM",
+      "url": "https://velasea.com/latam"
+    },
+    {
+      "text": "NVR Quote Tool",
+      "url": "https://velasea.com/nvr-quote"
+    },
+    {
+      "text": "Quote Request",
+      "url": "https://velasea.com/quote-request"
+    },
+    {
+      "text": "RAID Calculator",
+      "url": "https://velasea.com/raid-calculator"
+    },
+    {
+      "text": "Customer Login",
+      "url": "https://custportal.velasea.com/"
+    },
+    {
+      "text": "",
+      "url": "https://velasea.com/"
+    },
+    {
+      "text": "About",
+      "url": "https://velasea.com/about/"
+    },
+    {
+      "text": "Sales",
+      "url": "https://velasea.com/solutions/healthcare/#"
+    },
+    {
+      "text": "News",
+      "url": "https://velasea.com/news/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://velasea.com/blog/"
+    },
+    {
+      "text": "Partners",
+      "url": "https://velasea.com/partners/"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://velasea.com/leadership/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://velasea.com/careers/"
+    },
+    {
+      "text": "Solutions",
+      "url": "https://velasea.com/solutions/"
+    },
+    {
+      "text": "Solutions",
+      "url": "https://velasea.com/solutions"
+    },
+    {
+      "text": "Aviation",
+      "url": "https://velasea.com/solutions/aviation/"
+    },
+    {
+      "text": "Banking + Finance",
+      "url": "https://velasea.com/solutions/finance/"
+    },
+    {
+      "text": "Casinos + Gaming",
+      "url": "https://velasea.com/solutions/casinos/"
+    },
+    {
+      "text": "Commercial Real Estate",
+      "url": "https://velasea.com/solutions/real-estate/"
+    },
+    {
+      "text": "Critical Infrastructure",
+      "url": "https://velasea.com/solutions/infrastructure/"
+    },
+    {
+      "text": "Data Centers",
+      "url": "https://velasea.com/solutions/data-centers/"
+    },
+    {
+      "text": "Education + Research",
+      "url": "https://velasea.com/solutions/education/"
+    },
+    {
+      "text": "Government",
+      "url": "https://velasea.com/solutions/government/"
+    },
+    {
+      "text": "Healthcare",
+      "url": "https://velasea.com/solutions/healthcare/"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://velasea.com/solutions/hospitality/"
+    },
+    {
+      "text": "Industrial + Manufacturing",
+      "url": "https://velasea.com/solutions/industrial/"
+    },
+    {
+      "text": "Maritime + Logistics",
+      "url": "https://velasea.com/solutions/maritime/"
+    },
+    {
+      "text": "Mining + Resources",
+      "url": "https://velasea.com/solutions/mining/"
+    },
+    {
+      "text": "Retail + Mixed-Use",
+      "url": "https://velasea.com/solutions/retail/"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://velasea.com/solutions/transportation/"
+    },
+    {
+      "text": "Utilities + Energy",
+      "url": "https://velasea.com/solutions/utilities/"
+    },
+    {
+      "text": "OEM Program",
+      "url": "https://velasea.com/oem/"
+    },
+    {
+      "text": "Iron Link Brand",
+      "url": "https://velasea.com/ironlink/"
+    },
+    {
+      "text": "Professional Services",
+      "url": "https://velasea.com/professional-services/"
+    },
+    {
+      "text": "Success Stories",
+      "url": "https://velasea.com/case-studies/"
+    },
+    {
+      "text": "Canopy RMM",
+      "url": "https://velasea.com/remote-management/"
+    },
+    {
+      "text": "Rental Program",
+      "url": "https://velasea.com/rentals/"
+    },
+    {
+      "text": "NVRs",
+      "url": "https://velasea.com/products/nvrs/"
+    },
+    {
+      "text": "Servers",
+      "url": "https://velasea.com/products/servers/"
+    },
+    {
+      "text": "Storage",
+      "url": "https://velasea.com/products/storage/"
+    },
+    {
+      "text": "Networking",
+      "url": "https://velasea.com/products/networking/"
+    },
+    {
+      "text": "Workstations",
+      "url": "https://velasea.com/products/workstations/"
+    },
+    {
+      "text": "Screening",
+      "url": "https://velasea.com/products/screening/"
+    },
+    {
+      "text": "Media Players",
+      "url": "https://velasea.com/collection/media-players/"
+    },
+    {
+      "text": "Video Wall Controllers",
+      "url": "https://velasea.com/collection/video-wall-controllers/"
+    },
+    {
+      "text": "Professional Series",
+      "url": "https://velasea.com/collection/professional-series/"
+    },
+    {
+      "text": "Platform-Certified Systems",
+      "url": "https://velasea.com/platform-certified/"
+    },
+    {
+      "text": "Tech Support",
+      "url": "https://velasea.com/support/"
+    },
+    {
+      "text": "Warranties",
+      "url": "https://velasea.com/warranty/"
+    },
+    {
+      "text": "Returns",
+      "url": "https://velasea.com/returns/"
+    },
+    {
+      "text": "Transfer Support",
+      "url": "https://velasea.com/transfer-support/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://velasea.com/contact/"
+    },
+    {
+      "text": "NVR Quote Tool",
+      "url": "https://velasea.com/nvr-quote/"
+    },
+    {
+      "text": "Get a Quote",
+      "url": "https://velasea.com/quote-request/"
+    },
+    {
+      "text": "Get Price List",
+      "url": "https://velasea.com/price-request/"
+    },
+    {
+      "text": "How to Buy",
+      "url": "https://velasea.com/how-to-buy/"
+    },
+    {
+      "text": "Try-and-Buy Program",
+      "url": "https://velasea.com/try-and-buy-program/"
+    },
+    {
+      "text": "Hojas Técnicas LATAM",
+      "url": "https://velasea.com/latam/"
+    },
+    {
+      "text": "RAID Calculator Tool",
+      "url": "https://velasea.com/raid-calculator/"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://velasea.com/solutions/healthcare/#use-cases"
+    },
+    {
+      "text": "IRON LINK COMPACT FORM FACTOR GPU-READY WORKSTATION",
+      "url": "https://velasea.com/product/ironlink-compact-form-factor-workstation/"
+    },
+    {
+      "text": "IRON LINK 2U RACKMOUNT 12-BAY PREMIUM NVR",
+      "url": "https://velasea.com/product/ironlink-2u-rackmount-12-bay-premium-nvr/"
+    },
+    {
+      "text": "IRON LINK AMD RUGGED PC",
+      "url": "https://velasea.com/product/ironlink-amd-rugged-pc/"
+    },
+    {
+      "text": "IRON LINK PROFESSIONAL 1U RACKMOUNT 4-BAY NETWORK VIDEO RECORDING SERVER",
+      "url": "https://velasea.com/product/iron-link-professional-1u-rackmount-4-bay-network-video-recording-server/"
+    },
+    {
+      "text": "IRON LINK 1U PLUS ULTRA DUAL-GPU SHORT DEPTH SYSTEM",
+      "url": "https://velasea.com/product/iron-link-1u-plus-ultra-system/"
+    },
+    {
+      "text": "IRON LINK 1U RACKMOUNT 4-BAY VALUE NVR",
+      "url": "https://velasea.com/product/ironlink-1u-rackmount-4-bay-value-nvr/"
+    },
+    {
+      "text": "IRON LINK IVO35R RACKMOUNT 4-BAY ENTERPRISE NVR",
+      "url": "https://velasea.com/product/ironlink-ivo35r-rackmount-nvr/"
+    },
+    {
+      "text": "IRON LINK 1U MAX AI-READY FULL DEPTH SYSTEM",
+      "url": "https://velasea.com/product/ironlink-1u-max/"
+    },
+    {
+      "text": "IRON LINK 2U RACKMOUNT 15-BAY ENTERPRISE NETWORK VIDEO RECORDING SERVER",
+      "url": "https://velasea.com/product/ironlink-2u-rackmount-15-bay-enterprise-network-video-recording-server/"
+    },
+    {
+      "text": "IRON LINK 1U RACKMOUNT 8-BAY STANDARD MANAGEMENT SERVER",
+      "url": "https://velasea.com/product/ironlink-1u-rackmount-8-bay-standard-management-server/"
+    },
+    {
+      "text": "1 (833) 599-4614",
+      "url": "tel:18335994614"
+    },
+    {
+      "text": "1 (833) 551-1068",
+      "url": "tel:18335511068"
+    },
+    {
+      "text": "sales@velasea.com",
+      "url": "mailto:sales@velasea.com"
+    },
+    {
+      "text": "Henderson, NV 89074",
+      "url": "https://maps.app.goo.gl/pZPKepWuGzqL8bneA"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/velasea"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/velaseasystems"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/velaseasystems"
+    },
+    {
+      "text": "",
+      "url": "https://www.x.com/velaseasystems"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@velasea"
+    },
+    {
+      "text": "Terms",
+      "url": "https://velasea.com/terms"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://velasea.com/privacy"
+    },
+    {
+      "text": "Cookies",
+      "url": "https://velasea.com/cookies"
+    }
+  ],
+  "imageElements": [
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/10/why-vel_mega.jpg?ver=1760459397",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-scaled.jpeg",
+      "alt": "",
+      "naturalWidth": 1920,
+      "naturalHeight": 2560,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/services_mega.jpg",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/products_mega.jpg",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/products-servers-bw-sized.jpg",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/08/connect_mega.jpg",
+      "alt": "",
+      "naturalWidth": 648,
+      "naturalHeight": 182,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/Velasea-Logotype_Light_RGB.svg",
+      "alt": "Velasea Logo",
+      "naturalWidth": 300,
+      "naturalHeight": 66,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/medical-imaging-workstation.jpeg",
+      "alt": "",
+      "naturalWidth": 2560,
+      "naturalHeight": 1707,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/doctor-tablet-scaled.jpeg",
+      "alt": "",
+      "naturalWidth": 2560,
+      "naturalHeight": 1708,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/08/VMS.svg",
+      "alt": "",
+      "naturalWidth": 48,
+      "naturalHeight": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/01/handheld-scanning.svg",
+      "alt": "",
+      "naturalWidth": 48,
+      "naturalHeight": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/01/engineering.svg",
+      "alt": "",
+      "naturalWidth": 48,
+      "naturalHeight": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/02/upgrade.svg",
+      "alt": "",
+      "naturalWidth": 48,
+      "naturalHeight": 48,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/08/il-cffd_iso_1-300x300.jpg?ver=1755292552",
+      "alt": "IRON LINK Compact Form Factor GPU-Ready Workstation",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r212_iso_1-300x300.jpg?ver=1757114360",
+      "alt": "IRON LINK 2U Rackmount 12-Bay Premium NVR",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/amd_front-300x300.png",
+      "alt": "IRON LINK AMD Rugged PC",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/03/il-r104p-iso_1-300x300.jpg",
+      "alt": "IRON LINK Professional 1U Rackmount 4-Bay Network Video Recording Server",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/02/IL-1U-PLUS_ISO_1-300x300.jpg",
+      "alt": "IRON LINK 1U PLUS ULTRA Dual-GPU Short Depth System",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r104_iso_1-300x300.jpg?ver=1757114537",
+      "alt": "IRON LINK 1U Rackmount 4-Bay Value NVR",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r104v_iso_1-300x300.jpg?ver=1757114567",
+      "alt": "IRON LINK IVO35R Rackmount 4-Bay Enterprise NVR",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/02/IL-1U-MAX_ISO_1-300x300.png",
+      "alt": "IRON LINK 1U MAX AI-Ready Full Depth System",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r212_iso_1-300x300.jpg?ver=1757114360",
+      "alt": "IRON LINK 2U Rackmount 15-Bay Enterprise Network Video Recording Server",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r108_iso_1-300x300.jpg?ver=1757114397",
+      "alt": "IRON LINK 1U Rackmount 8-Bay Standard Management Server",
+      "naturalWidth": 300,
+      "naturalHeight": 300,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/608bd6b67f3b37bb19f0f05f_Project.jpg",
+      "alt": "",
+      "naturalWidth": 1440,
+      "naturalHeight": 1200,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/Velasea-Logotype_Light_RGB.svg",
+      "alt": "Velasea Logo",
+      "naturalWidth": 300,
+      "naturalHeight": 66,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/call_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/sos_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/mail_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/near_me_FILL1_wght400_GRAD0_opsz24.svg",
+      "alt": "",
+      "naturalWidth": 150,
+      "naturalHeight": 150,
+      "loaded": true
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/10/why-vel_mega.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/10/why-vel_mega-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-scaled.jpeg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-1280x1707.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-980x1307.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/industries-mega-menu-480x640.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/services_mega.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/services_mega-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/products_mega.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/05/products_mega-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/products-servers-bw-sized.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/products-servers-bw-sized-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/08/connect_mega.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/08/connect_mega-480x135.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/Velasea-Logotype_Light_RGB.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "Velasea Logo"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/medical-imaging-workstation.jpeg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/medical-imaging-workstation-1280x854.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/medical-imaging-workstation-980x653.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/medical-imaging-workstation-480x320.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/doctor-tablet-scaled.jpeg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/doctor-tablet-1280x854.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/doctor-tablet-980x654.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/doctor-tablet-480x320.jpeg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/08/VMS.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/01/handheld-scanning.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/01/engineering.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/02/upgrade.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/08/il-cffd_iso_1-300x300.jpg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK Compact Form Factor GPU-Ready Workstation"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r212_iso_1-300x300.jpg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK 2U Rackmount 12-Bay Premium NVR"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/06/amd_front-300x300.png",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK AMD Rugged PC"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/03/il-r104p-iso_1-300x300.jpg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK Professional 1U Rackmount 4-Bay Network Video Recording Server"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/02/IL-1U-PLUS_ISO_1-300x300.jpg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK 1U PLUS ULTRA Dual-GPU Short Depth System"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r104_iso_1-300x300.jpg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK 1U Rackmount 4-Bay Value NVR"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r104v_iso_1-300x300.jpg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK IVO35R Rackmount 4-Bay Enterprise NVR"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/02/IL-1U-MAX_ISO_1-300x300.png",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK 1U MAX AI-Ready Full Depth System"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r108_iso_1-300x300.jpg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": "IRON LINK 1U Rackmount 8-Bay Standard Management Server"
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/608bd6b67f3b37bb19f0f05f_Project.jpg",
+      "kinds": [
+        "image",
+        "rendered-image",
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/608bd6b67f3b37bb19f0f05f_Project-1280x1067.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/608bd6b67f3b37bb19f0f05f_Project-980x817.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/608bd6b67f3b37bb19f0f05f_Project-480x400.jpg",
+      "kinds": [
+        "responsive-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/call_FILL1_wght400_GRAD0_opsz24.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/sos_FILL1_wght400_GRAD0_opsz24.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/mail_FILL1_wght400_GRAD0_opsz24.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/03/near_me_FILL1_wght400_GRAD0_opsz24.svg",
+      "kinds": [
+        "image",
+        "rendered-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2026/02/hospital-hallway-scaled.jpeg",
+      "kinds": [
+        "background"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/09/cropped-velasea_profile-circle_transparent-1-32x32.png",
+      "kinds": [
+        "favicon"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/09/cropped-velasea_profile-circle_transparent-1-192x192.png",
+      "kinds": [
+        "favicon"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2024/09/cropped-velasea_profile-circle_transparent-1-180x180.png",
+      "kinds": [
+        "favicon"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/10/why-vel_mega.jpg?ver=1760459397",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/08/il-cffd_iso_1-300x300.jpg?ver=1755292552",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r104_iso_1-300x300.jpg?ver=1757114537",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r104v_iso_1-300x300.jpg?ver=1757114567",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r108_iso_1-300x300.jpg?ver=1757114397",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://velasea.com/wp-content/uploads/2025/09/il-r212_iso_1-300x300.jpg?ver=1757114360",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://www.google.com.vn/pagead/1p-user-list/16860226941/?random=1794060788236&cv=11&fst=1794060000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41v9210975937za20ozb9206335159zd9206335159xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123814183~124013661&u_w=1440&u_h=1000&url=https%3A%2F%2Fvelasea.com%2Fsolutions%2Fhealthcare%2F&rcb=5&frm=0&tiba=Healthcare%20%E2%80%93%20Velasea&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=399111528.1794060675&uaa=x86&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&gap.plf=4.5.3&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-QEAogo4da30KJ-RGntm-Fp9LebGaOINxmgSPaXMWldhsXis7-2bEKBujg19IysGzqSFWTXJmCOqM4qRUgU4YmgYOuiJ3P6GukMdH_H_-5bceBKRJVlbC9daFW85-D4DXPnvMBVhcph1c61dMwexzzkqUxebskY0ItYWRVeONiCoBD756AvQASU9q6TeBzL2b6gL5PR_YaRYp9qF-5616ZljkTnAwkgPANT8nt9LqSpizIsNr6aY9mXOCoAqoBxdil8WtIr_64bUW2ugs-LK_yf0IG_pLa_lCqi4RV0Lzktmwe9R10nGveRrlJ-RKruGwbLlgVRtuIVo8rs&random=711422642&rmt_tld=1&ipr=y",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/16860226941/?random=1794060788236&cv=11&fst=1794060000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41v9210975937za20ozb9206335159zd9206335159xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123814183~124013661&u_w=1440&u_h=1000&url=https%3A%2F%2Fvelasea.com%2Fsolutions%2Fhealthcare%2F&rcb=5&frm=0&tiba=Healthcare%20%E2%80%93%20Velasea&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=399111528.1794060675&uaa=x86&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&gap.plf=4.5.3&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-QEAogo4da30KJ-RGntm-Fp9LebGaOINxmgSPaXMWldhsXis7-2bEKBujg19IysGzqSFWTXJmCOqM4qRUgU4YmgYOuiJ3P6GukMdH_H_-5bceBKRJVlbC9daFW85-D4DXPnvMBVhcph1c61dMwexzzkqUxebskY0ItYWRVeONiCoBD756AvQASU9q6TeBzL2b6gL5PR_YaRYp9qF-5616ZljkTnAwkgPANT8nt9LqSpizIsNr6aY9mXOCoAqoBxdil8WtIr_64bUW2ugs-LK_yf0IG_pLa_lCqi4RV0Lzktmwe9R10nGveRrlJ-RKruGwbLlgVRtuIVo8rs&random=711422642&rmt_tld=0&ipr=y",
+      "kinds": [
+        "network-image"
+      ],
+      "alt": ""
+    }
+  ],
+  "stylesheets": [
+    "https://velasea.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=3.2.2",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/admin/css/dipi-font.min.css?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/css/general.min.css?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/vendor/css/hamburgers.min.css?ver=1.1.3",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/ymc-smart-filter/ymc2/assets/css/style.min.css?ver=3.13.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/styles/style.min.css?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-plus/styles/style.min.css?ver=1.15.0",
+    "https://velasea.com/wp-content/themes/Divi/style-static.min.css?ver=4.27.9",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/css/main.css?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/css/main-media-query.css?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/libraries/tippy/css/animations.css?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-plus/includes/assets/css/swiper/swiper.min.css?ver=6.4.5",
+    "https://velasea.com/wp-content/plugins/divi-plus/styles/diplSwiper.min.css?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-plus/includes/modules/WooProductsCarousel/style.min.css?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-plus/includes/modules/WooProducts/style.min.css?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/vendor/css/animate.min.css?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/vendor/css/magnific-popup.css?ver=2.38.0",
+    "https://static.zohocdn.com/zoho-salesiq-widgets/embed/fl/css/float.tkG6n0YAhmvzOMcfvCTniE9kRqMLEEz7ww3jg4Y9lvnp_K9BOorile5tfnmLFNNL.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=AW-16860226941&cx=c&gtm=4e6b41",
+    "https://www.googletagmanager.com/gtag/js?id=G-8KSECL9Z5R&cx=c&gtm=4e6b41",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-53LT67NX",
+    "https://velasea.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://velasea.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/js/public.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/js/hamburger.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/js/popper-1.16.1.min.js?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/js/tippy-5.2.1.min.js?ver=1.9.8.2",
+    "https://static.hotjar.com/c/hotjar-5020930.js?sv=6",
+    "https://script.hotjar.com/modules.47ae0ae40a423a71e31f.js",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16860226941/?random=1794060788236&cv=11&fst=1794060788236&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41v9210975937za20ozb9206335159zd9206335159xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385422~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123814183~124013661&u_w=1440&u_h=1000&url=https%3A%2F%2Fvelasea.com%2Fsolutions%2Fhealthcare%2F&rcb=5&frm=0&tiba=Healthcare%20%E2%80%93%20Velasea&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=399111528.1794060675&uaa=x86&uab=64&uafvl=Chromium%3B158.0.8127.18%7CNot.A%252FBrand%3B24.0.0.0%7CHeadlessChrome%3B158.0.8127.18&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&gap.plf=4.5.3&ept=9&rfmt=3&fmt=4",
+    "https://static.zohocdn.com/zoho-salesiq-widgets/embed/fl/js/float~modern.jGSh9_uUw2XSu2XFbhkTVRwKRz-23OrHjllAHVXqnoaqGYnze7t-43oBlEXfxM0t.js",
+    "https://static.zohocdn.com/zoho-salesiq-widgets/embed/fl/js/float.sUqRPImx5MSYE295WOKiLFSuB5z2IqB7YcPqrEP0nQ4427Gyzuq-DjobivEC0KV5.js",
+    "https://salesiq.zohopublic.com/widget?wc=siq3f29c0546263748d4696e9070437ef62f5cad8535fd0cda3b534180530e83c44",
+    "https://velasea.com/wp-content/plugins/the-events-calendar/common/build/js/user-agent.js?ver=da75d0bdea6dde3898df",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/js/CollapseSubmenu.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.27.9",
+    "https://velasea.com/wp-content/plugins/divi-pixel/scripts/frontend-bundle.min.js?ver=1.0.0",
+    "https://velasea.com/wp-content/plugins/divi-plus/scripts/frontend-bundle.min.js?ver=1.15.0",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/js/main.js?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/divi-mega-pro/assets/js/main.helper.js?ver=1.9.8.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.2.2",
+    "https://velasea.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.2.2",
+    "https://velasea.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.27.9",
+    "https://velasea.com/wp-content/plugins/divi-plus/includes/assets/js/swiper/swiper.min.js?ver=6.4.5",
+    "https://velasea.com/wp-content/plugins/divi-plus/includes/modules/WooProductsCarousel/dipl-woo-products-carousel-custom.min.js?ver=1.0.3",
+    "https://velasea.com/wp-content/plugins/divi-pixel/vendor/js/magnific-popup.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/vendor/js/masonry.pkgd.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/vendor/js/imagesloaded.pkgd.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/vendor/js/jquery.throttle.debounce.min.js?ver=2.38.0",
+    "https://velasea.com/wp-content/plugins/divi-pixel/dist/public/js/FilterableGrid.min.js?ver=2.38.0"
+  ],
+  "issues": []
+}

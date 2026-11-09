@@ -1,0 +1,208 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+
+Blog · 2 November 2020
+
+Top 8 Lean Manufacturing Tools and How To Use Them
+
+Lean manufacturing, often known as ‘Lean’, is a methodology focused on the minimisation of waste along the value stream of any manufacturing workflow. Lean manufacturing emphasises on optimising quality, time, cost and resources during production. Any processes in the value stream which fail to value-add to the workflow are eradicated.
+
+First introduced in the 1990s, ‘Lean’ continues to impact manufacturers around in world in any industries, be it pharmaceutical, food and beverage or automobiles and more.
+
+The following are the 8 most commonly used lean manufacturing tools which you should know. When deciding which tool to use, remember:
+
+“Some tools require more effort than others and organisations should start with the simplest tool to solve their problems”
+
+1. Jidoka
+
+Also referred to as ‘autonomation’ Jidoka is a lean manufacturing tool that infuses automation with human intelligence. Manufacturing equipment are programmed to be able to differentiate between the ‘good’ and ‘bad’ throughputs without having the operators to do so manually. This translates to higher productivity gains and lower labour costs because each operator can be freed up to manage multiple machines (also known as multiprocess handling). In a production plant that uses Jidoka, anyone can pause the workflow whenever a problem is observed to harm the quality of the outputs.
+
+Jidoka uses these 4 steps to ensure than an organisation delivers defect-free products:
+
+Discover an abnormality
+Stop the process
+Fix the immediate problem
+Investigate and solve the root cause
+
+By eradicating the root cause of defects, Jidoka is useful as a tool to ensure continuous improvements in your production flow.
+
+2. Just-in-time
+
+Speed to market and costs of production often differentiates a ‘good’ manufacturer from a ‘bad’ one.
+
+“Just-in-time (JIT) manufacturing is a methodology used by manufacturers to ‘make only what is needed, when it is needed, and in the amount needed.”
+
+By coordinating raw-material orders from suppliers with production schedules, manufacturers can effectively reduce inventory costs and wastes by receiving inputs only when they are needed for production. Manufacturers also stand to benefit from higher cash flow and lower space requirements.
+
+One note of caution: JIT manufacturers have to be able to forecast their demand accurately.
+
+3. Plan, Do, Check, Act (PDCA) cycle
+
+PDCA cycle is a continuous improvement approach to iteratively improve products, people, and services. Not limited to manufacturers, it involves testing of solutions, analysing of results and improving the processes.
+
+Plan: Identifying and analysing the problem. Develop hypotheses about the problem.
+Do: Implementing the plan and measuring the results
+Check: Verify results against expected results to determine effectiveness. Decide if the hypothesis is accepted for debunked
+Act: If solutions were successful, implement it. Iteratively go through the entire process again to keep improving
+
+For those familiar with the Scientific Enquiry Method, PDCA is similar to it in terms of:
+
+Plan (developing a hypothesis)
+Do (running experiments)
+Check (evaluating results)
+Act (refining experiment and trying again)
+4. 5S
+
+5S is a philosophy of organising and managing the workspace through the elimination of the 8 wastes defined in the lean manufacturing system. The 8 wastes are:
+
+Defects
+Overproduction
+Waiting
+Non-Utilised Talent
+Transportation
+Inventory
+Motion &
+Extra-Processing
+
+The 5S stands for:
+
+Seiri – Sort
+Seiton – Set in Order
+Seiso – Shine
+Seiketsu – Standardise
+Shitsuke – Sustain
+
+Simply put, the 5S aims to
+
+Remove items which are no longer needed from the production floor (sort)
+Organise items, equipment in the production floor to optimize efficiency and flow (straighten)
+Performing regular maintenance on equipment and machinery and planning for maintenance to mitigate the occurrence of breakdowns and stoppages (shine)
+Implementing a standard operating procedure (SOP) to ensure that the aforementioned is imbued into each operator and there are schedules and instructions in place to assign the tasks fairly and effectively (standardise)
+Keeping both the production floor and management in the organisation involved. Production managers, as well as other executives, should put in the effort to ensure that 5S is a continuous long-term program rather than an one-off event. project. 5S should permeate as part of the organisational culture (sustain).
+5. Six sigma
+
+Six Sigma is a technique used to improve productivity and performing by reducing the likelihood of error. It is a data-driven approach and applies statistical methodology to minimise defects. It is also known to help manufacturers reduce the changeover time from one process to another, reduce the cost of production and increase the satisfaction level of clients.
+
+Six Sigma is characterised by DMAIC – Design, Measure, Analyse, Improve, Control
+
+1. Define
+
+The production floor works with the management to determine the shared goals and the resources that are required. For example, reducing defective goods of ABC production line by 20%.
+
+2. Measure
+
+Measure is about choosing the suitable metrics and tools to quantify and measure the effectiveness of the plan. It involves:
+
+Quantifying the problem and presenting supporting data
+Determining the yardstick for performance. Could it be yield, manufacturing cycle time or OEE? Organisations can refer to an industry baseline to benchmark to.
+
+3. Analyse
+
+The stakeholders would analyse the production floor and its various product lines and identify ways to minimise defects. Statistical tools and analysis are often used to determine the source of the problems.
+
+4. Improving
+
+The stakeholders find out the constraints and factors that affect productivity. It often involves hypothesis testing to find out if ‘A’ affects ‘B’ in the process flow
+
+During this step, project teams seek optimal solutions, then develop and test the plan of action for improving a process or goal.
+
+5. Control
+
+As the final step in six sigma, ‘Control’ refers to the determining if the stated business goals and objectives were achieved and whether the improvements are sustainable.
+
+6. Heijunka (Level Scheduling)
+
+Implementing Heijunka would help manufacturers react to fluctuations in demand and utilise their capacity as well as possible. Heijunka relies on scheduling and production based on customer order and demand, rather than work batches. This brings about the benefits of lower inventory costs (similar to that of JIT) because the organisation manages its inventory level based on order volume.
+
+The 2 ways of scheduling and levelling production are:
+
+1. Levelling by volume
+
+Scheduling your production by the average volume of orders received. This is especially useful for manufacturers with uneven daily demand (e.g. Mon – 3 orders, Tues – 10 orders, Wed – 7 orders etc.). By scheduling the production using the average volume of orders received, manufacturers can have a stable flow of work, 5 days a week to meet the week’s demand.
+
+2. Levelling by type
+
+This is useful for manufacturers who produce a variety of products. It focuses on scheduling production based on the average demand for each product in the overall product portfolio.
+
+7. Overall Equipment Effectiveness (OEE)
+
+The OEE score is calculated by the following formula:
+
+OEE = Availability x Performance x Quality
+
+It is a measure of manufacturing productivity for a piece of production equipment, or an entire production line. Measuring OEE provides important insights on production losses and potential areas for improvement.
+
+8. Total Productive Maintenance (TPM)
+
+TPM focuses on reducing the machine downtime of each production line by increasing the reliability of the equipment used during production.
+
+The 3 key components of TPM are:
+
+1. Preventive Maintenance
+
+Preventive Maintenance refers to scheduled maintenance work which is performed on a thorough and periodic basis. The maintenance crew is assigned to check all the equipment for anomalies or problems. This mitigates the chances of sudden breakdowns during normal operations or when the throughputs are suddenly increased.
+
+2. Corrective Maintenance
+
+Corrective maintenance examines the equipment which often breakdown, to analyse the areas needed to be fixed, as well as to determine if there is an imminent need to invest in new physical assets to replace them.
+
+3. Maintenance Prevention
+
+As the name suggests, maintenance prevention involves proper evaluation to ensure that the equipment purchased are suitable, as well as a good fit for the production line. Poorly-purchased equipment may not only expense many resources to maintain, but they may also cause bottlenecks along the production line. This would equate to a loss of investment and productivity for the production facility.
+
+Lean Manufacturing is an important way of management within the production/manufacturing world whose concepts have slowly and steadily entered into the world of business and has proved to be beneficial in all strata of these businesses. Using Lean Manufacturing is all about understanding the concepts behind these tools and techniques. Once you’re familiar with these concepts, implementation can be based on your work culture and production style, as Lean Manufacturing has managed to strike success in all different sectors and forms of businesses.
+
+Selection of the correct lean manufacturing tool to implement in your production facility is not a trivial task. You should take into consideration your organisational culture, production schedules and industry. As mentioned at the beginning, it may be worthwhile to first start with the simplest tool to boost productivity.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

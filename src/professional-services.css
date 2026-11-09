@@ -1,0 +1,1011 @@
+.professional-services-page {
+  --paper: #fff;
+  --ink: #333;
+  --muted: #555;
+  --orange: #cc0033;
+  --accent-text: #cc0033;
+  --border: #dedede;
+  --dark: #1a1a1a;
+  --container: 1080px;
+  font-family: "Be Vietnam Pro", Arial, sans-serif;
+  background: #fff;
+  color: #333;
+}
+
+.professional-services-page .container {
+  width: min(1080px, calc(100% - 80px));
+}
+
+.professional-services-page ::selection {
+  background: #cc0033;
+  color: #fff;
+}
+
+.professional-services-page :focus-visible {
+  outline: 2px solid #cc0033;
+  outline-offset: 5px;
+}
+
+.professional-services-page .nav-link[aria-current="page"] {
+  color: #ff567f;
+}
+
+.professional-services-page :is(.about-hero-panel, .ps-overview, .ps-lifecycle, .ps-services, .ps-commitment, .ps-resources) p {
+  color: #555;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.professional-services-page :is(.ps-intro-grid > h2, .ps-lifecycle-aside > h2, .ps-services > h2, .ps-commitment h2) {
+  font-size: clamp(24px, 2.3vw, 30px);
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.professional-services-page :is(.ps-intro-grid > h2, .ps-lifecycle-aside > h2, .ps-services > h2, .ps-commitment h2)::after {
+  content: "";
+  display: block;
+  width: 52px;
+  height: 1px;
+  margin-top: 18px;
+  background: #cc0033;
+}
+
+.professional-services-page .home-button {
+  gap: 12px;
+  min-height: 44px;
+  max-width: 100%;
+  border-radius: 0;
+  text-align: center;
+}
+
+.professional-services-page .home-button svg {
+  width: 16px;
+  height: 16px;
+}
+
+.professional-services-page .ps-text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  max-width: 100%;
+  min-height: 44px;
+  color: #cc0033;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.7;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 1px;
+}
+
+.professional-services-page .ps-text-link svg {
+  width: 16px;
+  height: 16px;
+}
+
+.professional-services-page .ps-text-link:hover,
+.professional-services-page .ps-text-link:focus-visible {
+  text-decoration-line: underline;
+}
+
+.professional-services-page .about-reference-hero {
+  display: grid;
+  align-items: center;
+  min-height: 510px;
+  background: #1a1a1a;
+}
+
+.professional-services-page .about-hero-photo {
+  left: auto;
+  width: 54%;
+  object-position: center 43%;
+}
+
+.professional-services-page .about-hero-inner {
+  padding-block: 54px;
+}
+
+.professional-services-page .about-hero-panel {
+  width: 540px;
+  max-width: 56%;
+  padding: 30px;
+  background: #222222f2;
+}
+
+.professional-services-page .about-hero-panel h1 {
+  padding-bottom: 17px;
+  border-bottom: 1px solid #cc0033;
+  font-size: clamp(28px, 2.6vw, 34px);
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  line-height: 1.5;
+}
+
+.professional-services-page .about-hero-panel h2 {
+  margin-block: 20px 12px;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.7;
+}
+
+.professional-services-page .about-hero-panel p {
+  color: #ddd;
+}
+
+.professional-services-page .about-hero-geometry::before {
+  right: calc(54% - 110px);
+  width: 160px;
+  height: 100%;
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+}
+
+.professional-services-page .about-hero-geometry::after {
+  right: -75px;
+  width: 230px;
+}
+
+.professional-services-page .ps-hero-actions,
+.professional-services-page .ps-commitment-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 24px;
+  margin-top: 27px;
+}
+
+.professional-services-page :is(.ps-hero-actions, .ps-commitment-actions) .ps-text-link {
+  color: #fff;
+}
+
+.professional-services-page :is(.about-hero-panel, .ps-commitment) :focus-visible {
+  outline-color: #fff;
+}
+
+.professional-services-page .ps-overview {
+  padding-block: 28px 65px;
+}
+
+.professional-services-page .ps-breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding-bottom: 14px;
+  margin-bottom: 37px;
+  border-bottom: 1px solid #dedede;
+  color: #666;
+  font-size: 11px;
+  line-height: 1.8;
+}
+
+.professional-services-page .ps-breadcrumb a {
+  color: #cc0033;
+}
+
+.professional-services-page .ps-breadcrumb a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.professional-services-page .ps-breadcrumb svg {
+  width: 13px;
+  height: 13px;
+}
+
+.professional-services-page .ps-kicker {
+  display: block;
+  margin-bottom: 14px;
+  color: #cc0033;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 1.2px;
+  line-height: 1.7;
+  text-transform: uppercase;
+}
+
+.professional-services-page .ps-intro-grid {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  align-items: start;
+  gap: 65px;
+}
+
+.professional-services-page .ps-intro-grid > div > p + p {
+  margin-top: 17px;
+}
+
+.professional-services-page .ps-pillars {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px;
+  padding-top: 29px;
+  margin-top: 38px;
+  border-top: 1px solid #dedede;
+}
+
+.professional-services-page .ps-pillar + .ps-pillar {
+  padding-left: 28px;
+  border-left: 1px solid #dedede;
+}
+
+.professional-services-page .ps-pillar > span {
+  color: #cc0033;
+  font-size: 13px;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+
+.professional-services-page .ps-pillar h3 {
+  margin-top: 13px;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+.professional-services-page .ps-pillar p {
+  margin-top: 9px;
+}
+
+.professional-services-page .ps-lifecycle {
+  padding-block: 65px 36px;
+  border-block: 1px solid #e5e5e5;
+  background: #f5f5f5;
+  scroll-margin-top: 110px;
+}
+
+.professional-services-page .ps-lifecycle-layout {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr);
+  align-items: start;
+  gap: 60px;
+}
+
+.professional-services-page .ps-lifecycle-aside {
+  position: sticky;
+  top: 112px;
+  max-height: calc(100svh - 140px);
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #ccc transparent;
+  padding: 5px 7px 7px;
+  margin: -5px -7px -7px;
+}
+
+.professional-services-page .ps-lifecycle-aside > h2 {
+  font-size: 26px;
+}
+
+.professional-services-page .ps-lifecycle-aside > p {
+  margin-top: 20px;
+}
+
+.professional-services-page .ps-read-state {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  padding-top: 21px;
+  margin-top: 23px;
+  border-top: 1px solid #d9d9d9;
+  font-variant-numeric: tabular-nums;
+}
+
+.professional-services-page .ps-read-state > span {
+  margin-right: auto;
+  color: #666;
+  font-size: 11px;
+  line-height: 1.7;
+}
+
+.professional-services-page .ps-read-state strong {
+  color: #cc0033;
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.professional-services-page .ps-read-state small {
+  color: #666;
+  font-size: 12px;
+}
+
+.professional-services-page .ps-stage-nav {
+  display: grid;
+  gap: 2px;
+  margin-block: 17px 13px;
+}
+
+.professional-services-page .ps-stage-nav a {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  min-width: 0;
+  min-height: 42px;
+  padding: 9px 12px;
+  border-left: 2px solid #ddd;
+  color: #555;
+  font-size: 12px;
+  line-height: 1.7;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+
+.professional-services-page .ps-nav-number {
+  flex-shrink: 0;
+  color: #666;
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+}
+
+.professional-services-page .ps-stage-nav a:hover,
+.professional-services-page .ps-stage-nav a:focus-visible {
+  border-left-color: #cc0033;
+  background: #fff;
+  color: #cc0033;
+}
+
+.professional-services-page .ps-stage-nav a.is-current,
+.professional-services-page .ps-stage-nav a[aria-current="step"] {
+  border-left-color: #cc0033;
+  background: #fff;
+  color: #333;
+  font-weight: 600;
+}
+
+.professional-services-page .ps-stage-nav :is(a.is-current, a[aria-current="step"]) .ps-nav-number {
+  color: #cc0033;
+}
+
+.professional-services-page .ps-stages {
+  position: relative;
+  isolation: isolate;
+  min-width: 0;
+  padding: 0 0 0 44px;
+  margin: 0;
+  list-style: none;
+}
+
+/* The track stays fixed while only the stage body animates on entry. */
+.professional-services-page .ps-stages::before,
+.professional-services-page .ps-stages::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 7px;
+  width: 2px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.professional-services-page .ps-stages::before {
+  background: #d5d5d5;
+}
+
+.professional-services-page .ps-stages::after {
+  background: #cc0033;
+  transform: scaleY(var(--ps-progress, 0));
+  transform-origin: top;
+  transition: transform 0.18s linear;
+}
+
+.professional-services-page .ps-stage {
+  position: relative;
+  min-width: 0;
+  scroll-margin-top: 116px;
+}
+
+.professional-services-page .ps-stage::before {
+  content: "";
+  position: absolute;
+  top: 30px;
+  left: -43px;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #b8b8b8;
+  border-radius: 50%;
+  background: #f5f5f5;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.professional-services-page .ps-stage.is-complete::before {
+  border-color: #cc0033;
+  background: #cc0033;
+}
+
+.professional-services-page .ps-stage.is-current::before {
+  border-color: #cc0033;
+  background: #cc0033;
+  box-shadow: 0 0 0 4px #f5f5f5, 0 0 0 5px #cc0033;
+}
+
+.professional-services-page .ps-stage-body {
+  position: relative;
+  min-height: 360px;
+  padding: 25px 28px 28px;
+  border-bottom: 1px solid #d9d9d9;
+  transition: border-color 0.2s;
+}
+
+.professional-services-page .ps-stage:first-child .ps-stage-body {
+  border-top: 1px solid #d9d9d9;
+}
+
+.professional-services-page .ps-stage:nth-child(even) .ps-stage-body {
+  background: #fff;
+}
+
+.professional-services-page .ps-stage.is-current .ps-stage-body {
+  border-bottom-color: #cc0033;
+}
+
+.professional-services-page .ps-stage-header {
+  position: absolute;
+  top: 23px;
+  right: 28px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.professional-services-page .ps-stage-number {
+  color: #d6d6d6;
+  font-size: 54px;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -2px;
+  line-height: 1;
+}
+
+.professional-services-page .ps-stage.is-current .ps-stage-number {
+  color: #e4acba;
+}
+
+.professional-services-page .ps-stage-icon {
+  display: flex;
+  color: #cc0033;
+}
+
+.professional-services-page .ps-stage-icon svg {
+  width: 29px;
+  height: 29px;
+  stroke-width: 1.6;
+}
+
+.professional-services-page .ps-stage-label {
+  display: block;
+  padding-right: 132px;
+  color: #cc0033;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.7px;
+  line-height: 1.8;
+  text-transform: uppercase;
+}
+
+.professional-services-page .ps-stage h3 {
+  padding-right: 132px;
+  margin-top: 7px;
+  color: #333;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.5;
+}
+
+.professional-services-page .ps-stage-description {
+  margin-top: 14px;
+}
+
+.professional-services-page .ps-stage-checks {
+  display: grid;
+  gap: 7px;
+  padding: 0;
+  margin: 17px 0 0;
+  list-style: none;
+}
+
+.professional-services-page .ps-stage-checks li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  color: #555;
+  font-size: 14px;
+  line-height: 1.75;
+}
+
+.professional-services-page .ps-stage-checks svg {
+  width: 17px;
+  height: 17px;
+  margin-top: 4px;
+  color: #cc0033;
+  stroke-width: 1.8;
+}
+
+.professional-services-page .ps-stage-deliverable {
+  display: grid;
+  grid-template-columns: 133px minmax(0, 1fr);
+  align-items: baseline;
+  gap: 15px;
+  padding-top: 13px;
+  margin-top: 18px;
+  border-top: 1px solid #dedede;
+}
+
+.professional-services-page .ps-stage-deliverable > span {
+  color: #666;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+  line-height: 1.8;
+}
+
+.professional-services-page .ps-stage-deliverable p {
+  color: #333;
+  font-size: 14px;
+  line-height: 1.75;
+}
+
+.professional-services-page .ps-scope-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 13px;
+  padding-top: 24px;
+  margin-top: 30px;
+  border-top: 1px solid #d9d9d9;
+}
+
+.professional-services-page .ps-scope-note > svg {
+  width: 21px;
+  height: 21px;
+  margin-top: 3px;
+  color: #cc0033;
+}
+
+.professional-services-page .ps-scope-note p {
+  font-size: 13px;
+}
+
+.professional-services-page .ps-services {
+  padding-block: 65px 67px;
+}
+
+.professional-services-page .ps-services > p {
+  max-width: 740px;
+  margin-top: 20px;
+}
+
+.professional-services-page .ps-service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 32px;
+  margin-top: 35px;
+}
+
+.professional-services-page .ps-service-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+  padding-block: 26px 22px;
+  border-top: 2px solid #333;
+  border-bottom: 1px solid #dedede;
+  transition: border-color 0.2s;
+}
+
+.professional-services-page .ps-service-card > svg {
+  width: 32px;
+  height: 32px;
+  color: #cc0033;
+  stroke-width: 1.6;
+}
+
+.professional-services-page .ps-service-tag {
+  margin-top: 22px;
+  color: #cc0033;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+  line-height: 1.8;
+  text-transform: uppercase;
+}
+
+.professional-services-page .ps-service-card h3 {
+  margin-top: 9px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.6;
+  transition: color 0.2s;
+}
+
+.professional-services-page .ps-service-card p {
+  margin-block: 12px 24px;
+}
+
+.professional-services-page .ps-service-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: auto;
+  color: #cc0033;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.8;
+}
+
+.professional-services-page .ps-service-link svg {
+  width: 16px;
+  height: 16px;
+}
+
+.professional-services-page .ps-service-card:hover,
+.professional-services-page .ps-service-card:focus-visible {
+  border-color: #cc0033;
+}
+
+.professional-services-page .ps-service-card:hover h3,
+.professional-services-page .ps-service-card:focus-visible h3 {
+  color: #cc0033;
+}
+
+.professional-services-page .ps-service-card:hover .ps-service-link,
+.professional-services-page .ps-service-card:focus-visible .ps-service-link {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.professional-services-page .ps-commitment {
+  padding-block: 59px 62px;
+  background: #1a1a1a;
+  color: #fff;
+}
+
+.professional-services-page .ps-commitment-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: start;
+  gap: 65px;
+}
+
+.professional-services-page .ps-commitment .ps-kicker {
+  color: #ff567f;
+}
+
+.professional-services-page .ps-commitment p {
+  color: #ddd;
+}
+
+.professional-services-page .ps-commitment p + p {
+  margin-top: 18px;
+}
+
+.professional-services-page .ps-resources {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px 28px;
+  padding-block: 25px 30px;
+}
+
+.professional-services-page .ps-resources > p {
+  flex: 1 1 550px;
+  font-size: 12px;
+}
+
+.professional-services-page .ps-resources .ps-text-link {
+  font-size: 12px;
+}
+
+/* Reveal is opt-in; a missing observer never hides any page content. */
+.professional-services-page [data-ps-reveal].ps-revealed {
+  animation: ps-content-reveal 600ms ease-out var(--ps-delay, 0ms) both;
+}
+
+@keyframes ps-content-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 1000px) {
+  .professional-services-page .container {
+    width: min(1080px, calc(100% - 72px));
+  }
+
+  .professional-services-page .about-hero-panel {
+    max-width: 62%;
+    padding: 26px;
+  }
+
+  .professional-services-page .about-hero-geometry::before {
+    width: 120px;
+    right: calc(54% - 100px);
+  }
+
+  .professional-services-page .about-hero-geometry::after {
+    right: -90px;
+    width: 200px;
+  }
+
+  .professional-services-page .ps-intro-grid,
+  .professional-services-page .ps-commitment-grid {
+    gap: 35px;
+  }
+
+  .professional-services-page .ps-pillars,
+  .professional-services-page .ps-service-grid {
+    gap: 23px;
+  }
+
+  .professional-services-page .ps-pillar + .ps-pillar {
+    padding-left: 23px;
+  }
+
+  .professional-services-page .ps-lifecycle-layout {
+    grid-template-columns: 240px minmax(0, 1fr);
+    gap: 30px;
+  }
+
+  .professional-services-page .ps-lifecycle-aside > h2 {
+    font-size: 24px;
+  }
+
+  .professional-services-page .ps-stages {
+    padding-left: 35px;
+  }
+
+  .professional-services-page .ps-stage::before {
+    left: -34px;
+  }
+
+  .professional-services-page .ps-stage-body {
+    padding-inline: 22px;
+  }
+
+  .professional-services-page .ps-stage-header {
+    right: 22px;
+    gap: 9px;
+  }
+
+  .professional-services-page .ps-stage-number {
+    font-size: 46px;
+  }
+
+  .professional-services-page .ps-stage-icon svg {
+    width: 25px;
+    height: 25px;
+  }
+
+  .professional-services-page .ps-stage-label,
+  .professional-services-page .ps-stage h3 {
+    padding-right: 106px;
+  }
+
+  .professional-services-page .ps-stage h3 {
+    font-size: 21px;
+  }
+
+  .professional-services-page .ps-stage-deliverable {
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+}
+
+@media (max-width: 760px) {
+  .professional-services-page .container {
+    width: calc(100% - 40px);
+  }
+
+  .professional-services-page .about-reference-hero {
+    min-height: 0;
+  }
+
+  .professional-services-page .about-hero-photo {
+    inset: 0;
+    width: 100%;
+    object-position: center 42%;
+  }
+
+  .professional-services-page .about-hero-inner {
+    padding-block: 42px;
+  }
+
+  .professional-services-page .about-hero-panel {
+    width: 100%;
+    max-width: 100%;
+    padding: 25px 22px;
+    background: #222222ed;
+  }
+
+  .professional-services-page .about-hero-panel h1 {
+    font-size: clamp(25px, 5.4vw, 31px);
+    letter-spacing: 0.5px;
+  }
+
+  .professional-services-page .about-hero-panel h2 {
+    font-size: 16px;
+  }
+
+  .professional-services-page .about-hero-geometry::before {
+    top: 0;
+    right: -35px;
+    width: 160px;
+    height: 155px;
+    clip-path: polygon(0 0, 100% 0, 50% 100%);
+  }
+
+  .professional-services-page .about-hero-geometry::after {
+    right: -85px;
+    width: 180px;
+  }
+
+  .professional-services-page .ps-hero-actions,
+  .professional-services-page .ps-commitment-actions {
+    gap: 8px 18px;
+    margin-top: 23px;
+  }
+
+  .professional-services-page .ps-overview {
+    padding-block: 23px 43px;
+  }
+
+  .professional-services-page .ps-breadcrumb {
+    margin-bottom: 28px;
+  }
+
+  .professional-services-page .ps-intro-grid,
+  .professional-services-page .ps-commitment-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+  }
+
+  .professional-services-page .ps-pillars {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 23px;
+    margin-top: 28px;
+    padding-top: 23px;
+  }
+
+  .professional-services-page .ps-pillar + .ps-pillar {
+    padding: 23px 0 0;
+    border-left: 0;
+    border-top: 1px solid #dedede;
+  }
+
+  .professional-services-page .ps-pillar h3 {
+    margin-top: 9px;
+  }
+
+  .professional-services-page .ps-lifecycle {
+    padding-block: 42px 29px;
+    scroll-margin-top: 90px;
+  }
+
+  .professional-services-page .ps-lifecycle-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 29px;
+  }
+
+  .professional-services-page .ps-lifecycle-aside {
+    position: static;
+    max-height: none;
+    overflow: visible;
+  }
+
+  .professional-services-page .ps-lifecycle-aside > p {
+    margin-top: 18px;
+  }
+
+  .professional-services-page .ps-read-state {
+    padding-top: 16px;
+    margin-top: 21px;
+  }
+
+  .professional-services-page .ps-stage-nav {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 5px 12px;
+    margin-block: 16px 10px;
+  }
+
+  .professional-services-page .ps-stage-nav a {
+    gap: 8px;
+    min-height: 44px;
+    padding: 9px;
+    overflow-wrap: anywhere;
+  }
+
+  .professional-services-page .ps-stage {
+    scroll-margin-top: 96px;
+  }
+
+  .professional-services-page .ps-stage-body {
+    min-height: 0;
+    padding: 24px 18px;
+  }
+
+  .professional-services-page .ps-stage-header {
+    top: 21px;
+    right: 18px;
+    gap: 8px;
+  }
+
+  .professional-services-page .ps-stage-number {
+    font-size: 44px;
+  }
+
+  .professional-services-page .ps-stage-icon svg {
+    width: 23px;
+    height: 23px;
+  }
+
+  .professional-services-page .ps-stage-label {
+    min-height: 44px;
+    padding-right: 98px;
+    font-size: 10px;
+  }
+
+  .professional-services-page .ps-stage h3 {
+    padding-right: 0;
+    margin-top: 10px;
+    font-size: 22px;
+  }
+
+  .professional-services-page .ps-stage-description {
+    margin-top: 12px;
+  }
+
+  .professional-services-page .ps-scope-note {
+    margin-top: 24px;
+    padding-top: 21px;
+  }
+
+  .professional-services-page .ps-services {
+    padding-block: 43px 46px;
+  }
+
+  .professional-services-page .ps-service-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 26px;
+    margin-top: 29px;
+  }
+
+  .professional-services-page .ps-service-card {
+    padding-block: 24px 22px;
+  }
+
+  .professional-services-page .ps-service-tag {
+    margin-top: 18px;
+  }
+
+  .professional-services-page .ps-commitment {
+    padding-block: 43px 46px;
+  }
+
+  .professional-services-page .ps-resources {
+    gap: 9px;
+    padding-block: 23px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .professional-services-page [data-ps-reveal],
+  .professional-services-page .ps-revealed {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+
+  .professional-services-page *,
+  .professional-services-page *::before,
+  .professional-services-page *::after {
+    transition: none;
+    scroll-behavior: auto;
+  }
+}

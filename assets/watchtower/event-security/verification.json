@@ -1,0 +1,15 @@
+{
+  "verifiedAt": "2026-11-08T12:05:21.204Z",
+  "valid": true,
+  "pages": 1,
+  "screenshots": 2,
+  "assets": 20,
+  "inlineStyleFiles": 0,
+  "totalAssetBytes": 31839211,
+  "assetTypes": {
+    "images": 20
+  },
+  "failures": 0,
+  "skipped": 0,
+  "invalid": []
+}

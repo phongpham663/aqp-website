@@ -1,0 +1,90 @@
+{
+  "source": "https://www.magalsolutions.com",
+  "analyzedAt": "2026-11-07T15:48:28.486Z",
+  "home": {
+    "url": "https://www.magalsolutions.com/",
+    "requestedUrl": "https://www.magalsolutions.com/",
+    "title": "Operational Solutions for Enhanced Security, Safety & Efficiency",
+    "capturedAt": "2026-11-07T15:34:40.196Z",
+    "status": 200,
+    "artifacts": [
+      {
+        "file": "pages/home-source.html",
+        "bytes": 147938,
+        "sha256": "44b4a7cc993814431100b735e112448c9f551f9ea79e44672742a76f629b704c"
+      },
+      {
+        "file": "pages/home-desktop.html",
+        "bytes": 210828,
+        "sha256": "74f6360f5d56c83f9920c2650611b590d7686d7cb3baf94e1268d76bc25c2217"
+      },
+      {
+        "file": "pages/home-desktop.txt",
+        "bytes": 2198,
+        "sha256": "2bfacd23cb080c783e3538459f1652ce6d997fabcaaf7f4ffb7e1810639aaba1"
+      },
+      {
+        "file": "pages/home-desktop.json",
+        "bytes": 36794,
+        "sha256": "122fff92ff1c08689a636dbe109b903264b111148e6d0b4ad08d8e09551bf32b"
+      },
+      {
+        "file": "pages/home-mobile.html",
+        "bytes": 234025,
+        "sha256": "914eb37dbc2ddb52f89c0540952f783d91af1ded2eec4e74543317956c12eb27"
+      },
+      {
+        "file": "pages/home-mobile.txt",
+        "bytes": 2760,
+        "sha256": "2024ad9b3434b6a361d6487220e5d6bbf3e1d31f71d61da9dc3738592fd237c9"
+      },
+      {
+        "file": "pages/home-mobile.json",
+        "bytes": 35027,
+        "sha256": "174706e3427e5560774983cf14e3339ca87f20ef7b6c3f2675f01771c353ba96"
+      },
+      {
+        "file": "styles/home-inline.css",
+        "bytes": 57973,
+        "sha256": "c1af01cc7c08df519c7e4181cec8062a2921c8f00adcb6d23d88d5ecca15f0ef",
+        "kind": "styles",
+        "source": "embedded in source HTML"
+      }
+    ],
+    "devices": [
+      {
+        "device": "desktop",
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "dimensions": {
+          "width": 1440,
+          "height": 4172
+        }
+      },
+      {
+        "device": "mobile",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "dimensions": {
+          "width": 390,
+          "height": 7105
+        }
+      }
+    ],
+    "issues": [
+      "Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."
+    ]
+  },
+  "collection": {
+    "pages": 36,
+    "screenshots": 74,
+    "assets": 195,
+    "crawlDelayMs": 10000
+  },
+  "scope": "Up to 36 public English pages, desktop/mobile viewport screenshots, rendered HTML/text/metadata and same-domain public resources. Up to 12 additional linked documents/media per download run, 25 MB per asset. Not a complete or offline-rewritten website mirror.",
+  "rightsNote": "Content, images and trademarks belong to their respective owners. Collection does not grant reuse rights. No forms are submitted, no logins or access-control bypasses are attempted, and external videos are indexed rather than downloaded."
+}

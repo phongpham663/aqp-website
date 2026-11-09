@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="969" viewBox="0 0 1920 969">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3744" data-name="Rectangle 3744" width="1920" height="969" transform="translate(0 110)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.6"/>
+    </clipPath>
+  </defs>
+  <g id="Masked_blue_shape" data-name="Masked blue shape" transform="translate(0 -110)">
+    <g id="Blue_shape" data-name="Blue shape" clip-path="url(#clip-path)">
+      <path id="Union_72" data-name="Union 72" d="M17164.5,17562.5v-180.273h.008v-44.949h-.008V16484h933.42l319.533,623.287c74.621,145.582,70.762,313.9-9.266,455.211Z" transform="translate(-17164.496 -16483.5)" fill="#0025cd" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

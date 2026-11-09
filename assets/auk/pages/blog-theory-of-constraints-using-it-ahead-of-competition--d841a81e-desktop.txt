@@ -1,0 +1,137 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+
+Blog · 24 November 2020
+
+Theory Of Constraints: Using It Ahead Of Competition
+
+Could a theory introduced in the 1980s remain relevant to the manufacturing sector in 2020?
+
+For decades, organisations from different industries rise and fall but one thing remains – most corporations organisations are profit-driven and manufacturers are no exception. Manufacturers are on the constant strive for newer and more sustainable ways to do things, achieve higher performance and increase profit margin.
+
+Introducing the Theory of Constraints
+
+The Theory of Constraints (TOC) is an organisational change methodology focused on helping manufacturers find their most disruptive constraint and overcoming it so that it no longer poses as a limiting factor – manufacturers can, therefore, produce more efficiently and obtain higher profits.
+
+A constraint is a long-term limitation affecting the flow of production – the choke point (bottleneck) that constrains the overall output. A constraint could appear anywhere – at the beginning, middle, or end of the process. Sometimes it could be as obvious as an outdated machine, a clumsy operative, or a silly company regulation. Other times it could be more complicated where a factory cannot produce faster because available equipment is already operating at maximum speed or that the time taken to move from station A to station B in the assembly line is fixed (e.g. the dough at the upstream mixing machines needs 2 hours to ‘rest’ before being transferred to the rolling machine in a biscuit factory).
+
+Finding the ‘Herbie’ in your manufacturing plant
+
+In Dr Eli Goldratt’s book, The Goal, he talked about the story of Alex Rogo, a fictional plant manager of a struggling factory. Alex had a eureka moment when he led his son’s scout troop on a hiking expedition.
+
+He realised that the single-file line of scouts could not maintain a consistent spacing – the scouts would always spread out. The faster children at the front were walking far ahead while the remaining children could only walk as slowly as Herbie (i.e. constraint or bottleneck), the chubby scout in the middle of the line. At the given pace, the fastest scouts at the front could arrive at the campsite way before others. However, that was not the objective – the objective was for everyone to safely arrive at the same time.
+
+“Likewise, a factory’s objective is to maximise the number of products that are fully assembled and not how quickly the individual components are moving through the assembly line.”
+
+With the learning points in mind, Alex arranged Herbie at the front of the line and redistributed the load in his backpack to everyone else. The result: Herbie stopped panting and walked at a faster pace where everyone else could follow well.
+
+Alex was satisfied and thought everything would be alright after that but he was wrong.
+
+The constant quest for improvement
+
+Not long after, a gap emerged again. This time around, it was no longer caused by Herbie. It was because of another scout called Dave.
+
+Each time Dave stopped to adjust his shoelaces, the gap between him and the leader of the line widened. Even if the boys behind Dave wanted to overtake him, they couldn’t – the rule was that everyone had to walk in a single file. (Does this sound familiar? The throughputs in our factories have to be processed in a specific order; they can’t jump from station E to station A)
+
+“As shown, once a constraint was identified and resolved, a new constraint would almost always arise (e.g. Dave).”
+
+This means that manufacturers must continuously channel efforts to eliminate new constraints whenever they arise – this is an iterative process. Manufacturers that reinvent and seek constant improvement on their production floor sees a higher growth rate than their competitors. How can you be one of the forerunners and stay ahead of the pack?
+
+Action 1: Engage in The Theory of Constraints to ‘Eliminate’ the Constraint
+1. Identify the system’s constraints (bottlenecks)
+
+Success begins with the first step – identifying the constraint. We understand that manufacturers often struggle to find their constraints because they could be anywhere – from upstream batch production to the packaging station. Hence, we recommend Value Stream Mapping (VSM). VSM is a tool for manufacturers to visualise all the important steps in their work process necessary to deliver value from start to finish. By forming a good understanding of the value stream, manufacturers can spot constraints more easily.
+
+2 & 3. Exploit the system’s constraints and subordinate everything else to the decision
+
+The thought process behind ‘exploiting’ the system’s constraints begins with the decision on how to ‘use’ the constraint to its fullest capacity – getting as much out of the constraint as possible, without additional capacity. In the example where a packaging machine is the bottleneck, it is essentially the ‘pacemaker’ (e.g. Herbie) that determines the line speed. Hence, to increase line capacity, this machine should be made to run for as long and as fast as it can.
+
+“Making the most of what you have.”
+
+What does it take to make the most of what you have? Something as simple as reorganising the work centres to smoothen out the workflow, or reducing/eliminating unnecessary operative movement could do the trick. Otherwise, manufacturers could also have in place a good preventive maintenance regime to reduce machine breakdown frequencies. However, our experience has shown that manufacturers should only make one change at a time. If multiple changes were made at once, there would be difficulties in differentiating the changes which improved efficiency from those which did not.
+
+By systematically adjusting the non-constraint components in a manner that enables the constraint to work at maximum effectiveness, the existing constraint would likely be eliminated and something else may arise as the new constraint. This is often known as ‘the shifting of the bottleneck’.
+
+“Equally important, manufacturers should not rely on intuition to evaluate if the constraint has been eliminated.”
+
+Numbers don’t lie; use real-time performance data such as OEE and line performance to find out if the performance of the production floor has indeed improved.
+
+4. Elevate the system’s constraints
+
+If Steps 2 and 3 have been unsuccessful, manufacturers would have to consider doing whatever it takes (make major changes) to eliminate the constraint.
+
+“My data showed no significant improvements to the performance of the production floor. What should I do?”
+
+To answer the question, we need to look into the three phases of improvement, each of them progressively more capital intensive. The first phase entails what manufacturers would have already done in Steps 2 and 3 – making the most of what they have. In the second phase, manufacturers should widen their horizons and make out whether their constraint is external in the market or internal to the organisation.
+
+An external constraint requires manufacturers to think out of the box to increase sales (improve demand) or better manage their supply chain. On the other hand, an internal constraint means that existing capacity is unable to cope with demand. When push comes to shove, some manufacturers resort to utilising protective capacity to ‘absorb’ random dips caused by the constraint. As the use of protective capacity has limited effectiveness in reducing mean flow time, manufacturers may want to consider the third phase of improvement – making more capital investments by buying more machines, using better equipment or setting up new production lines.
+
+5. Repeat the process
+
+Once the existing constraint has been resolved, the next constraint may arise and manufacturers should engage in the same cyclical five steps process to address the problem.
+
+Action 2: Making the ‘Process of Change’ mindset permanent
+
+Despite the initial enthusiasm, many manufacturers encounter difficulties in continuously running ‘The Five Steps of Focusing’ – the improvement process often stagnates after one or two constraints have been eliminated. To address the manufacturers’ short-lived process improvement, management has to step in and do the following:
+
+Make real-time performance data transparent to all employees through live dashboards and weekly meetings. First, real-time data increases everyone’s accountability because it cannot be manipulated and acts as the ‘single source of truth’. Second, the mix of qualitative metrics and quantitative design empowers employees from all levels to recognise that the production floor is a work-in-progress – there is always room for improvement and continuous improvement processes such as TOC is an enabler for better performance.
+Encourage unique insights from anyone. Employees possess broad knowledge and experience with the production floor. More often than not, they are aware of both the symptoms and the deeper problems which the management may overlook. By fostering a culture of open, honest communication, everyone is united and motivated to engage in continuous improvements.
+Appoint a project champion who is open-minded and passionate about change. He/she will be critical in training and motivating managers and operatives to constantly find opportunities for production process improvements.
+Conclusion
+
+In today’s business environment where top-line and bottom-line growth is ever more important, how manufacturers outperform their competition is largely dependent on their ability to continuously seek performance improvement and how decisively they react to problems and opportunities.
+
+TOC highlights the importance and effectiveness of continuous improvement processes. Coupled with performance metrics such as OEE, manufacturers are shifting away from intuition-based to more fact-based decision making. From a long-term perspective, as manufacturers continue to become more efficient, most cost and growth advantages are amassed and these factors would come in handy in the pursuit for success.
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

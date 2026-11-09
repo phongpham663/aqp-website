@@ -1,0 +1,730 @@
+{
+  "source": "https://iclab.identifycapacity.com",
+  "analyzedAt": "2026-11-07T16:54:10.188Z",
+  "language": "vi",
+  "summary": "ICLab giới thiệu nền tảng Operational Intelligence cho hạ tầng quan trọng, kết hợp quản lý video, Machine Vision, dữ liệu IoT và edge gateway để hỗ trợ theo dõi vận hành và ra quyết định.",
+  "positioning": {
+    "headline": "AI-powered Operational Intelligence\nfor Critical Infrastructure",
+    "audience": [
+      "Đơn vị vận hành hạ tầng quan trọng",
+      "Doanh nghiệp cần giám sát video và thiết bị IoT",
+      "Nhóm quản lý vận hành, tích hợp hệ thống và chuyển đổi số"
+    ],
+    "evidence": [
+      {
+        "url": "https://iclab.identifycapacity.com/",
+        "headings": [
+          {
+            "tag": "H1",
+            "text": "AI-powered Operational Intelligence\nfor Critical Infrastructure"
+          },
+          {
+            "tag": "H2",
+            "text": "IClab Platform"
+          },
+          {
+            "tag": "H3",
+            "text": "The perfect tool to optimize your operation."
+          },
+          {
+            "tag": "H2",
+            "text": "Multilayer Visual Object"
+          },
+          {
+            "tag": "H3",
+            "text": "the new management matrix"
+          },
+          {
+            "tag": "H3",
+            "text": "Visual Control"
+          },
+          {
+            "tag": "H4",
+            "text": "Management"
+          },
+          {
+            "tag": "H3",
+            "text": "A.I."
+          },
+          {
+            "tag": "H4",
+            "text": "Artificial Intelligence"
+          },
+          {
+            "tag": "H3",
+            "text": "IoT Devices"
+          },
+          {
+            "tag": "H4",
+            "text": "Management"
+          },
+          {
+            "tag": "H3",
+            "text": "Edge"
+          },
+          {
+            "tag": "H4",
+            "text": "Gateway"
+          },
+          {
+            "tag": "H2",
+            "text": "SOLUTIONS FOR"
+          },
+          {
+            "tag": "H3",
+            "text": "Agriculture"
+          },
+          {
+            "tag": "H3",
+            "text": "Energy"
+          },
+          {
+            "tag": "H3",
+            "text": "Industry"
+          },
+          {
+            "tag": "H3",
+            "text": "Cities"
+          },
+          {
+            "tag": "H3",
+            "text": "Supply Chain"
+          },
+          {
+            "tag": "H3",
+            "text": "Transport"
+          },
+          {
+            "tag": "H2",
+            "text": "GetConnected Technologies"
+          },
+          {
+            "tag": "H2",
+            "text": "Get in touch with our team."
+          }
+        ]
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/platform",
+        "headings": [
+          {
+            "tag": "H1",
+            "text": "The perfect tool to optimize your operation."
+          },
+          {
+            "tag": "H2",
+            "text": "About the ICLab Platform"
+          },
+          {
+            "tag": "H2",
+            "text": "With ICLab Platform, you can have it all"
+          },
+          {
+            "tag": "H3",
+            "text": "Visual Control"
+          },
+          {
+            "tag": "H3",
+            "text": "A.I."
+          },
+          {
+            "tag": "H3",
+            "text": "IoT Devices"
+          },
+          {
+            "tag": "H2",
+            "text": "Ready to See the Platform in Action?"
+          }
+        ]
+      }
+    ]
+  },
+  "productArchitecture": [
+    {
+      "name": "ICLab Platform",
+      "description": "Dashboard kết hợp video, bản đồ, biểu đồ, widget, cảnh báo và dữ liệu vận hành.",
+      "source": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "name": "Multilayer Visual Objects",
+      "description": "Ghép hình ảnh camera với dữ liệu IoT và kết quả Machine Vision thành các lớp thông tin có ngữ cảnh. Trang nguồn công bố khả năng tối đa 32 lớp.",
+      "source": "https://iclab.identifycapacity.com/multilayer-objects",
+      "claimNotIndependentlyVerified": true
+    },
+    {
+      "name": "Visual Control / AI / IoT / Edge",
+      "description": "Bốn nhóm năng lực được trình bày trên home: quản lý video, phân tích AI, quản lý thiết bị IoT và kết nối tại biên.",
+      "source": "https://iclab.identifycapacity.com"
+    }
+  ],
+  "industryPages": [
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture",
+      "heading": "Solutions for Agriculture",
+      "sections": [
+        "The platform for smart agriculture.",
+        "All In One",
+        "Ready to See the Platform in Action?"
+      ],
+      "introduction": [
+        "SOLUTIONS",
+        "Farmers are moving to precision agriculture with IoT sensors to grow their crop yields. IClab tools make it easier to take action only when needed, saving time and resources.",
+        "DECISIONS LEADED BY IMAGES AND DATA"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/cities",
+      "heading": "Solutions for Cities",
+      "sections": [
+        "The platform for smart cities.",
+        "All In One",
+        "Ready to See the Platform in Action?"
+      ],
+      "introduction": [
+        "SOLUTIONS",
+        "From water supply and traffic monitoring to street lighting control, companies and governments are working together to get the most from sensor data to improve quality of life in cities.",
+        "DECISIONS LEADED BY IMAGES AND DATA"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/energy",
+      "heading": "Solutions for Energy",
+      "sections": [
+        "Gateway, endpoints, sensors and accessories for building IoT networks indoors and outdoors.",
+        "All In One",
+        "Ready to See the Platform in Action?"
+      ],
+      "introduction": [
+        "SOLUTIONS",
+        "All stages of the energy industry can benefit from IoT sensors and smart analytics. IClab can be used as the backbone for Advanced Metering Infrastructure (AMI) and other metering systems.",
+        "DECISIONS LEADED BY IMAGES AND DATA"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/industry",
+      "heading": "Solutions for Industry",
+      "sections": [
+        "The platform for Industry.",
+        "All In One",
+        "Ready to See the Platform in Action?"
+      ],
+      "introduction": [
+        "SOLUTIONS",
+        "An interconnected, decentralized and more transparent manufacturing process is obtained by using IoT sensors and computing systems. IClab can handle a huge flow of data from manufacturing while providing great visualizations and insights.",
+        "DECISIONS LEADED BY IMAGES AND DATA"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/supply-chain",
+      "heading": "Solutions for Supply Chain",
+      "sections": [
+        "The platform for Supply Chain.",
+        "All In One",
+        "Ready to See the Platform in Action?"
+      ],
+      "introduction": [
+        "SOLUTIONS",
+        "IoT devices are now enabling continuous real-time supply chain visibility like never before. IClab can be easily integrated with third-party systems that help with data automation and increase efficiency.",
+        "DECISIONS LEADED BY IMAGES AND DATA"
+      ]
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/solutions/transport",
+      "heading": "Solutions for Transport",
+      "sections": [
+        "The platform for Transport.",
+        "All In One",
+        "Ready to See the Platform in Action?"
+      ],
+      "introduction": [
+        "SOLUTIONS",
+        "Telematics and fleet management solutions are now combined to bring insights in real time. Geofences, reports and alerts can be created with IClab to inform the status and history of shipments to end-users and stakeholders.",
+        "DECISIONS LEADED BY IMAGES AND DATA"
+      ]
+    }
+  ],
+  "homepageSections": [
+    {
+      "tag": "H1",
+      "text": "AI-powered Operational Intelligence\nfor Critical Infrastructure"
+    },
+    {
+      "tag": "H2",
+      "text": "IClab Platform"
+    },
+    {
+      "tag": "H3",
+      "text": "The perfect tool to optimize your operation."
+    },
+    {
+      "tag": "H2",
+      "text": "Multilayer Visual Object"
+    },
+    {
+      "tag": "H3",
+      "text": "the new management matrix"
+    },
+    {
+      "tag": "H3",
+      "text": "Visual Control"
+    },
+    {
+      "tag": "H3",
+      "text": "A.I."
+    },
+    {
+      "tag": "H3",
+      "text": "IoT Devices"
+    },
+    {
+      "tag": "H3",
+      "text": "Edge"
+    },
+    {
+      "tag": "H2",
+      "text": "SOLUTIONS FOR"
+    },
+    {
+      "tag": "H3",
+      "text": "Agriculture"
+    },
+    {
+      "tag": "H3",
+      "text": "Energy"
+    },
+    {
+      "tag": "H3",
+      "text": "Industry"
+    },
+    {
+      "tag": "H3",
+      "text": "Cities"
+    },
+    {
+      "tag": "H3",
+      "text": "Supply Chain"
+    },
+    {
+      "tag": "H3",
+      "text": "Transport"
+    },
+    {
+      "tag": "H2",
+      "text": "GetConnected Technologies"
+    },
+    {
+      "tag": "H2",
+      "text": "Get in touch with our team."
+    }
+  ],
+  "navigation": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    }
+  ],
+  "conversion": {
+    "approach": "Tìm hiểu nền tảng và giải pháp, sau đó liên hệ hoặc xem demo. Phần đăng nhập là một luồng riêng, không được truy cập trong quá trình thu thập.",
+    "callsToAction": [
+      {
+        "text": "CONTACT",
+        "url": "https://iclab.identifycapacity.com/contact"
+      },
+      {
+        "text": "Explore Platform",
+        "url": "https://iclab.identifycapacity.com/#platform"
+      },
+      {
+        "text": "Get in Touch",
+        "url": "https://iclab.identifycapacity.com/#contact"
+      },
+      {
+        "text": "Platform Overview",
+        "url": "https://iclab.identifycapacity.com/platform"
+      },
+      {
+        "text": "Learn More",
+        "url": "https://iclab.identifycapacity.com/multilayer-objects"
+      },
+      {
+        "text": "Agriculture\nLearn More →",
+        "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+      },
+      {
+        "text": "Energy\nLearn More →",
+        "url": "https://iclab.identifycapacity.com/solutions/energy"
+      },
+      {
+        "text": "Industry\nLearn More →",
+        "url": "https://iclab.identifycapacity.com/solutions/industry"
+      },
+      {
+        "text": "Cities\nLearn More →",
+        "url": "https://iclab.identifycapacity.com/solutions/cities"
+      },
+      {
+        "text": "Supply Chain\nLearn More →",
+        "url": "https://iclab.identifycapacity.com/solutions/supply-chain"
+      },
+      {
+        "text": "Transport\nLearn More →",
+        "url": "https://iclab.identifycapacity.com/solutions/transport"
+      },
+      {
+        "text": "Contact Us",
+        "url": "mailto:contact@identifycapacity.com"
+      },
+      {
+        "text": "CONTACT US",
+        "url": "https://iclab.identifycapacity.com/contact"
+      },
+      {
+        "text": "contact@identifycapacity.com",
+        "url": "mailto:contact@identifycapacity.com"
+      }
+    ],
+    "contactForms": [],
+    "formSubmissionTested": false
+  },
+  "visualDesign": {
+    "observations": "Phối nền trắng, nền xanh-đen và nền sáng trung tính; điểm nhấn xanh dương, CTA bo tròn, ảnh dashboard và icon công nghệ. Typography được ghi nhận từ CSS tính toán, không phải kiểm chứng độc lập việc tải từng font.",
+    "palette": [
+      {
+        "color": "rgb(30, 32, 36)",
+        "count": 45
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 41
+      },
+      {
+        "color": "rgb(0, 141, 235)",
+        "count": 39
+      },
+      {
+        "color": "rgba(30, 32, 36, 0.8)",
+        "count": 15
+      },
+      {
+        "color": "rgba(255, 255, 255, 0.05)",
+        "count": 6
+      },
+      {
+        "color": "rgba(255, 255, 255, 0.6)",
+        "count": 6
+      },
+      {
+        "color": "rgba(30, 32, 36, 0.7)",
+        "count": 4
+      },
+      {
+        "color": "rgb(23, 26, 33)",
+        "count": 2
+      },
+      {
+        "color": "rgb(242, 239, 232)",
+        "count": 1
+      },
+      {
+        "color": "rgba(255, 255, 255, 0.8)",
+        "count": 1
+      },
+      {
+        "color": "rgba(255, 255, 255, 0.7)",
+        "count": 1
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "text": "AI-powered Operational Intelligence\nfor Critical Infrastructure",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "48px",
+        "weight": "800",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "tag": "H2",
+        "text": "IClab Platform",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "36px",
+        "weight": "700",
+        "color": "rgb(30, 32, 36)"
+      },
+      {
+        "tag": "H3",
+        "text": "The perfect tool to optimize your operation.",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "24px",
+        "weight": "300",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "P",
+        "text": "A Multifunctional Dashboard, designed to integrate the new Multilayer Visual Object with Legacy Cameras, Device Management, Monitoring Functions, Alerts & Notifications, Logs, Video Recording Research, Graphs, Maps as ot",
+        "family": "Roboto, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "P",
+        "text": "Using the world's most advanced connection protocols, a variety of options available to capture the right information on field, with User Management & Security capabilities that you should consider when choosing your nex",
+        "family": "Roboto, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "H2",
+        "text": "Multilayer Visual Object",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "36px",
+        "weight": "700",
+        "color": "rgb(30, 32, 36)"
+      },
+      {
+        "tag": "H3",
+        "text": "the new management matrix",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "24px",
+        "weight": "300",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "P",
+        "text": "Operational and Strategic Decisions are made based in information and for long time we can't see what was happening, only trusting in text data. Multilayer Visual Objects are a representation of data and video, all in on",
+        "family": "Roboto, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "P",
+        "text": "IoT Augmented & Machine Vision in real time.",
+        "family": "Roboto, Arial, sans-serif",
+        "size": "16px",
+        "weight": "600",
+        "color": "rgb(30, 32, 36)"
+      },
+      {
+        "tag": "H3",
+        "text": "Visual Control",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "24px",
+        "weight": "700",
+        "color": "rgb(30, 32, 36)"
+      },
+      {
+        "tag": "P",
+        "text": "Complete video management platform, with advanced and secure resources in the transmission, visualization and recording of images, alarm resources, events, occurrences.",
+        "family": "Roboto, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "H3",
+        "text": "A.I.",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "24px",
+        "weight": "700",
+        "color": "rgb(30, 32, 36)"
+      },
+      {
+        "tag": "P",
+        "text": "Machine Vision for all captured video in order to detect events and objects, providing Insight for Operational & Decision Support, create actions, alarms, reports and forecast scenarios.",
+        "family": "Roboto, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "H3",
+        "text": "IoT Devices",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "24px",
+        "weight": "700",
+        "color": "rgb(30, 32, 36)"
+      },
+      {
+        "tag": "P",
+        "text": "Full IoT device management, receiving online data to be used in the new Multilayer Visual Object's layers. Allow customisations, actions, reporting and integration with other systems.",
+        "family": "Roboto, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "H3",
+        "text": "Edge",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "24px",
+        "weight": "700",
+        "color": "rgb(30, 32, 36)"
+      },
+      {
+        "tag": "P",
+        "text": "End-to-end encryption with SSL security, having improved performance with low bandwidth, scalability, low latency, enhanced security and standardization.",
+        "family": "Roboto, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "color": "rgba(30, 32, 36, 0.8)"
+      },
+      {
+        "tag": "H2",
+        "text": "SOLUTIONS FOR",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "14px",
+        "weight": "400",
+        "color": "rgb(0, 141, 235)"
+      },
+      {
+        "tag": "P",
+        "text": "One platform. Six industries transformed.",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "30px",
+        "weight": "300",
+        "color": "rgba(255, 255, 255, 0.8)"
+      },
+      {
+        "tag": "H3",
+        "text": "Agriculture",
+        "family": "Montserrat, Arial, sans-serif",
+        "size": "20px",
+        "weight": "600",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "layout": "Header điều hướng, hero giàu hình ảnh, các khối mô tả nền tảng kết hợp ảnh dashboard, nhóm năng lực, giải pháp theo ngành, công nghệ kết nối, CTA và footer.",
+    "referenceScreenshots": "screenshots/desktop/",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  "observedTechnology": {
+    "reactDetected": true,
+    "pageAuthorMeta": "Lovable",
+    "stylesheets": [
+      "https://iclab.identifycapacity.com/assets/index-Cc61ABCl.css"
+    ],
+    "scripts": [
+      "https://iclab.identifycapacity.com/assets/index-C7m6lm7u.js",
+      "https://iclab.identifycapacity.com/~flock.js",
+      "https://iclab.identifycapacity.com/__l5e/events.270c78a44fc53e7b.js"
+    ],
+    "caveat": "Chỉ là dấu hiệu quan sát được từ trình duyệt; không kết luận về backend, bảo mật hoặc khả năng vận hành thực tế."
+  },
+  "contentQuality": {
+    "repeatedTitles": [
+      {
+        "value": "Identify Capacity",
+        "urls": [
+          "https://iclab.identifycapacity.com/",
+          "https://iclab.identifycapacity.com/platform",
+          "https://iclab.identifycapacity.com/multilayer-objects",
+          "https://iclab.identifycapacity.com/solutions/agriculture",
+          "https://iclab.identifycapacity.com/solutions/cities",
+          "https://iclab.identifycapacity.com/solutions/energy",
+          "https://iclab.identifycapacity.com/solutions/industry",
+          "https://iclab.identifycapacity.com/solutions/supply-chain",
+          "https://iclab.identifycapacity.com/solutions/transport",
+          "https://iclab.identifycapacity.com/contact",
+          "https://iclab.identifycapacity.com/privacypolicy"
+        ]
+      }
+    ],
+    "repeatedDescriptions": [
+      {
+        "value": "AI-powered Operational Intelligence for Critical Infrastructure",
+        "urls": [
+          "https://iclab.identifycapacity.com/",
+          "https://iclab.identifycapacity.com/platform",
+          "https://iclab.identifycapacity.com/multilayer-objects",
+          "https://iclab.identifycapacity.com/solutions/agriculture",
+          "https://iclab.identifycapacity.com/solutions/cities",
+          "https://iclab.identifycapacity.com/solutions/energy",
+          "https://iclab.identifycapacity.com/solutions/industry",
+          "https://iclab.identifycapacity.com/solutions/supply-chain",
+          "https://iclab.identifycapacity.com/solutions/transport",
+          "https://iclab.identifycapacity.com/contact",
+          "https://iclab.identifycapacity.com/privacypolicy"
+        ]
+      }
+    ],
+    "missingDescriptions": [],
+    "h1CountsToReview": [],
+    "emptyAltImages": [
+      {
+        "url": "https://iclab.identifycapacity.com/",
+        "count": 4
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/platform",
+        "count": 1
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/multilayer-objects",
+        "count": 1
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/solutions/agriculture",
+        "count": 1
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/solutions/cities",
+        "count": 1
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/solutions/energy",
+        "count": 1
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/solutions/industry",
+        "count": 1
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/solutions/supply-chain",
+        "count": 1
+      },
+      {
+        "url": "https://iclab.identifycapacity.com/solutions/transport",
+        "count": 1
+      }
+    ],
+    "horizontalOverflow": [],
+    "browserIssues": [],
+    "caveat": "Ảnh có alt trống có thể là ảnh trang trí; cần rà soát ngữ cảnh. Đây không phải kiểm toán SEO, accessibility, hiệu năng hoặc bảo mật đầy đủ."
+  },
+  "takeawaysForAQPTech": [
+    "Tham khảo cách liên kết hạ tầng máy chủ, GPU và lưu trữ với bài toán vận hành bằng video, AI và IoT.",
+    "Trình bày luồng dữ liệu từ thiết bị hiện trường qua edge đến dashboard, thay vì chỉ liệt kê sản phẩm.",
+    "Tổ chức giải pháp theo ngành và dùng ảnh giao diện thực tế để giải thích giá trị.",
+    "Không sử dụng tên sản phẩm, thương hiệu hoặc tuyên bố tính năng của ICLab như năng lực đã xác nhận của AQPTech."
+  ],
+  "limitations": "Phân tích dựa trên nội dung marketing công khai và ảnh desktop. Không truy cập tài khoản, dashboard vận hành, không gửi biểu mẫu và không xác minh độc lập các tuyên bố tính năng.",
+  "collection": {
+    "pages": 11,
+    "screenshots": 12,
+    "images": 33,
+    "failures": 0,
+    "scope": "11 allowlisted public pages, desktop 1440x1000 full-page screenshots, rendered HTML/text/metadata and public same-origin images. 16 MB per image, 150 MB total images. No authentication or private operational dashboard access; no form submissions; not a complete offline mirror."
+  }
+}

@@ -1,0 +1,60 @@
+.video-analytics-page .about-reference-hero {
+  background: #252525;
+}
+.video-analytics-page .about-hero-photo {
+  left: auto;
+  right: 0;
+  width: 58%;
+  object-position: right 25%;
+}
+.video-analytics-page .about-hero-panel {
+  border-left: 3px solid #cc0033;
+}
+.video-analytics-page .about-hero-geometry:before {
+  right: 14%;
+  width: 210px;
+  height: 130px;
+}
+.video-analytics-page .about-hero-geometry:after {
+  right: -75px;
+  width: 170px;
+}
+.video-analytics-page .industry-terminal-photo {
+  top: 0;
+  height: 100%;
+  object-position: right bottom;
+  clip-path: none;
+  opacity: 0.65;
+}
+@media (max-width: 1000px) {
+  .video-analytics-page .about-hero-photo {
+    width: 75%;
+  }
+}
+@media (max-width: 760px) {
+  .video-analytics-page .about-reference-hero {
+    min-height: 0;
+  }
+  .video-analytics-page .about-hero-photo {
+    width: 100%;
+    opacity: 0.4;
+  }
+  .video-analytics-page .about-hero-panel h1 {
+    font-size: 26px;
+  }
+  .video-analytics-page .about-hero-geometry:before {
+    right: -30px;
+    width: 140px;
+  }
+  .video-analytics-page .about-hero-geometry:after {
+    display: none;
+  }
+  .video-analytics-page .industry-terminal-photo {
+    opacity: 0.2;
+  }
+}
+@media (max-width: 360px) {
+  .video-analytics-page .about-hero-panel h1 {
+    font-size: 23px;
+  }
+}

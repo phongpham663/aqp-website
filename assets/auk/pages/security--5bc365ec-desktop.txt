@@ -1,0 +1,76 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+
+SECURITY
+
+Certified to global standards
+
+Auk holds the ISO 27001:2013 certification (Certificate No. 713250) and validation from top security assessment tools like Security Scorecard, Whistic Trust Catalog by McKinsey & Co, Vulnerability Assessment based on OWASP, and more.
+
+Book A Demo
+Committed to security
+
+Information security is our priority. Thus, we’re committed to international Information Security Management Systems standards. Through risk management, physical and IT security, business continuity, and operational security, our systematic approach safeguards sensitive company information throughout its lifecycle.
+
+End-to-end security, for peace of mind
+Edge devices read-only
+
+Our edge devices are strictly read-only IoT Class 0 or 1, connected to either I/O signals or serial communications ports (RS485, RS232, OPC-UA) without controlling the machine or altering the code.
+
+Encrypted mesh isolated from IT network
+
+Nodes utilize AES encryption (256 bit) and communicate with the gateway on a local radio network. The gateway acts as the sole interface to the IP network with controlled traffic, including IP/Mac address whitelisting, restricted inbound traffic, and destination traffic restriction by domain endpoint whitelisting.
+
+Gateway single point safeguard
+
+Gateway devices are authenticated through per-device public/private key authentication using JSON web tokens (RFC 7519). The tokens are re-signed daily and are valid for a maximum of 24 hours, employing RSA/EC algorithms to verify signatures. TLS 1.2 connection ensures secure data transmission.
+
+Cloud database and server
+
+On the cloud, data in transit and at rest are encrypted by default. We use our cloud provider's services to host database and application services, compliant with ISO 27001 standards and layered with defense-in-depth security. Machine data is anonymized and stored separately from any entity data. The database and server network operate on an internal private network, shielded from public internet traffic, and serve traffic through https (TLS).
+
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

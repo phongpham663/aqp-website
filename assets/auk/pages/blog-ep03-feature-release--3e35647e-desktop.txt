@@ -1,0 +1,77 @@
+Product
+Industries
+Solutions
+Learn
+About Us
+Sign In
+Book A Demo
+
+Blog · 7 March 2025
+
+Auk Community Note EP03: Feature Release
+
+This week, we’re excited to announce the enhancement of 2 features, designed to deliver even greater control and visibility over your manufacturing operations.
+
+What is New?
+
+1. Issue Tagging on a block on existing line/group
+
+Managing issues across a group of machines just got smarter. Our enhanced feature now allows users to tag and categorize issues (downtime reasons) directly at the group level. Whether it’s a recurring downtime event or a quality concern, you can pinpoint inefficiencies, assign priorities, and streamline resolution workflows—all from a single, intuitive interface.
+
+2. Advanced Pareto Loss Duration Analysis
+
+Understanding loss duration is critical to driving efficiency. We’ve upgraded the platform to display both weighted and summed Pareto loss hours for machine groups. This dual-view approach provides a comprehensive picture of where time and resources are slipping away, empowering you to prioritize high-impact improvements with precision.
+
+Real Results, Real Value
+
+Imagine a scenario where a manufacturing client uses these enhancements to identify a group of machines contributing to 20% of their downtime losses. By tagging the issue at the group level and analyzing weighted loss hours, they implement targeted interventions—reducing downtime by 12% in weeks!
+
+Chat with us or contact your Auk Industries engineer should you require a quick explanation!
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

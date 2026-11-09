@@ -1,0 +1,204 @@
+.fi-hero-wrap { position: relative; isolation: isolate; background: #232427; overflow: hidden; }
+.factory-intelligence-page .about-reference-hero { min-height: 535px; background: linear-gradient(105deg, #222327, #2b2d32); }
+.factory-intelligence-page .about-hero-photo { opacity: 0.2; }
+.factory-intelligence-page .about-hero-inner { padding-block: 72px; }
+.factory-intelligence-page .about-hero-panel { width: 510px; background: #262626df; border-left: 2px solid #cc0033; }
+.factory-intelligence-page .about-hero-panel h1 { font-size: 33px; letter-spacing: 0; }
+.factory-intelligence-page .about-hero-panel h2 { font-size: 19px; }
+.factory-intelligence-page .about-hero-geometry { opacity: 0.4; }
+.factory-intelligence-page .home-button { border-radius: 0; }
+.fi-hero-visual { position: absolute; top: 68px; right: max(30px, calc((100% - 1280px) / 2)); width: min(535px, 43%); margin: 0; border: 1px solid #ffffff20; }
+.fi-hero-visual img { width: 100%; height: auto; object-fit: contain; }
+.fi-section-nav { position: sticky; top: 92px; z-index: 50; border-bottom: 0; }
+.fi-section-nav a { min-height: 70px; padding-inline: 18px; font-size: 12px; }
+.fi-section-nav a.is-current { background: #303030; }
+.fi-section-nav a.is-current > span { color: #ff8cab; }
+.fi-reading-progress { position: absolute; left: 0; bottom: 0; height: 3px; width: 100%; background: #cc0033; transform: scaleX(var(--fi-progress, 0)); transform-origin: left; }
+.factory-intelligence-page :is([data-fi-section], .fi-analysis-row, #fi-integrations, #fi-contact) { scroll-margin-top: 90px; }
+.fi-overview { padding-bottom: 48px; }
+.fi-connectivity { padding-block: 56px; background: #f3f3f3; }
+.fi-section-heading { margin-bottom: 32px; }
+.fi-section-heading > p { max-width: 770px; }
+.fi-connectivity-inner { display: grid; grid-template-columns: 1fr 1.08fr; align-items: center; gap: 56px; }
+.fi-connectivity-inner > *, .fi-analysis-row > *, .fi-software-overview > * { min-width: 0; }
+.fi-media { margin: 0; }
+.fi-media img { width: 100%; height: auto; object-fit: contain; }
+.fi-media figcaption { margin-top: 13px; font-size: 10px; line-height: 1.8; color: #666; }
+.fi-connectivity-inner h3, .fi-software-overview h3, .fi-integrations h3, .fi-use-case-heading h3 { font-size: 23px; font-weight: 500; line-height: 1.55; margin-bottom: 18px; }
+.fi-connectivity-points, .fi-analysis-points { display: grid; gap: 20px; list-style: none; padding: 0; margin: 23px 0 0; }
+.fi-connectivity-points li, .fi-analysis-points li { display: flex; align-items: flex-start; gap: 12px; }
+.fi-connectivity-points li > svg, .fi-analysis-points li > svg { width: 17px; height: 17px; color: #cc0033; margin-top: 4px; }
+.fi-connectivity-points h4, .fi-analysis-points h4 { font-size: 13px; font-weight: 600; line-height: 1.7; margin: 0 0 6px; }
+.factory-intelligence-page .fi-connectivity-points p, .factory-intelligence-page .fi-analysis-points p { font-size: 12px; line-height: 1.9; }
+.fi-inline-link { display: inline-flex; align-items: center; gap: 9px; min-height: 44px; max-width: 100%; color: #b0002d; font-size: 12px; font-weight: 500; line-height: 1.8; }
+.fi-inline-link svg { width: 17px; height: 17px; }
+.fi-inline-link:hover { text-decoration: underline; text-underline-offset: 4px; }
+.fi-connectivity-inner .fi-inline-link { margin-top: 17px; }
+.fi-flow { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; padding: 0; margin: 42px 0 0; list-style: none; }
+.fi-flow-step { position: relative; min-width: 0; padding: 19px 17px; background: #fff; border-top: 2px solid #cc0033; }
+.fi-flow-step:not(:last-child)::after { content: ""; position: absolute; right: -15px; top: 46px; width: 14px; height: 1px; background: #cc0033; }
+.fi-flow-top { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 17px; }
+.fi-flow-top > span { font-size: 27px; color: #cc0033; font-weight: 400; line-height: 1.2; }
+.fi-flow-top > svg { width: 27px; height: 27px; color: #555; }
+.fi-flow-step h3 { font-size: 15px; font-weight: 500; line-height: 1.65; margin-bottom: 10px; }
+.factory-intelligence-page .fi-flow-step p { font-size: 11px; line-height: 1.9; }
+.fi-security { display: flex; align-items: flex-start; gap: 21px; margin-top: 26px; padding: 26px 29px; background: #262626; color: #fff; }
+.fi-security > svg { width: 30px; height: 30px; color: #ff8cab; margin-top: 4px; }
+.fi-security h3 { font-size: 18px; font-weight: 500; line-height: 1.6; margin-bottom: 12px; }
+.factory-intelligence-page .fi-security p { color: #ddd; font-size: 12px; line-height: 1.9; }
+.fi-security-tags { display: flex; flex-wrap: wrap; gap: 9px 22px; margin-top: 18px; color: #ffd4df; font-size: 11px; line-height: 1.8; }
+.fi-analytics { padding-block: 60px; }
+.fi-software-overview { display: grid; grid-template-columns: 0.95fr 1.05fr; align-items: center; gap: 34px; padding: 35px; background: #232323; color: #fff; }
+.factory-intelligence-page .fi-software-overview p { color: #ddd; font-size: 13px; line-height: 1.9; }
+.fi-oee-formula { display: block; font-size: 22px; font-weight: 500; color: #ff8cab; letter-spacing: 0.5px; margin-top: 24px; line-height: 1.6; }
+.fi-oee-components { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin: 18px 0 0; border-top: 1px solid #ffffff26; padding-top: 17px; }
+.fi-oee-components > div { min-width: 0; }
+.fi-oee-components dt { font-size: 10px; color: #ffb5c8; line-height: 1.8; }
+.fi-oee-components dd { font-size: 11px; margin: 6px 0 0; line-height: 1.8; color: #eee; }
+.fi-analysis-list { margin-top: 24px; }
+.fi-analysis-row { display: grid; grid-template-columns: 1.08fr 1fr; align-items: center; gap: 45px; padding: 48px 28px; border-bottom: 1px solid #e1e1e1; overflow: hidden; }
+.fi-analysis-row:nth-child(even) { grid-template-columns: 1fr 1.08fr; background: #f4f4f4; }
+.fi-analysis-row:nth-child(even) > .fi-media { order: 2; }
+.fi-analysis-row > .fi-media { --fi-enter-x: -24px; }
+.fi-analysis-row:nth-child(even) > .fi-media { --fi-enter-x: 24px; }
+.fi-analysis-number { display: block; color: #cc0033; font-size: 33px; font-weight: 400; line-height: 1.2; margin-bottom: 8px; }
+.fi-label { display: block; color: #b0002d; font-size: 10px; font-weight: 600; letter-spacing: 1px; line-height: 1.8; margin-bottom: 12px; }
+.fi-analysis-copy h3 { font-size: 23px; font-weight: 500; line-height: 1.55; margin-bottom: 18px; }
+.factory-intelligence-page .fi-analysis-copy > p { font-size: 13px; line-height: 1.9; }
+.factory-intelligence-page .fi-image-note { font-size: 11px; line-height: 1.85; margin-top: 18px; }
+.fi-applications { background: #f3f3f3; padding-block: 60px; }
+.fi-benefit-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 25px; }
+.fi-benefit { min-width: 0; padding: 22px 0 0; border-top: 1px solid #ccc; }
+.fi-benefit > svg { width: 32px; height: 32px; color: #cc0033; margin-bottom: 21px; }
+.fi-benefit h3 { font-size: 17px; font-weight: 500; line-height: 1.6; margin-bottom: 12px; }
+.factory-intelligence-page .fi-benefit p { font-size: 12px; line-height: 1.9; }
+.fi-integrations { margin-top: 44px; padding: 32px; background: #fff; border-left: 3px solid #cc0033; }
+.fi-integrations > div:first-child > p { max-width: 880px; }
+.factory-intelligence-page .fi-integrations p { font-size: 12px; line-height: 1.9; }
+.fi-integration-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 22px; margin-top: 26px; }
+.fi-integration { min-width: 0; border-top: 1px solid #ddd; padding-top: 18px; }
+.fi-integration > span { display: block; font-size: 24px; font-weight: 500; line-height: 1.3; color: #cc0033; margin-bottom: 10px; }
+.fi-integration h4 { font-size: 12px; font-weight: 500; line-height: 1.7; margin: 0 0 8px; }
+.fi-integrations > .fi-inline-link { margin-top: 20px; }
+.fi-use-case-heading { margin-top: 42px; max-width: 800px; }
+.fi-use-case-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 26px 45px; margin-top: 28px; }
+.fi-use-case { display: flex; align-items: flex-start; gap: 12px; min-width: 0; }
+.fi-use-case > svg { width: 18px; height: 18px; color: #cc0033; margin-top: 3px; }
+.fi-use-case h4 { font-size: 14px; font-weight: 500; line-height: 1.7; margin: 0 0 7px; }
+.factory-intelligence-page .fi-use-case p { font-size: 12px; line-height: 1.9; }
+.fi-faq { padding-block: 60px; }
+.fi-faq-list { border-top: 1px solid #ddd; }
+.fi-faq-list details { border-bottom: 1px solid #ddd; }
+.fi-faq-list summary { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-block: 22px; min-height: 76px; font-size: 15px; font-weight: 500; line-height: 1.8; list-style: none; cursor: pointer; }
+.fi-faq-list summary::-webkit-details-marker { display: none; }
+.fi-faq-list summary::marker { content: ""; }
+.fi-faq-list summary > svg { width: 18px; height: 18px; color: #cc0033; transition: transform 200ms; }
+.fi-faq-list details[open] summary > svg { transform: rotate(180deg); }
+.fi-faq-list summary:hover { color: #b0002d; }
+.fi-faq-list details > div { max-width: 930px; padding: 0 38px 24px 0; }
+.factory-intelligence-page .fi-faq-list p { font-size: 13px; line-height: 1.95; }
+.fi-faq > .fi-inline-link { margin-top: 18px; }
+.fi-contact { color: #fff; padding-block: 58px; }
+.fi-contact-inner { max-width: 850px; text-align: center; }
+.fi-contact .industry-kicker { color: #ff8cab; }
+.fi-contact h2 { font-size: 30px; font-weight: 400; line-height: 1.6; margin-bottom: 20px; }
+.factory-intelligence-page .fi-contact p { color: #ddd; font-size: 14px; line-height: 1.9; }
+.fi-contact .industry-hero-actions { justify-content: center; margin-top: 26px; }
+.fi-scope-note { padding-block: 25px; }
+.factory-intelligence-page .fi-scope-note p { font-size: 11px; line-height: 1.85; }
+
+/* Content remains visible without observation or when motion is reduced. */
+.factory-intelligence-page [data-fi-reveal].fi-revealed { animation: fi-reveal 650ms cubic-bezier(0.22, 1, 0.36, 1) var(--fi-delay, 0ms) both; }
+@keyframes fi-reveal {
+  from { opacity: 0; transform: translate3d(var(--fi-enter-x, 0px), 22px, 0); }
+  to { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+@media (max-width: 1200px) {
+  .factory-intelligence-page .about-hero-panel { width: 480px; }
+  .fi-hero-visual { top: 88px; right: 25px; width: 42%; }
+  .fi-connectivity-inner { gap: 35px; }
+  .fi-analysis-row { gap: 32px; padding: 38px 25px; }
+}
+@media (min-width: 761px) and (max-width: 1000px) {
+  .fi-section-nav > div:has(> a:nth-child(4)) { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .fi-section-nav a { padding-inline: 12px; font-size: 11px; gap: 9px; }
+  .fi-section-nav a > svg { display: none; }
+}
+@media (max-width: 1000px) {
+  .factory-intelligence-page .about-hero-panel { width: 46%; padding: 24px; }
+  .factory-intelligence-page .about-hero-panel h1 { font-size: 29px; }
+  .factory-intelligence-page .about-hero-panel h2 { font-size: 17px; }
+  .factory-intelligence-page .about-hero-panel p { font-size: 13px; }
+  .fi-hero-visual { top: 112px; width: 48%; right: 18px; }
+  .fi-flow { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .fi-flow-step::after { display: none; }
+  .fi-software-overview { grid-template-columns: 1fr 1fr; padding: 28px; gap: 26px; }
+  .fi-software-overview h3, .fi-analysis-copy h3 { font-size: 21px; }
+  .fi-analysis-row, .fi-analysis-row:nth-child(even) { grid-template-columns: 1fr 1fr; gap: 27px; padding: 35px 23px; }
+  .fi-benefit-grid, .fi-integration-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 760px) {
+  .factory-intelligence-page .about-reference-hero { min-height: 0; }
+  .factory-intelligence-page .about-hero-inner { padding-block: 32px 26px; }
+  .factory-intelligence-page .about-hero-panel { width: 100%; padding: 22px; }
+  .factory-intelligence-page .about-hero-panel h1 { font-size: 28px; }
+  .factory-intelligence-page .about-hero-geometry { opacity: 0.25; }
+  .fi-hero-visual { position: relative; top: auto; right: auto; width: calc(100% - 40px); max-width: 510px; margin: 0 auto 30px; }
+  .fi-section-nav { position: relative; top: 0; }
+  .fi-section-nav > div { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .fi-section-nav a, .fi-section-nav a:last-child { min-height: 62px; padding: 14px 8px; font-size: 11px; gap: 8px; border: 0; }
+  .fi-section-nav a + a { border-top: 0; }
+  .fi-section-nav a:nth-child(n + 3) { border-top: 1px solid #ffffff26; }
+  .fi-section-nav a > svg { display: none; }
+  .factory-intelligence-page :is([data-fi-section], .fi-analysis-row, #fi-integrations, #fi-contact) { scroll-margin-top: 0; }
+  .fi-overview { padding-bottom: 36px; }
+  .fi-connectivity, .fi-applications { padding-block: 42px; }
+  .fi-section-heading { margin-bottom: 26px; }
+  .fi-connectivity-inner { grid-template-columns: minmax(0, 1fr); gap: 27px; }
+  .fi-connectivity-inner > .fi-media { order: 2; }
+  .fi-connectivity-inner h3, .fi-integrations h3, .fi-use-case-heading h3 { font-size: 21px; }
+  .fi-flow { grid-template-columns: minmax(0, 1fr); margin-top: 29px; gap: 16px; }
+  .fi-flow-step { padding: 22px; }
+  .fi-flow-step:not(:last-child)::after { display: block; top: auto; right: auto; bottom: -17px; left: 33px; width: 1px; height: 16px; }
+  .fi-flow-top { margin-bottom: 13px; }
+  .fi-flow-step h3 { font-size: 17px; }
+  .factory-intelligence-page .fi-flow-step p { font-size: 12px; }
+  .fi-security { padding: 23px 20px; gap: 15px; }
+  .fi-security > svg { width: 25px; height: 25px; }
+  .fi-security h3 { font-size: 17px; }
+  .fi-security-tags { font-size: 10px; gap: 8px 17px; }
+  .fi-analytics { padding-block: 42px; }
+  .fi-software-overview { grid-template-columns: minmax(0, 1fr); padding: 26px 22px; gap: 28px; }
+  .fi-software-overview h3 { font-size: 22px; }
+  .fi-oee-components { gap: 12px; }
+  .fi-oee-components dt { font-size: 9px; }
+  .fi-oee-components dd { font-size: 10px; }
+  .fi-analysis-row, .fi-analysis-row:nth-child(even) { display: flex; flex-direction: column; align-items: stretch; gap: 28px; padding: 31px 22px; }
+  .fi-analysis-row > .fi-media, .fi-analysis-row:nth-child(even) > .fi-media { order: 2; --fi-enter-x: 0px; }
+  .fi-analysis-copy h3 { font-size: 22px; }
+  .fi-analysis-number { font-size: 30px; }
+  .fi-analysis-points { gap: 19px; }
+  .fi-label { font-size: 9px; }
+  .fi-benefit-grid { gap: 25px 20px; }
+  .fi-benefit h3 { font-size: 15px; }
+  .factory-intelligence-page .fi-benefit p { font-size: 11px; }
+  .fi-integrations { margin-top: 32px; padding: 25px 20px; }
+  .fi-integration-grid { gap: 22px 18px; }
+  .fi-integration > span { font-size: 22px; }
+  .fi-integration h4 { font-size: 11px; }
+  .fi-use-case-heading { margin-top: 32px; }
+  .fi-use-case-grid { grid-template-columns: minmax(0, 1fr); gap: 23px; }
+  .fi-faq { padding-block: 42px; }
+  .fi-faq-list summary { font-size: 14px; padding-block: 18px; min-height: 70px; gap: 15px; }
+  .fi-faq-list details > div { padding: 0 0 23px; }
+  .factory-intelligence-page .fi-faq-list p { font-size: 12px; }
+  .fi-contact { padding-block: 42px; }
+  .fi-contact h2 { font-size: 26px; }
+  .factory-intelligence-page .fi-contact p { font-size: 13px; }
+  .fi-contact .industry-hero-actions { gap: 14px; }
+  .fi-scope-note { padding-block: 22px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .factory-intelligence-page [data-fi-reveal], .factory-intelligence-page [data-fi-reveal].fi-revealed { animation: none; opacity: 1; transform: none; }
+  .fi-faq-list summary > svg { transition: none; }
+}

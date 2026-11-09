@@ -1,0 +1,77 @@
+Blog · 28 July 2025
+
+Auk Community Note: Feature Release – Smarter Event Labelling with Signal Integration
+
+We’re excited to share a powerful enhancement to our Event Labelling feature that gives you greater visibility and control over what’s happening on your shop floor — with less manual work.
+
+What’s New?
+
+You can now connect manual button inputs or automatic sensor signals directly into our system to automatically detect and list events as they happen in real-time.
+
+Whether it’s a:
+
+🔄 Changeover
+🛑 Breakdown
+📦 Material shortage
+⏸️ Idle time
+
+These events will appear in a list, ready for your team to review and label with just a few clicks.
+
+Why It Matters
+
+This enhancement makes it easier to:
+
+✅ Standardize event tracking across operators and shifts
+🔍 Identify recurring issues faster with better data context
+⏱️ Reduce time spent on manual entry
+📈 Drive more accurate root cause analysis and CI actions
+
+Let us know if you need any help implementing this great New Feature into your shop floor, making it Smarter and Better Operations everyday!
+
+Explore More Articles
+Auk Community Note: Leveraging Data for TPM
+Read More →
+Auk Community Note EP26: Feature Release – Smart Scheduling
+Read More →
+Auk Community Note EP05: Hidden Opportunity – Uneven Shift Performance
+Read More →
+Maximize the potential of your factory operations today
+Watch Product Video
+Book A Demo
+PRODUCT
+Why Auk
+How It Works
+Software Analytics
+Integrations
+Security
+FAQ
+INDUSTRIES
+Food, Beverage and Consumer Products
+Polymer Molding
+Electronics and Semicon
+Metal Processing & Precision Engineering
+Packaging
+SOLUTIONS
+Digital Performance Management
+Real-time Quality Monitoring
+Energy & Sustainability Enablement
+Labor Productivity Improvement
+Asset Efficiency Optimisation
+Predictive Maintenance
+Material Consumption Analysis
+LEARN
+Case Studies
+Blog
+ABOUT US
+Our Story
+Contact Us
+QUICKLINKS
+Hardware Warranty
+Service Level Agreement
+Find Us On
+
+© 2026 Auk Industries. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Cookie settings

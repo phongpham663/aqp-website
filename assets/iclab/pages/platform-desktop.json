@@ -1,0 +1,423 @@
+{
+  "url": "https://iclab.identifycapacity.com/platform",
+  "title": "Identify Capacity",
+  "description": "AI-powered Operational Intelligence for Critical Infrastructure",
+  "author": "Lovable",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "The perfect tool to optimize your operation."
+    },
+    {
+      "tag": "H2",
+      "text": "About the ICLab Platform"
+    },
+    {
+      "tag": "H2",
+      "text": "With ICLab Platform, you can have it all"
+    },
+    {
+      "tag": "H3",
+      "text": "Visual Control"
+    },
+    {
+      "tag": "H3",
+      "text": "A.I."
+    },
+    {
+      "tag": "H3",
+      "text": "IoT Devices"
+    },
+    {
+      "tag": "H2",
+      "text": "Ready to See the Platform in Action?"
+    }
+  ],
+  "paragraphs": [
+    "ICLAB PLATFORM",
+    "A live dashboard, capable of combining video, widgets, maps, graphs, alerts & notifications — all in one place.",
+    "ICLAB PLATFORM CONCEPT",
+    "The ICLab Platform is a combination of multiple technologies, working behind the scenes to capture, process, calculate and produce the information added to your Dashboards.",
+    "Full video management capabilities are our eyes, Augmented using Machine Vision and information from IoT devices spread across your organisation, all connected with the ICLab Platform.",
+    "Capture the right information with the ICLab Gateway — our edge server with full video management services, also able to monitor IoT & network devices. Transmit live information using a variety of links, including satellite, in Full HD, 4K, 8K or higher.",
+    "MANAGEMENT",
+    "Complete video management platform, with advanced and secure resources in the transmission, visualization and recording of images, alarm resources, events, occurrences.",
+    "ARTIFICIAL INTELLIGENCE",
+    "Machine Vision for all captured video in order to detect events and objects, providing Insight for Operational & Decision Support, create actions, alarms, reports and forecast scenarios.",
+    "MANAGEMENT",
+    "Full IOT device management, receiving online data to be used in the new Multilayer Visual Object's layers. Allow customisations, actions, reporting and integration with other systems.",
+    "Let's talk about how IClab can power your operation."
+  ],
+  "links": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "ICLab Platform",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "Multilayer Visual Objects",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "Agriculture",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "Cities",
+      "url": "https://iclab.identifycapacity.com/solutions/cities"
+    },
+    {
+      "text": "Energy",
+      "url": "https://iclab.identifycapacity.com/solutions/energy"
+    },
+    {
+      "text": "Industry",
+      "url": "https://iclab.identifycapacity.com/solutions/industry"
+    },
+    {
+      "text": "Supply Chain",
+      "url": "https://iclab.identifycapacity.com/solutions/supply-chain"
+    },
+    {
+      "text": "Transport",
+      "url": "https://iclab.identifycapacity.com/solutions/transport"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    },
+    {
+      "text": "CONTACT US",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "PLATFORM",
+      "url": "https://iclab.identifycapacity.com/platform"
+    },
+    {
+      "text": "MULTILAYER OBJECTS",
+      "url": "https://iclab.identifycapacity.com/multilayer-objects"
+    },
+    {
+      "text": "SOLUTIONS",
+      "url": "https://iclab.identifycapacity.com/solutions/agriculture"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "url": "https://iclab.identifycapacity.com/privacypolicy"
+    }
+  ],
+  "navigation": [
+    {
+      "text": "ICLab Technologies",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "HOME",
+      "url": "https://iclab.identifycapacity.com/"
+    },
+    {
+      "text": "TECHNOLOGIES",
+      "url": "https://iclab.identifycapacity.com/#technologies"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://iclab.identifycapacity.com/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://iclab.identifycapacity.com/auth"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "src": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "srcset": "",
+      "alt": "IClab logo",
+      "loaded": true,
+      "width": 286,
+      "height": 288
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/5104c1aa-ca1b-4b6d-813c-1a994683aa59/plataform-iclab.jpg",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/5104c1aa-ca1b-4b6d-813c-1a994683aa59/plataform-iclab.jpg",
+      "srcset": "",
+      "alt": "",
+      "loaded": true,
+      "width": 1280,
+      "height": 573
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/0c567cef-6b12-481c-9178-6dc8c923aca3/img_1.jpg",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/0c567cef-6b12-481c-9178-6dc8c923aca3/img_1.jpg",
+      "srcset": "",
+      "alt": "ICLab Platform",
+      "loaded": true,
+      "width": 1238,
+      "height": 825
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/__l5e/assets-v1/5c7a6106-ef2f-423c-ba54-e606045f1006/img-home_02.png",
+      "src": "https://iclab.identifycapacity.com/__l5e/assets-v1/5c7a6106-ef2f-423c-ba54-e606045f1006/img-home_02.png",
+      "srcset": "",
+      "alt": "ICLab dashboard",
+      "loaded": true,
+      "width": 964,
+      "height": 654
+    },
+    {
+      "url": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "src": "https://iclab.identifycapacity.com/assets/IClab_IC-DoiY9bqq.png",
+      "srcset": "",
+      "alt": "IClab",
+      "loaded": true,
+      "width": 286,
+      "height": 288
+    }
+  ],
+  "backgrounds": [],
+  "forms": [],
+  "colors": [
+    {
+      "color": "rgb(0, 141, 235)",
+      "count": 28
+    },
+    {
+      "color": "rgb(30, 32, 36)",
+      "count": 19
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "count": 17
+    },
+    {
+      "color": "rgba(30, 32, 36, 0.8)",
+      "count": 4
+    },
+    {
+      "color": "rgb(97, 97, 97)",
+      "count": 3
+    },
+    {
+      "color": "rgba(30, 32, 36, 0.75)",
+      "count": 3
+    },
+    {
+      "color": "rgb(23, 26, 33)",
+      "count": 1
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.8)",
+      "count": 1
+    },
+    {
+      "color": "rgba(245, 245, 245, 0.4)",
+      "count": 1
+    }
+  ],
+  "typography": [
+    {
+      "tag": "P",
+      "text": "ICLAB PLATFORM",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(0, 141, 235)"
+    },
+    {
+      "tag": "H1",
+      "text": "The perfect tool to optimize your operation.",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "60px",
+      "weight": "700",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "P",
+      "text": "A live dashboard, capable of combining video, widgets, maps, graphs, alerts & notifications — all in one place.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "20px",
+      "weight": "400",
+      "color": "rgba(255, 255, 255, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "ICLAB PLATFORM CONCEPT",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(0, 141, 235)"
+    },
+    {
+      "tag": "H2",
+      "text": "About the ICLab Platform",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "36px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "The ICLab Platform is a combination of multiple technologies, working behind the scenes to capture, process, calculate and produce the information added to your Dashboards.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "Full video management capabilities are our eyes, Augmented using Machine Vision and information from IoT devices spread across your organisation, all connected with the ICLab Platform.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "P",
+      "text": "Capture the right information with the ICLab Gateway — our edge server with full video management services, also able to monitor IoT & network devices. Transmit live information using a variety of links, including satell",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.8)"
+    },
+    {
+      "tag": "H2",
+      "text": "With ICLab Platform, you can have it all",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "36px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "H3",
+      "text": "Visual Control",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "MANAGEMENT",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(97, 97, 97)"
+    },
+    {
+      "tag": "P",
+      "text": "Complete video management platform, with advanced and secure resources in the transmission, visualization and recording of images, alarm resources, events, occurrences.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.75)"
+    },
+    {
+      "tag": "H3",
+      "text": "A.I.",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "ARTIFICIAL INTELLIGENCE",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(97, 97, 97)"
+    },
+    {
+      "tag": "P",
+      "text": "Machine Vision for all captured video in order to detect events and objects, providing Insight for Operational & Decision Support, create actions, alarms, reports and forecast scenarios.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.75)"
+    },
+    {
+      "tag": "H3",
+      "text": "IoT Devices",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "24px",
+      "weight": "700",
+      "color": "rgb(30, 32, 36)"
+    },
+    {
+      "tag": "P",
+      "text": "MANAGEMENT",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgb(97, 97, 97)"
+    },
+    {
+      "tag": "P",
+      "text": "Full IOT device management, receiving online data to be used in the new Multilayer Visual Object's layers. Allow customisations, actions, reporting and integration with other systems.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "color": "rgba(30, 32, 36, 0.75)"
+    },
+    {
+      "tag": "H2",
+      "text": "Ready to See the Platform in Action?",
+      "family": "Montserrat, Arial, sans-serif",
+      "size": "36px",
+      "weight": "700",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "P",
+      "text": "Let's talk about how IClab can power your operation.",
+      "family": "Roboto, Arial, sans-serif",
+      "size": "18px",
+      "weight": "400",
+      "color": "rgb(255, 255, 255)"
+    }
+  ],
+  "stylesheets": [
+    "https://iclab.identifycapacity.com/assets/index-Cc61ABCl.css"
+  ],
+  "scripts": [
+    "https://iclab.identifycapacity.com/assets/index-C7m6lm7u.js",
+    "https://iclab.identifycapacity.com/~flock.js",
+    "https://iclab.identifycapacity.com/__l5e/events.270c78a44fc53e7b.js"
+  ],
+  "reactDetected": true,
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "dimensions": {
+    "width": 1440,
+    "height": 2974
+  },
+  "capturedAt": "2026-11-07T16:53:56.233Z",
+  "issues": []
+}

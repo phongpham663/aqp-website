@@ -1,0 +1,379 @@
+{
+  "source": "https://wt-security.com/en-gb/application/event-security",
+  "startedAt": "2026-11-08T10:57:17.652Z",
+  "state": "complete",
+  "scope": "One public Event Security page, original/rendered HTML, text, embedded JSON, its two public display-data endpoints, metadata, desktop/mobile screenshots and publicly referenced images from wt-security.com and its Storyblok space 236211. 16 MB per image, 100 MB total images. No login, form submissions, portal, other pages, video streams or tracking requests.",
+  "rightsNote": "Downloaded content, images and trademarks belong to their owners; collection does not grant reuse rights.",
+  "pages": [
+    {
+      "url": "https://wt-security.com/en-gb/application/event-security",
+      "status": 200,
+      "capturedAt": "2026-11-08T10:57:19.028Z",
+      "artifacts": [
+        {
+          "file": "pages/event-security-source.html",
+          "bytes": 380151,
+          "sha256": "0a8a87559b5b606aba703335eefd27814d2b393e411b8339a20cfc5f3c34d790"
+        },
+        {
+          "file": "pages/event-security-solutionsData.json",
+          "bytes": 149501,
+          "sha256": "5acf5fd69253489a80dd91f010f0bc691d13e9a4b5b0bbac14555d6de5933b20"
+        },
+        {
+          "file": "pages/event-security-newsData.json",
+          "bytes": 33412,
+          "sha256": "7081786d02bd0279a6d244d27fbe6a4b101c2c59ea1ae972d45c1113c1858ea4"
+        },
+        {
+          "file": "pages/event-security-desktop.html",
+          "bytes": 452761,
+          "sha256": "782ee5a543599572a8a4af9dcef7dec9a899f9b64a7ad8d26485716f2c432cda"
+        },
+        {
+          "file": "pages/event-security-desktop.txt",
+          "bytes": 4967,
+          "sha256": "1dcbab45eb7ffbc2fd7ab2ccca1ba12f0fec13ee91b928cedc60cfcc873a8f7b"
+        },
+        {
+          "file": "pages/event-security-desktop.json",
+          "bytes": 385184,
+          "sha256": "0f99b270ea7226f6a0fae12d323b66fc462f252723b126b94b8329134d780acc"
+        },
+        {
+          "file": "pages/event-security-embedded-data.json",
+          "bytes": 356724,
+          "sha256": "1eb69d95b971f77d4fbb886198136070745dbe4f0622829d3e4244a2e47bc549"
+        },
+        {
+          "file": "pages/event-security-content.txt",
+          "bytes": 3996,
+          "sha256": "f32945e27a35efba21992b3db8b9a6b04f650931ba326b8a3b1267775425132b"
+        },
+        {
+          "file": "pages/event-security-mobile.html",
+          "bytes": 452917,
+          "sha256": "7a507a625ec284d929c28de61033c63752efd6edf864341b255567e0ab0306ff"
+        },
+        {
+          "file": "pages/event-security-mobile.txt",
+          "bytes": 4910,
+          "sha256": "0b351b0177fb44f4fe4ddacf09609088cd9bdae40736cbd5659bbf856b237dff"
+        },
+        {
+          "file": "pages/event-security-mobile.json",
+          "bytes": 385208,
+          "sha256": "82233cce2a5dc680f85a55307e4c489c28b8c25d586617a76a48155763f67a5f"
+        }
+      ],
+      "issues": [],
+      "title": "Event security · Watchtower Security Solutions"
+    }
+  ],
+  "screenshots": [
+    {
+      "device": "desktop",
+      "url": "https://wt-security.com/en-gb/application/event-security",
+      "file": "screenshots/desktop/event-security.png",
+      "bytes": 4798839,
+      "sha256": "dcac601471c6a0aa5bbe283867522f43badd1d1106225a010f6bcd6094b22645"
+    },
+    {
+      "device": "mobile",
+      "url": "https://wt-security.com/en-gb/application/event-security",
+      "file": "screenshots/mobile/event-security.png",
+      "bytes": 2723770,
+      "sha256": "3ae8672efc3030d6be3b7aae37ecba065b2561e5832f1dceb1977a3b37b2e64f"
+    }
+  ],
+  "downloaded": [
+    {
+      "url": "https://a.storyblok.com/f/236211/2700x1516/7e713b012c/eventsecurity-marathon.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/eventsecurity-marathon--997233d31a.jpg",
+      "bytes": 7073843,
+      "sha256": "f8eb2bd4e5bf52f6a30901096aa0c724f6cd5926e3289d1d73ec55da01a3ec34"
+    },
+    {
+      "url": "https://wt-security.com/_next/static/media/flags.02985cd6.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/flags-02985cd6--048386cdd1.png",
+      "bytes": 18747,
+      "sha256": "7f185c1c5d97de56e16234b367ba43ce86ac0db8e9d7877062feb75288147f01"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/2881x1632/df8eaccc18/wt-outline.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/wt-outline--80f8b2c6c8.jpg",
+      "bytes": 247953,
+      "sha256": "0d3130ea1c207e57bffaff57f427c3df869d33f7d383bdce707cbdc118f79210"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/1600x1200/294869d79f/wts-be-project-20250911-4.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/wts-be-project-20250911-4--40e08dc6b1.jpg",
+      "bytes": 277952,
+      "sha256": "54099d7224c47a4417890b167370e95035616557b7513840a16c3b8684a3400b"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/4000x6000/bae509e068/watchtower-360-close-up.JPG",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/watchtower-360-close-up--1937592aa0.jpg",
+      "bytes": 5774687,
+      "sha256": "8e604f8299b13fb9e248d0dd1feab1eb24f0c1b068e73bc6581522628847e50f"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/5472x3648/2e93990c0c/afvalverwerking-bedrijf.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/afvalverwerking-bedrijf--c088c2030f.jpg",
+      "bytes": 4476843,
+      "sha256": "8272971efb9f4d2a6eb5929e9ca3064cc78259c4f56c9e930ea8c3d513e166be"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/1095x730/7430050d8a/watchtower-solutions-images-00019.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/watchtower-solutions-images-00019--36a7cae0ac.jpg",
+      "bytes": 49319,
+      "sha256": "40a3cd7439a88233acb848d713638351162f23ce3dc193e5dcc1fca4122025f7"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/5921x3947/aaea9ae5e0/famingjia-inventor-rltwtw1pqi0-unsplash.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/famingjia-inventor-rltwtw1pqi0-unsplash--b29d2893fa.jpg",
+      "bytes": 3326922,
+      "sha256": "2c732ff5929bb2365c01a5bcf43f913c7477f2745167145c473e32d7eb52a343"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/5464x3640/8d480bdbeb/zonnepark-header.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/zonnepark-header--a75cdae5f0.jpg",
+      "bytes": 2132987,
+      "sha256": "cdb2f2e474a34ea4b89f7ee6d368b430f0580a4b774438b0fcc41473c1f44539"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/1920x1080/8a5eb4c932/header-image-watchbox.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/header-image-watchbox--33cc403ea2.jpg",
+      "bytes": 384577,
+      "sha256": "5b7c54fc15bf092bc76c915f540a2b7d1373dd5d5dc8598263bc277e98a01b23"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/1200x1200/46c7e376ed/watchtower-inside-security-set.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/watchtower-inside-security-set--2b171e38ff.jpg",
+      "bytes": 209178,
+      "sha256": "f6ef9d2518b9637764d581a8ee13620c3111d701ec0a42fe1c270b527878e638"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/6720x4480/98a4489570/watchtower-uk-photography-wt-1-86.jpg",
+      "kind": "images",
+      "type": "jpg",
+      "contentType": "image/jpeg",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/watchtower-uk-photography-wt-1-86--29e28064b1.jpg",
+      "bytes": 304837,
+      "sha256": "d6a798c81b83741ca921765f6d1763ae0303e23dbab5a1783c878efa1e6484ce"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/3840x2160/5e5298b704/wts_celsius_render.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/wts_celsius_render--d0d2724c90.png",
+      "bytes": 7045702,
+      "sha256": "7f58918f606c5dc00794bb07589040ea19ab33bc57f4e8620002dabeb7e961e9"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/600x250/faace99eb4/wts-app.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/wts-app--c0c9551f3a.png",
+      "bytes": 267272,
+      "sha256": "eebc84e485564ab7d2788e1f59431682286aa90d04448f89e7aeb7fc6fd5721c"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/774x440/44cefc07a5/chas_logo1.webp",
+      "kind": "images",
+      "type": "webp",
+      "contentType": "image/webp",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/chas_logo1--2b836a7952.webp",
+      "bytes": 14024,
+      "sha256": "84ab146729bce020f85fd8cba298321e2d6a71f8bd4246c54fa579b33c084072"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/400x180/d76d73a7eb/2.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/2--c9003ff3a7.png",
+      "bytes": 16408,
+      "sha256": "3b18fb4d2714a2a1058f14ac890041abba643bfe6a6f904422cfc6717e611d78"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/2028x1249/a33aaabae3/securedbydesign.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/securedbydesign--d2b40a58b9.png",
+      "bytes": 92404,
+      "sha256": "1a973581257f783bb4844682f8af1daf90c043f89c7e4eda3dea35769da03a03"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/600x575/0543c973b7/iso-logo-transparent-white.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/iso-logo-transparent-white--8af12028db.png",
+      "bytes": 29816,
+      "sha256": "3ab2bfee41322318d02a76691d6911cfbe971e7bd36eef98691a1969305530c1"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/376x82/1e061841f1/wt-logo-light.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/wt-logo-light--1f22c11e79.png",
+      "bytes": 3336,
+      "sha256": "8957a4bca40b091ce28e58838b12f22600f77aad9926977707bbcfdc10c11def"
+    },
+    {
+      "url": "https://a.storyblok.com/f/236211/2028x1249/d9dd13b84d/securedbydesign.png",
+      "kind": "images",
+      "type": "png",
+      "contentType": "image/png",
+      "sourcePages": [
+        "https://wt-security.com/en-gb/application/event-security"
+      ],
+      "file": "images/securedbydesign--a8580047ba.png",
+      "bytes": 92404,
+      "sha256": "1a973581257f783bb4844682f8af1daf90c043f89c7e4eda3dea35769da03a03"
+    }
+  ],
+  "failures": [],
+  "skipped": [],
+  "imageReferences": [
+    "https://a.storyblok.com/f/236211/2700x1516/7e713b012c/eventsecurity-marathon.jpg",
+    "https://wt-security.com/_next/static/media/flags.02985cd6.png",
+    "https://a.storyblok.com/f/236211/2881x1632/df8eaccc18/wt-outline.jpg",
+    "https://a.storyblok.com/f/236211/1600x1200/294869d79f/wts-be-project-20250911-4.jpg",
+    "https://a.storyblok.com/f/236211/4000x6000/bae509e068/watchtower-360-close-up.JPG",
+    "https://a.storyblok.com/f/236211/5472x3648/2e93990c0c/afvalverwerking-bedrijf.jpg",
+    "https://a.storyblok.com/f/236211/1095x730/7430050d8a/watchtower-solutions-images-00019.jpg",
+    "https://a.storyblok.com/f/236211/5921x3947/aaea9ae5e0/famingjia-inventor-rltwtw1pqi0-unsplash.jpg",
+    "https://a.storyblok.com/f/236211/5464x3640/8d480bdbeb/zonnepark-header.jpg",
+    "https://a.storyblok.com/f/236211/1920x1080/8a5eb4c932/header-image-watchbox.jpg",
+    "https://a.storyblok.com/f/236211/1200x1200/46c7e376ed/watchtower-inside-security-set.jpg",
+    "https://a.storyblok.com/f/236211/6720x4480/98a4489570/watchtower-uk-photography-wt-1-86.jpg",
+    "https://a.storyblok.com/f/236211/3840x2160/5e5298b704/wts_celsius_render.png",
+    "https://a.storyblok.com/f/236211/600x250/faace99eb4/wts-app.png",
+    "https://a.storyblok.com/f/236211/774x440/44cefc07a5/chas_logo1.webp",
+    "https://a.storyblok.com/f/236211/400x180/d76d73a7eb/2.png",
+    "https://a.storyblok.com/f/236211/2028x1249/a33aaabae3/securedbydesign.png",
+    "https://a.storyblok.com/f/236211/600x575/0543c973b7/iso-logo-transparent-white.png",
+    "https://a.storyblok.com/f/236211/376x82/1e061841f1/wt-logo-light.png",
+    "https://a.storyblok.com/f/236211/2028x1249/d9dd13b84d/securedbydesign.png"
+  ],
+  "robots": [
+    {
+      "origin": "https://wt-security.com",
+      "status": "available",
+      "artifact": {
+        "file": "discovery/wt-security.com-robots.txt",
+        "bytes": 122,
+        "sha256": "1d9c1c3698b8a151cd7db5f4f0c6b8d1ac7770061ad961f87497a36407b49bba"
+      }
+    },
+    {
+      "origin": "https://a.storyblok.com",
+      "status": "unavailable",
+      "error": "HTTP 403"
+    }
+  ],
+  "blockedRequestCounts": {
+    "GET userlyze.com script": 1,
+    "GET xignals.net script": 1,
+    "GET cdn.popt.in script": 1,
+    "GET connection.wt-security.com script": 1,
+    "GET wt-security.com fetch": 26
+  },
+  "finishedAt": "2026-11-08T10:57:38.232Z"
+}
