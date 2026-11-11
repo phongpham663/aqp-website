@@ -90,7 +90,6 @@ export function seaportsPage({ icon }) {
         imageAlt: "Tàu container và hệ thống cần cẩu tại cảng biển vào buổi tối",
         imageWidth: 730,
         imageHeight: 940,
-        videoUrl: "https://www.youtube.com/watch?v=dUytsxdoidc",
       },
       overview: {
         title: "Một góc nhìn chung cho toàn bộ cảng",
@@ -114,7 +113,6 @@ export function seaportsPage({ icon }) {
       },
       resources: {
         title: "Tìm hiểu thêm về giải pháp cảng biển",
-        brochureUrl: "https://www.magalsolutions.com/wp-content/uploads/Seaport-brochure-1.pdf",
         sourceName: "Seaports & Terminals",
       },
     },

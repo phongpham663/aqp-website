@@ -159,7 +159,6 @@
   line-height: 1.8;
 }
 .contact-reference-fields input,
-.contact-reference-fields select,
 .contact-reference-fields textarea {
   display: block;
   margin-top: 8px;
@@ -181,9 +180,6 @@
 .contact-reference-fields textarea {
   min-height: 160px;
   resize: vertical;
-}
-.contact-reference-fields select {
-  min-height: 42px;
 }
 .contact-field-full,
 .contact-name-field {
@@ -227,167 +223,11 @@
   line-height: 1.8;
   max-width: 470px;
 }
-.contact-region-section {
-  padding-block: 0 70px;
-}
-.contact-region-section > h2 {
-  font-size: 25px;
-  line-height: 1.5;
-  text-transform: uppercase;
-  font-weight: 400;
-  margin-bottom: 15px;
-}
-.home-page .contact-region-section > p:not(.contact-map-status) {
-  font-size: 12px;
-  line-height: 1.9;
-}
-.contact-worldmap {
-  position: relative;
-  margin: 45px 0 0;
-  min-height: 300px;
-}
-.contact-world-svg {
-  display: block;
-  width: 100%;
-  height: auto;
-  aspect-ratio: 1000/560;
-  overflow: hidden;
-  touch-action: pan-y;
-}
-.contact-world-svg.can-pan {
-  cursor: grab;
-}
-.contact-world-svg.is-dragging {
-  cursor: grabbing;
-}
-.contact-map-country {
-  fill: #e3e3e3;
-  stroke: #fff;
-  stroke-width: 0.5;
-}
-.contact-map-country.is-selected {
-  fill: #cc0033;
-}
-.contact-map-controls {
-  position: absolute;
-  right: 7px;
-  bottom: 34px;
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-.contact-map-controls > button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 34px;
-  height: 34px;
-  border: 1px solid #ddd;
-  background: #eee;
-  padding: 6px;
-  color: #333;
-}
-.contact-map-controls > button:hover:not(:disabled) {
-  background: #ddd;
-}
-.contact-map-controls > button:disabled {
-  opacity: 0.45;
-  cursor: default;
-}
-.contact-map-controls svg {
-  width: 19px;
-  height: 19px;
-}
-.contact-map-loading {
-  position: absolute;
-  top: 35px;
-  left: 20px;
-  right: 20px;
-  text-align: center;
-  font-size: 11px !important;
-  color: #666;
-}
-.contact-worldmap figcaption {
-  color: #666;
-  font-size: 9px;
-  line-height: 1.8;
-  padding-top: 14px;
-}
-.contact-worldmap figcaption > a {
-  text-decoration: underline;
-}
-.home-page .contact-map-status {
-  font-size: 10px;
-  margin-top: 18px;
-  color: #666;
-}
-.contact-region-cards {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 52px 105px;
-  margin-top: 44px;
-}
-.contact-region-cards h3 {
-  color: #cc0033;
-  font-size: 17px;
-  font-weight: 500;
-  line-height: 1.6;
-  margin-bottom: 14px;
-}
-.home-page .contact-region-cards p {
-  font-size: 11px;
-  line-height: 1.9;
-}
-.contact-region-cards ul {
-  list-style: none;
-  padding: 0;
-  margin: 16px 0 20px;
-}
-.contact-region-cards li {
-  position: relative;
-  padding-left: 25px;
-  font-size: 12px;
-  line-height: 1.9;
-  margin-top: 9px;
-}
-.contact-region-cards li:before {
-  content: "";
-  position: absolute;
-  left: 7px;
-  top: 9px;
-  border-top: 6px solid #cc0033;
-  border-inline: 6px solid transparent;
-}
-.contact-region-choice {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 9px 14px;
-  background: #fff;
-  border: 1px solid #ddd;
-  font-size: 11px;
-  color: #cc0033;
-  min-height: 39px;
-}
-.contact-region-choice svg {
-  width: 15px;
-  height: 15px;
-}
-.contact-region-choice:hover {
-  border-color: #cc0033;
-}
-.contact-region-choice[aria-pressed="true"] {
-  background: #cc0033;
-  color: white;
-  border-color: #cc0033;
-}
 .contact-reference-page .home-footer {
   padding-top: 50px;
 }
 @media (max-width: 1200px) {
-  .contact-reference-layout,
-  .contact-region-cards {
+  .contact-reference-layout {
     column-gap: 70px;
   }
   .contact-support-bar {
@@ -399,8 +239,7 @@
   }
 }
 @media (max-width: 1000px) {
-  .contact-reference-layout,
-  .contact-region-cards {
+  .contact-reference-layout {
     column-gap: 40px;
   }
   .contact-reference-info figure img {
@@ -418,16 +257,12 @@
     gap: 22px 13px;
   }
   .contact-reference-fields input,
-  .contact-reference-fields select,
   .contact-reference-fields textarea {
     padding-inline: 10px;
     font-size: 11px;
   }
   .contact-details dd {
     font-size: 15px;
-  }
-  .contact-region-cards h3 {
-    font-size: 16px;
   }
 }
 @media (max-width: 760px) {
@@ -487,7 +322,6 @@
     font-size: 11px;
   }
   .contact-reference-fields input,
-  .contact-reference-fields select,
   .contact-reference-fields textarea {
     font-size: 12px;
     padding: 12px;
@@ -513,67 +347,6 @@
   .home-page .contact-reference-form .form-footnote {
     font-size: 9px;
   }
-  .contact-region-section {
-    padding-bottom: 45px;
-  }
-  .contact-region-section > h2 {
-    font-size: 24px;
-    margin-bottom: 13px;
-  }
-  .home-page .contact-region-section > p:not(.contact-map-status) {
-    font-size: 11px;
-  }
-  .contact-worldmap {
-    margin-top: 32px;
-    min-height: 0;
-    padding-bottom: 55px;
-  }
-  .contact-map-controls {
-    bottom: 0;
-    right: 0;
-    flex-direction: row;
-    gap: 7px;
-  }
-  .contact-map-controls > button {
-    width: 42px;
-    height: 42px;
-  }
-  .contact-worldmap figcaption {
-    font-size: 8px;
-    line-height: 1.9;
-    padding-top: 13px;
-  }
-  .contact-map-loading {
-    top: 20px;
-    font-size: 10px !important;
-  }
-  .home-page .contact-map-status {
-    font-size: 9px;
-    margin-top: 18px;
-  }
-  .contact-region-cards {
-    grid-template-columns: 1fr;
-    gap: 31px;
-    margin-top: 32px;
-  }
-  .contact-region-cards > section + section {
-    border-top: 1px solid #ddd;
-    padding-top: 26px;
-  }
-  .contact-region-cards h3 {
-    font-size: 17px;
-    margin-bottom: 12px;
-  }
-  .home-page .contact-region-cards p {
-    font-size: 11px;
-  }
-  .contact-region-cards li {
-    font-size: 11px;
-  }
-  .contact-region-choice {
-    font-size: 11px;
-    min-height: 42px;
-  }
   .contact-reference-page .home-footer {
     padding-top: 35px;
   }
@@ -589,8 +362,5 @@
   }
   .contact-name-inputs input::placeholder {
     font-size: 10px;
-  }
-  .contact-region-section > h2 {
-    font-size: 22px;
   }
 }

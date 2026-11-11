@@ -303,9 +303,6 @@
 .sa-contact h2 { font-size: 32px; font-weight: 400; line-height: 1.55; margin-bottom: 20px; }
 .store-analytics-page .sa-contact p { color: #ddd; font-size: 14px; line-height: 1.9; }
 .sa-contact .industry-hero-actions { justify-content: center; margin-top: 28px; }
-.sa-resources { padding-block: 28px; }
-.store-analytics-page .sa-resources p { font-size: 11px; line-height: 1.85; }
-.sa-resources .sa-inline-link { margin-top: 8px; font-size: 11px; }
 
 /* Scroll effects enhance content that stays readable without observation. */
 .store-analytics-page [data-sa-reveal].sa-revealed {
@@ -402,7 +399,6 @@
   .sa-contact h2 { font-size: 27px; }
   .store-analytics-page .sa-contact p { font-size: 13px; }
   .sa-contact .industry-hero-actions { gap: 14px; }
-  .sa-resources { padding-block: 24px; }
 }
 @media (prefers-reduced-motion: reduce) {
   .store-analytics-page [data-sa-reveal],

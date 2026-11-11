@@ -55,8 +55,8 @@ test("Factory Intelligence uses local sized images and distinguishes demo data f
   }
   assert.equal(images.filter((image) => image.includes('loading="lazy"')).length, 5);
   assert.equal(images.filter((image) => image.includes('fetchpriority="high"')).length, 2);
-  for (const text of ["dữ liệu minh họa", "không phải kết quả triển khai", "Không mặc định mọi máy", "thời gian lưu giữ", "được phê duyệt", "không hàm ý quan hệ đối tác", "thử nghiệm thực tế"]) assert.ok(html.includes(text));
-  assert.doesNotMatch(html, /10,000|10\.000|30 phút|ISO|27001|50%|cam kết ROI|đảm bảo tăng/i);
+  for (const text of ["dữ liệu minh họa", "không phải kết quả triển khai", "Không mặc định mọi máy", "thời gian lưu giữ", "được phê duyệt", "không hàm ý quan hệ đối tác", "thử nghiệm trước khi nhân rộng"]) assert.ok(html.includes(text), text);
+  assert.doesNotMatch(html, /fi-scope-note|Hình ảnh giao diện và minh họa tham khảo|10,000|10\.000|30 phút|ISO|27001|50%|cam kết ROI|đảm bảo tăng/i);
 });
 
 test("Factory Intelligence supports responsive reading, keyboard FAQs, navigation and reduced motion", async () => {

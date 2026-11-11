@@ -1,6 +1,5 @@
 import { referenceHero } from "./about.js";
 import { products } from "./data.js";
-const brochureUrl = "/assets/magal/documents/Fortis-X-Brochure--22ee02e812.pdf";
 
 const features = [
   ["Khả năng tích hợp", "Kết nối các hệ thống và cảm biến thành một hệ sinh thái thống nhất, hỗ trợ trao đổi dữ liệu và điều hành theo thời gian thực."],
@@ -58,16 +57,16 @@ export function veolinkPage({ icon }) {
     imageAlt: "Nhân viên điều hành theo dõi dữ liệu và màn hình giám sát tại trung tâm điều khiển",
     imageWidth: 1208,
     imageHeight: 1081,
-    actions: `<div class="industry-hero-actions"><a class="home-button" href="${contactUrl}">Tư vấn Veolink${icon("arrow-up-right")}</a><a class="industry-video-link" href="https://www.youtube.com/watch?v=80EWEtl7aCA" target="_blank" rel="noopener noreferrer">${icon("play")}Xem video Fortis X<span class="sr-only"> (tư liệu Magal, tiếng Anh, mở tab mới)</span></a></div>`,
+    actions: `<div class="industry-hero-actions"><a class="home-button" href="${contactUrl}">Tư vấn Veolink${icon("arrow-up-right")}</a></div>`,
   })}
 
-  <nav class="industry-section-nav" aria-label="Nội dung giải pháp Veolink"><div class="container" style="--industry-nav-count:3"><a href="#veolink-features"><span>01</span>Năng lực kỹ thuật${icon("arrow-right")}</a><a href="#veolink-benefits"><span>02</span>Lợi ích giải pháp${icon("arrow-right")}</a><a href="#veolink-resources"><span>03</span>Tài liệu & tư vấn${icon("arrow-right")}</a></div></nav>
+  <nav class="industry-section-nav" aria-label="Nội dung giải pháp Veolink"><div class="container" style="--industry-nav-count:3"><a href="#veolink-features"><span>01</span>Năng lực kỹ thuật${icon("arrow-right")}</a><a href="#veolink-benefits"><span>02</span>Lợi ích giải pháp${icon("arrow-right")}</a><a href="#veolink-resources"><span>03</span>Liên hệ tư vấn${icon("arrow-right")}</a></div></nav>
 
   <section class="container industry-overview" aria-labelledby="veolink-overview-title">
     <nav class="industry-breadcrumb" aria-label="Đường dẫn"><a href="/">Trang chủ</a><span aria-hidden="true">/</span><a href="/products">Sản phẩm</a><span aria-hidden="true">/</span><span aria-current="page">Veolink</span></nav>
     <span class="industry-kicker" lang="en">${solution.label}</span>
     <h2 id="veolink-overview-title" class="industry-section-title">Nhiều hệ thống. Một góc nhìn điều hành.</h2>
-    <div class="industry-overview-grid"><p>Khi camera, cảm biến, kiểm soát ra vào và dữ liệu vận hành hoạt động riêng lẻ, thông tin dễ bị phân tán. Veolink hướng đến kết nối các phân hệ trên một giao diện chung, hỗ trợ quản lý công việc hằng ngày và phối hợp trong tình huống khẩn cấp.</p><p>Nội dung được xây dựng theo mô hình điều hành tích hợp C5I, tham khảo giải pháp Fortis X của Magal. AQPTech tiếp cận từ hiện trạng hạ tầng, quy trình và nhu cầu của từng cơ sở để xác định phương án tích hợp phù hợp.</p></div>
+    <div class="industry-overview-grid"><p>Khi camera, cảm biến, kiểm soát ra vào và dữ liệu vận hành hoạt động riêng lẻ, thông tin dễ bị phân tán. Veolink hướng đến kết nối các phân hệ trên một giao diện chung, hỗ trợ quản lý công việc hằng ngày và phối hợp trong tình huống khẩn cấp.</p><p>AQPTech tiếp cận từ hiện trạng hạ tầng, quy trình và nhu cầu của từng cơ sở để xác định phương án tích hợp phù hợp.</p></div>
   </section>
 
   <section id="veolink-features" class="container veolink-features" aria-labelledby="veolink-features-title">
@@ -80,5 +79,5 @@ export function veolinkPage({ icon }) {
 
   <section id="veolink-benefits" class="veolink-benefits" aria-labelledby="veolink-benefits-title"><div class="container"><span class="industry-kicker">02 / GIÁ TRỊ VẬN HÀNH</span><h2 id="veolink-benefits-title" class="industry-section-title">Từ thông tin đến hành động.</h2><p class="veolink-benefits-lead">Một nền tảng kết nối để hiểu rõ tình huống, phối hợp hiệu quả và thích ứng cùng sự phát triển của hệ thống.</p><div class="industry-benefit-grid">${benefits.map((item) => `<article class="industry-benefit">${icon(item.icon)}<h3>${item.title}</h3><p>${item.text}</p></article>`).join("")}</div></div></section>
 
-  <section id="veolink-resources" class="container veolink-resources" aria-labelledby="veolink-resources-title"><span class="industry-kicker">03 / TÀI LIỆU & TƯ VẤN</span><h2 id="veolink-resources-title" class="industry-section-title">Bắt đầu từ nhu cầu của bạn.</h2><div class="industry-resources"><div><h3>Khám phá mô hình điều hành tích hợp C5I</h3><a href="${brochureUrl}" target="_blank" rel="noopener noreferrer">${icon("download")}Xem brochure Fortis X${icon("arrow-up-right")}<span class="sr-only"> (PDF tiếng Anh, mở tab mới)</span></a></div><a class="home-button" href="${contactUrl}">Trao đổi với AQPTech${icon("arrow-up-right")}</a></div><p class="industry-scope-note">Nội dung và hình ảnh tham khảo từ Fortis X của Magal Solutions, không phải tài liệu sản phẩm Veolink đã được xác nhận. Việc tham khảo không hàm ý Veolink là Fortis X hoặc có quan hệ đối tác với Magal. Tính năng, giấy phép, khả năng tích hợp và phạm vi cung cấp cần được xác nhận theo từng dự án.</p></section>`;
+  <section id="veolink-resources" class="container veolink-resources" aria-labelledby="veolink-resources-title"><span class="industry-kicker">03 / TƯ VẤN GIẢI PHÁP</span><h2 id="veolink-resources-title" class="industry-section-title">Bắt đầu từ nhu cầu của bạn.</h2><a class="home-button" href="${contactUrl}">Trao đổi với AQPTech${icon("arrow-up-right")}</a></section>`;
 }

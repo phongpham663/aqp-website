@@ -387,9 +387,6 @@
   width: 15px;
   height: 15px;
 }
-.home-page .nav-link[aria-current="page"] {
-  color: #ff567f;
-}
 .about-reference-page .home-footer {
   padding-top: 50px;
 }

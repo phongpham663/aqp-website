@@ -26,9 +26,20 @@ test("Home presents the published solutions, software and service stages without
   assert.deepEqual(counts, [catalogProducts.length, completedSolutions.length, services.length]);
   assert.ok(site.html.includes('aria-label="Lọc giải pháp theo nhu cầu" hidden'));
   assert.ok(site.html.includes('aria-controls="home-news-track"'));
-  assert.ok(site.html.includes("không phải bằng chứng công trình, đối tác hoặc chứng nhận AQPTech"));
+  assert.doesNotMatch(site.html, /home-scope-note|không phải bằng chứng công trình, đối tác hoặc chứng nhận AQPTech/);
   assert.doesNotMatch(site.html, /undefined|NaN|data-category=|href="\/solutions\/(?:industrial|retail|data-centers)"/);
   assert.ok(!renderSite("/products").classes.split(" ").includes("home-landing-page"));
+});
+
+test("Public pages omit the requested reference footnotes without losing their main content", () => {
+  for (const path of ["/", "/solutions/seaports-terminals", "/solutions/oil-gas", "/solutions/national-borders", "/solutions/critical-sites", "/solutions/gates-access", "/products/intelligent-video-analytics", "/products/veolink", "/solutions/event-security", "/solutions/construction-site-security", "/solutions/store-analytics", "/solutions/factory-intelligence", "/services"]) {
+    const page = renderSite(path);
+    assert.equal(page.found, true, path);
+    assert.doesNotMatch(page.html, /home-scope-note|không phải bằng chứng công trình|Nội dung tham khảo từ giải pháp|Nội dung và hình ảnh tham khảo từ|Nội dung và hình ảnh dùng làm tư liệu tham khảo|Hình ảnh và giao diện minh họa thuộc OVOPARK|Hình ảnh giao diện và minh họa tham khảo từ|Khung vòng đời và ảnh phòng điều hành tham khảo|Hình ảnh và mô hình triển khai được tham khảo|Nội dung và ảnh nguồn thuộc Watchtower/, path);
+    assert.equal((page.html.match(/<h1\b/g) || []).length, 1, path);
+    assert.match(page.html, /class="home-footer"/);
+  }
+  for (const path of ["/privacy", "/terms"]) assert.match(renderSite(path).html, /class="policy-content container"/);
 });
 
 test("Home uses existing local images with dimensions and a priority hero", async () => {

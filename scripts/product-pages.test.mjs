@@ -15,8 +15,8 @@ let redirectOrigin;
 let data;
 let header;
 let catalogHtml;
-const softwareSlugs = ["veolink", "intelligent-video-analytics", "servedeck-cmms"];
-const softwareNames = ["Veolink", "Intelligent Video Analytics", "ServeDeck CMMS"];
+const softwareSlugs = ["veolink", "intelligent-video-analytics", "cmms"];
+const softwareNames = ["Veolink", "Intelligent Video Analytics", "CMMS"];
 
 before(async () => {
   server = createHttpServer();
@@ -67,7 +67,7 @@ test("Product catalog uses the shared AQP hero and retains accessible filter/sea
   assert.doesNotMatch(catalogHtml, /data-category="(?:AI & Edge|Máy chủ|Lưu trữ|Giám sát|Kết nối)"/);
 });
 
-test("Old solution URLs return permanent redirects and preserve query parameters", async () => {
+test("Old product URLs return permanent redirects and preserve query parameters", async () => {
   for (const [oldPath, newPath] of productRedirects) {
     for (const method of ["GET", "HEAD"]) {
       const response = await fetch(`${redirectOrigin}${oldPath}/?q=video%20analytics&region=Vietnam`, { method, redirect: "manual" });

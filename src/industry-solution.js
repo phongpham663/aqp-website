@@ -18,7 +18,7 @@ export function industrySolutionPage({ icon, solution, page, type = "solutions" 
     imageAlt: hero.imageAlt,
     imageWidth: hero.imageWidth,
     imageHeight: hero.imageHeight,
-    actions: `<div class="industry-hero-actions"><a class="home-button" href="${contactUrl}">Tư vấn giải pháp${icon("arrow-up-right")}</a>${hero.videoUrl ? `<a class="industry-video-link" href="${hero.videoUrl}" target="_blank" rel="noopener noreferrer">${icon("play")}${hero.videoLabel || "Xem video Magal"}<span class="sr-only"> (tiếng Anh, mở tab mới)</span></a>` : ""}</div>`,
+    actions: `<div class="industry-hero-actions"><a class="home-button" href="${contactUrl}">Tư vấn giải pháp${icon("arrow-up-right")}</a></div>`,
   })}
 
   <nav class="industry-section-nav" aria-label="${navLabel}"><div class="container" style="--industry-nav-count:${capabilities.items.length}">${capabilities.items.map((item, index) => `<a href="#${item.id}"><span>0${index + 1}</span>${item.label}${icon("arrow-right")}</a>`).join("")}</div></nav>
@@ -42,7 +42,6 @@ export function industrySolutionPage({ icon, solution, page, type = "solutions" 
     <p class="industry-benefits-lead">${benefits.lead}</p>
     <h2 id="${sectionIdPrefix}-benefits-title" class="industry-section-title">Lợi ích của giải pháp</h2>
     <div class="industry-benefit-grid">${benefits.items.map((item) => `<article class="industry-benefit">${icon(item.icon)}<h3>${item.title}</h3><p>${item.text}</p></article>`).join("")}</div>
-    <p class="industry-scope-note">Nội dung tham khảo từ giải pháp ${resources.sourceName} của Magal. Khả năng tích hợp, các mô-đun và hiệu quả thực tế cần được xác nhận theo hệ thống hiện hữu, giấy phép phần mềm và phạm vi từng dự án.</p>
-    <div class="industry-resources"><div><h3>${resources.title}</h3>${resources.brochureUrl ? `<a href="${resources.brochureUrl}" target="_blank" rel="noopener noreferrer">${icon("download")}Xem brochure Magal<span class="sr-only"> (PDF tiếng Anh, mở tab mới)</span>${icon("arrow-up-right")}</a>` : ""}</div><a class="home-button" href="${contactUrl}">Trao đổi với AQPTech${icon("arrow-up-right")}</a></div>
+    <div class="industry-resources"><div><h3>${resources.title}</h3></div><a class="home-button" href="${contactUrl}">Trao đổi với AQPTech${icon("arrow-up-right")}</a></div>
   </section>`;
 }

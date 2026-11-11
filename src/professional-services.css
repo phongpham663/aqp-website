@@ -26,10 +26,6 @@
   outline-offset: 5px;
 }
 
-.professional-services-page .nav-link[aria-current="page"] {
-  color: #ff567f;
-}
-
 .professional-services-page :is(.about-hero-panel, .ps-overview, .ps-lifecycle, .ps-services, .ps-commitment, .ps-resources) p {
   color: #555;
   font-size: 15px;

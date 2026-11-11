@@ -64,6 +64,9 @@
   object-fit: cover;
   object-position: center;
 }
+.cs-story-reverse .cs-media img {
+  aspect-ratio: auto;
+}
 .cs-media figcaption {
   padding-top: 10px;
   color: #626262;

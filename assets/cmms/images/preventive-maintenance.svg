@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title description">
+  <title id="title">CMMS / L&#7883;ch b&#7843;o tr&#236;</title>
+  <desc id="description">Minh h&#7885;a l&#7883;ch b&#7843;o tr&#236; theo tu&#7847;n v&#224; checklist ki&#7875;m tra thi&#7871;t b&#7883;. D&#7919; li&#7879;u m&#7851;u.</desc>
+  <defs><clipPath id="panel"><rect x="32" y="32" width="1136" height="716" rx="20"/></clipPath></defs>
+  <rect width="1200" height="780" fill="#edf0f3"/>
+  <rect x="32" y="32" width="1136" height="716" rx="20" fill="#fff" stroke="#d5dce2" stroke-width="2"/>
+  <rect x="32" y="32" width="1136" height="94" fill="#20262d" clip-path="url(#panel)"/>
+  <g font-family="Arial, sans-serif">
+    <rect x="64" y="61" width="6" height="36" rx="3" fill="#cc0033"/>
+    <text x="88" y="89" fill="#fff" font-size="32" font-weight="700">CMMS / L&#7883;ch b&#7843;o tr&#236;</text>
+    <text x="1128" y="86" fill="#c1cad2" font-size="20" text-anchor="end">D&#7919; li&#7879;u minh h&#7885;a</text>
+    <text x="70" y="189" fill="#25313c" font-size="29" font-weight="700">L&#7883;ch tu&#7847;n</text>
+    <text x="735" y="189" fill="#627080" font-size="24" text-anchor="end">09 - 15 / 11</text>
+    <rect x="70" y="221" width="665" height="374" rx="12" fill="#f7f8fa" stroke="#d8dfe5"/>
+    <rect x="260" y="221" width="95" height="374" fill="#fff0f4"/>
+    <path d="M165 221v374m95-374v374m95-374v374m95-374v374m95-374v374m95-374v374M70 309h665" stroke="#d8dfe5" fill="none"/>
+    <g fill="#627080" font-size="22" text-anchor="middle">
+      <text x="117" y="252">T2</text><text x="212" y="252">T3</text><text x="307" y="252">T4</text><text x="402" y="252">T5</text><text x="497" y="252">T6</text><text x="592" y="252">T7</text><text x="687" y="252">CN</text>
+    </g>
+    <g fill="#25313c" font-size="30" font-weight="700" text-anchor="middle">
+      <text x="117" y="289">09</text><text x="212" y="289">10</text><text x="307" y="289" fill="#cc0033">11</text><text x="402" y="289">12</text><text x="497" y="289">13</text><text x="592" y="289">14</text><text x="687" y="289">15</text>
+    </g>
+    <rect x="80" y="338" width="75" height="110" rx="7" fill="#e1eee8"/>
+    <rect x="80" y="338" width="5" height="110" rx="2" fill="#287358"/>
+    <text x="94" y="376" fill="#287358" font-size="21" font-weight="700">HV-02</text>
+    <text x="94" y="412" fill="#287358" font-size="18">08:00</text>
+    <rect x="270" y="326" width="75" height="153" rx="7" fill="#cc0033"/>
+    <text x="285" y="370" fill="#fff" font-size="22" font-weight="700">P-01</text>
+    <text x="285" y="406" fill="#fff" font-size="19">09:30</text>
+    <path d="m289 441 6 6 14-16" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="555" y="431" width="75" height="109" rx="7" fill="#e7ebf1"/>
+    <rect x="555" y="431" width="5" height="109" rx="2" fill="#6a7d94"/>
+    <text x="569" y="469" fill="#516278" font-size="21" font-weight="700">MT-03</text>
+    <text x="569" y="505" fill="#516278" font-size="18">10:00</text>
+    <circle cx="83" cy="637" r="7" fill="#cc0033"/>
+    <text x="103" y="645" fill="#627080" font-size="24">03 l&#7879;nh b&#7843;o tr&#236; &#273;&#7883;nh k&#7923;</text>
+    <rect x="772" y="164" width="360" height="494" rx="12" fill="#fff" stroke="#d8dfe5" stroke-width="2"/>
+    <text x="799" y="211" fill="#25313c" font-size="28" font-weight="700">CHECKLIST</text>
+    <text x="799" y="253" fill="#627080" font-size="24">M&#225;y b&#417;m P-01</text>
+    <path d="M799 279h306" stroke="#d8dfe5"/>
+    <rect x="799" y="312" width="27" height="27" rx="5" fill="#287358"/>
+    <path d="m805 325 5 5 10-11" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="842" y="335" fill="#25313c" font-size="24">Ki&#7875;m tra &#273;&#7897; rung</text>
+    <rect x="799" y="386" width="27" height="27" rx="5" fill="#287358"/>
+    <path d="m805 399 5 5 10-11" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="842" y="409" fill="#25313c" font-size="24">V&#7879; sinh b&#7897; l&#7885;c</text>
+    <rect x="799" y="460" width="27" height="27" rx="5" fill="#fff" stroke="#cc0033" stroke-width="2"/>
+    <text x="842" y="483" fill="#25313c" font-size="24">Ghi ch&#7881; s&#7889;</text>
+    <text x="799" y="560" fill="#ac143b" font-size="23">Ho&#224;n th&#224;nh</text>
+    <text x="1105" y="560" fill="#ac143b" font-size="23" text-anchor="end">2 / 3</text>
+    <rect x="799" y="585" width="306" height="12" rx="6" fill="#f3e0e6"/>
+    <rect x="799" y="585" width="204" height="12" rx="6" fill="#cc0033"/>
+    <text x="70" y="705" fill="#627080" font-size="23">L&#7883;ch, checklist v&#224; k&#7871;t qu&#7843; trong m&#7897;t lu&#7891;ng b&#7843;o tr&#236;.</text>
+  </g>
+</svg>

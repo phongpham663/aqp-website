@@ -15,7 +15,6 @@ export function oilGasPage({ icon }) {
         imageAlt: "Các tháp công nghệ và hệ thống đường ống tại cơ sở dầu khí vào buổi tối",
         imageWidth: 730,
         imageHeight: 1000,
-        videoUrl: "https://www.youtube.com/watch?v=9Lw3nhERT5Q",
       },
       overview: {
         title: "Kết nối an toàn với hiệu quả vận hành",
@@ -110,7 +109,6 @@ export function oilGasPage({ icon }) {
       },
       resources: {
         title: "Tìm hiểu thêm về giải pháp dầu khí",
-        brochureUrl: "https://www.magalsolutions.com/wp-content/uploads/Oil-Gas-brochure-1.pdf",
         sourceName: "Oil & Gas",
       },
     },

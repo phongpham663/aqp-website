@@ -2,23 +2,26 @@ import { images, catalogProducts, completedSolutions, services, articles, compan
 import { footerInfo } from "./footer-info.js";
 
 export function homeHeader({ icon, logo, path = "/" }) {
+  const navLink = (href, label) =>
+    `<a class="nav-link${path === href || path.startsWith(`${href}/`) ? " active" : ""}" href="${href}"${path === href ? ' aria-current="page"' : ""}>${label}</a>`;
   return `<header class="site-header home-header">
-    <div class="container header-inner">
+    <div class="header-inner">
       <a class="brand" href="/" aria-label="AQPTech - Trang chủ">${logo()}</a>
-      <button class="menu-toggle" aria-label="Mở menu điều hướng" aria-controls="main-nav" aria-expanded="false">${icon("menu")}</button>
+      <button type="button" class="menu-toggle" aria-label="Mở menu điều hướng" aria-controls="main-nav" aria-expanded="false">${icon("menu")}</button>
       <nav id="main-nav" class="main-nav" aria-label="Điều hướng chính">
-        <a class="nav-link" href="/about"${path === "/about" ? ' aria-current="page"' : ""}>Giới thiệu</a>
+        ${navLink("/about", "Giới thiệu")}
         <details class="nav-dropdown">
-          <summary class="nav-link${path.startsWith("/solutions") ? " active" : ""}">Giải pháp${icon("chevron-down")}</summary>
+          <summary class="nav-link${path === "/solutions" || path.startsWith("/solutions/") ? " active" : ""}">Giải pháp${icon("chevron-down")}</summary>
           <div class="dropdown-panel">
             <a class="dropdown-heading" href="/solutions"${path === "/solutions" ? ' aria-current="page"' : ""}>Tất cả giải pháp${icon("arrow-up-right")}</a>
-            ${completedSolutions.map((item) => `<a href="/solutions/${item.slug}">${icon(item.icon)}${item.menuName || item.name}${icon("arrow-up-right")}</a>`).join("")}
+            ${completedSolutions.map((item) => `<a href="/solutions/${item.slug}"${path === `/solutions/${item.slug}` ? ' aria-current="page"' : ""}>${icon(item.icon)}${item.menuName || item.name}${icon("arrow-up-right")}</a>`).join("")}
           </div>
         </details>
-        <a class="nav-link${path.startsWith("/services") ? " active" : ""}" href="/services"${path === "/services" ? ' aria-current="page"' : ""}>Dịch vụ</a>
-        <a class="nav-link${path.startsWith("/products") ? " active" : ""}" href="/products"${path.startsWith("/products") ? ' aria-current="page"' : ""}>Sản phẩm</a>
-        <a class="nav-link" href="/support"${path === "/support" ? ' aria-current="page"' : ""}>Hỗ trợ</a>
-        <a class="nav-link" href="/contact"${path === "/contact" ? ' aria-current="page"' : ""}>Liên hệ</a>
+        ${navLink("/services", "Dịch vụ")}
+        ${navLink("/products", "Sản phẩm")}
+        ${navLink("/insights", "Kiến thức")}
+        ${navLink("/support", "Hỗ trợ")}
+        ${navLink("/contact", "Liên hệ")}
         <a class="home-search-link" href="/products?q=" aria-label="Tìm kiếm sản phẩm">${icon("search")}</a>
       </nav>
     </div>
@@ -113,7 +116,7 @@ export function home({ icon }) {
   </section>
 
   <section class="home-project" aria-labelledby="home-project-title"><div class="container home-project-inner"><div><span class="home-kicker">CÙNG AQPTECH XÂY DỰNG GIẢI PHÁP</span><h2 id="home-project-title">Bắt đầu từ<br>bài toán của bạn.</h2><p>Chia sẻ mục tiêu, hiện trạng và điều bạn muốn cải thiện. Cùng chúng tôi tìm một hướng triển khai có cơ sở.</p></div><div class="home-project-actions">${cta("Bắt đầu trao đổi", contactUrl, "light")}<a href="${companyContact.phoneHref}">${icon("phone")}Gọi ${companyContact.phone}</a></div>${icon("arrow-up-right", "home-project-decoration")}</div></section>
-  <div class="container"><p class="home-scope-note">Các hình ảnh và sơ đồ là minh họa, không phải bằng chứng công trình, đối tác hoặc chứng nhận AQPTech. Khả năng tích hợp, giấy phép và phạm vi cung cấp được xác nhận theo dự án. Phân tích AI hỗ trợ xác minh của con người; mục đích xử lý dữ liệu, quyền truy cập và điều kiện triển khai cần được thống nhất trước khi vận hành.</p></div>`;
+  `;
 }
 
 export function homeFooter({ icon, logo, newsletter = true }) {

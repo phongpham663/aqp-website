@@ -197,17 +197,17 @@ export const products = [
     applications: "Phân tích an toàn, an ninh và hoạt động từ video theo từng kịch bản triển khai.",
   },
   {
-    slug: "servedeck-cmms",
-    name: "ServeDeck CMMS",
+    slug: "cmms",
+    name: "CMMS",
     category: "Phần mềm",
     tagline: "Chủ động bảo trì. Kết nối đội ngũ vận hành.",
     icon: "wrench",
-    image: "/assets/servedeck/images/work-order-dashboard.png",
+    image: "/assets/cmms/images/work-orders.svg",
     label: "COMPUTERIZED MAINTENANCE MANAGEMENT SYSTEM / CMMS",
     homeLabel: "CMMS / QUẢN LÝ BẢO TRÌ",
-    imageAlt: "Giao diện ServeDeck hiển thị danh sách lệnh công việc, bộ phận phụ trách và trạng thái xử lý",
-    imageWidth: 1201,
-    imageHeight: 565,
+    imageAlt: "Hình minh họa CMMS theo dõi lệnh công việc từ tiếp nhận, phân công đến hoàn tất",
+    imageWidth: 1200,
+    imageHeight: 780,
     description:
       "Nền tảng quản lý bảo trì và vận hành giúp tập trung lệnh công việc, lịch bảo trì định kỳ và hồ sơ tài sản. Kết nối đội ngũ kỹ thuật với thông tin tại hiện trường để theo dõi tiến độ, lịch sử sự cố và chi phí bảo trì.",
     features: [
@@ -219,7 +219,7 @@ export const products = [
   },
 ];
 
-export const catalogProducts = products.filter((item) => ["veolink", "intelligent-video-analytics", "servedeck-cmms"].includes(item.slug));
+export const catalogProducts = products.filter((item) => ["veolink", "intelligent-video-analytics", "cmms"].includes(item.slug));
 
 export const solutions = [
   {
@@ -342,7 +342,7 @@ export const solutions = [
     slug: "store-analytics",
     completed: true,
     name: "Store Analytics",
-    menuName: "Store Analytics - Phân tích cửa hàng",
+    menuName: "Phân tích cửa hàng",
     icon: "chart-no-axes-combined",
     image: storeAnalytics,
     label: "STORE ANALYTICS",
@@ -359,7 +359,7 @@ export const solutions = [
     slug: "factory-intelligence",
     completed: true,
     name: "Factory Intelligence",
-    menuName: "Factory Intelligence - Nhà máy thông minh",
+    menuName: "Nhà máy thông minh",
     icon: "factory",
     image: industry,
     label: "FACTORY INTELLIGENCE",
@@ -518,6 +518,8 @@ export const articles = [
     time: "6 phút đọc",
     title: "Edge AI: đưa trí tuệ nhân tạo đến gần dữ liệu hơn",
     image: edge,
+    imageWidth: 980,
+    imageHeight: 551,
     summary:
       "Khi độ trễ, băng thông và quyền riêng tư trở thành ưu tiên, xử lý tại biên mở ra một hướng triển khai AI thực tế.",
     sections: [
@@ -541,6 +543,8 @@ export const articles = [
     time: "5 phút đọc",
     title: "Thiết kế lưu trữ cho giám sát IP: không chỉ là dung lượng",
     image: nvr,
+    imageWidth: 980,
+    imageHeight: 551,
     summary:
       "Số lượng camera chỉ là điểm khởi đầu. Bitrate, thời gian lưu giữ và tốc độ ghi quyết định cấu hình phù hợp.",
     sections: [
@@ -564,6 +568,8 @@ export const articles = [
     time: "7 phút đọc",
     title: "Từ ý tưởng đến hệ thống: chuẩn bị gì cho một dự án OEM?",
     image: engineer,
+    imageWidth: 980,
+    imageHeight: 653,
     summary:
       "Một bộ yêu cầu rõ ràng giúp phần cứng, phần mềm và kế hoạch cung ứng đi cùng một hướng ngay từ đầu.",
     sections: [

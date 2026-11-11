@@ -55,6 +55,7 @@ test("Event Security separates proposed AI from source claims and preserves safe
   assert.ok(html.includes("Không xác định chất nổ"));
   assert.ok(html.includes("Không thay thế hệ thống báo cháy được chứng nhận"));
   assert.ok(html.includes("không phải nhân sự hoặc công trình của AQPTech"));
-  assert.match(html, /href="https:\/\/wt-security\.com\/en-gb\/application\/event-security" target="_blank" rel="noopener noreferrer"/);
+  assert.doesNotMatch(html, /Tư liệu gốc: Event Security \/ Watchtower|Xem nguồn tham khảo|href="https:\/\/wt-security\.com\/en-gb\/application\/event-security"/);
+  assert.doesNotMatch(html, /Hình ảnh và mô hình triển khai được tham khảo|Nội dung và ảnh nguồn thuộc Watchtower/);
   assert.doesNotMatch(html, /<form|salesforce|\.pdf|Watchtower Solar/);
 });

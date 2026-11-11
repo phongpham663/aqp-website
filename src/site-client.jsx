@@ -2,10 +2,9 @@
 
 import { useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
-import { escape, icon } from "./html.js";
+import { icon } from "./html.js";
 import { renderCatalog } from "./catalog.js";
 import { setupHome } from "./home.js";
-import { setupContact } from "./contact.js";
 import { setupProfessionalServices } from "./professional-services.js";
 import { setupConstructionSecurity } from "./construction-security.js";
 import { setupStoreAnalytics } from "./store-analytics.js";
@@ -74,6 +73,10 @@ export default function SiteClient({ site }) {
       if (!anchor || event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || anchor.target || anchor.hasAttribute("download")) return;
       const url = new URL(anchor.href, location.href);
       if (url.origin !== location.origin) return;
+      if (anchor.closest("#main-nav")) {
+        root.querySelectorAll(".nav-dropdown[open]").forEach((details) => details.removeAttribute("open"));
+        find('.menu-toggle[aria-expanded="true"]')?.click();
+      }
       if (url.pathname === location.pathname && url.search === location.search && url.hash) {
         event.preventDefault();
         scrollHash(url.hash);
@@ -135,7 +138,6 @@ export default function SiteClient({ site }) {
     if (site.pathname === "/solutions/store-analytics") cleanups.push(setupStoreAnalytics());
     if (site.pathname === "/solutions/factory-intelligence") cleanups.push(setupFactoryIntelligence());
     if (site.pathname === "/support") cleanups.push(setupSupport());
-    if (site.pathname === "/contact") void setupContact({ escape, signal });
     if (site.pathname === "/products") {
       const params = new URLSearchParams(location.search);
       const category = [...root.querySelectorAll(".filter-tab")].some((tab) => tab.dataset.category === params.get("category")) ? params.get("category") : "Tất cả";

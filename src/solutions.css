@@ -44,13 +44,6 @@
 .solutions-reference-page .home-footer {
   padding-top: 50px;
 }
-.solutions-reference-page .nav-dropdown > .nav-link.active {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: #cc0033;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 8px;
-}
 @media (max-width: 760px) {
   .solutions-reference-page .about-reference-hero {
     min-height: 404px;

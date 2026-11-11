@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 import { after, before, test } from "node:test";
 import { chromium } from "playwright";
 import { createRendererServer as createServer } from "./test-site.mjs";
+import { renderSite } from "../src/site-renderer.js";
 
 let vite;
 let server;
@@ -44,6 +45,23 @@ test("Company contact data preserves the supplied email, phone and three departm
     { name: "Phòng Nghiên cứu và Phát triển", address: "216/1 Điện Biên Phủ, Phường Xuân Hòa, Hồ Chí Minh", lang: "vi" },
     { name: "Phòng Thí nghiệm và Đào tạo", address: "Lot E2-M1, Saigon Hi-Tech Park (SHTP), Tang Nhon Phu Ward, Ho Chi Minh City", lang: "en" },
   ]);
+});
+
+test("Contact omits the map and all region choices while retaining contact details and form fields", () => {
+  for (const region of ["", "Việt Nam", "Châu Á – Thái Bình Dương"]) {
+    const site = renderSite("/contact", `?${new URLSearchParams({ interest: "Hỗ trợ kỹ thuật", region })}`);
+    assert.equal(site.found, true);
+    assert.doesNotMatch(site.html, /contact-(?:map|world|region)|data-(?:map-control|region-choice)|name="region"|Châu Á|Châu Âu|Châu Mỹ|Natural Earth|Khu vực dự kiến triển khai/);
+    assert.match(site.html, /name="interest"[^>]*value="Hỗ trợ kỹ thuật"/);
+    assert.equal((site.html.match(/class="contact-office"/g) || []).length, 3);
+    for (const name of ["lastName", "firstName", "company", "email", "phone", "interest", "message", "consent", "website"]) {
+      assert.ok(site.html.includes(`name="${name}"`), name);
+    }
+    assert.match(site.html, /<form class="contact-form contact-reference-form" data-api="contact">/);
+    assert.match(site.html, /name="consent" type="checkbox" required/);
+    assert.match(site.html, /href="\/privacy"/);
+    assert.match(site.html, /href="\/support"/);
+  }
 });
 
 test("Footer information uses local accessible logos and actual direct-contact links", () => {
@@ -87,8 +105,7 @@ test("Contact details and both footer variants render accurately without mobile 
     assert.equal(await page.locator('.contact-details a[href^="mailto:"]').textContent(), companyContact.email);
     assert.equal(await page.locator('.contact-details a[href^="tel:"]').getAttribute("href"), companyContact.phoneHref);
     assert.equal(await page.locator('[name="interest"]').inputValue(), "Hỗ trợ kỹ thuật");
-    await page.locator('[data-region-choice="vietnam"]').click();
-    assert.equal(await page.locator("#contact-region").inputValue(), "Việt Nam");
+    assert.equal(await page.locator('.contact-worldmap, .contact-region-section, [name="region"]').count(), 0);
     for (const path of ["/", "/contact", "/products", "/support"]) {
       await page.goto(`${origin}${path}`, { waitUntil: "networkidle" });
       const footer = page.locator("footer");
@@ -119,6 +136,74 @@ test("Contact details and both footer variants render accurately without mobile 
       }
     }
     assert.deepEqual(errors, []);
+  } finally {
+    await browser.close();
+  }
+});
+
+test("Contact submissions and resets work without a region on desktop and mobile", async () => {
+  const browser = await chromium.launch({ headless: true });
+  try {
+    const page = await browser.newPage({ reducedMotion: "reduce" });
+    const errors = [];
+    const payloads = [];
+    page.on("pageerror", (error) => errors.push(error.message));
+    await page.route("**/api/contact", async (route) => {
+      payloads.push(route.request().postDataJSON());
+      await route.fulfill({ status: 201, contentType: "application/json", body: JSON.stringify({ message: "Đã ghi nhận yêu cầu.", id: "test-contact-id" }) });
+    });
+    for (const [index, width] of [1440, 390].entries()) {
+      await page.setViewportSize({ width, height: 900 });
+      await page.goto(`${process.env.TEST_BASE_URL}/contact?interest=Hỗ%20trợ%20kỹ%20thuật&region=Việt%20Nam`, { waitUntil: "networkidle" });
+      assert.equal(await page.locator('.contact-worldmap, .contact-region-section, [name="region"]').count(), 0);
+      const form = page.locator('form[data-api="contact"]');
+      await form.locator('[name="lastName"]').fill("Nguyen Van");
+      await form.locator('[name="firstName"]').fill("An");
+      await form.locator('[name="company"]').fill("Example Company");
+      await form.locator('[name="email"]').fill("contact-test@example.com");
+      await form.locator('[name="phone"]').fill("0900000000");
+      await form.locator('[name="message"]').fill("Yeu cau tu van cau hinh may chu.");
+      await form.locator('[type="submit"]').click();
+      assert.equal(payloads.length, index);
+      await form.locator('[name="consent"]').check();
+      await form.locator('[type="submit"]').click();
+      await form.locator(".form-status.success").waitFor();
+      assert.equal(payloads.length, index + 1);
+      assert.equal(payloads[index].name, "Nguyen Van An");
+      assert.equal(payloads[index].interest, "Hỗ trợ kỹ thuật");
+      assert.equal(payloads[index].consent, true);
+      assert.equal(payloads[index].website, "");
+      assert.ok(!Object.hasOwn(payloads[index], "region"));
+      assert.match(await form.locator(".form-status").textContent(), /test-contact-id/);
+      assert.equal(await form.locator('[name="lastName"]').inputValue(), "");
+      assert.equal(await form.locator('[name="interest"]').inputValue(), "Hỗ trợ kỹ thuật");
+      assert.equal(await form.locator('[name="consent"]').isChecked(), false);
+      assert.equal(await form.locator('[type="submit"]').isEnabled(), true);
+      assert.equal(await page.evaluate(() => document.documentElement.scrollWidth), width);
+      await page.locator(".contact-info-support").click();
+      await page.waitForURL("**/support");
+      await page.goBack({ waitUntil: "networkidle" });
+      assert.equal(await page.locator('form[data-api="contact"]').count(), 1);
+      assert.equal(await page.locator('.contact-worldmap, .contact-region-section, [name="region"]').count(), 0);
+    }
+    assert.deepEqual(errors, []);
+  } finally {
+    await browser.close();
+  }
+});
+
+test("Contact remains readable without JavaScript or region controls on small mobile screens", async () => {
+  const browser = await chromium.launch({ headless: true });
+  try {
+    const page = await browser.newPage({ javaScriptEnabled: false, viewport: { width: 320, height: 844 } });
+    const response = await page.goto(`${process.env.TEST_BASE_URL}/contact?interest=CMMS&region=Việt%20Nam`, { waitUntil: "networkidle" });
+    assert.equal(response.status(), 200);
+    assert.equal(await page.locator("main h1").textContent(), "Liên hệ");
+    assert.equal(await page.locator('[name="interest"]').inputValue(), "CMMS");
+    assert.equal(await page.locator('.contact-worldmap, .contact-region-section, [name="region"]').count(), 0);
+    assert.equal(await page.locator('.contact-details a[href^="tel:"]').getAttribute("href"), companyContact.phoneHref);
+    assert.equal(await page.locator('form[data-api="contact"]').isVisible(), true);
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth), 320);
   } finally {
     await browser.close();
   }

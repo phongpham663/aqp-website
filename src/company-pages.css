@@ -1,0 +1,110 @@
+.company-reference-page {
+  --paper: #fff;
+  --ink: #333;
+  --muted: #666;
+  --border: #ddd;
+  --orange: #cc0033;
+  --accent-text: #b0002d;
+  --dark: #1a1a1a;
+  background: #fff;
+  color: #333;
+}
+.company-reference-page .button { border-radius: 0; min-height: 44px; font-size: 12px; gap: 18px; }
+.company-reference-page .button-primary { background: #cc0033; color: #fff; border-color: #cc0033; }
+.company-reference-page .button-primary:hover { background: #a8002a; border-color: #a8002a; }
+.company-reference-page .button-outline { color: #b0002d; border-color: #cc0033; background: transparent; }
+.company-reference-page .button-outline:hover { background: #fff1f5; }
+.company-reference-page .text-link { color: #b0002d; font-size: 12px; }
+.company-reference-page .eyebrow { color: #b0002d; font-size: 11px; letter-spacing: 0.4px; }
+.company-reference-page .breadcrumb { color: #666; font-size: 11px; line-height: 1.8; }
+.company-reference-page .breadcrumb a:hover { color: #b0002d; }
+.company-reference-page .section { padding-block: 50px; }
+.company-reference-page .section-heading { padding-bottom: 18px; border-bottom: 2px solid #cc0033; margin-bottom: 30px; }
+.company-reference-page .section-heading h2 { color: #333; font-size: 26px; font-weight: 500; line-height: 1.6; letter-spacing: 0; }
+.company-reference-page .page-intro { background: #f5f5f5; border-bottom: 1px solid #ddd; padding-block: 38px 48px; }
+.company-reference-page .page-intro h1 { color: #333; font-size: 36px; font-weight: 500; line-height: 1.5; letter-spacing: 0; max-width: 900px; }
+.company-reference-page .page-intro h1 span { color: #b0002d; }
+.company-reference-page .page-intro p { color: #666; font-size: 13px; line-height: 1.9; }
+.company-reference-page .detail-hero { padding-block: 35px 55px; }
+.company-reference-page .detail-hero .breadcrumb { margin-bottom: 32px; }
+.company-reference-page .detail-hero-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 50px; }
+.company-reference-page .detail-hero h1 { color: #333; font-size: 36px; font-weight: 500; line-height: 1.5; letter-spacing: 0; margin-top: 18px; }
+.company-reference-page .detail-hero h2 { color: #333; font-size: 18px; font-weight: 500; line-height: 1.7; margin-top: 16px; }
+.company-reference-page .detail-hero p { color: #666; font-size: 13px; line-height: 1.9; }
+.company-reference-page .detail-hero-grid > img { height: 330px; filter: none; border: 1px solid #ddd; }
+.company-reference-page .detail-features { background: #f6f6f6; border-color: #ddd; }
+.company-reference-page .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+.company-reference-page .feature-grid > div { min-width: 0; padding: 25px; background: #fff; border: 1px solid #ddd; border-top: 2px solid #cc0033; }
+.company-reference-page .feature-grid h3 { color: #333; font-size: 18px; font-weight: 500; line-height: 1.7; margin-block: 15px 12px; }
+.company-reference-page .feature-grid p { color: #666; font-size: 13px; line-height: 1.9; }
+.company-reference-page .application-note { background: #fff; border: 1px solid #ddd; border-left: 3px solid #cc0033; }
+.company-reference-page .application-note p { color: #666; font-size: 13px; line-height: 1.9; }
+.company-reference-page .application-note small { font-size: 11px; }
+.company-reference-page .products-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+.company-reference-page .product-card { display: flex; flex-direction: column; min-width: 0; background: #fff; border-color: #ddd; }
+.company-reference-page .product-card:hover,
+.company-reference-page .product-card:focus-visible { border-color: #cc0033; }
+.company-reference-page .product-card-image img { filter: none; }
+.company-reference-page .image-badge { font-size: 10px; color: #333; background: #fff; border-left: 2px solid #cc0033; }
+.company-reference-page .product-card-content { display: flex; flex-direction: column; flex: 1; }
+.company-reference-page .card-title { align-items: flex-start; }
+.company-reference-page .card-title h3 { font-size: 18px; font-weight: 500; line-height: 1.7; }
+.company-reference-page .card-title svg { flex-shrink: 0; margin-top: 5px; }
+.company-reference-page .product-card-content > p { color: #666; font-size: 12px; line-height: 1.9; }
+.company-reference-page .product-card .text-link { margin-top: auto; font-size: 12px; }
+.service-reference-page .service-features { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.company-reference-page .service-note { background: #f5f5f5; border: 1px solid #ddd; border-left: 3px solid #cc0033; margin-bottom: 50px; }
+.company-reference-page .service-note p { color: #666; font-size: 13px; line-height: 1.9; }
+.company-reference-page .service-note svg { flex-shrink: 0; }
+.company-reference-page .cta-section { background: #1a1a1a; color: #fff; padding-block: 50px; }
+.company-reference-page .cta-inner h2 { color: #fff; font-size: 32px; font-weight: 500; line-height: 1.5; }
+.company-reference-page .cta-inner h2 span { color: #ff8bab; }
+.company-reference-page .cta-inner p { color: #ddd; font-size: 13px; line-height: 1.9; }
+.company-reference-page .cta-inner .eyebrow { color: #ff8bab; }
+.company-reference-page .cta-decoration { color: #ffffff18; }
+.company-reference-page .policy-content { max-width: 840px; padding-block: 45px 55px; }
+.company-reference-page .policy-content > section { padding-top: 25px; margin-bottom: 30px; border-top: 1px solid #ddd; }
+.company-reference-page .policy-content h2 { color: #333; font-size: 22px; font-weight: 500; line-height: 1.7; }
+.company-reference-page .policy-content p { color: #555; font-size: 15px; line-height: 1.95; }
+.company-reference-page .not-found { padding-block: 70px 90px; min-height: 45vh; }
+.company-reference-page .not-found h1 { color: #333; font-size: 36px; font-weight: 500; line-height: 1.5; letter-spacing: 0; }
+.company-reference-page .not-found h1 span { color: #b0002d; }
+.company-reference-page .not-found p { color: #666; font-size: 15px; line-height: 1.9; }
+@media (max-width: 1100px) {
+  .company-reference-page .detail-hero-grid { gap: 32px; }
+  .company-reference-page .feature-grid,
+  .service-reference-page .service-features,
+  .company-reference-page .products-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 760px) {
+  .company-reference-page .page-intro { padding-block: 30px 38px; }
+  .company-reference-page .page-intro h1 { font-size: 27px; }
+  .company-reference-page .section { padding-block: 35px; }
+  .company-reference-page .section-heading { gap: 18px; }
+  .company-reference-page .section-heading h2 { font-size: 23px; }
+  .company-reference-page .detail-hero { padding-block: 28px 38px; }
+  .company-reference-page .detail-hero-grid { grid-template-columns: minmax(0, 1fr); gap: 28px; }
+  .company-reference-page .detail-hero h1 { font-size: 28px; }
+  .company-reference-page .detail-hero h2 { font-size: 17px; }
+  .company-reference-page .detail-hero-grid > img { height: auto; }
+  .company-reference-page .feature-grid,
+  .service-reference-page .service-features,
+  .company-reference-page .products-grid { grid-template-columns: minmax(0, 1fr); }
+  .company-reference-page .feature-grid > div { padding: 22px; }
+  .company-reference-page .feature-grid h3 { font-size: 17px; }
+  .company-reference-page .application-note { padding: 22px; gap: 15px; }
+  .company-reference-page .application-note > svg { flex-shrink: 0; }
+  .company-reference-page .service-note { align-items: flex-start; padding: 22px; gap: 15px; }
+  .company-reference-page .cta-section { padding-block: 38px; }
+  .company-reference-page .cta-inner h2 { font-size: 27px; }
+  .company-reference-page .policy-content { padding-block: 32px 40px; }
+  .company-reference-page .policy-content h2 { font-size: 20px; }
+  .company-reference-page .policy-content p { font-size: 14px; }
+  .company-reference-page .not-found { padding-block: 45px 60px; }
+  .company-reference-page .not-found h1 { font-size: 28px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .company-reference-page .product-card,
+  .company-reference-page .product-card img { transition: none; }
+  .company-reference-page .product-card:hover img { transform: none; }
+}

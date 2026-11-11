@@ -1,7 +1,6 @@
 import { solutions } from "./data.js";
 import { industrySolutionPage } from "./industry-solution.js";
 const fenceImage = "/assets/magal/images/aqp-national-borders-fence.jpg";
-const brochureUrl = "/assets/magal/documents/Borders-brochure--f92ca917e8.pdf";
 
 export function nationalBordersPage({ icon }) {
   const solution = solutions.find((item) => item.slug === "national-borders");
@@ -16,7 +15,6 @@ export function nationalBordersPage({ icon }) {
         imageAlt: "Hàng rào bảo vệ biên giới chạy dọc vùng núi dưới bầu trời xanh",
         imageWidth: 695,
         imageHeight: 400,
-        videoUrl: "https://www.youtube.com/watch?v=nfnvycF4bdA",
       },
       overview: {
         title: "Một góc nhìn chung từ tuyến biên giới đến cửa khẩu",
@@ -119,7 +117,6 @@ export function nationalBordersPage({ icon }) {
       },
       resources: {
         title: "Tìm hiểu thêm về giải pháp biên giới quốc gia",
-        brochureUrl,
         sourceName: "National Borders",
       },
     },

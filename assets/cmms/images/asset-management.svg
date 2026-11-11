@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title description">
+  <title id="title">CMMS / H&#7891; s&#417; t&#224;i s&#7843;n</title>
+  <desc id="description">Minh h&#7885;a h&#7891; s&#417; m&#225;y b&#417;m, v&#7883; tr&#237;, t&#236;nh tr&#7841;ng v&#224; l&#7883;ch s&#7917; b&#7843;o tr&#236;. D&#7919; li&#7879;u m&#7851;u.</desc>
+  <defs><clipPath id="panel"><rect x="32" y="32" width="1136" height="716" rx="20"/></clipPath></defs>
+  <rect width="1200" height="780" fill="#edf0f3"/>
+  <rect x="32" y="32" width="1136" height="716" rx="20" fill="#fff" stroke="#d5dce2" stroke-width="2"/>
+  <rect x="32" y="32" width="1136" height="94" fill="#20262d" clip-path="url(#panel)"/>
+  <g font-family="Arial, sans-serif">
+    <rect x="64" y="61" width="6" height="36" rx="3" fill="#cc0033"/>
+    <text x="88" y="89" fill="#fff" font-size="32" font-weight="700">CMMS / H&#7891; s&#417; t&#224;i s&#7843;n</text>
+    <text x="1128" y="86" fill="#c1cad2" font-size="20" text-anchor="end">D&#7919; li&#7879;u minh h&#7885;a</text>
+    <rect x="64" y="164" width="340" height="494" rx="12" fill="#f3f5f7"/>
+    <text x="88" y="211" fill="#485562" font-size="27" font-weight="700">Danh m&#7909;c thi&#7871;t b&#7883;</text>
+    <rect x="84" y="242" width="300" height="105" rx="10" fill="#fff" stroke="#cc0033" stroke-width="2"/>
+    <circle cx="122" cy="282" r="13" fill="#cc0033"/>
+    <text x="148" y="290" fill="#ac143b" font-size="28" font-weight="700">PUMP-01</text>
+    <text x="148" y="324" fill="#627080" font-size="22">M&#225;y b&#417;m tu&#7847;n ho&#224;n</text>
+    <rect x="84" y="370" width="300" height="105" rx="10" fill="#fff" stroke="#d8dfe5"/>
+    <circle cx="122" cy="410" r="13" fill="#b7c4ce"/>
+    <text x="148" y="418" fill="#25313c" font-size="28" font-weight="700">MOTOR-02</text>
+    <text x="148" y="452" fill="#627080" font-size="22">&#272;&#7897;ng c&#417; d&#226;y chuy&#7873;n</text>
+    <rect x="84" y="498" width="300" height="105" rx="10" fill="#fff" stroke="#d8dfe5"/>
+    <circle cx="122" cy="538" r="13" fill="#b7c4ce"/>
+    <text x="148" y="546" fill="#25313c" font-size="28" font-weight="700">HVAC-03</text>
+    <text x="148" y="580" fill="#627080" font-size="22">H&#7879; th&#7889;ng th&#244;ng gi&#243;</text>
+    <text x="442" y="204" fill="#25313c" font-size="31" font-weight="700">M&#225;y b&#417;m PUMP-01</text>
+    <rect x="952" y="171" width="180" height="44" rx="22" fill="#e1eee8"/>
+    <text x="1042" y="201" fill="#287358" font-size="23" text-anchor="middle">Ho&#7841;t &#273;&#7897;ng</text>
+    <rect x="440" y="242" width="692" height="162" rx="12" fill="#f7f8fa" stroke="#d8dfe5"/>
+    <g stroke="#516278" stroke-width="5" stroke-linejoin="round">
+      <rect x="479" y="285" width="99" height="61" rx="8" fill="#dbe2e9"/>
+      <circle cx="586" cy="315" r="42" fill="#e9edf1"/>
+      <circle cx="586" cy="315" r="18" fill="#b7c4ce"/>
+      <path d="M616 284v-21h31v52h-18M488 347v18h105v-14M491 299h60m-60 16h60m-60 16h60" fill="none"/>
+    </g>
+    <text x="692" y="289" fill="#627080" font-size="25">V&#7883; tr&#237;: Khu v&#7921;c A</text>
+    <text x="692" y="333" fill="#627080" font-size="25">Nh&#243;m: Thi&#7871;t b&#7883; c&#417; &#273;i&#7879;n</text>
+    <text x="692" y="377" fill="#ac143b" font-size="23">H&#7891; s&#417; / T&#224;i li&#7879;u / QR</text>
+    <text x="442" y="453" fill="#25313c" font-size="28" font-weight="700">L&#7883;ch s&#7917; b&#7843;o tr&#236;</text>
+    <path d="M464 487v156" stroke="#d8dfe5" stroke-width="3"/>
+    <circle cx="464" cy="495" r="9" fill="#cc0033"/>
+    <text x="489" y="504" fill="#25313c" font-size="25">12/11 / Ki&#7875;m tra &#273;&#7883;nh k&#7923;</text>
+    <text x="489" y="535" fill="#627080" font-size="21">WO-028 / Ho&#224;n t&#7845;t</text>
+    <circle cx="464" cy="567" r="9" fill="#6a7d94"/>
+    <text x="489" y="576" fill="#25313c" font-size="25">05/11 / Thay b&#7897; l&#7885;c</text>
+    <text x="489" y="607" fill="#627080" font-size="21">WO-021 / Ghi nh&#7853;n v&#7853;t t&#432;</text>
+    <circle cx="464" cy="639" r="9" fill="#6a7d94"/>
+    <text x="489" y="648" fill="#25313c" font-size="25">29/10 / Ki&#7875;m tra &#273;&#7897; rung</text>
+    <text x="489" y="679" fill="#627080" font-size="21">WO-016 / K&#7871;t qu&#7843; &#273;&#7841;t</text>
+    <text x="88" y="705" fill="#627080" font-size="23">T&#224;i s&#7843;n, l&#7883;ch s&#7917; v&#224; chi ph&#237; &#273;&#432;&#7907;c k&#7871;t n&#7889;i.</text>
+  </g>
+</svg>

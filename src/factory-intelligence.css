@@ -104,8 +104,6 @@
 .fi-contact h2 { font-size: 30px; font-weight: 400; line-height: 1.6; margin-bottom: 20px; }
 .factory-intelligence-page .fi-contact p { color: #ddd; font-size: 14px; line-height: 1.9; }
 .fi-contact .industry-hero-actions { justify-content: center; margin-top: 26px; }
-.fi-scope-note { padding-block: 25px; }
-.factory-intelligence-page .fi-scope-note p { font-size: 11px; line-height: 1.85; }
 
 /* Content remains visible without observation or when motion is reduced. */
 .factory-intelligence-page [data-fi-reveal].fi-revealed { animation: fi-reveal 650ms cubic-bezier(0.22, 1, 0.36, 1) var(--fi-delay, 0ms) both; }
@@ -196,7 +194,6 @@
   .fi-contact h2 { font-size: 26px; }
   .factory-intelligence-page .fi-contact p { font-size: 13px; }
   .fi-contact .industry-hero-actions { gap: 14px; }
-  .fi-scope-note { padding-block: 22px; }
 }
 @media (prefers-reduced-motion: reduce) {
   .factory-intelligence-page [data-fi-reveal], .factory-intelligence-page [data-fi-reveal].fi-revealed { animation: none; opacity: 1; transform: none; }

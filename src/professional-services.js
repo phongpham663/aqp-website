@@ -143,14 +143,14 @@ export function professionalServicesPage({ icon }) {
         <div class="ps-stage-deliverable"><span>ĐẦU RA ĐỀ XUẤT</span><p>${stage.deliverable}</p></div>
       </div></li>`).join("")}</ol>
     </div>
-    <div class="ps-scope-note">${icon("shield-check")}<p>Khung 7 giai đoạn được tham khảo từ Magal Solutions; các đầu ra là đề xuất để thảo luận theo dự án. Phần việc chuyên ngành, thi công, chứng nhận và hỗ trợ 24/7 chỉ được triển khai khi đã xác nhận phạm vi, đơn vị thực hiện phù hợp và thỏa thuận dịch vụ.</p></div>
+    <div class="ps-scope-note">${icon("shield-check")}<p>Phương án và các đầu ra là đề xuất để thảo luận theo dự án. Phần việc chuyên ngành, thi công, chứng nhận và hỗ trợ 24/7 chỉ được triển khai khi đã xác nhận phạm vi, đơn vị thực hiện phù hợp và thỏa thuận dịch vụ.</p></div>
   </div></section>
 
   <section class="container ps-services" aria-labelledby="ps-services-title"><span class="ps-kicker">NĂNG LỰC AQPTECH</span><h2 id="ps-services-title">Giải pháp cho từng bài toán.</h2><p>Kết nối cách tiếp cận vòng đời với các nhóm dịch vụ hiện có của AQPTech.</p><div class="ps-service-grid">${services.map((service, index) => `<a class="ps-service-card" href="/services/${service.slug}" data-ps-reveal style="--ps-delay:${index * 70}ms">${icon(service.icon)}<span class="ps-service-tag" lang="en">${service.tag}</span><h3>${service.name}</h3><p>${service.description}</p><span class="ps-service-link">Khám phá dịch vụ${icon("arrow-up-right")}</span></a>`).join("")}</div></section>
 
   <section class="ps-commitment" aria-labelledby="ps-commitment-title"><div class="container ps-commitment-grid"><div><span class="ps-kicker">ĐỒNG HÀNH VỀ CHẤT LƯỢNG</span><h2 id="ps-commitment-title">Dự án hôm nay.<br>Giá trị cho ngày mai.</h2><div class="ps-commitment-actions"><a class="home-button" href="${contactUrl}">Cùng xây dựng dự án${icon("arrow-up-right")}</a><a class="ps-text-link" href="/support">Tìm hiểu hỗ trợ${icon("arrow-right")}</a></div></div><div><p>Đổi mới, tích hợp và hiệu quả vận hành là nền tảng của một giải pháp có giá trị dài hạn. Chúng tôi hướng đến việc kết nối toàn bộ hành trình, từ đánh giá ban đầu đến triển khai và hỗ trợ sau bàn giao.</p><p>Chia sẻ hiện trạng hệ thống, mục tiêu và kế hoạch của doanh nghiệp để cùng làm rõ phương án phù hợp. Không gửi mật khẩu, khóa truy cập hoặc dữ liệu nhạy cảm qua biểu mẫu liên hệ.</p></div></div></section>
 
-  <div class="container ps-resources"><p>Khung vòng đời và ảnh phòng điều hành tham khảo từ Magal Solutions, không phải ảnh công trình hoặc nhân sự của AQPTech. Việc tham khảo không hàm ý quan hệ đối tác hay chứng nhận. Khả năng cung cấp, thời gian, chi phí và SLA được xác nhận riêng.</p><a class="ps-text-link" href="https://www.magalsolutions.com/our-professional-services/" target="_blank" rel="noopener noreferrer">Nguồn: Professional Services / Magal<span class="sr-only"> (tiếng Anh, mở tab mới)</span>${icon("arrow-up-right")}</a></div>`;
+  <div class="container ps-resources"><a class="ps-text-link" href="https://www.magalsolutions.com/our-professional-services/" target="_blank" rel="noopener noreferrer">Nguồn: Professional Services / Magal<span class="sr-only"> (tiếng Anh, mở tab mới)</span>${icon("arrow-up-right")}</a></div>`;
 }
 
 export function setupProfessionalServices() {

@@ -321,13 +321,6 @@
 .industry-resources > .home-button {
   flex-shrink: 0;
 }
-.industry-solution-page .nav-dropdown > .nav-link.active {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: #cc0033;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 8px;
-}
 @media (min-width: 761px) and (max-width: 1000px) {
   .industry-section-nav > div:has(> a:nth-child(4)) {
     grid-template-columns: repeat(2, minmax(0, 1fr));

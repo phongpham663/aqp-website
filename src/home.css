@@ -21,68 +21,30 @@
 .home-page h3 {
   letter-spacing: 0;
 }
-.home-page .home-header {
-  background: #000;
-  border: 0;
-}
-.home-page .header-inner {
-  height: 92px;
-}
-.home-page .brand {
+.home-page :where(main, footer) .brand {
   gap: 13px;
   color: #fff;
 }
-.home-page .brand-tagline {
+.home-page :where(main, footer) .brand-tagline {
   color: #ccc;
 }
-.home-page .brand-mark {
+.home-page :where(main, footer) .brand-mark {
   color: #cc0033;
 }
-.home-page .brand-mark svg {
+.home-page :where(main, footer) .brand-mark svg {
   width: 62px;
   height: 62px;
 }
-.home-page .brand-name {
+.home-page :where(main, footer) .brand-name {
   font-size: 37px;
   font-weight: 600;
   letter-spacing: -1.4px;
 }
-.home-page .brand-name > span {
+.home-page :where(main, footer) .brand-name > span {
   font-weight: 400;
 }
-.home-page .brand-period {
+.home-page :where(main, footer) .brand-period {
   color: #cc0033;
-}
-.home-page .main-nav {
-  gap: 24px;
-}
-.home-page .nav-link {
-  color: #ccc;
-  font-size: 14px;
-  font-weight: 400;
-}
-.home-page .nav-link:hover,
-.home-page .nav-link:focus-visible {
-  color: #fff;
-}
-.home-page .dropdown-panel {
-  background: #151515;
-  border-color: #444;
-  color: #ddd;
-}
-.home-page .dropdown-panel a:hover {
-  color: #fff;
-}
-.home-page .dropdown-heading {
-  border-color: #444;
-}
-.home-search-link {
-  display: flex;
-  color: #ccc;
-}
-.home-search-link svg {
-  width: 22px;
-  height: 22px;
 }
 .home-texture {
   background-color: #2d2d2d;
@@ -607,7 +569,7 @@
   height: 340px;
   object-fit: cover;
 }
-.home-software-card[data-product="servedeck-cmms"] .home-product-media img {
+.home-software-card[data-product="cmms"] .home-product-media img {
   object-fit: contain;
 }
 .home-product-media figcaption {
@@ -883,12 +845,6 @@
   color: #ffffff18;
   pointer-events: none;
 }
-.home-page .home-scope-note {
-  padding-block: 25px;
-  color: #69717c;
-  font-size: 10px;
-  line-height: 1.85;
-}
 .home-footer {
   background: #000;
   color: #fff;
@@ -1105,16 +1061,10 @@
   .home-page .container {
     width: calc(100% - 100px);
   }
-  .home-page .main-nav {
-    gap: 18px;
-  }
-  .home-page .nav-link {
-    font-size: 12px;
-  }
-  .home-page .brand-name {
+  .home-page :where(main, footer) .brand-name {
     font-size: 31px;
   }
-  .home-page .brand-mark svg {
+  .home-page :where(main, footer) .brand-mark svg {
     width: 50px;
     height: 50px;
   }
@@ -1160,16 +1110,10 @@
   .home-page .container {
     width: calc(100% - 72px);
   }
-  .home-page .main-nav {
-    gap: 14px;
-  }
-  .home-page .nav-link {
-    font-size: 11px;
-  }
-  .home-page .brand-name {
+  .home-page :where(main, footer) .brand-name {
     font-size: 29px;
   }
-  .home-page .brand {
+  .home-page :where(main, footer) .brand {
     gap: 8px;
   }
   .home-hero-inner {
@@ -1269,42 +1213,12 @@
   .home-page .container {
     width: calc(100% - 40px);
   }
-  .home-page .header-inner {
-    height: 76px;
-  }
-  .home-page .brand-mark svg {
+  .home-page :where(main, footer) .brand-mark svg {
     width: 45px;
     height: 45px;
   }
-  .home-page .brand-name {
+  .home-page :where(main, footer) .brand-name {
     font-size: 30px;
-  }
-  .home-page .menu-toggle {
-    color: white;
-    border-color: #555;
-  }
-  .home-page .main-nav {
-    background: #000;
-    top: 76px;
-    border-color: #444;
-    gap: 0;
-  }
-  .home-landing-page .main-nav {
-    flex-direction: column;
-    align-items: stretch;
-  }
-  .home-page .nav-link {
-    font-size: 14px;
-    border-color: #333;
-    padding-block: 13px;
-  }
-  .home-page .home-search-link {
-    padding-top: 20px;
-    gap: 10px;
-  }
-  .home-page .home-search-link:after {
-    content: "Tìm kiếm sản phẩm";
-    font-size: 13px;
   }
   .home-hero-inner {
     width: 100%;
@@ -1468,10 +1382,6 @@
     right: 0;
     top: auto;
     bottom: 0;
-  }
-  .home-page .home-scope-note {
-    font-size: 9px;
-    padding-block: 22px;
   }
   .home-footer {
     padding-block: 35px 32px;

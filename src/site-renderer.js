@@ -1,6 +1,6 @@
 import { escape, icon, logo } from "./html.js";
 import { productCard } from "./catalog.js";
-import { products, solutions, completedSolutions, services, articles } from "./data.js";
+import { products, solutions, services, articles } from "./data.js";
 import { home, homeHeader, homeFooter } from "./home.js";
 import { aboutPage } from "./about.js";
 import { contactPage } from "./contact.js";
@@ -18,10 +18,10 @@ import { constructionSecurityPage } from "./construction-security.js";
 import { storeAnalyticsPage } from "./store-analytics.js";
 import { factoryIntelligencePage } from "./factory-intelligence.js";
 import { supportPage } from "./support.js";
-import { footerInfo } from "./footer-info.js";
 import { productRedirects } from "./route-redirects.js";
 import { productsPage } from "./products.js";
 import { cmmsPage } from "./cmms.js";
+import { insightsPage, articlePage } from "./insights.js";
 
 const button = (label, href, style = "primary") =>
   `<a class="button button-${style}" href="${href}">${label}${icon("arrow-up-right")}</a>`;
@@ -30,24 +30,8 @@ const eyebrow = (text, number = "") =>
 const sectionHeading = (number, tag, title, description = "", action = "") =>
   `<div class="section-heading"><div>${eyebrow(tag, number)}<h2>${title}</h2></div><div class="section-heading-aside">${description ? `<p>${description}</p>` : ""}${action}</div></div>`;
 
-function header(path) {
-  const navLink = (href, text) =>
-    `<a class="nav-link ${path.startsWith(href) ? "active" : ""}" href="${href}" ${path === href ? 'aria-current="page"' : ""}>${text}</a>`;
-  return `<div class="utility-bar"><div class="container"><span><span class="status-dot"></span>Công nghệ đúng. Giá trị thật.</span><a href="/support">${icon("headphones")}Hỗ trợ kỹ thuật${icon("arrow-up-right")}</a></div></div>
-  <header class="site-header"><div class="container header-inner"><a class="brand" href="/" aria-label="AQPTech - Trang chủ">${logo()}</a><button class="menu-toggle" aria-label="Mở menu điều hướng" aria-controls="main-nav" aria-expanded="false">${icon("menu")}</button>
-  <nav id="main-nav" class="main-nav" aria-label="Điều hướng chính">${navLink("/about", "Về AQPTech")}<details class="nav-dropdown"><summary class="nav-link ${path.startsWith("/solutions") ? "active" : ""}">Giải pháp${icon("chevron-down")}</summary><div class="dropdown-panel"><a class="dropdown-heading" href="/solutions">Tất cả giải pháp${icon("arrow-up-right")}</a>${completedSolutions.map((item) => `<a href="/solutions/${item.slug}">${icon(item.icon)}${item.menuName || item.name}${icon("arrow-up-right")}</a>`).join("")}</div></details>${navLink("/products", "Sản phẩm")}${navLink("/services", "Dịch vụ")}${navLink("/insights", "Kiến thức")}<a class="button button-primary nav-cta" href="/contact">Kết nối với chúng tôi${icon("arrow-up-right")}</a></nav></div></header>`;
-}
-
-function footer() {
-  return `<footer class="site-footer"><div class="container"><div class="footer-main"><div class="footer-brand"><a class="brand" href="/" aria-label="AQPTech - Trang chủ">${logo()}</a><p>Hạ tầng vững chắc.<br>Tương lai rộng mở.</p><span class="footer-note">Giải pháp công nghệ cho doanh nghiệp.</span></div><div class="footer-column"><h3>Khám phá</h3><a href="/about">Về AQPTech</a><a href="/solutions">Giải pháp</a><a href="/products">Sản phẩm</a><a href="/services">Dịch vụ</a></div><div class="footer-column"><h3>Kết nối</h3><a href="/contact">Tư vấn & báo giá</a><a href="/support">Hỗ trợ kỹ thuật</a><a href="/insights">Kiến thức công nghệ</a><a href="/contact?interest=Hợp%20tác%20OEM">Hợp tác OEM</a></div><div class="footer-newsletter"><h3>Một bước trước công nghệ.</h3><p>Nhận góc nhìn kỹ thuật và thông tin giải pháp.</p><form data-api="newsletter"><label class="sr-only" for="newsletter-email">Email nhận bản tin</label><div class="newsletter-input"><input id="newsletter-email" name="email" type="email" autocomplete="email" placeholder="Email của bạn" maxlength="254" required><button type="submit" aria-label="Đăng ký bản tin">${icon("arrow-up-right")}</button></div><label class="consent newsletter-consent"><input type="checkbox" name="consent" required><span>Tôi đồng ý nhận bản tin và <a href="/privacy">chính sách riêng tư</a>.</span></label><label class="honeypot" aria-hidden="true">Website<input name="website" tabindex="-1" autocomplete="off"></label><p class="form-status" role="status" aria-live="polite"></p></form></div></div><div class="footer-bottom"><span>© ${new Date().getFullYear()} AQPTech. All rights reserved.</span><div><a href="/privacy">Quyền riêng tư</a><a href="/terms">Điều khoản</a><a href="#top" class="back-top">Về đầu trang${icon("arrow-up-right")}</a></div></div>${footerInfo({ icon })}</div></footer>`;
-}
-
 function callToAction() {
   return `<section class="cta-section"><div class="container cta-inner"><div>${eyebrow("LET’S BUILD WHAT’S NEXT")}<h2>Bài toán của bạn.<br><span>Giải pháp của chúng tôi.</span></h2><p>Chia sẻ điều bạn muốn xây dựng. Cùng AQPTech tìm ra nền tảng phù hợp.</p></div>${button("Bắt đầu cuộc trao đổi", "/contact")}<span class="cta-decoration" aria-hidden="true">↗</span></div></section>`;
-}
-
-function articleCard(item) {
-  return `<a class="article-card" href="/insights/${item.slug}"><div class="article-image"><img src="${item.image}" alt="Minh họa ${item.title}" width="640" height="400" loading="lazy">${icon("arrow-up-right")}</div><div class="article-meta"><span>${item.category}</span><span>${item.time}</span></div><h3>${item.title}</h3><p>${item.summary}</p><span class="text-link">Đọc bài viết${icon("arrow-right")}</span></a>`;
 }
 
 function pageIntro(tag, title, description, extra = "") {
@@ -71,15 +55,6 @@ function detailPage(item, type) {
 
 function servicesPage(item) {
   return `${pageIntro("Dịch vụ", item.name, item.description, button("Trao đổi nhu cầu", `/contact?interest=${encodeURIComponent(item.name)}`))}<section class="section container">${sectionHeading("01", item.tag, "Rõ ràng trong từng bước.")}<div class="feature-grid service-features">${item.features.map((feature, index) => `<div><span>0${index + 1}</span><h3>${feature}</h3><p>Phạm vi công việc, tiêu chí nghiệm thu và phương án thực hiện được thống nhất theo từng dự án.</p></div>`).join("")}</div></section><section class="service-note container">${icon("check-circle-2")}<p>Dịch vụ được xây dựng theo yêu cầu cụ thể. Thời gian, chi phí và chính sách hỗ trợ sẽ được xác nhận trong đề xuất dự án.</p></section>${callToAction()}`;
-}
-
-function insightsPage(article) {
-  if (!article)
-    return `${pageIntro("Kiến thức", "Góc nhìn thực tế.<br><span>Quyết định sáng suốt.</span>", "Kiến thức nền tảng và góc nhìn kỹ thuật giúp bạn lựa chọn, triển khai và vận hành hệ thống hiệu quả hơn.")}<section class="section container"><div class="articles-grid">${articles.map(articleCard).join("")}</div></section>${callToAction()}`;
-  return `<article class="article-detail container"><nav class="breadcrumb" aria-label="Đường dẫn"><a href="/">Trang chủ</a><span>/</span><a href="/insights">Kiến thức</a></nav>${eyebrow(article.category)}<h1>${article.title}</h1><div class="article-byline"><span>AQPTech Editorial</span><span>${icon("clock")}${article.time}</span></div><p class="article-lead">${article.summary}</p><img class="article-cover" src="${article.image}" alt="Minh họa ${article.title}" width="980" height="653"><div class="article-body">${article.sections.map(([heading, text]) => `<section><h2>${heading}</h2><p>${text}</p></section>`).join("")}<div class="article-disclaimer">Nội dung cung cấp kiến thức tổng quan. Các thông số và cấu hình cần được kiểm chứng với môi trường triển khai cụ thể.</div>${button("Trao đổi với AQPTech", `/contact?interest=${encodeURIComponent(article.title)}`, "outline")}</div></article><section class="section container">${sectionHeading("ĐỌC THÊM", "GÓC NHÌN LIÊN QUAN", "Tiếp tục khám phá.")}<div class="articles-grid related-articles">${articles
-    .filter((item) => item.slug !== article.slug)
-    .map(articleCard)
-    .join("")}</div></section>`;
 }
 
 function policyPage(type) {
@@ -142,6 +117,7 @@ export function renderSite(pathname = "/", search = "") {
   let content;
   let title = "";
   let found = true;
+  let pageType = "";
   if (path === "/") content = home({ icon });
   else if (path === "/about") {
     content = aboutPage({ icon, logo });
@@ -167,9 +143,9 @@ export function renderSite(pathname = "/", search = "") {
   } else if (path === "/products/intelligent-video-analytics") {
     content = videoAnalyticsPage({ icon });
     title = "Intelligent Video Analytics";
-  } else if (path === "/products/servedeck-cmms") {
+  } else if (path === "/products/cmms") {
     content = cmmsPage({ icon });
-    title = "ServeDeck CMMS - Quản lý bảo trì & tài sản";
+    title = "CMMS - Quản lý bảo trì & tài sản";
   } else if (path === "/solutions/gates-access") {
     content = gatesAccessPage({ icon });
     title = "Gates & Access";
@@ -198,6 +174,7 @@ export function renderSite(pathname = "/", search = "") {
     content = item ? detailPage(item, parts[0]) : notFound();
     title = item?.name || "Không tìm thấy trang";
     found = Boolean(item);
+    if (item) pageType = "detail";
   } else if (path === "/services") {
     content = professionalServicesPage({ icon });
     title = "Professional Services";
@@ -206,15 +183,16 @@ export function renderSite(pathname = "/", search = "") {
     content = item ? servicesPage(item) : notFound();
     title = item?.name || "Không tìm thấy trang";
     found = Boolean(item);
-  } else if (
-    path === "/insights" ||
-    (parts[0] === "insights" && parts.length === 2)
-  ) {
+    if (item) pageType = "service";
+  } else if (path === "/insights") {
+    content = insightsPage({ icon, escape });
+    title = "Kiến thức công nghệ";
+  } else if (parts[0] === "insights" && parts.length === 2) {
     const article = articles.find((entry) => entry.slug === parts[1]);
-    content =
-      parts.length === 2 && !article ? notFound() : insightsPage(article);
+    content = article ? articlePage({ article, icon, escape }) : notFound();
     title = article?.title || "Kiến thức";
-    if (parts.length === 2 && !article) found = false;
+    found = Boolean(article);
+    if (article) pageType = "article";
   } else if (path === "/contact") {
     content = contactPage({ icon, escape, search });
     title = "Liên hệ";
@@ -224,31 +202,30 @@ export function renderSite(pathname = "/", search = "") {
   } else if (path === "/privacy" || path === "/terms") {
     content = policyPage(parts[0]);
     title = path === "/privacy" ? "Quyền riêng tư" : "Điều khoản";
+    pageType = "policy";
   } else {
     content = notFound();
     title = "Không tìm thấy trang";
     found = false;
   }
+  if (!found) pageType = "not-found";
   const isHome = path === "/";
+  const isInsights = path === "/insights";
   const isIndustrySolution = [
     "/solutions/seaports-terminals",
     "/solutions/oil-gas",
     "/solutions/national-borders",
     "/solutions/critical-sites",
     "/products/intelligent-video-analytics",
-    "/products/servedeck-cmms",
+    "/products/cmms",
     "/solutions/gates-access",
     "/solutions/event-security",
     "/solutions/construction-site-security",
     "/solutions/store-analytics",
     "/solutions/factory-intelligence",
   ].includes(path);
-  const isBrandedPage =
-    isHome ||
-    isIndustrySolution ||
-    ["/about", "/contact", "/solutions", "/products", "/products/veolink", "/services", "/support"].includes(path);
   const classes = [
-    ["home-page", isBrandedPage], ["home-landing-page", isHome], ["industry-solution-page", isIndustrySolution],
+    ["home-page", true], ["home-landing-page", isHome], ["industry-solution-page", isIndustrySolution],
     ["about-reference-page", path === "/about"], ["contact-reference-page", path === "/contact"],
     ["solutions-reference-page", path === "/solutions"], ["seaports-page", path === "/solutions/seaports-terminals"],
     ["oil-gas-page", path === "/solutions/oil-gas"], ["veolink-page", path === "/products/veolink"],
@@ -257,10 +234,13 @@ export function renderSite(pathname = "/", search = "") {
     ["construction-security-page", path === "/solutions/construction-site-security"], ["store-analytics-page", path === "/solutions/store-analytics"],
     ["factory-intelligence-page", path === "/solutions/factory-intelligence"], ["support-reference-page", path === "/support"],
     ["products-reference-page", path === "/products"],
-    ["cmms-page", path === "/products/servedeck-cmms"],
+    ["cmms-page", path === "/products/cmms"],
+    ["insights-reference-page", isInsights],
+    ["company-reference-page", Boolean(pageType)],
+    [`${pageType}-reference-page`, Boolean(pageType)],
   ].filter(([, enabled]) => enabled).map(([name]) => name).join(" ");
-  const html = `<div id="top"></div>${isBrandedPage ? homeHeader({ icon, logo, path }) : header(path)}<main id="main" tabindex="-1">${content}</main>${isBrandedPage ? homeFooter({ icon, logo, newsletter: isHome || path === "/products" }) : footer()}`;
+  const html = `<div id="top"></div>${homeHeader({ icon, logo, path })}<main id="main" tabindex="-1">${content}</main>${homeFooter({ icon, logo, newsletter: isHome || isInsights || Boolean(pageType) || path === "/products" })}`;
   const description = (content.match(/<p\b[^>]*>([\s\S]*?)<\/p>/)?.[1] || "AQPTech - Giải pháp công nghệ và hạ tầng cho doanh nghiệp.")
     .replace(/<[^>]*>/g, " ").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/\s+/g, " ").trim();
-  return { pathname: path, html, classes, title: title ? `${title} | AQPTech` : "AQPTech | Hạ tầng vững chắc. Tương lai rộng mở.", description, themeColor: isBrandedPage ? "#000000" : "#f6f5f1", found };
+  return { pathname: path, html, classes, title: title ? `${title} | AQPTech` : "AQPTech | Hạ tầng vững chắc. Tương lai rộng mở.", description, themeColor: "#000000", found };
 }

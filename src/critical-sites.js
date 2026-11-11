@@ -1,7 +1,6 @@
 import { solutions } from "./data.js";
 import { industrySolutionPage } from "./industry-solution.js";
 const facilityImage = "/assets/magal/images/aqp-critical-sites-facility.jpg";
-const brochureUrl = "/assets/magal/documents/Critical-Sites-brochure-1--471a598834.pdf";
 
 export function criticalSitesPage({ icon }) {
   const solution = solutions.find((item) => item.slug === "critical-sites");
@@ -16,8 +15,6 @@ export function criticalSitesPage({ icon }) {
         imageAlt: "Máy bay và phương tiện phục vụ mặt đất trên sân đỗ sân bay lúc hoàng hôn",
         imageWidth: 1580,
         imageHeight: 760,
-        videoUrl: "https://www.youtube.com/watch?v=d2wIFlax6Dg",
-        videoLabel: "Video Magal: cơ sở giam giữ",
       },
       overview: {
         title: "Bảo vệ tài sản trọng yếu trên một nền tảng chung",
@@ -95,7 +92,6 @@ export function criticalSitesPage({ icon }) {
       },
       resources: {
         title: "Tìm hiểu thêm về giải pháp cơ sở trọng yếu",
-        brochureUrl,
         sourceName: "Critical Sites",
       },
     },

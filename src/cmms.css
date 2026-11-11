@@ -163,31 +163,28 @@
 .cmms-resources {
   padding-bottom: 70px;
 }
-.cmms-source-links {
+.cmms-readiness-list {
   display: grid;
   gap: 3px;
   list-style: none;
   padding: 0;
   margin: 10px 0 0;
 }
-.cmms-source-links a {
-  display: inline-flex;
-  align-items: center;
+.cmms-readiness-list li {
+  display: flex;
+  align-items: flex-start;
   gap: 10px;
   min-height: 44px;
-  color: #cc0033;
-  font-size: 12px;
+  color: #444;
+  font-size: 13px;
   line-height: 1.8;
 }
-.cmms-source-links svg {
-  width: 16px;
-  height: 16px;
+.cmms-readiness-list svg {
+  width: 20px;
+  height: 20px;
+  margin-top: 2px;
+  color: #cc0033;
   flex-shrink: 0;
-}
-.cmms-source-links a:hover,
-.cmms-resources .industry-scope-note a {
-  text-decoration: underline;
-  text-underline-offset: 4px;
 }
 .cmms-page .cmms-resources > .industry-scope-note {
   font-size: 11px;

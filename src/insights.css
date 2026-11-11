@@ -1,0 +1,130 @@
+.insights-reference-page,
+.article-reference-page {
+  --paper: #fff;
+  --ink: #333;
+  --muted: #666;
+  --border: #ddd;
+  --orange: #cc0033;
+  --accent-text: #b0002d;
+}
+.insights-reference-page .about-reference-hero { min-height: 455px; }
+.insights-reference-page .about-hero-panel { width: 570px; padding: 26px; }
+.insights-reference-page .about-hero-photo { object-position: center 58%; }
+:is(.insights-reference-page, .article-reference-page) .home-button { border-radius: 0; }
+/* Global scroll padding already reserves space for the shared header. */
+.insights-reference-page #insights-articles { scroll-margin-top: 12px; }
+.insights-reference-page .insights-content { padding-block: 40px 60px; }
+.insights-reference-page .industry-breadcrumb { margin-bottom: 34px; }
+.insights-reference-page .insights-section-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: end;
+  gap: 38px;
+  margin-bottom: 32px;
+}
+.insights-reference-page .insights-section-heading > div > p { max-width: 810px; font-size: 13px; }
+.insights-reference-page .insights-count {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  min-width: 84px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-top: 2px solid #cc0033;
+  color: #666;
+  font-size: 11px;
+}
+.insights-reference-page .insights-count strong { color: #333; font-size: 30px; font-weight: 500; line-height: 1.2; }
+.insights-reference-page .insights-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+:is(.insights-reference-page, .article-reference-page) .insights-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  color: #333;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
+  transition: border-color 200ms;
+}
+:is(.insights-reference-page, .article-reference-page) .insights-card:hover,
+:is(.insights-reference-page, .article-reference-page) .insights-card:focus-visible { border-color: #cc0033; }
+:is(.insights-reference-page, .article-reference-page) .insights-card-image { aspect-ratio: 16 / 10; overflow: hidden; background: #f3f3f3; border-bottom: 1px solid #e4e4e4; }
+:is(.insights-reference-page, .article-reference-page) .insights-card-image img { height: 100%; transition: transform 250ms; }
+:is(.insights-reference-page, .article-reference-page) .insights-card:hover .insights-card-image img { transform: scale(1.035); }
+:is(.insights-reference-page, .article-reference-page) .insights-card-body { display: flex; flex-direction: column; flex: 1; padding: 24px; }
+:is(.insights-reference-page, .article-reference-page) .insights-card-meta { display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 8px 12px; margin-bottom: 15px; }
+:is(.insights-reference-page, .article-reference-page) .insights-category { color: #b0002d; font-size: 10px; font-weight: 500; letter-spacing: 0.3px; line-height: 1.7; }
+:is(.insights-reference-page, .article-reference-page) .insights-reading-time { display: flex; align-items: center; gap: 5px; color: #666; font-size: 10px; white-space: nowrap; line-height: 1.7; }
+:is(.insights-reference-page, .article-reference-page) .insights-reading-time svg { width: 13px; height: 13px; }
+:is(.insights-reference-page, .article-reference-page) .insights-card h3 { color: #333; font-size: 18px; font-weight: 500; line-height: 1.65; letter-spacing: 0; }
+:is(.insights-reference-page, .article-reference-page) .insights-card-body > p { color: #666; font-size: 12px; line-height: 1.9; margin-block: 13px 22px; }
+:is(.insights-reference-page, .article-reference-page) .insights-read-link { display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-top: auto; min-height: 34px; color: #b0002d; font-size: 12px; font-weight: 500; }
+:is(.insights-reference-page, .article-reference-page) .insights-read-link svg { width: 18px; height: 18px; color: #cc0033; }
+.insights-reference-page .insights-help { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 32px; margin-top: 40px; padding: 30px; background: #f5f5f5; border-left: 3px solid #cc0033; }
+.insights-reference-page .insights-help h2 { font-size: 19px; font-weight: 500; line-height: 1.6; margin-bottom: 10px; }
+.insights-reference-page .insights-help p { color: #666; font-size: 12px; line-height: 1.9; }
+.insights-reference-page .insights-help .home-button { font-size: 12px; gap: 18px; }
+.article-reference-page .article-detail { max-width: none; padding-block: 40px 50px; }
+.article-reference-page .industry-breadcrumb { margin-bottom: 35px; }
+.article-reference-page .article-heading { max-width: 900px; margin-bottom: 32px; }
+.article-reference-page .article-heading h1 { color: #333; font-size: 36px; font-weight: 500; line-height: 1.5; letter-spacing: 0; margin-top: 18px; }
+.article-reference-page .article-byline { flex-wrap: wrap; gap: 12px 24px; color: #666; font-size: 12px; margin-top: 22px; }
+.article-reference-page .article-lead { color: #555; font-size: 17px; line-height: 1.9; margin-block: 24px 0; }
+.article-reference-page .article-cover-figure { margin: 0; }
+.article-reference-page .article-cover { height: auto; max-height: 520px; filter: none; object-fit: cover; }
+.article-reference-page .article-cover-figure figcaption { color: #777; font-size: 11px; line-height: 1.8; padding-top: 10px; }
+.article-reference-page .article-reading-layout { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 60px; align-items: start; margin-top: 42px; }
+.article-reference-page .article-toc { position: sticky; top: 112px; border: 1px solid #ddd; border-top: 2px solid #cc0033; padding: 22px; background: #f7f7f7; }
+.article-reference-page .article-toc h2 { font-size: 17px; font-weight: 500; line-height: 1.6; margin-bottom: 12px; }
+.article-reference-page .article-toc ol { list-style: none; padding: 0; margin: 0; }
+.article-reference-page .article-toc li + li { border-top: 1px solid #ddd; }
+.article-reference-page .article-toc a { display: flex; align-items: flex-start; gap: 10px; min-height: 44px; padding-block: 12px; color: #555; font-size: 13px; line-height: 1.7; }
+.article-reference-page .article-toc a > span:first-child { color: #b0002d; flex-shrink: 0; font-size: 11px; padding-top: 2px; }
+.article-reference-page .article-toc a:hover { color: #b0002d; }
+.article-reference-page .article-body { min-width: 0; max-width: 740px; margin: 0; }
+.article-reference-page .article-body > section { scroll-margin-top: 12px; margin-bottom: 34px; }
+.article-reference-page .article-body h2 { color: #333; font-size: 24px; font-weight: 500; line-height: 1.65; margin-bottom: 15px; }
+.article-reference-page .article-body p { color: #555; font-size: 16px; line-height: 1.95; }
+.article-reference-page .article-disclaimer { background: #f5f5f5; border-color: #cc0033; color: #666; font-size: 13px; line-height: 1.9; padding: 24px; }
+.article-reference-page .article-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 20px 24px; }
+.article-reference-page .article-actions .home-button { font-size: 12px; gap: 18px; }
+.article-reference-page .article-related { padding-block: 5px 60px; }
+.article-reference-page .insights-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+@media (max-width: 1100px) {
+  .insights-reference-page .insights-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .article-reference-page .article-reading-layout { grid-template-columns: 200px minmax(0, 1fr); gap: 35px; }
+}
+@media (max-width: 760px) {
+  .insights-reference-page .about-reference-hero { min-height: 0; }
+  .insights-reference-page .about-hero-panel { width: 100%; padding: 23px; }
+  .insights-reference-page .about-hero-panel h1 { font-size: 27px; }
+  .insights-reference-page #insights-articles { scroll-margin-top: 0; }
+  .insights-reference-page .insights-content { padding-block: 30px 42px; }
+  .insights-reference-page .industry-breadcrumb { margin-bottom: 27px; }
+  .insights-reference-page .insights-section-heading { grid-template-columns: minmax(0, 1fr); gap: 20px; margin-bottom: 26px; }
+  .insights-reference-page .insights-count { flex-direction: row; justify-self: start; gap: 10px; padding: 7px 13px; min-width: 0; }
+  .insights-reference-page .insights-count strong { font-size: 22px; }
+  :is(.insights-reference-page, .article-reference-page) .insights-grid { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+  :is(.insights-reference-page, .article-reference-page) .insights-card-body { padding: 23px; }
+  :is(.insights-reference-page, .article-reference-page) .insights-card h3 { font-size: 18px; }
+  .insights-reference-page .insights-help { grid-template-columns: minmax(0, 1fr); gap: 20px; padding: 24px 20px; margin-top: 30px; }
+  .insights-reference-page .insights-help h2 { font-size: 18px; }
+  .insights-reference-page .insights-help .home-button { justify-self: start; }
+  .article-reference-page .article-detail { padding-block: 30px 42px; }
+  .article-reference-page .industry-breadcrumb { margin-bottom: 27px; }
+  .article-reference-page .article-heading h1 { font-size: 27px; line-height: 1.55; }
+  .article-reference-page .article-lead { font-size: 15px; line-height: 1.95; }
+  .article-reference-page .article-reading-layout { grid-template-columns: minmax(0, 1fr); gap: 28px; margin-top: 30px; }
+  .article-reference-page .article-toc { position: static; padding: 20px; }
+  .article-reference-page .article-body > section { scroll-margin-top: 0; }
+  .article-reference-page .article-body h2 { font-size: 22px; }
+  .article-reference-page .article-body p { font-size: 15px; }
+  .article-reference-page .article-actions { align-items: flex-start; flex-direction: column; gap: 18px; }
+  .article-reference-page .article-related { padding-bottom: 42px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  :is(.insights-reference-page, .article-reference-page) .insights-card,
+  :is(.insights-reference-page, .article-reference-page) .insights-card-image img { transition: none; }
+  :is(.insights-reference-page, .article-reference-page) .insights-card:hover .insights-card-image img { transform: none; }
+}

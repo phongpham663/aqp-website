@@ -9,7 +9,8 @@ const directory = await mkdtemp(join(tmpdir(), "aqp-next-tests-"));
 process.env.DATA_DIR = join(directory, "data");
 process.env.API_RATE_MAX = "1000";
 delete process.env.PUBLIC_ORIGIN;
-const app = next({ dev: false, hostname: "127.0.0.1", port: 0 });
+// Derive the rewrite origin from requests instead of configuring an ephemeral port as zero.
+const app = next({ dev: false });
 let server;
 try {
   await app.prepare();

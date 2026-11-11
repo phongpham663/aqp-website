@@ -1,4 +1,4 @@
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { renderSite } from "../../src/site-renderer.js";
 import SiteClient from "../../src/site-client.jsx";
 
@@ -21,7 +21,10 @@ export async function generateViewport({ params }) {
   return { themeColor: renderSite(routePath(await params)).themeColor };
 }
 export default async function Page({ params, searchParams }) {
-  const site = renderSite(routePath(await params), searchString(await searchParams));
+  const pathname = routePath(await params);
+  const search = searchString(await searchParams);
+  const site = renderSite(pathname, search);
+  if (site.found && site.pathname !== pathname) permanentRedirect(`${site.pathname}${search}`);
   if (!site.found) notFound();
   return <SiteClient site={site} />;
 }

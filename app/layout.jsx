@@ -21,6 +21,8 @@ import "../src/support.css";
 import "../src/footer-info.css";
 import "../src/products.css";
 import "../src/cmms.css";
+import "../src/insights.css";
+import "../src/company-pages.css";
 
 export const metadata = {
   title: "AQPTech | Hạ tầng vững chắc. Tương lai rộng mở.",
@@ -29,6 +31,8 @@ export const metadata = {
   openGraph: { type: "website", locale: "vi_VN", siteName: "AQPTech" },
 };
 
+export const viewport = { themeColor: "#000000" };
+
 export default function RootLayout({ children }) {
-  return <html lang="vi"><body><a className="skip-link" href="#main">Đến nội dung chính</a>{children}<noscript><style>{"@media(max-width:760px){.header-inner{flex-wrap:wrap;height:auto!important}.main-nav{display:flex!important;position:static!important;width:100%;max-height:none!important}.menu-toggle,.home-contact-widget{display:none!important}.home-landing-page .site-header{position:static}}"}</style></noscript></body></html>;
+  return <html lang="vi"><body><a className="skip-link" href="#main">Đến nội dung chính</a>{children}<noscript><style>{"@media(max-width:1000px){.site-header{position:static}.header-inner{flex-wrap:wrap;height:auto!important;padding-top:20px}.main-nav{display:flex!important;position:static!important;flex-direction:column;align-items:stretch;width:100%;max-height:none!important;padding-inline:0}.menu-toggle,.home-contact-widget{display:none!important}}"}</style></noscript></body></html>;
 }

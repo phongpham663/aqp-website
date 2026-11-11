@@ -1,6 +1,8 @@
 import assert from "node:assert/strict";
+import { access } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { after, before, test } from "node:test";
+import { chromium } from "playwright";
 import { createRendererServer as createServer } from "./test-site.mjs";
 
 let vite;
@@ -65,6 +67,41 @@ test("Construction security corrects Solar source copy and qualifies provider cl
   assert.ok(html.includes("không thay thế hệ thống báo cháy được chứng nhận"));
   assert.ok(html.includes("Quyền lợi bảo hiểm phải đối chiếu hợp đồng cụ thể"));
   assert.ok(html.includes("4G/5G"));
-  assert.ok(html.includes("Hình ảnh không phải công trình hay nhân sự AQPTech"));
+  assert.doesNotMatch(html, /Nội dung và hình ảnh dùng làm tư liệu tham khảo|Hình ảnh không phải công trình hay nhân sự AQPTech/);
   assert.doesNotMatch(html, /impenetrable|NDAA|NSI Gold|254,800|22,500|\.pdf|<iframe/);
+});
+
+test("Construction consultation uses the supplied illustration with its real dimensions", async () => {
+  const story = html.match(/<div class="cs-story cs-story-reverse">([\s\S]*?)<\/figure>/)[1];
+  assert.match(story, /src="\/assets\/watchtower\/construction-site-security\/images\/image\.png"/);
+  assert.match(story, /alt="Nhân sự ghi chép khảo sát bên trạm an ninh công trường màu đỏ và trắng"/);
+  assert.match(story, /width="1535" height="1024" loading="lazy"/);
+  assert.doesNotMatch(story, /watchtower-site-consultation\.webp/);
+  await access(new URL("../assets/watchtower/construction-site-security/images/image.png", import.meta.url));
+});
+
+test("The new construction consultation illustration loads without cropping on desktop and mobile", { skip: !process.env.TEST_BASE_URL }, async () => {
+  const browser = await chromium.launch({ headless: true });
+  try {
+    const page = await browser.newPage({ reducedMotion: "reduce" });
+    const errors = [];
+    page.on("pageerror", (error) => errors.push(error.message));
+    for (const width of [1440, 768, 390, 320]) {
+      await page.setViewportSize({ width, height: 900 });
+      const response = await page.goto(`${process.env.TEST_BASE_URL}/solutions/construction-site-security`, { waitUntil: "networkidle" });
+      assert.equal(response.status(), 200);
+      const image = page.locator(".cs-story-reverse .cs-media img");
+      await image.scrollIntoViewIfNeeded();
+      await image.evaluate((element) => element.decode());
+      assert.equal(await image.isVisible(), true);
+      assert.ok(await image.evaluate((element) => {
+        const bounds = element.getBoundingClientRect();
+        return element.naturalWidth === 1535 && element.naturalHeight === 1024 && Math.abs(bounds.width / bounds.height - 1535 / 1024) < 0.01;
+      }));
+      assert.equal(await page.evaluate(() => document.documentElement.scrollWidth), width);
+    }
+    assert.deepEqual(errors, []);
+  } finally {
+    await browser.close();
+  }
 });

@@ -40,11 +40,12 @@ test("Veolink section links have matching accessible sections", () => {
   assert.ok(html.includes(encodeURIComponent("Hỗ trợ & góp ý Veolink")));
 });
 
-test("Fortis X resources remain attributed and safely open in a new tab", () => {
-  assert.match(html, /href="https:\/\/www\.youtube\.com\/watch\?v=80EWEtl7aCA" target="_blank" rel="noopener noreferrer"/);
-  assert.match(html, /href="[^"]*Fortis-X-Brochure[^"?]*\.pdf" target="_blank" rel="noopener noreferrer"/);
-  assert.ok(html.includes("Xem brochure Fortis X"));
+test("Fortis X video, reference notes and brochure block are removed while consultation remains", () => {
+  assert.doesNotMatch(html, /industry-video-link|Xem video Fortis X|youtube\.com|youtu\.be/);
+  assert.doesNotMatch(html, /Khám phá mô hình điều hành tích hợp C5I|Xem brochure Fortis X|Fortis-X-Brochure|brochureUrl/);
+  const consultation = html.match(/<section id="veolink-resources"[\s\S]*?<\/section>/)[0];
+  assert.match(consultation, /class="home-button" href="\/contact\?interest=Veolink"/);
+  assert.doesNotMatch(consultation, /industry-resources|<h3>|\.pdf/);
   assert.doesNotMatch(html, /Tài liệu tham khảo gốc của Magal Solutions, bằng tiếng Anh|PDF tiếng Anh từ Magal/);
-  assert.ok(html.includes("Magal Solutions"));
-  assert.ok(html.includes("không phải tài liệu sản phẩm Veolink đã được xác nhận"));
+  assert.doesNotMatch(html, /Nội dung và hình ảnh tham khảo|không phải tài liệu sản phẩm Veolink đã được xác nhận/);
 });
