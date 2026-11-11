@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { createServer as createHttpServer } from "node:http";
 import { fileURLToPath } from "node:url";
 import { after, before, test } from "node:test";
-import { createServer } from "vite";
+import { createRendererServer as createServer } from "./test-site.mjs";
 import { chromium } from "playwright";
 
 let vite;

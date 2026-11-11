@@ -1,8 +1,5 @@
-import { images, products, solutions, completedSolutions, services, articles } from "./data.js";
+import { images, catalogProducts, completedSolutions, services, articles, companyContact } from "./data.js";
 import { footerInfo } from "./footer-info.js";
-import heroImage from "../assets/velasea/images/velasea-hero_racks-1280x817--75b79a8043.png";
-import officeImage from "../assets/velasea/images/commercial-office-complex-980x653--dacd576d2c.jpg";
-import "./home.css";
 
 export function homeHeader({ icon, logo, path = "/" }) {
   return `<header class="site-header home-header">
@@ -29,132 +26,94 @@ export function homeHeader({ icon, logo, path = "/" }) {
 }
 
 export function home({ icon }) {
-  const cta = (label, href) =>
-    `<a class="home-button" href="${href}">${label}</a>`;
-  const categories = [
-    "servers",
-    "storage",
-    "ai-computing",
-    "ip-video",
-    "networking",
-    "edge-industrial",
-  ];
-  const values = [
+  const cta = (label, href, style = "primary") =>
+    `<a class="home-button${style === "primary" ? "" : ` home-button-${style}`}" href="${href}">${label}${icon("arrow-up-right")}</a>`;
+  const contactUrl = `/contact?interest=${encodeURIComponent("Tư vấn giải pháp")}`;
+  const groups = [
     {
-      icon: "settings-2",
-      title: "Thiết kế toàn diện",
-      text: "Kết nối yêu cầu kỹ thuật, ứng dụng và mục tiêu kinh doanh để lựa chọn nền tảng phù hợp.",
-      href: "/services/integration",
+      id: "infrastructure", icon: "shield-check", title: "Bảo vệ hạ tầng",
+      slugs: ["critical-sites", "seaports-terminals", "oil-gas", "national-borders", "gates-access"],
     },
     {
-      icon: "shield-check",
-      title: "Chất lượng có cơ sở",
-      text: "Kiểm thử tương thích, đánh giá hiệu năng và chuẩn hóa cấu hình trước khi triển khai.",
-      href: "/services/oem",
+      id: "field", icon: "cctv", title: "Giám sát hiện trường",
+      slugs: ["event-security", "construction-site-security"],
     },
     {
-      icon: "graduation-cap",
-      title: "Chuyên môn kỹ thuật",
-      text: "Tư vấn và tích hợp phần cứng, phần mềm thành một hệ thống được thiết kế cho bài toán thực tế.",
-      href: "/about",
+      id: "operations", icon: "chart-no-axes-combined", title: "Tối ưu vận hành",
+      slugs: ["store-analytics", "factory-intelligence"],
     },
   ];
-  const network = [
-    {
-      count: products.length,
-      label: "NỀN TẢNG CÔNG NGHỆ",
-      title: "Hệ sinh thái giải pháp",
-      text: "Từ máy chủ, lưu trữ và hạ tầng mạng đến AI, giám sát IP và máy tính công nghiệp. Kết nối các thành phần thành một nền tảng phù hợp với ứng dụng, dễ quản trị và có khả năng mở rộng.",
-      href: "/products",
-      cta: "Khám phá sản phẩm",
-    },
-    {
-      count: solutions.length,
-      label: "LĨNH VỰC ỨNG DỤNG",
-      title: "Hiểu đúng ngành của bạn",
-      text: "Mỗi môi trường vận hành có những yêu cầu riêng. AQPTech tiếp cận bài toán từ lĩnh vực, quy mô và điều kiện triển khai để cân đối hiệu năng, độ ổn định và chi phí đầu tư.",
-      href: "/solutions",
-      cta: "Khám phá giải pháp",
-    },
-    {
-      count: services.length,
-      label: "NHÓM DỊCH VỤ",
-      title: "Hợp tác cùng AQPTech",
-      text: "Bạn là doanh nghiệp, đơn vị tích hợp hoặc đối tác phần mềm? Cùng chúng tôi xây dựng hệ thống OEM, triển khai hạ tầng và lập kế hoạch hỗ trợ xuyên suốt vòng đời sản phẩm.",
-      href: "/contact?interest=Hợp%20tác%20OEM",
-      cta: "Kết nối với chúng tôi",
-    },
+  const solutionOrder = [
+    "critical-sites", "event-security", "factory-intelligence",
+    "seaports-terminals", "construction-site-security", "store-analytics",
+    "gates-access", "oil-gas", "national-borders",
+  ];
+  const journey = [
+    ["compass", "Hiểu bài toán", "Khảo sát hiện trường, mục tiêu và rủi ro để thống nhất phạm vi, KPI và phương án sơ bộ.", "planning"],
+    ["settings-2", "Tích hợp & kiểm thử", "Lựa chọn cấu hình, kết nối hệ thống và đánh giá kết quả trong điều kiện triển khai thực tế.", "implementation"],
+    ["graduation-cap", "Bàn giao & đào tạo", "Chuẩn bị tài liệu, hướng dẫn vận hành và kế hoạch chuyển giao cho đội ngũ sử dụng.", "handover"],
+    ["headphones", "Hỗ trợ & mở rộng", "Làm rõ đầu mối, SLA, bảo trì và lộ trình nâng cấp theo nhu cầu của dự án.", "maintenance"],
+  ];
+  const capabilities = [
+    [catalogProducts.length, "Sản phẩm phần mềm", "Điều hành, phân tích & bảo trì", "/products"],
+    [completedSolutions.length, "Giải pháp được giới thiệu", "Theo từng bài toán thực tế", "/solutions"],
+    [services.length, "Nhóm dịch vụ", "Xuyên suốt vòng đời dự án", "/services"],
   ];
 
-  return `<section class="home-hero home-texture">
+  return `<section class="home-hero home-texture" aria-labelledby="home-title">
     <div class="home-hero-inner">
       <div class="home-hero-copy">
-        <h1>Bạn đưa ra bài toán.<br>Chúng tôi kiến tạo hệ thống.</h1>
-        <p>AQPTech thiết kế, tích hợp và hỗ trợ các hệ thống tính toán chuyên dụng cho doanh nghiệp, đơn vị tích hợp và đối tác phần mềm. Từ nền tảng máy chủ, lưu trữ đến AI và điện toán biên, chúng tôi lựa chọn cấu hình theo ứng dụng thực tế hoặc xây dựng giải pháp OEM theo nhận diện của bạn. Mỗi hệ thống được hướng đến sự tương thích, ổn định và khả năng mở rộng.</p>
+        <h1 id="home-title">Kết nối an ninh.<br>Thấu hiểu vận hành.</h1>
+        <p>Kết nối giám sát, kiểm soát ra vào và dữ liệu vận hành trên một nền tảng phù hợp. AQPTech cùng doanh nghiệp nhận biết rủi ro, phối hợp xử lý và tìm cơ hội cải tiến.</p>
         <div class="home-hero-actions">
-          ${cta("Khám phá giải pháp", "/solutions")}
-          ${cta("Tìm hiểu năng lực", "/services")}
-          ${cta("Liên hệ", "/contact")}
+          ${cta("Khám phá giải pháp", "#home-solutions")}
+          ${cta("Trao đổi nhu cầu", contactUrl)}
         </div>
       </div>
-      <div class="home-hero-image"><img src="${heroImage}" alt="Hai kỹ sư trao đổi về hệ thống máy chủ trong trung tâm dữ liệu" width="1280" height="817" fetchpriority="high"></div>
+      <div class="home-hero-image"><img src="/assets/velasea/images/velasea-hero_racks-1280x817--75b79a8043.png" alt="Hai kỹ sư trao đổi về hệ thống máy chủ trong trung tâm dữ liệu" width="1280" height="817" fetchpriority="high"></div>
     </div>
   </section>
 
-  <section class="home-technologies container" aria-labelledby="home-technologies-title">
-    <h2 id="home-technologies-title">Xây dựng nền tảng cho…</h2>
-    <div class="home-category-grid">
-      ${categories
-        .map((slug) => {
-          const item = products.find((product) => product.slug === slug);
-          return `<a href="/products/${slug}">${icon(item.icon)}<h3>${item.name}</h3></a>`;
-        })
-        .join("")}
-    </div>
-  </section>
+  <nav class="home-capabilities" aria-label="Khám phá năng lực AQPTech"><div class="container home-capabilities-grid">${capabilities.map(([count, title, text, href]) => `<a class="home-capability" href="${href}"><span class="home-capability-number">${String(count).padStart(2, "0")}</span><div><strong>${title}</strong><span>${text}</span></div>${icon("arrow-up-right")}</a>`).join("")}</div></nav>
 
-  <section class="home-introduction container" aria-label="AQPTech giải quyết bài toán công nghệ">
-    <div class="home-introduction-copy">
-      <div>
-        <h2>Quản lý công nghệ có thể <span>trở nên phức tạp.</span></h2>
-        <p>Nguồn cung khó dự đoán, chi phí đầu tư tăng và yêu cầu tích hợp ngày càng nhiều. Giữ cho hệ thống vận hành ổn định trong khi doanh nghiệp tiếp tục phát triển là một bài toán không nhỏ.</p>
-        <p>Một cấu hình chưa phù hợp có thể giới hạn khả năng mở rộng. Phần cứng thiếu tương thích, dung lượng lưu trữ không đủ hoặc quy trình hỗ trợ chưa rõ ràng dễ dẫn đến gián đoạn, chậm tiến độ và phát sinh chi phí.</p>
+  <section id="home-solutions" class="container home-solutions" aria-labelledby="home-solutions-title">
+    <div class="home-section-heading"><div><span class="home-kicker">01 / GIẢI PHÁP THEO NHU CẦU</span><h2 id="home-solutions-title">Bài toán của bạn.<br>Hướng triển khai phù hợp.</h2></div><div class="home-heading-aside"><p>Từ hạ tầng trọng yếu đến cửa hàng và nhà máy. Bắt đầu với môi trường vận hành để tìm phương án giám sát, tích hợp và phân tích phù hợp.</p><a class="home-text-link" href="/solutions">Tất cả giải pháp${icon("arrow-up-right")}</a></div></div>
+    <div class="home-solutions-toolbar">
+      <div class="home-solution-filters" role="group" aria-label="Lọc giải pháp theo nhu cầu" hidden>
+        <button type="button" data-home-filter="all" aria-pressed="true" aria-controls="home-solution-grid">Tất cả<span aria-hidden="true">${completedSolutions.length}</span></button>
+        ${groups.map((group) => `<button id="home-${group.id}" type="button" data-home-filter="${group.id}" aria-pressed="false" aria-controls="home-solution-grid">${icon(group.icon)}${group.title}<span aria-hidden="true">${group.slugs.length}</span></button>`).join("")}
       </div>
-      <div>
-        <h2>AQPTech giúp bạn <span>đơn giản hóa bài toán.</span></h2>
-        <p>Chúng tôi bắt đầu bằng việc lắng nghe ứng dụng, môi trường triển khai và mục tiêu của bạn. Từ <a href="/services/oem">hệ thống OEM theo yêu cầu</a> đến <a href="/solutions">giải pháp hạ tầng doanh nghiệp</a>, AQPTech kết nối máy chủ, lưu trữ, giám sát IP, AI và điện toán biên thành một hệ thống đồng bộ.</p>
-        <p>Không chỉ lựa chọn thiết bị, chúng tôi hướng đến <strong>cấu hình được kiểm thử, phương án triển khai rõ ràng và khả năng nâng cấp dài hạn.</strong> Bạn có một đầu mối để trao đổi từ thiết kế, tích hợp đến <a href="/support">hỗ trợ vận hành</a>.</p>
-        ${cta("Cách chúng tôi đồng hành", "/about")}
-      </div>
+      <span id="home-solution-count" class="home-solution-count" role="status" aria-live="polite" aria-atomic="true">${completedSolutions.length} giải pháp</span>
     </div>
-    <div class="home-introduction-media">
-      <a class="home-system-photo" href="/services/integration">
-        <img src="${images.dataCenter}" alt="Minh họa nền tảng máy chủ và lưu trữ" width="1280" height="720" loading="lazy">
-        <div><span>Từ yêu cầu<br>đến hệ thống.</span>${icon("arrow-up-right")}<small>Khám phá dịch vụ tích hợp</small></div>
-      </a>
-      <figure class="home-office-photo"><img src="${officeImage}" alt="Minh họa tòa nhà doanh nghiệp và môi trường ứng dụng công nghệ" width="980" height="653" loading="lazy"><figcaption>Công nghệ phù hợp cho từng môi trường doanh nghiệp.</figcaption></figure>
-    </div>
+    <div id="home-solution-grid" class="home-solution-cards">${solutionOrder.map((slug) => {
+      const item = completedSolutions.find((solution) => solution.slug === slug);
+      const group = groups.find((entry) => entry.slugs.includes(slug));
+      return `<a class="home-solution-card" href="/solutions/${item.slug}" data-home-group="${group.id}"><div class="home-solution-photo"><img src="${item.image}" alt="Minh họa ${item.menuName || item.name}" loading="lazy" width="640" height="400"><span class="home-solution-icon">${icon(item.icon)}</span></div><div class="home-solution-content"><span class="home-solution-label">${group.title}</span><h3>${item.menuName || item.name}</h3><p>${item.needs[0]}.</p><span class="home-solution-link">Tìm hiểu phương án${icon("arrow-up-right")}</span></div></a>`;
+    }).join("")}</div>
+    <div class="home-solutions-help">${icon("compass")}<p>Chưa tìm được hướng phù hợp? <a href="${contactUrl}">Cùng AQPTech làm rõ nhu cầu${icon("arrow-right")}</a></p></div>
   </section>
 
-  <section class="home-values container" aria-label="Giá trị AQPTech">
-    ${values.map((value) => `<a class="home-value-card" href="${value.href}">${icon(value.icon)}<h2>${value.title}</h2><p>${value.text}</p><span>Tìm hiểu thêm${icon("arrow-right")}</span></a>`).join("")}
-  </section>
+  <section id="home-software" class="home-software" aria-labelledby="home-software-title"><div class="container">
+    <div class="home-section-heading"><div><span class="home-kicker">02 / DANH MỤC PHẦN MỀM</span><h2 id="home-software-title">Kết nối thông tin.<br>Hỗ trợ quyết định.</h2></div><div class="home-heading-aside"><p>Điều hành tích hợp, phân tích video và quản lý bảo trì. Lựa chọn nền tảng theo mục tiêu vận hành và phạm vi của từng dự án.</p><a class="home-text-link" href="/products">Khám phá sản phẩm${icon("arrow-up-right")}</a></div></div>
+    <div class="home-software-grid">${catalogProducts.map((item) => `<article class="home-software-card" data-product="${item.slug}"><div class="home-product-copy"><span class="home-product-label">${icon(item.icon)}${item.homeLabel}</span><h3>${item.name}</h3><p class="home-product-tagline">${item.tagline}</p><ul role="list">${item.features.map((feature) => `<li>${icon("check")}${feature}</li>`).join("")}</ul>${cta("Tìm hiểu sản phẩm", `/products/${item.slug}`, "light")}</div><figure class="home-product-media"><img src="${item.image}" alt="${item.imageAlt}" width="${item.imageWidth}" height="${item.imageHeight}" loading="lazy"><figcaption>Hình ảnh minh họa${icon("arrow-up-right")}</figcaption></figure></article>`).join("")}</div>
+  </div></section>
 
-  <section class="home-network" aria-label="Năng lực và hợp tác">
-    <div class="container home-network-grid">${network.map((item) => `<div class="home-network-column"><span class="home-network-count">${String(item.count).padStart(2, "0")}</span><p class="home-network-label">${item.label}</p><h2>${item.title}</h2><p>${item.text}</p>${cta(item.cta, item.href)}</div>`).join("")}</div>
-  </section>
+  <section class="container home-journey" aria-labelledby="home-journey-title"><div class="home-section-heading"><div><span class="home-kicker">03 / TỪ NHU CẦU ĐẾN VẬN HÀNH</span><h2 id="home-journey-title">Không chỉ triển khai.<br>Còn là đồng hành.</h2></div><div class="home-heading-aside"><p>Một đầu mối xuyên suốt. Làm rõ quy trình, kiểm thử, đào tạo và trách nhiệm hỗ trợ ngay từ bước đầu tiên.</p><a class="home-text-link" href="/services">Cách chúng tôi đồng hành${icon("arrow-up-right")}</a></div></div><ol class="home-journey-grid" role="list">${journey.map(([name, title, text, stage], index) => `<li><a href="/services#ps-stage-${stage}"><div class="home-journey-step"><span class="home-journey-number" aria-hidden="true">0${index + 1}</span>${icon(name)}</div><h3>${title}</h3><p>${text}</p><span class="home-text-link">Xem giai đoạn${icon("arrow-up-right")}</span></a></li>`).join("")}</ol></section>
 
-  <section class="home-news home-texture" aria-labelledby="home-news-title">
+  <section class="home-news" aria-labelledby="home-news-title">
     <div class="container">
-      <div class="home-news-heading"><h2 id="home-news-title">Kiến thức + Góc nhìn</h2><a href="/insights">Tất cả bài viết${icon("arrow-up-right")}</a></div>
+      <div class="home-section-heading"><div><span class="home-kicker">04 / KIẾN THỨC & GÓC NHÌN</span><h2 id="home-news-title">Hiểu công nghệ.<br>Chọn đúng nền tảng.</h2></div><a class="home-text-link" href="/insights">Tất cả bài viết${icon("arrow-up-right")}</a></div>
       <div class="home-news-carousel" role="region" aria-label="Bài viết công nghệ" aria-roledescription="carousel">
-        <div class="home-news-track" tabindex="0" aria-label="Danh sách bài viết; cuộn để xem thêm">
-          ${articles.map((article, index) => `<article class="home-news-card" aria-label="Bài viết ${index + 1} trên ${articles.length}"><div class="home-reading-badge"><span>${String(parseInt(article.time, 10)).padStart(2, "0")}</span><span>PHÚT ĐỌC</span></div><span class="home-news-category">${article.category}</span><h3><a href="/insights/${article.slug}">${article.title}</a></h3><p>${article.summary}</p><a class="home-button" href="/insights/${article.slug}">Đọc thêm<span class="sr-only">: ${article.title}</span></a></article>`).join("")}
+        <div id="home-news-track" class="home-news-track" tabindex="0" aria-label="Danh sách bài viết; cuộn hoặc dùng phím mũi tên để xem thêm">
+          ${articles.map((article, index) => `<article class="home-news-card" aria-label="Bài viết ${index + 1} trên ${articles.length}"><a class="home-news-image" href="/insights/${article.slug}" tabindex="-1" aria-hidden="true"><img src="${article.image}" alt="" width="640" height="400" loading="lazy"></a><div class="home-news-meta"><span class="home-news-category">${article.category}</span><span>${icon("clock")}${article.time}</span></div><h3><a href="/insights/${article.slug}">${article.title}</a></h3><p>${article.summary}</p><a class="home-text-link" href="/insights/${article.slug}">Đọc bài viết${icon("arrow-up-right")}<span class="sr-only">: ${article.title}</span></a></article>`).join("")}
         </div>
-        <div class="home-news-controls" hidden><button data-news-direction="-1" aria-label="Bài viết trước">${icon("arrow-right")}</button><span class="home-news-position" role="status" aria-live="polite">1 / ${articles.length}</span><button data-news-direction="1" aria-label="Bài viết tiếp theo">${icon("arrow-right")}</button></div>
+        <div class="home-news-controls" hidden><button type="button" data-news-direction="-1" aria-label="Bài viết trước" aria-controls="home-news-track">${icon("arrow-right")}</button><span class="home-news-position" role="status" aria-live="polite" aria-atomic="true">1 / ${articles.length}</span><button type="button" data-news-direction="1" aria-label="Bài viết tiếp theo" aria-controls="home-news-track">${icon("arrow-right")}</button></div>
       </div>
     </div>
-  </section>`;
+  </section>
+
+  <section class="home-project" aria-labelledby="home-project-title"><div class="container home-project-inner"><div><span class="home-kicker">CÙNG AQPTECH XÂY DỰNG GIẢI PHÁP</span><h2 id="home-project-title">Bắt đầu từ<br>bài toán của bạn.</h2><p>Chia sẻ mục tiêu, hiện trạng và điều bạn muốn cải thiện. Cùng chúng tôi tìm một hướng triển khai có cơ sở.</p></div><div class="home-project-actions">${cta("Bắt đầu trao đổi", contactUrl, "light")}<a href="${companyContact.phoneHref}">${icon("phone")}Gọi ${companyContact.phone}</a></div>${icon("arrow-up-right", "home-project-decoration")}</div></section>
+  <div class="container"><p class="home-scope-note">Các hình ảnh và sơ đồ là minh họa, không phải bằng chứng công trình, đối tác hoặc chứng nhận AQPTech. Khả năng tích hợp, giấy phép và phạm vi cung cấp được xác nhận theo dự án. Phân tích AI hỗ trợ xác minh của con người; mục đích xử lý dữ liệu, quyền truy cập và điều kiện triển khai cần được thống nhất trước khi vận hành.</p></div>`;
 }
 
 export function homeFooter({ icon, logo, newsletter = true }) {
@@ -193,7 +152,25 @@ export function homeFooter({ icon, logo, newsletter = true }) {
   </aside>`;
 }
 
-export function setupHome() {
+export function setupHome({ signal }) {
+  const filters = document.querySelector(".home-solution-filters");
+  if (filters) {
+    filters.hidden = false;
+    filters.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-home-filter]");
+      if (!button) return;
+      const group = button.dataset.homeFilter;
+      let count = 0;
+      document.querySelectorAll("#home-solution-grid [data-home-group]").forEach((card) => {
+        card.hidden = group !== "all" && card.dataset.homeGroup !== group;
+        if (!card.hidden) count++;
+      });
+      filters.querySelectorAll("[data-home-filter]").forEach((filter) => {
+        filter.setAttribute("aria-pressed", String(filter === button));
+      });
+      document.querySelector("#home-solution-count").textContent = `${count} giải pháp`;
+    }, { signal });
+  }
   const toggle = document.querySelector("[data-home-contact]");
   const panel = document.querySelector("#home-contact-panel");
   toggle.addEventListener("click", () => {
@@ -205,7 +182,7 @@ export function setupHome() {
         ? "Mở tùy chọn liên hệ AQPTech"
         : "Đóng tùy chọn liên hệ AQPTech",
     );
-  });
+  }, { signal });
   toggle
     .closest(".home-contact-widget")
     .addEventListener("keydown", (event) => {
@@ -215,7 +192,7 @@ export function setupHome() {
         toggle.setAttribute("aria-label", "Mở tùy chọn liên hệ AQPTech");
         toggle.focus();
       }
-    });
+    }, { signal });
   const track = document.querySelector(".home-news-track");
   if (!track) return;
   const controls = document.querySelector(".home-news-controls");
@@ -233,7 +210,7 @@ export function setupHome() {
     controls.querySelector(".home-news-position").textContent =
       `${position + 1} / ${articles.length}`;
   };
-  track.addEventListener("scroll", update, { passive: true });
+  track.addEventListener("scroll", update, { passive: true, signal });
   controls.addEventListener("click", (event) => {
     const button = event.target.closest("[data-news-direction]");
     if (!button) return;
@@ -246,7 +223,19 @@ export function setupHome() {
         ? "instant"
         : "smooth",
     });
-  });
+  }, { signal });
+  track.addEventListener("keydown", (event) => {
+    if (event.target !== track || event.altKey || event.ctrlKey || event.metaKey || !["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) return;
+    event.preventDefault();
+    if (event.key === "ArrowLeft" || event.key === "ArrowRight") {
+      controls.querySelector(`[data-news-direction="${event.key === "ArrowLeft" ? -1 : 1}"]`).click();
+    } else {
+      track.scrollTo({
+        left: event.key === "Home" ? 0 : track.scrollWidth,
+        behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth",
+      });
+    }
+  }, { signal });
   const observer = new ResizeObserver(() => {
     if (!track.isConnected) {
       observer.disconnect();
@@ -256,4 +245,5 @@ export function setupHome() {
   });
   observer.observe(track);
   update();
+  return () => observer.disconnect();
 }

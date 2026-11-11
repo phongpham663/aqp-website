@@ -1,13 +1,11 @@
 import { referenceHero } from "./about.js";
 import { solutions } from "./data.js";
-import connectivityHero from "../assets/auk/images/factory-connectivity-hero.webp";
-import gatewayImage from "../assets/auk/images/edge-gateway.webp";
-import softwareImage from "../assets/auk/images/software-analytics-hero.webp";
-import assetImage from "../assets/auk/images/asset-analysis.webp";
-import gapImage from "../assets/auk/images/gap-analysis.webp";
-import plantImage from "../assets/auk/images/plant-analysis.webp";
-import "./industry-solution.css";
-import "./factory-intelligence.css";
+const connectivityHero = "/assets/auk/images/factory-connectivity-hero.webp";
+const gatewayImage = "/assets/auk/images/edge-gateway.webp";
+const softwareImage = "/assets/auk/images/software-analytics-hero.webp";
+const assetImage = "/assets/auk/images/asset-analysis.webp";
+const gapImage = "/assets/auk/images/gap-analysis.webp";
+const plantImage = "/assets/auk/images/plant-analysis.webp";
 
 const architecture = [
   ["factory", "Máy móc & tín hiệu", "Chọn tài sản, dây chuyền và KPI. Xác định tín hiệu từ cảm biến, trạng thái máy và bộ điều khiển."],

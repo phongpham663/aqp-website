@@ -1,12 +1,11 @@
 import { companyContact } from "./data.js";
-import dmcaLogo from "../assets/branding/dmca-logo.png";
-import ncscLogo from "../assets/branding/ncsc-logo.png";
-import commerceLogo from "../assets/branding/bo-cong-thuong-notified.png";
-import "./footer-info.css";
+const dmcaLogo = "/assets/branding/dmca-logo.png";
+const ncscLogo = "/assets/branding/ncsc-logo-transparent.png";
+const commerceLogo = "/assets/branding/bo-cong-thuong-notified.png";
 
 const logos = [
   { name: "dmca", image: dmcaLogo, alt: "Logo DMCA Protected & Monitored", width: 150, height: 61 },
-  { name: "ncsc", image: ncscLogo, alt: "Logo NCSC VN", width: 590, height: 590 },
+  { name: "ncsc", image: ncscLogo, alt: "Logo NCSC VN", width: 575, height: 222 },
   { name: "commerce", image: commerceLogo, alt: "Logo Đã thông báo Bộ Công Thương", width: 600, height: 227 },
 ];
 

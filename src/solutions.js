@@ -1,6 +1,5 @@
 import { referenceHero } from "./about.js";
-import operationsImage from "../assets/velasea/images/security-ops-center-scaled--9e1d5b9d4a.jpg";
-import "./solutions.css";
+const operationsImage = "/assets/velasea/images/security-ops-center-scaled--9e1d5b9d4a.jpg";
 
 export function solutionsPage() {
   return `${referenceHero({

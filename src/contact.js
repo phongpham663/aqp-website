@@ -1,7 +1,6 @@
 import { referenceHero } from "./about.js";
 import { companyContact, products, services } from "./data.js";
-import companyImage from "../assets/velasea/images/commercial-office-complex-980x653--dacd576d2c.jpg";
-import "./contact.css";
+const companyImage = "/assets/velasea/images/commercial-office-complex-980x653--dacd576d2c.jpg";
 
 const regions = [
   {
@@ -50,8 +49,8 @@ const regions = [
   },
 ];
 
-export function contactPage({ icon, escape }) {
-  const params = new URLSearchParams(location.search);
+export function contactPage({ icon, escape, search = "" }) {
+  const params = new URLSearchParams(search);
   const interest = params.get("interest") || "";
   const initialRegion = regions.find(
     (region) => region.name === params.get("region"),
@@ -99,7 +98,7 @@ export function contactPage({ icon, escape }) {
   </section>`;
 }
 
-export async function setupContact({ escape }) {
+export async function setupContact({ escape, signal }) {
   const map = document.querySelector(".contact-worldmap");
   const svg = map.querySelector("svg");
   const group = map.querySelector("#contact-world-countries");
@@ -129,7 +128,7 @@ export async function setupContact({ escape }) {
       ? `Khu vực dự kiến: ${selected.name}. Đây là lựa chọn cho yêu cầu tư vấn, không phải thông tin về văn phòng hoặc phạm vi dịch vụ đã xác nhận.`
       : "Bản đồ minh họa thế giới, không thể hiện mạng lưới văn phòng AQPTech.";
   };
-  field.addEventListener("change", updateRegion);
+  field.addEventListener("change", updateRegion, { signal });
   for (const button of choices)
     button.addEventListener("click", () => {
       const region = regions.find(
@@ -137,8 +136,8 @@ export async function setupContact({ escape }) {
       );
       field.value = field.value === region.name ? "" : region.name;
       updateRegion();
-    });
-  field.form.addEventListener("reset", () => queueMicrotask(updateRegion));
+    }, { signal });
+  field.form.addEventListener("reset", () => queueMicrotask(() => { if (!signal.aborted) updateRegion(); }), { signal });
   const updateMap = () => {
     dx = Math.max(-500 * (zoom - 1), Math.min(500 * (zoom - 1), dx));
     dy = Math.max(-280 * (zoom - 1), Math.min(280 * (zoom - 1), dy));
@@ -165,13 +164,13 @@ export async function setupContact({ escape }) {
       } else
         zoom = Math.max(1, Math.min(3, zoom + (action === "in" ? 0.5 : -0.5)));
       updateMap();
-    });
+    }, { signal });
   svg.addEventListener("pointerdown", (event) => {
     if (zoom <= 1 || !event.isPrimary || event.button !== 0) return;
     pointer = { id: event.pointerId, x: event.clientX, y: event.clientY };
     svg.setPointerCapture(event.pointerId);
     svg.classList.add("is-dragging");
-  });
+  }, { signal });
   svg.addEventListener("pointermove", (event) => {
     if (!pointer || pointer.id !== event.pointerId) return;
     dx += ((event.clientX - pointer.x) * 1000) / svg.clientWidth;
@@ -179,13 +178,13 @@ export async function setupContact({ escape }) {
     pointer.x = event.clientX;
     pointer.y = event.clientY;
     updateMap();
-  });
+  }, { signal });
   const stopPan = () => {
     pointer = null;
     svg.classList.remove("is-dragging");
   };
-  svg.addEventListener("pointerup", stopPan);
-  svg.addEventListener("pointercancel", stopPan);
+  svg.addEventListener("pointerup", stopPan, { signal });
+  svg.addEventListener("pointercancel", stopPan, { signal });
   updateMap();
   try {
     const [atlas, topology, geography] = await Promise.all([
@@ -193,7 +192,7 @@ export async function setupContact({ escape }) {
       import("topojson-client"),
       import("d3-geo"),
     ]);
-    if (!map.isConnected) return;
+    if (signal.aborted || !map.isConnected) return;
     const countries = topology
       .feature(atlas.default, atlas.default.objects.countries)
       .features.filter((country) => Number(country.id) !== 10);
@@ -226,7 +225,7 @@ export async function setupContact({ escape }) {
     map.querySelector(".contact-map-loading").hidden = true;
     updateMap();
   } catch {
-    if (!map.isConnected) return;
+    if (signal.aborted || !map.isConnected) return;
     map.querySelector(".contact-map-loading").textContent =
       "Không thể tải bản đồ minh họa. Bạn vẫn có thể chọn khu vực và gửi yêu cầu qua biểu mẫu.";
   }

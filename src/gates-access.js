@@ -1,6 +1,5 @@
 import { industrySolutionPage } from "./industry-solution.js";
 import { solutions } from "./data.js";
-import "./gates-access.css";
 
 export function gatesAccessPage({ icon }) {
   const solution = solutions.find((item) => item.slug === "gates-access");

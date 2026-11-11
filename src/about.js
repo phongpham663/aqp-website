@@ -1,7 +1,6 @@
 import { products, solutions, services } from "./data.js";
-import designImage from "../assets/velasea/images/60aa5b6bf4bfe13ec9e0857f_Design--2186dc83f6.jpg";
-import companyImage from "../assets/velasea/images/commercial-office-complex-980x653--dacd576d2c.jpg";
-import "./about.css";
+const designImage = "/assets/velasea/images/60aa5b6bf4bfe13ec9e0857f_Design--2186dc83f6.jpg";
+const companyImage = "/assets/velasea/images/commercial-office-complex-980x653--dacd576d2c.jpg";
 
 export function referenceHero({
   id,

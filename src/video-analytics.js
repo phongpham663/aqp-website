@@ -1,6 +1,5 @@
 import { industrySolutionPage } from "./industry-solution.js";
 import { products } from "./data.js";
-import "./video-analytics.css";
 
 export function videoAnalyticsPage({ icon }) {
   const solution = products.find((item) => item.slug === "intelligent-video-analytics");

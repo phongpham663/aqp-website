@@ -1,8 +1,6 @@
 import { referenceHero } from "./about.js";
 import { products, solutions } from "./data.js";
-import deploymentImage from "../assets/watchtower/event-security/images/wts-be-project-20250911-4--40e08dc6b1.jpg";
-import "./industry-solution.css";
-import "./event-security.css";
+const deploymentImage = "/assets/watchtower/event-security/images/wts-be-project-20250911-4--40e08dc6b1.jpg";
 
 const workflow = [
   ["Khảo sát & lập kế hoạch", "Xác định khu vực công cộng, hậu trường, kho tạm, lối thoát và luồng phương tiện. Cùng ban tổ chức làm rõ rủi ro, thời gian hoạt động và trách nhiệm ứng phó."],

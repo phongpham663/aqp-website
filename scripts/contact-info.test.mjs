@@ -3,7 +3,7 @@ import { createServer as createHttpServer } from "node:http";
 import { fileURLToPath } from "node:url";
 import { after, before, test } from "node:test";
 import { chromium } from "playwright";
-import { createServer } from "vite";
+import { createRendererServer as createServer } from "./test-site.mjs";
 
 let vite;
 let server;
@@ -96,6 +96,7 @@ test("Contact details and both footer variants render accurately without mobile 
       assert.equal(await footer.locator('a[href="mailto:contact@aqptech.vn"]').count(), 1);
       assert.equal(await footer.locator('a[href="tel:+84378053305"]').count(), 1);
       await footer.locator(".footer-info").scrollIntoViewIfNeeded();
+      assert.ok(await footer.locator(".footer-logo").evaluateAll((logos) => logos.every((logo) => getComputedStyle(logo).backgroundColor === "rgba(0, 0, 0, 0)" && getComputedStyle(logo).borderTopWidth === "0px")));
       const images = await footer.locator(".footer-logo img").all();
       assert.equal(images.length, 3);
       for (const image of images) {
@@ -103,6 +104,14 @@ test("Contact details and both footer variants render accurately without mobile 
         assert.equal(await image.isVisible(), true);
         assert.equal(await image.evaluate((element) => element.naturalWidth === Number(element.getAttribute("width")) && element.naturalHeight === Number(element.getAttribute("height"))), true);
       }
+      assert.equal(await footer.locator(".footer-logo-ncsc img").evaluate((image) => {
+        const canvas = document.createElement("canvas");
+        canvas.width = image.naturalWidth;
+        canvas.height = image.naturalHeight;
+        const context = canvas.getContext("2d");
+        context.drawImage(image, 0, 0);
+        return context.getImageData(0, 0, 1, 1).data[3];
+      }), 0);
       for (const width of [1440, 1024, 768, 390, 320]) {
         await page.setViewportSize({ width, height: 900 });
         await page.waitForFunction(() => document.documentElement.scrollWidth === innerWidth);

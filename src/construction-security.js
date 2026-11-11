@@ -1,17 +1,15 @@
 import { referenceHero } from "./about.js";
 import { products, solutions } from "./data.js";
-import workImage from "../assets/watchtower/construction-site-security/images/construction-site-work.webp";
-import consultationImage from "../assets/watchtower/construction-site-security/images/watchtower-site-consultation.webp";
-import tower360 from "../assets/watchtower/construction-site-security/images/watchtower-360.webp";
-import towerAI from "../assets/watchtower/construction-site-security/images/watchtower-ai.webp";
-import towerMast from "../assets/watchtower/construction-site-security/images/watchtower-mast.webp";
-import towerCelsius from "../assets/watchtower/construction-site-security/images/watchtower-celsius.webp";
-import towerSolarThermal from "../assets/watchtower/construction-site-security/images/watchtower-solar-thermal.webp";
-import towerBox from "../assets/watchtower/construction-site-security/images/watchtower-box.webp";
-import towerAlarmkit from "../assets/watchtower/construction-site-security/images/watchtower-alarmkit.webp";
-import towerPlan from "../assets/watchtower/construction-site-security/images/watchtower-security-plan.webp";
-import "./industry-solution.css";
-import "./construction-security.css";
+const workImage = "/assets/watchtower/construction-site-security/images/construction-site-work.webp";
+const consultationImage = "/assets/watchtower/construction-site-security/images/watchtower-site-consultation.webp";
+const tower360 = "/assets/watchtower/construction-site-security/images/watchtower-360.webp";
+const towerAI = "/assets/watchtower/construction-site-security/images/watchtower-ai.webp";
+const towerMast = "/assets/watchtower/construction-site-security/images/watchtower-mast.webp";
+const towerCelsius = "/assets/watchtower/construction-site-security/images/watchtower-celsius.webp";
+const towerSolarThermal = "/assets/watchtower/construction-site-security/images/watchtower-solar-thermal.webp";
+const towerBox = "/assets/watchtower/construction-site-security/images/watchtower-box.webp";
+const towerAlarmkit = "/assets/watchtower/construction-site-security/images/watchtower-alarmkit.webp";
+const towerPlan = "/assets/watchtower/construction-site-security/images/watchtower-security-plan.webp";
 
 const systems = [
   {

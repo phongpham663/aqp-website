@@ -1,8 +1,6 @@
 import { referenceHero } from "./about.js";
 import { products } from "./data.js";
-import brochureUrl from "../assets/magal/documents/Fortis-X-Brochure--22ee02e812.pdf?url";
-import "./industry-solution.css";
-import "./veolink.css";
+const brochureUrl = "/assets/magal/documents/Fortis-X-Brochure--22ee02e812.pdf";
 
 const features = [
   ["Khả năng tích hợp", "Kết nối các hệ thống và cảm biến thành một hệ sinh thái thống nhất, hỗ trợ trao đổi dữ liệu và điều hành theo thời gian thực."],

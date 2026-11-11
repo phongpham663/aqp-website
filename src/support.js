@@ -1,7 +1,5 @@
 import { referenceHero } from "./about.js";
 import { images } from "./data.js";
-import "./industry-solution.css";
-import "./support.css";
 
 const topics = [
   {

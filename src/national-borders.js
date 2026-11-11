@@ -1,7 +1,7 @@
 import { solutions } from "./data.js";
 import { industrySolutionPage } from "./industry-solution.js";
-import fenceImage from "../assets/magal/images/aqp-national-borders-fence.jpg";
-import brochureUrl from "../assets/magal/documents/Borders-brochure--f92ca917e8.pdf?url";
+const fenceImage = "/assets/magal/images/aqp-national-borders-fence.jpg";
+const brochureUrl = "/assets/magal/documents/Borders-brochure--f92ca917e8.pdf";
 
 export function nationalBordersPage({ icon }) {
   const solution = solutions.find((item) => item.slug === "national-borders");

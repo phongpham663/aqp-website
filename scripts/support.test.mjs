@@ -3,7 +3,7 @@ import { createServer as createHttpServer } from "node:http";
 import { fileURLToPath } from "node:url";
 import { after, before, test } from "node:test";
 import { chromium } from "playwright";
-import { createServer } from "vite";
+import { createRendererServer as createServer } from "./test-site.mjs";
 
 let vite;
 let server;

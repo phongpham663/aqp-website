@@ -1,7 +1,6 @@
 import { solutions } from "./data.js";
 import { industrySolutionPage } from "./industry-solution.js";
-import facilityImage from "../assets/magal/images/aqp-oil-gas-facility.jpg";
-import "./oil-gas.css";
+const facilityImage = "/assets/magal/images/aqp-oil-gas-facility.jpg";
 
 export function oilGasPage({ icon }) {
   const solution = solutions.find((item) => item.slug === "oil-gas");

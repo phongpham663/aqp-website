@@ -1,23 +1,23 @@
-import dataCenter from "../assets/velasea/images/telecommunications-data-center-1280x720--06002ae1ee.jpg";
-import server from "../assets/velasea/images/rack-server_bezel-980x654--4203de8b61.jpg";
-import engineer from "../assets/velasea/images/network-engineer-980x653--a96e90e759.jpg";
-import industry from "../assets/velasea/images/industrial-conveyor-980x653--3ff4b4cb38.jpg";
-import city from "../assets/velasea/images/smart-city-traffic-cameras-980x585--ebfaa7161b.jpg";
-import network from "../assets/velasea/images/network-switch_red-scaled-e1731716154561-980x551--5e162e898b.jpg";
-import nvr from "../assets/velasea/images/NVR-server-980x551--ebeb61bd13.jpg";
-import edge from "../assets/velasea/images/industrial-panel-pc-980x551--c5987b2ce0.jpg";
-import logistics from "../assets/velasea/images/warehouse-980x695--85dcc69407.jpg";
-import retail from "../assets/velasea/images/mixed-use-development-retail-980x654--b149e661be.jpg";
-import seaports from "../assets/magal/images/aqp-seaports-hero.jpg";
-import oilGas from "../assets/magal/images/aqp-oil-gas-hero.jpg";
-import nationalBorders from "../assets/magal/images/aqp-national-borders-hero.jpg";
-import criticalSites from "../assets/magal/images/aqp-critical-sites-hero.jpg";
-import veolink from "../assets/magal/images/Hero-1--899515197d.png";
-import videoAnalytics from "../assets/magal/images/Mask-Group-318--7540d761be.png";
-import gatesAccess from "../assets/magal/images/Mask-Group-317--578a0a2517.webp";
-import eventSecurity from "../assets/watchtower/event-security/images/event-security-hero-1920.jpg";
-import constructionSite from "../assets/watchtower/construction-site-security/images/construction-site-hero.webp";
-import storeAnalytics from "../assets/opretail/images/store-hero.webp";
+const dataCenter = "/assets/velasea/images/telecommunications-data-center-1280x720--06002ae1ee.jpg";
+const server = "/assets/velasea/images/rack-server_bezel-980x654--4203de8b61.jpg";
+const engineer = "/assets/velasea/images/network-engineer-980x653--a96e90e759.jpg";
+const industry = "/assets/velasea/images/industrial-conveyor-980x653--3ff4b4cb38.jpg";
+const city = "/assets/velasea/images/smart-city-traffic-cameras-980x585--ebfaa7161b.jpg";
+const network = "/assets/velasea/images/network-switch_red-scaled-e1731716154561-980x551--5e162e898b.jpg";
+const nvr = "/assets/velasea/images/NVR-server-980x551--ebeb61bd13.jpg";
+const edge = "/assets/velasea/images/industrial-panel-pc-980x551--c5987b2ce0.jpg";
+const logistics = "/assets/velasea/images/warehouse-980x695--85dcc69407.jpg";
+const retail = "/assets/velasea/images/mixed-use-development-retail-980x654--b149e661be.jpg";
+const seaports = "/assets/magal/images/aqp-seaports-hero.jpg";
+const oilGas = "/assets/magal/images/aqp-oil-gas-hero.jpg";
+const nationalBorders = "/assets/magal/images/aqp-national-borders-hero.jpg";
+const criticalSites = "/assets/magal/images/aqp-critical-sites-hero.jpg";
+const veolink = "/assets/magal/images/Hero-1--899515197d.png";
+const videoAnalytics = "/assets/magal/images/Mask-Group-318--7540d761be.png";
+const gatesAccess = "/assets/magal/images/Mask-Group-317--578a0a2517.webp";
+const eventSecurity = "/assets/watchtower/event-security/images/event-security-hero-1920.jpg";
+const constructionSite = "/assets/watchtower/construction-site-security/images/construction-site-hero.webp";
+const storeAnalytics = "/assets/opretail/images/store-hero.webp";
 
 export const images = {
   dataCenter,
@@ -160,6 +160,10 @@ export const products = [
     icon: "network",
     image: veolink,
     label: "INTEGRATED OPERATIONS / C5I",
+    homeLabel: "C5I / ĐIỀU HÀNH TÍCH HỢP",
+    imageAlt: "Minh họa nhân viên theo dõi các màn hình tại trung tâm điều hành",
+    imageWidth: 1208,
+    imageHeight: 1081,
     description:
       "Kết nối hệ thống giám sát, cảm biến và dữ liệu trên một nền tảng điều hành thống nhất. Hỗ trợ quản lý vận hành hằng ngày, phối hợp xử lý sự cố và mở rộng theo nhu cầu.",
     features: [
@@ -178,6 +182,10 @@ export const products = [
     icon: "cctv",
     image: videoAnalytics,
     label: "INTELLIGENT VIDEO ANALYTICS / IVA",
+    homeLabel: "IVA / PHÂN TÍCH VIDEO",
+    imageAlt: "Minh họa camera giám sát và phân tích phương tiện từ video",
+    imageWidth: 1094,
+    imageHeight: 1938,
     description:
       "Phân tích video thông minh giúp nhận diện nguy cơ an toàn, an ninh và khai thác thông tin vận hành từ hình ảnh. Kết nối với hệ thống hiện hữu để hỗ trợ cảnh báo thời gian thực và giảm phụ thuộc vào việc theo dõi thủ công liên tục.",
     features: [
@@ -188,9 +196,30 @@ export const products = [
     productSlugs: ["ip-video", "ai-computing", "edge-industrial"],
     applications: "Phân tích an toàn, an ninh và hoạt động từ video theo từng kịch bản triển khai.",
   },
+  {
+    slug: "servedeck-cmms",
+    name: "ServeDeck CMMS",
+    category: "Phần mềm",
+    tagline: "Chủ động bảo trì. Kết nối đội ngũ vận hành.",
+    icon: "wrench",
+    image: "/assets/servedeck/images/work-order-dashboard.png",
+    label: "COMPUTERIZED MAINTENANCE MANAGEMENT SYSTEM / CMMS",
+    homeLabel: "CMMS / QUẢN LÝ BẢO TRÌ",
+    imageAlt: "Giao diện ServeDeck hiển thị danh sách lệnh công việc, bộ phận phụ trách và trạng thái xử lý",
+    imageWidth: 1201,
+    imageHeight: 565,
+    description:
+      "Nền tảng quản lý bảo trì và vận hành giúp tập trung lệnh công việc, lịch bảo trì định kỳ và hồ sơ tài sản. Kết nối đội ngũ kỹ thuật với thông tin tại hiện trường để theo dõi tiến độ, lịch sử sự cố và chi phí bảo trì.",
+    features: [
+      "Quản lý lệnh công việc, phân công và theo dõi SLA",
+      "Lập lịch bảo trì phòng ngừa và checklist số",
+      "Tập trung hồ sơ tài sản và lịch sử bảo trì",
+    ],
+    applications: "Quản lý bảo trì tài sản, thiết bị và vận hành cơ sở cho tòa nhà, nhà máy và hệ thống đa điểm.",
+  },
 ];
 
-export const catalogProducts = products.filter((item) => ["veolink", "intelligent-video-analytics"].includes(item.slug));
+export const catalogProducts = products.filter((item) => ["veolink", "intelligent-video-analytics", "servedeck-cmms"].includes(item.slug));
 
 export const solutions = [
   {

@@ -6,3 +6,6 @@ data/
 !.env.example
 playwright-report/
 test-results/
+.next/
+out/
+public/assets/

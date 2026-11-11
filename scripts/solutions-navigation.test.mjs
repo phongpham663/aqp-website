@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { fileURLToPath } from "node:url";
 import { after, before, test } from "node:test";
-import { createServer } from "vite";
+import { createRendererServer as createServer } from "./test-site.mjs";
 
 let vite;
 let header;

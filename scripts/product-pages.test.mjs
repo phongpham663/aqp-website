@@ -3,7 +3,7 @@ import { createServer as createHttpServer } from "node:http";
 import { fileURLToPath } from "node:url";
 import { after, before, test } from "node:test";
 import { chromium } from "playwright";
-import { createServer } from "vite";
+import { createRendererServer as createServer } from "./test-site.mjs";
 import { createAppServer } from "./server.mjs";
 import { productRedirects } from "../src/route-redirects.js";
 
@@ -15,6 +15,8 @@ let redirectOrigin;
 let data;
 let header;
 let catalogHtml;
+const softwareSlugs = ["veolink", "intelligent-video-analytics", "servedeck-cmms"];
+const softwareNames = ["Veolink", "Intelligent Video Analytics", "ServeDeck CMMS"];
 
 before(async () => {
   server = createHttpServer();
@@ -39,10 +41,10 @@ after(async () => {
   await vite?.close();
 });
 
-test("Veolink and IVA belong to the software product catalog, not the solution menu", () => {
-  assert.equal(data.products.length, 8);
-  assert.deepEqual(data.catalogProducts.map((item) => item.slug), ["veolink", "intelligent-video-analytics"]);
-  for (const slug of ["veolink", "intelligent-video-analytics"]) {
+test("Veolink, IVA and CMMS belong to the software product catalog, not the solution menu", () => {
+  assert.equal(data.products.length, 9);
+  assert.deepEqual(data.catalogProducts.map((item) => item.slug), softwareSlugs);
+  for (const slug of softwareSlugs) {
     const product = data.products.find((item) => item.slug === slug);
     assert.equal(product.category, "Phần mềm");
     assert.ok(product.features.length > 0 && product.image && product.label);
@@ -83,10 +85,10 @@ test("Software products are searchable, retain detailed pages and resolve legacy
     const errors = [];
     page.on("pageerror", (error) => errors.push(error.message));
     await page.goto(`${origin}/products`, { waitUntil: "networkidle" });
-    assert.equal(await page.locator("#product-results .product-card").count(), 2);
-    assert.deepEqual(await page.locator("#product-results h3").allTextContents(), ["Veolink", "Intelligent Video Analytics"]);
+    assert.equal(await page.locator("#product-results .product-card").count(), softwareSlugs.length);
+    assert.deepEqual(await page.locator("#product-results h3").allTextContents(), softwareNames);
     await page.getByRole("button", { name: "Phần mềm", exact: true }).click();
-    assert.deepEqual(await page.locator("#product-results h3").allTextContents(), ["Veolink", "Intelligent Video Analytics"]);
+    assert.deepEqual(await page.locator("#product-results h3").allTextContents(), softwareNames);
     await page.locator("#product-search").fill("INTELLIGENT VIDEO ANALYTICS");
     assert.equal(await page.locator("#product-results .product-card").count(), 1);
     await page.locator('#product-results a[href="/products/intelligent-video-analytics"]').first().click();
@@ -130,17 +132,17 @@ test("Branded product catalog preserves empty/reset states, query links, newslet
     assert.equal(await page.locator("#product-results .product-card").count(), 0);
     assert.equal(await page.locator("#product-results .empty-state").isVisible(), true);
     await page.locator("#clear-filters").click();
-    assert.equal(await page.locator("#product-results .product-card").count(), 2);
+    assert.equal(await page.locator("#product-results .product-card").count(), softwareSlugs.length);
     assert.equal(await page.locator("#product-search").inputValue(), "");
     assert.equal(new URL(page.url()).search, "");
     await page.goto(`${origin}/products?category=${encodeURIComponent("Máy chủ")}`, { waitUntil: "networkidle" });
-    assert.deepEqual(await page.locator("#product-results h3").allTextContents(), ["Veolink", "Intelligent Video Analytics"]);
+    assert.deepEqual(await page.locator("#product-results h3").allTextContents(), softwareNames);
     assert.deepEqual(await page.locator(".filter-tab").allTextContents(), ["Tất cả", "Phần mềm"]);
     await page.goto(`${origin}/products?category=${encodeURIComponent("Phần mềm")}&q=Veolink`, { waitUntil: "networkidle" });
     assert.equal(await page.locator("#product-results .product-card").count(), 1);
     assert.equal(await page.locator("#product-search").inputValue(), "Veolink");
     await page.locator("#product-search").fill("");
-    assert.equal(await page.locator("#product-results .product-card").count(), 2);
+    assert.equal(await page.locator("#product-results .product-card").count(), softwareSlugs.length);
     for (const width of [1440, 1024, 768, 390, 320]) {
       await page.setViewportSize({ width, height: 900 });
       await page.waitForFunction(() => document.documentElement.scrollWidth === innerWidth);
@@ -150,7 +152,7 @@ test("Branded product catalog preserves empty/reset states, query links, newslet
     assert.equal(await page.locator('[name="interest"]').inputValue(), "Tư vấn sản phẩm");
     assert.equal(await page.locator(".products-reference-page").count(), 0);
     await page.goBack({ waitUntil: "networkidle" });
-    assert.equal(await page.locator("#product-results .product-card").count(), 2);
+    assert.equal(await page.locator("#product-results .product-card").count(), softwareSlugs.length);
     assert.deepEqual(errors, []);
   } finally { await browser.close(); }
 });

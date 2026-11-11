@@ -1,7 +1,7 @@
 import { solutions } from "./data.js";
 import { industrySolutionPage } from "./industry-solution.js";
-import facilityImage from "../assets/magal/images/aqp-critical-sites-facility.jpg";
-import brochureUrl from "../assets/magal/documents/Critical-Sites-brochure-1--471a598834.pdf?url";
+const facilityImage = "/assets/magal/images/aqp-critical-sites-facility.jpg";
+const brochureUrl = "/assets/magal/documents/Critical-Sites-brochure-1--471a598834.pdf";
 
 export function criticalSitesPage({ icon }) {
   const solution = solutions.find((item) => item.slug === "critical-sites");

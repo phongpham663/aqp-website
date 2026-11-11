@@ -1,14 +1,13 @@
 import { createServer } from "node:http";
 import { createReadStream } from "node:fs";
-import { appendFile, mkdir, realpath, stat } from "node:fs/promises";
+import { realpath, stat } from "node:fs/promises";
 import { extname, isAbsolute, relative, resolve, sep } from "node:path";
-import { fileURLToPath, pathToFileURL } from "node:url";
-import { randomUUID } from "node:crypto";
+import { fileURLToPath } from "node:url";
 import { pipeline } from "node:stream/promises";
 import { productRedirects } from "../src/route-redirects.js";
+import { createSubmissionHandler } from "../src/server/submissions.js";
 
 const projectRoot = fileURLToPath(new URL("../", import.meta.url));
-const bodyLimit = 16 * 1024;
 const frontendRoute =
   /^\/(?:about|(?:solutions|products|services|insights)(?:\/[a-zA-Z0-9_-]+)?|contact|support|privacy|terms)\/?$/;
 const mimeTypes = {
@@ -68,200 +67,59 @@ function privatePath(pathname, dev) {
   );
 }
 
-function readJson(request) {
-  if (
-    !/^application\/json(?:\s*;|$)/i.test(
-      request.headers["content-type"] ?? "",
-    ) ||
-    (request.headers["content-encoding"] &&
-      request.headers["content-encoding"] !== "identity")
-  ) {
-    throw new RequestError(
-      415,
-      "Vui lòng gửi dữ liệu ở định dạng application/json.",
-    );
-  }
-  if (Number(request.headers["content-length"]) > bodyLimit) {
-    throw new RequestError(413, "Dữ liệu gửi vượt quá giới hạn 16 KB.");
-  }
-  return new Promise((resolveBody, reject) => {
-    const chunks = [];
-    let size = 0;
-    let rejected = false;
-    request.on("data", (chunk) => {
-      if (rejected) return;
-      size += chunk.length;
-      if (size > bodyLimit) {
-        rejected = true;
-        chunks.length = 0;
-        reject(new RequestError(413, "Dữ liệu gửi vượt quá giới hạn 16 KB."));
-      } else {
-        chunks.push(chunk);
-      }
-    });
-    request.on("end", () => {
-      if (rejected) return;
-      try {
-        const value = JSON.parse(Buffer.concat(chunks).toString("utf8"));
-        if (!value || typeof value !== "object" || Array.isArray(value))
-          throw new Error("Invalid object");
-        resolveBody(value);
-      } catch {
-        reject(new RequestError(400, "Dữ liệu JSON không hợp lệ."));
-      }
-    });
-    request.on("error", reject);
-    request.on("aborted", () =>
-      reject(new RequestError(400, "Yêu cầu bị gián đoạn.")),
-    );
+function requestBody(request) {
+  let cleanup;
+  return new ReadableStream({
+    start(controller) {
+      const data = (chunk) => {
+        controller.enqueue(chunk);
+        request.pause();
+      };
+      const end = () => {
+        cleanup();
+        controller.close();
+      };
+      const error = () => {
+        cleanup();
+        controller.error(new Error("Interrupted request"));
+      };
+      cleanup = () => {
+        request.off("data", data);
+        request.off("end", end);
+        request.off("error", error);
+        request.off("aborted", error);
+      };
+      request.pause();
+      request.on("data", data);
+      request.on("end", end);
+      request.on("error", error);
+      request.on("aborted", error);
+    },
+    pull() {
+      request.resume();
+    },
+    cancel() {
+      // Drain, rather than destroy the socket, so a 413 can still be delivered.
+      cleanup();
+      request.resume();
+    },
   });
 }
 
-function validateSubmission(body, contact) {
-  if (
-    body.website !== undefined &&
-    (typeof body.website !== "string" ||
-      body.website.length > 200 ||
-      body.website.trim())
-  ) {
-    throw new RequestError(400, "Không thể tiếp nhận yêu cầu này.");
-  }
-  if (body.consent !== true) {
-    throw new RequestError(
-      400,
-      "Vui lòng đồng ý với việc xử lý thông tin trước khi gửi.",
-    );
-  }
-  function field(key, maximum, minimum = 0) {
-    const value = body[key] === undefined && minimum === 0 ? "" : body[key];
-    const controls =
-      key === "message"
-        ? /[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]/
-        : /[\x00-\x1f\x7f]/;
-    if (
-      typeof value !== "string" ||
-      value.length > maximum ||
-      value.trim().length < minimum ||
-      controls.test(value)
-    ) {
-      throw new RequestError(400, `Thông tin ${key} không hợp lệ.`);
-    }
-    return value.trim();
-  }
-  const email = field("email", 254, 1).toLowerCase();
-  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-    throw new RequestError(400, "Địa chỉ email không hợp lệ.");
-  }
-  if (!contact) {
-    const firstName = field("firstName", 60);
-    const lastName = field("lastName", 60);
-    return {
-      email,
-      consent: true,
-      ...(firstName ? { firstName } : {}),
-      ...(lastName ? { lastName } : {}),
-    };
-  }
-  const region = field("region", 120);
-  return {
-    name: field("name", 120, 1),
-    email,
-    company: field("company", 200),
-    phone: field("phone", 40),
-    interest: field("interest", 200),
-    message: field("message", 5000, 10),
-    consent: true,
-    ...(region ? { region } : {}),
-  };
-}
-
+// HTTP harness for contract tests. Website deployment uses Next.js.
 export async function createAppServer({
-  dev = true,
+  dev = false,
   staticRoot = resolve(projectRoot, "dist"),
-  dataDir = resolve(projectRoot, "data"),
+  dataDir = process.env.DATA_DIR ?? resolve(process.cwd(), "data"),
   rateLimit = {},
-  publicOrigin,
+  publicOrigin = process.env.PUBLIC_ORIGIN,
 } = {}) {
-  if (publicOrigin !== undefined) {
-    const url = new URL(publicOrigin);
-    if (
-      !["http:", "https:"].includes(url.protocol) ||
-      url.origin !== publicOrigin
-    ) {
-      throw new TypeError(
-        "PUBLIC_ORIGIN must be an HTTP(S) origin without a path.",
-      );
-    }
-  }
-  const maximum = rateLimit.max ?? 10;
-  const windowMs = rateLimit.windowMs ?? 60_000;
-  const maxEntries = rateLimit.maxEntries ?? 10_000;
-  if (
-    ![maximum, windowMs, maxEntries].every(
-      (value) => Number.isSafeInteger(value) && value > 0,
-    )
-  ) {
-    throw new TypeError("Rate-limit options must be positive integers.");
-  }
-  const clients = new Map();
+  const handleSubmission = createSubmissionHandler({
+    dataDir,
+    publicOrigin,
+    rateLimit,
+  });
   const root = resolve(staticRoot);
-  const vite = dev
-    ? await (
-        await import("vite")
-      ).createServer({
-        root: projectRoot,
-        appType: "spa",
-        server: {
-          middlewareMode: true,
-          watch: {
-            // Reference HTML is collector output, not application source.
-            ignored: ["**/assets/*/pages/**", "**/assets/*/screenshots/**"],
-          },
-          fs: {
-            deny: [
-              "**/.*",
-              "**/.env.*",
-              "**/*.{crt,pem}",
-              "**/.git/**",
-              "**/scripts/**",
-              "**/data/**",
-              "**/*.jsonl",
-              "**/*.map",
-              "**/{analysis,manifest,screenshots,verification}.json",
-              "**/*metadata*.json",
-              "**/package{,-lock}.json",
-            ],
-          },
-        },
-      })
-    : null;
-
-  function limit(request, response) {
-    const now = Date.now();
-    for (const [ip, entry] of clients) {
-      if (now - entry.start >= windowMs) clients.delete(ip);
-    }
-    // Never trust X-Forwarded-For without an explicitly configured trusted proxy.
-    const ip = request.socket.remoteAddress ?? "unknown";
-    let entry = clients.get(ip);
-    if (!entry) {
-      if (clients.size >= maxEntries)
-        clients.delete(clients.keys().next().value);
-      entry = { start: now, count: 0 };
-      clients.set(ip, entry);
-    }
-    if (entry.count >= maximum) {
-      response.setHeader(
-        "Retry-After",
-        String(Math.max(1, Math.ceil((entry.start + windowMs - now) / 1000))),
-      );
-      throw new RequestError(
-        429,
-        "Bạn đã gửi quá nhiều yêu cầu. Vui lòng thử lại sau.",
-      );
-    }
-    entry.count += 1;
-  }
 
   async function serveFile(pathname, request, response) {
     const candidate = resolve(root, `.${pathname}`);
@@ -329,52 +187,28 @@ export async function createAppServer({
         throw new RequestError(404, "Không tìm thấy trang.");
       }
       if (pathname === "/api" || pathname.startsWith("/api/")) {
-        response.setHeader("Cache-Control", "no-store");
-        if (request.headers.origin !== undefined) {
-          const protocol = request.socket.encrypted ? "https" : "http";
-          const expected =
-            publicOrigin ?? `${protocol}://${request.headers.host}`;
-          let origin;
-          try {
-            origin = new URL(request.headers.origin).origin;
-          } catch {
-            throw new RequestError(403, "Nguồn gửi yêu cầu không được phép.");
-          }
-          if (origin !== request.headers.origin || origin !== expected) {
-            throw new RequestError(403, "Nguồn gửi yêu cầu không được phép.");
-          }
+        const headers = new Headers();
+        for (let index = 0; index < request.rawHeaders.length; index += 2) {
+          headers.append(request.rawHeaders[index], request.rawHeaders[index + 1]);
         }
-        const contact = pathname === "/api/contact";
-        const newsletter = pathname === "/api/newsletter";
-        const health = pathname === "/api/health";
-        if (!contact && !newsletter && !health)
-          throw new RequestError(404, "Không tìm thấy API.");
-        const method = health ? "GET" : "POST";
-        if (request.method !== method) {
-          response.setHeader("Allow", method);
-          throw new RequestError(405, "Phương thức không được hỗ trợ.");
-        }
-        if (health) return sendJson(response, 200, { ok: true });
-        limit(request, response);
-        const value = validateSubmission(await readJson(request), contact);
-        const record = {
-          id: randomUUID(),
-          createdAt: new Date().toISOString(),
-          ...value,
-        };
-        await mkdir(dataDir, { recursive: true, mode: 0o700 });
-        await appendFile(
-          resolve(dataDir, contact ? "requests.jsonl" : "newsletter.jsonl"),
-          `${JSON.stringify(record)}\n`,
-          { mode: 0o600 },
-        );
-        return sendJson(response, 201, {
-          ok: true,
-          id: record.id,
-          message: contact
-            ? "Yêu cầu của bạn đã được lưu trong hệ thống AQPTech để đội ngũ xem xét. Chưa có email được gửi tự động."
-            : "Đăng ký nhận tin của bạn đã được lưu trong hệ thống AQPTech. Chưa có email xác nhận được gửi tự động.",
+        const webRequest = new Request(new URL(request.url, "http://localhost"), {
+          method: request.method,
+          headers,
+          ...(!["GET", "HEAD"].includes(request.method)
+            ? { body: requestBody(request), duplex: "half" }
+            : {}),
         });
+        const result = await handleSubmission(webRequest, {
+          remoteAddress: request.socket.remoteAddress,
+          protocol: request.socket.encrypted ? "https:" : "http:",
+        });
+        // This also drains rejected requests whose body was never read.
+        if (webRequest.body && !webRequest.body.locked)
+          await webRequest.body.cancel().catch(() => {});
+        request.resume();
+        response.writeHead(result.status, Object.fromEntries(result.headers));
+        response.end(Buffer.from(await result.arrayBuffer()));
+        return;
       }
       if (!["GET", "HEAD"].includes(request.method)) {
         response.setHeader("Allow", "GET, HEAD");
@@ -385,15 +219,6 @@ export async function createAppServer({
         const query = new URL(request.url, "http://localhost").search;
         response.writeHead(308, { Location: `${redirectedPath}${query}`, "Cache-Control": "no-cache" });
         response.end();
-        return;
-      }
-      if (vite) {
-        vite.middlewares(request, response, () => {
-          response.writeHead(404, {
-            "Content-Type": "text/plain; charset=utf-8",
-          });
-          response.end("Không tìm thấy trang.");
-        });
         return;
       }
       if (await serveFile(pathname, request, response)) return;
@@ -420,50 +245,5 @@ export async function createAppServer({
       });
     }
   });
-  server.on("close", () => {
-    clients.clear();
-    if (vite)
-      void vite.close().catch(() => console.error("Unable to close Vite."));
-  });
   return server;
-}
-
-if (
-  process.argv[1] &&
-  import.meta.url === pathToFileURL(resolve(process.argv[1])).href
-) {
-  try {
-    const port = Number(process.env.PORT ?? 5173);
-    if (!Number.isInteger(port) || port < 0 || port > 65535)
-      throw new Error("PORT must be an integer between 0 and 65535.");
-    const host = process.env.HOST ?? "127.0.0.1";
-    const server = await createAppServer({
-      dev: !process.argv.includes("--production"),
-      publicOrigin: process.env.PUBLIC_ORIGIN,
-    });
-    await new Promise((resolveListen, reject) => {
-      server.once("error", reject);
-      server.listen(port, host, resolveListen);
-    }).catch((error) => {
-      server.close();
-      throw error;
-    });
-    console.log(
-      `AQPTech server listening at http://${host}:${server.address().port}`,
-    );
-    for (const signal of ["SIGINT", "SIGTERM"]) {
-      process.once(signal, () => {
-        server.close();
-        server.closeIdleConnections();
-      });
-    }
-    server.on("error", (error) => {
-      console.error(`HTTP server error: ${error.message}`);
-      process.exitCode = 1;
-      server.close();
-    });
-  } catch (error) {
-    console.error(`Unable to start AQPTech server: ${error.message}`);
-    process.exitCode = 1;
-  }
 }

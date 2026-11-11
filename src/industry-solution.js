@@ -1,5 +1,4 @@
 import { referenceHero } from "./about.js";
-import "./industry-solution.css";
 
 export function industrySolutionPage({ icon, solution, page, type = "solutions" }) {
   const contactUrl = `/contact?interest=${encodeURIComponent(solution.name)}`;

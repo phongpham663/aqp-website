@@ -1,7 +1,6 @@
 import { referenceHero } from "./about.js";
 import { services } from "./data.js";
-import heroImage from "../assets/magal/images/Masked-image--0237b30221.webp";
-import "./professional-services.css";
+const heroImage = "/assets/magal/images/Masked-image--0237b30221.webp";
 
 const lifecycle = [
   {

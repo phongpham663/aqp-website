@@ -1,6 +1,6 @@
 import { industrySolutionPage } from "./industry-solution.js";
 import { solutions } from "./data.js";
-import terminalImage from "../assets/magal/images/aqp-seaports-terminal.jpg";
+const terminalImage = "/assets/magal/images/aqp-seaports-terminal.jpg";
 
 export function seaportsPage({ icon }) {
   const solution = solutions.find((item) => item.slug === "seaports-terminals");

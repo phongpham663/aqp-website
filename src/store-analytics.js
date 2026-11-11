@@ -1,17 +1,15 @@
 import { referenceHero } from "./about.js";
 import { solutions } from "./data.js";
-import storeBackground from "../assets/opretail/images/store-background.webp";
-import trafficImage from "../assets/opretail/images/traffic-analysis.webp";
-import demographicImage from "../assets/opretail/images/demographic-analysis.webp";
-import behaviorImage from "../assets/opretail/images/customer-behavior.webp";
-import kpiImage from "../assets/opretail/images/store-kpi.webp";
-import scenariosImage from "../assets/opretail/images/store-scenarios.webp";
-import realTimeImage from "../assets/opretail/images/feature-real-time.webp";
-import countingImage from "../assets/opretail/images/feature-accurate-counting.webp";
-import aiImage from "../assets/opretail/images/feature-ai-powered.webp";
-import reportingImage from "../assets/opretail/images/feature-reporting.webp";
-import "./industry-solution.css";
-import "./store-analytics.css";
+const storeBackground = "/assets/opretail/images/store-background.webp";
+const trafficImage = "/assets/opretail/images/traffic-analysis.webp";
+const demographicImage = "/assets/opretail/images/demographic-analysis.webp";
+const behaviorImage = "/assets/opretail/images/customer-behavior.webp";
+const kpiImage = "/assets/opretail/images/store-kpi.webp";
+const scenariosImage = "/assets/opretail/images/store-scenarios.webp";
+const realTimeImage = "/assets/opretail/images/feature-real-time.webp";
+const countingImage = "/assets/opretail/images/feature-accurate-counting.webp";
+const aiImage = "/assets/opretail/images/feature-ai-powered.webp";
+const reportingImage = "/assets/opretail/images/feature-reporting.webp";
 
 const analyses = [
   {
