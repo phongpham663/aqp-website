@@ -58,7 +58,9 @@ test("Detail and service content, recommendations and publication boundaries rem
   for (const item of genericSolutions) assert.ok(!header.includes(`/solutions/${item.slug}`));
   assert.equal(catalogProducts.length, 3);
   for (const item of hardware) assert.ok(!renderSite("/products").html.includes(`href="/products/${item.slug}"`));
-  for (const item of [...hardware, ...genericSolutions, ...services]) assert.ok(renderSite("/about").html.includes(`/${services.includes(item) ? "services" : genericSolutions.includes(item) ? "solutions" : "products"}/${item.slug}`));
+  const aboutHtml = renderSite("/about").html;
+  for (const item of [...catalogProducts, ...services]) assert.ok(aboutHtml.includes(`/${services.includes(item) ? "services" : "products"}/${item.slug}`));
+  for (const item of genericSolutions) assert.ok(!aboutHtml.includes(`/solutions/${item.slug}`));
 });
 
 test("All migrated families render white content, company buttons and black footers without overflow", { skip: !origin, timeout: 120000 }, async () => {
@@ -102,7 +104,7 @@ test("Migrated pages support Next navigation, widget cleanup, contact prefill an
       submissions.push(route.request().postDataJSON());
       await route.fulfill({ contentType: "application/json", body: JSON.stringify({ ok: true, message: "Company newsletter received." }) });
     });
-    await page.goto(`${origin}/about`, { waitUntil: "networkidle" });
+    await page.goto(`${origin}/products/storage`, { waitUntil: "networkidle" });
     await page.locator('main a[href="/products/servers"]').first().click();
     await page.waitForURL(`${origin}/products/servers`);
     await page.waitForLoadState("networkidle");
