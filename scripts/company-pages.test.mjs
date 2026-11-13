@@ -56,7 +56,7 @@ test("Detail and service content, recommendations and publication boundaries rem
   assert.equal((renderSite("/terms").html.match(/<section><h2>/g) || []).length, 4);
   const header = renderSite("/").html.match(/<header\b[\s\S]*?<\/header>/)[0];
   for (const item of genericSolutions) assert.ok(!header.includes(`/solutions/${item.slug}`));
-  assert.equal(catalogProducts.length, 3);
+  assert.equal(catalogProducts.length, 4);
   for (const item of hardware) assert.ok(!renderSite("/products").html.includes(`href="/products/${item.slug}"`));
   const aboutHtml = renderSite("/about").html;
   for (const item of [...catalogProducts, ...services]) assert.ok(aboutHtml.includes(`/${services.includes(item) ? "services" : "products"}/${item.slug}`));

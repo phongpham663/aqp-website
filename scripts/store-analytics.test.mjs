@@ -66,9 +66,9 @@ test("Store Analytics uses local sized images, lazy content and real AQP routes"
   assert.doesNotMatch(html, /<iframe|<form|href="(?:#|https:[^"]*(?:login|trial))"/);
 });
 
-test("Store Analytics preserves AI and compatibility safeguards without the removed source link", () => {
+test("Store Analytics preserves AI and compatibility safeguards without external source references", () => {
   for (const text of ["độ tuổi và giới tính ước lượng", "không xác định danh tính", "dữ liệu tổng hợp", "không phải dữ liệu của khách hàng AQPTech", "không mặc định mọi camera IP", "dữ liệu giao dịch từ POS", "kiểm thử tương thích"]) assert.ok(html.includes(text));
-  assert.doesNotMatch(html, /Nguồn: People counting analytics|class="container sa-resources"|href="https:\/\/www\.opretail\.com\/products\/op-analytics"/);
+  assert.doesNotMatch(html, /Nguồn: People counting analytics|class="container sa-resources"|href="https:\/\/www\.opretail\.com\/products\/op-analytics"|OP Retail|tư liệu tham chiếu/i);
   assert.doesNotMatch(html, /Hình ảnh và giao diện minh họa thuộc OVOPARK|400,000|4000|NDAA|GDPR|info@opretail|13771942521/);
 });
 

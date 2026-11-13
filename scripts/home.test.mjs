@@ -18,6 +18,8 @@ test("Home presents the published solutions, software and service stages without
     assert.equal(cards.filter((card) => card[2] === group).length, count);
   }
   assert.equal((site.html.match(/class="home-software-card"/g) || []).length, catalogProducts.length);
+  assert.equal((site.html.match(/class="product-status"/g) || []).length, 1);
+  assert.match(site.html, /data-product="fortisoptix">[\s\S]*?<span class="product-status">Comming Soon - Sắp ra mắt<\/span>/);
   for (const product of catalogProducts) assert.ok(site.html.includes(`href="/products/${product.slug}"`));
   for (const stage of ["planning", "implementation", "handover", "maintenance"]) {
     assert.ok(site.html.includes(`href="/services#ps-stage-${stage}"`));
@@ -99,6 +101,11 @@ test("Home filters work with keyboard and survive Next navigation without stale 
     await page.waitForURL("**/products/veolink");
     assert.equal(await page.locator(".veolink-page").count(), 1);
     await page.goBack({ waitUntil: "networkidle" });
+    assert.equal(await page.locator('.home-software-card[data-product="fortisoptix"] .product-status').textContent(), "Comming Soon - Sắp ra mắt");
+    await page.locator('.home-product-copy a[href="/products/fortisoptix"]').click();
+    await page.waitForURL("**/products/fortisoptix");
+    assert.equal(await page.locator(".fortisoptix-page").count(), 1);
+    await page.goBack({ waitUntil: "networkidle" });
     await page.locator('.home-journey-grid a[href="/services#ps-stage-handover"]').click();
     await page.waitForURL("**/services#ps-stage-handover");
     assert.equal(await page.locator("#ps-stage-handover").count(), 1);
@@ -125,6 +132,10 @@ test("Home is responsive and its article carousel supports controls, keyboard an
       await page.setViewportSize({ width, height: 900 });
       await page.waitForFunction(() => document.documentElement.scrollWidth === innerWidth);
       assert.equal(await page.evaluate(() => document.documentElement.scrollWidth), width);
+      assert.ok(await page.locator('.home-software-card[data-product="fortisoptix"] .product-status').evaluate((badge) => {
+        const bounds = badge.getBoundingClientRect();
+        return bounds.width > 0 && bounds.left >= 0 && bounds.right <= innerWidth;
+      }));
       const hero = await page.locator(".home-hero").evaluate((section) => {
         const image = section.querySelector(".home-hero-image img");
         const photo = image.getBoundingClientRect();

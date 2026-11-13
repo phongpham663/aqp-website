@@ -86,8 +86,6 @@ export function videoAnalyticsPage({ icon }) {
       },
       resources: {
         title: "Trao đổi về kịch bản phân tích video của bạn",
-        sourceName: "Intelligent Video Analytics",
-        sourceUrl: "https://www.magalsolutions.com/intelligent-video-analytics/",
       },
     },
   });

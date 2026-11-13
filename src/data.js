@@ -217,9 +217,32 @@ export const products = [
     ],
     applications: "Quản lý bảo trì tài sản, thiết bị và vận hành cơ sở cho tòa nhà, nhà máy và hệ thống đa điểm.",
   },
+  {
+    slug: "fortisoptix",
+    name: "FortisOptix",
+    category: "Phần mềm",
+    tagline: "Nền tảng AI cho robot và tự động hóa.",
+    statusLabel: "Comming Soon - Sắp ra mắt",
+    icon: "bot",
+    image: industry,
+    label: "AI PLATFORM / ROBOTICS & AUTOMATION",
+    homeLabel: "AI / ROBOT & TỰ ĐỘNG HÓA",
+    imageAlt: "Băng chuyền trong nhà máy dùng minh họa cho robot và tự động hóa",
+    imageWidth: 980,
+    imageHeight: 653,
+    description:
+      "Nền tảng AI low-code cho robot và tự động hóa, định hướng kết nối học sâu với thiết bị qua luồng xử lý kéo thả. Chuẩn bị dữ liệu, huấn luyện bằng CPU/GPU và tích hợp camera, I/O, MQTT/REST API. Sản phẩm sắp ra mắt; tính năng và cấu hình sẽ được công bố khi phát hành.",
+    features: [
+      "Thiết kế luồng AI low-code bằng khối kéo thả",
+      "Chuẩn bị, gán nhãn dữ liệu và huấn luyện bằng CPU/GPU",
+      "Kết nối camera, robot, I/O và MQTT/REST API",
+    ],
+    productSlugs: ["ai-computing", "edge-industrial", "networking"],
+    applications: "Định hướng kiểm tra, phân loại đối tượng bằng thị giác máy tính và kết nối robot với quy trình tự động hóa.",
+  },
 ];
 
-export const catalogProducts = products.filter((item) => ["veolink", "intelligent-video-analytics", "cmms"].includes(item.slug));
+export const catalogProducts = products.filter((item) => ["veolink", "intelligent-video-analytics", "cmms", "fortisoptix"].includes(item.slug));
 
 export const solutions = [
   {

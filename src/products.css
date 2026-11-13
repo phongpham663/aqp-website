@@ -6,6 +6,20 @@
   --orange: #cc0033;
   --accent-text: #b0002d;
 }
+.product-status {
+  display: inline-block;
+  max-width: 100%;
+  padding: 6px 10px;
+  border: 1px solid #b0002d;
+  background: #fff4f7;
+  color: #a8002a;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.6;
+}
+.product-card-content > .product-status { align-self: flex-start; margin-top: 12px; }
+.home-product-copy .product-status { margin-top: 18px; }
+.about-hero-panel .product-status { margin-top: 16px; }
 .products-reference-page .about-reference-hero { min-height: 455px; }
 .products-reference-page .about-hero-panel { width: 570px; }
 .products-reference-page .about-hero-photo { object-position: center; }

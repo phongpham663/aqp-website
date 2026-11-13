@@ -42,7 +42,7 @@ test("Construction security navigation, related pages and disclosures retain acc
   assert.ok(html.includes(encodeURIComponent("An ninh công trường")));
   assert.ok(html.includes(encodeURIComponent("An ninh công trường - Camera cơ động 360 độ")));
   assert.ok(html.includes(encodeURIComponent("An ninh công trường - Giám sát dùng năng lượng mặt trời")));
-  assert.match(html, /href="https:\/\/wt-security\.com\/en-gb\/application\/construction-site-security" target="_blank" rel="noopener noreferrer"/);
+  assert.doesNotMatch(html, /Nguồn:|cs-resources|href="https?:\/\//);
   assert.match(html, /width="1920" height="1280" fetchpriority="high"/);
 });
 
@@ -67,6 +67,8 @@ test("Construction security corrects Solar source copy and qualifies provider cl
   assert.ok(html.includes("không thay thế hệ thống báo cháy được chứng nhận"));
   assert.ok(html.includes("Quyền lợi bảo hiểm phải đối chiếu hợp đồng cụ thể"));
   assert.ok(html.includes("4G/5G"));
+  assert.ok(html.includes("cần được đối chiếu tài liệu kỹ thuật, không suy ra từ ảnh này"));
+  assert.doesNotMatch(html, /Tư liệu nguồn|sản phẩm nguồn|trong nguồn|Nguồn (?:giới thiệu|mô tả)/);
   assert.doesNotMatch(html, /Nội dung và hình ảnh dùng làm tư liệu tham khảo|Hình ảnh không phải công trình hay nhân sự AQPTech/);
   assert.doesNotMatch(html, /impenetrable|NDAA|NSI Gold|254,800|22,500|\.pdf|<iframe/);
 });

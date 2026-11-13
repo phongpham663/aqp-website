@@ -91,7 +91,7 @@ export function factoryIntelligencePage({ icon }) {
     description: solution.description, image: solution.image,
     imageWidth: 980, imageHeight: 653,
     imageAlt: "Môi trường sản xuất công nghiệp dùng làm nền minh họa cho giải pháp phân tích nhà máy",
-    actions: `<div class="industry-hero-actions"><a class="home-button" href="${contactUrl}">Yêu cầu tư vấn demo${icon("arrow-up-right")}</a><a class="industry-video-link" href="https://youtu.be/cEvl_PURLuo" target="_blank" rel="noopener noreferrer">${icon("play")}Xem video tham khảo<span class="sr-only"> (mở tab mới)</span></a></div>`,
+    actions: `<div class="industry-hero-actions"><a class="home-button" href="${contactUrl}">Yêu cầu tư vấn demo${icon("arrow-up-right")}</a></div>`,
   })}<figure class="fi-hero-visual"><img src="${connectivityHero}" alt="Minh họa máy công nghiệp kết nối với bộ thu thập dữ liệu, ăng-ten và các vùng tín hiệu" width="1440" height="1000" fetchpriority="high"></figure></div>
 
   <nav class="industry-section-nav fi-section-nav" aria-label="Nội dung Factory Intelligence"><div class="container" style="--industry-nav-count:4">${sections.map(([id, label], index) => `<a href="#fi-${id}" data-fi-section-link><span>0${index + 1}</span>${label}${icon("arrow-right")}</a>`).join("")}</div><span class="fi-reading-progress" aria-hidden="true"></span></nav>

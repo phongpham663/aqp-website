@@ -6,7 +6,7 @@
   border-radius: 0;
   white-space: normal;
 }
-.construction-security-page :is(.cs-story, .cs-systems, .cs-consultation, .cs-faq, .cs-related, .cs-resources) {
+.construction-security-page :is(.cs-story, .cs-systems, .cs-consultation, .cs-faq, .cs-related) {
   overflow-wrap: anywhere;
 }
 .construction-security-page :is(.cs-story-copy, .cs-system-content, .cs-consultation-layout, .cs-faq, .cs-related) p,
@@ -392,8 +392,6 @@
 }
 .cs-related-grid > a > span svg { width: 16px; height: 16px; flex-shrink: 0; }
 .cs-related-grid > a:hover h3 { color: #cc0033; }
-.cs-resources { padding-bottom: 48px; }
-.construction-security-page .cs-resources p { font-size: 12px; line-height: 1.85; }
 
 /* Observation enhances visible content; it is never a prerequisite for reading. */
 .construction-security-page [data-cs-reveal].cs-revealed {
@@ -430,7 +428,7 @@
   .cs-related-grid { grid-template-columns: minmax(0, 1fr); }
   .cs-related-grid > a, .cs-related-grid > a:first-child, .cs-related-grid > a:last-child { padding: 24px 0; border-left: 0; }
   .cs-related-grid > a + a { border-top: 1px solid #ddd; }
-  .cs-related, .cs-resources { padding-bottom: 32px; }
+  .cs-related { padding-bottom: 32px; }
 }
 @media (prefers-reduced-motion: reduce) {
   .construction-security-page [data-cs-reveal],

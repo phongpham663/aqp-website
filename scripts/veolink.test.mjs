@@ -46,6 +46,7 @@ test("Fortis X video, reference notes and brochure block are removed while consu
   const consultation = html.match(/<section id="veolink-resources"[\s\S]*?<\/section>/)[0];
   assert.match(consultation, /class="home-button" href="\/contact\?interest=Veolink"/);
   assert.doesNotMatch(consultation, /industry-resources|<h3>|\.pdf/);
-  assert.doesNotMatch(html, /Tài liệu tham khảo gốc của Magal Solutions, bằng tiếng Anh|PDF tiếng Anh từ Magal/);
+  assert.doesNotMatch(html, /Tài liệu tham khảo gốc của Magal Solutions, bằng tiếng Anh|PDF tiếng Anh từ Magal|tham khảo từ Fortis X/);
+  assert.ok(html.includes("Khả năng kết nối thực tế phụ thuộc giao thức, thiết bị"));
   assert.doesNotMatch(html, /Nội dung và hình ảnh tham khảo|không phải tài liệu sản phẩm Veolink đã được xác nhận/);
 });

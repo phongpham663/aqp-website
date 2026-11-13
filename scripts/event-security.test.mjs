@@ -47,14 +47,15 @@ test("Event Security navigation and consultation have accessible targets", () =>
   for (const href of ["/products/veolink", "/products/intelligent-video-analytics", "/solutions/gates-access"]) assert.ok(html.includes(`href="${href}"`));
 });
 
-test("Event Security separates proposed AI from source claims and preserves safeguards", () => {
-  assert.ok(html.includes("không phải danh sách tính năng Watchtower đã xác nhận"));
+test("Event Security removes source references and preserves proposed AI safeguards", () => {
+  assert.ok(html.includes("không phải danh sách tính năng đã xác nhận cho mọi thiết bị"));
   assert.ok(html.includes("không nhận diện khuôn mặt"));
   assert.ok(html.includes("Video gốc vẫn có thể là dữ liệu cá nhân"));
   assert.ok(html.includes("không cam kết dự đoán chen lấn hoặc giẫm đạp"));
   assert.ok(html.includes("Không xác định chất nổ"));
   assert.ok(html.includes("Không thay thế hệ thống báo cháy được chứng nhận"));
   assert.ok(html.includes("không phải nhân sự hoặc công trình của AQPTech"));
+  assert.doesNotMatch(html.replace(/\bsrc="[^"]*"/g, ""), /Watchtower|href="https?:\/\//i);
   assert.doesNotMatch(html, /Tư liệu gốc: Event Security \/ Watchtower|Xem nguồn tham khảo|href="https:\/\/wt-security\.com\/en-gb\/application\/event-security"/);
   assert.doesNotMatch(html, /Hình ảnh và mô hình triển khai được tham khảo|Nội dung và ảnh nguồn thuộc Watchtower/);
   assert.doesNotMatch(html, /<form|salesforce|\.pdf|Watchtower Solar/);

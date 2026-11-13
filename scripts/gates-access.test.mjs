@@ -40,8 +40,9 @@ test("Gates & Access navigation and consultation remain valid without the origin
   assert.doesNotMatch(html, /industry-video-link|Xem brochure|\.pdf|youtube\.com/);
 });
 
-test("Gates & Access attributes Fortis X and qualifies building integration", () => {
-  assert.ok(html.includes("Trong giải pháp tham khảo của Magal, ACS là một phần của nền tảng Fortis X C5I"));
+test("Gates & Access retains platform details and safeguards without external source attribution", () => {
+  assert.ok(html.includes("ACS là một phần của nền tảng Fortis X C5I"));
+  assert.doesNotMatch(html, /Magal|href="https?:\/\//);
   assert.ok(html.includes("logic liên động phải được thiết kế cùng yêu cầu thoát hiểm"));
   assert.ok(html.includes("HVAC"));
   assert.ok(html.includes("Anti-passback"));

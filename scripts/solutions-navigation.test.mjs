@@ -57,6 +57,16 @@ test("Draft solutions remain available for development but are absent from the m
   assert.equal(allSolutions.length, 15);
 });
 
+test("Public pages do not display external source or reference material links", () => {
+  for (const pathname of publicPaths) {
+    const html = renderSite(pathname).html;
+    assert.doesNotMatch(html, /Nguồn\s*:/iu, pathname);
+    for (const [link] of html.matchAll(/<a\b[^>]*href="https?:\/\/[^"]*"[^>]*>[\s\S]*?<\/a>/g)) {
+      assert.doesNotMatch(link, /Nguồn|tư liệu|tham khảo/iu, pathname);
+    }
+  }
+});
+
 test("Every public route, redirect alias and 404 uses the same header without changing page layouts", () => {
   const normalize = (html) => html.replace(/ active(?=")/g, "").replace(/ aria-current="page"/g, "");
   const sharedHeader = renderSite("/").html.match(/<header\b[\s\S]*?<\/header>/)[0];

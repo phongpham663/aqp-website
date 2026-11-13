@@ -26,7 +26,7 @@
   outline-offset: 5px;
 }
 
-.professional-services-page :is(.about-hero-panel, .ps-overview, .ps-lifecycle, .ps-services, .ps-commitment, .ps-resources) p {
+.professional-services-page :is(.about-hero-panel, .ps-overview, .ps-lifecycle, .ps-services, .ps-commitment) p {
   color: #555;
   font-size: 15px;
   line-height: 1.8;
@@ -676,24 +676,6 @@
   margin-top: 18px;
 }
 
-.professional-services-page .ps-resources {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 10px 28px;
-  padding-block: 25px 30px;
-}
-
-.professional-services-page .ps-resources > p {
-  flex: 1 1 550px;
-  font-size: 12px;
-}
-
-.professional-services-page .ps-resources .ps-text-link {
-  font-size: 12px;
-}
-
 /* Reveal is opt-in; a missing observer never hides any page content. */
 .professional-services-page [data-ps-reveal].ps-revealed {
   animation: ps-content-reveal 600ms ease-out var(--ps-delay, 0ms) both;
@@ -982,11 +964,6 @@
 
   .professional-services-page .ps-commitment {
     padding-block: 43px 46px;
-  }
-
-  .professional-services-page .ps-resources {
-    gap: 9px;
-    padding-block: 23px;
   }
 }
 

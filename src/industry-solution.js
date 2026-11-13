@@ -18,7 +18,7 @@ export function industrySolutionPage({ icon, solution, page, type = "solutions" 
     imageAlt: hero.imageAlt,
     imageWidth: hero.imageWidth,
     imageHeight: hero.imageHeight,
-    actions: `<div class="industry-hero-actions"><a class="home-button" href="${contactUrl}">Tư vấn giải pháp${icon("arrow-up-right")}</a></div>`,
+    actions: `${solution.statusLabel ? `<span class="product-status">${solution.statusLabel}</span>` : ""}<div class="industry-hero-actions"><a class="home-button" href="${contactUrl}">${solution.statusLabel ? "Quan tâm sản phẩm" : "Tư vấn giải pháp"}${icon("arrow-up-right")}</a></div>`,
   })}
 
   <nav class="industry-section-nav" aria-label="${navLabel}"><div class="container" style="--industry-nav-count:${capabilities.items.length}">${capabilities.items.map((item, index) => `<a href="#${item.id}"><span>0${index + 1}</span>${item.label}${icon("arrow-right")}</a>`).join("")}</div></nav>

@@ -32,7 +32,7 @@ test("Factory Intelligence contains the IoT architecture, three analysis levels 
   assert.doesNotMatch(html, /undefined|NaN|<iframe|<form/);
 });
 
-test("Factory Intelligence retains accessible anchors and valid video/contact destinations", () => {
+test("Factory Intelligence retains accessible anchors and consultation without external reference video", () => {
   for (const id of ["connectivity", "analytics", "applications", "faq"]) {
     assert.ok(html.includes(`href="#fi-${id}" data-fi-section-link`));
     assert.match(html, new RegExp(`<section id="fi-${id}"[^>]*aria-labelledby="fi-${id}-title"[^>]*data-fi-section`));
@@ -40,7 +40,7 @@ test("Factory Intelligence retains accessible anchors and valid video/contact de
   }
   for (const id of ["asset", "baseline", "plant"]) assert.match(html, new RegExp(`<article id="fi-${id}"[^>]*aria-labelledby="fi-${id}-title"`));
   assert.ok(html.includes('href="/contact?interest=Factory%20Intelligence"'));
-  assert.match(html, /href="https:\/\/youtu\.be\/cEvl_PURLuo" target="_blank" rel="noopener noreferrer"/);
+  assert.doesNotMatch(html, /Xem video tham khảo|href="https?:\/\/|youtu\.be|youtube\.com/);
   assert.ok(html.includes('href="/products/edge-industrial"'));
   assert.ok(html.includes('href="/services/integration"'));
   assert.ok(html.includes('class="fi-reading-progress" aria-hidden="true"'));

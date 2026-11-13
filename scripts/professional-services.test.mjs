@@ -63,8 +63,8 @@ test("Professional Services links to accessible stages, consultation and existin
   assert.ok(html.includes('href="/support"'));
 });
 
-test("Professional Services omits reference footnotes and retains service commitments", () => {
-  assert.match(html, /href="https:\/\/www\.magalsolutions\.com\/our-professional-services\/" target="_blank" rel="noopener noreferrer"/);
+test("Professional Services omits external source references and retains service commitments", () => {
+  assert.doesNotMatch(html, /Nguồn:|ps-resources|href="https?:\/\/|Magal Solutions/);
   assert.doesNotMatch(html, /Khung vòng đời và ảnh phòng điều hành tham khảo|không phải ảnh công trình hoặc nhân sự của AQPTech|không hàm ý quan hệ đối tác hay chứng nhận/);
   assert.ok(html.includes("Hỗ trợ kỹ thuật 24/7 theo SLA đã được xác nhận"));
   assert.ok(html.includes("các đầu ra là đề xuất"));

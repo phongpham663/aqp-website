@@ -19,7 +19,7 @@ export function gatesAccessPage({ icon }) {
         title: "Kiểm soát ra vào. Kết nối an ninh.",
         paragraphs: [
           "Hệ thống kiểm soát ra vào (ACS) là một thành phần quan trọng trong bảo vệ tài sản và quản lý khu vực hạn chế. Đầu đọc thẻ, khóa điện tử và thiết bị sinh trắc học hỗ trợ xác minh thông tin xác thực, quản lý quyền tiếp cận không gian vật lý và các hệ thống số được tích hợp.",
-          "Trong giải pháp tham khảo của Magal, ACS là một phần của nền tảng Fortis X C5I. Fortis X hỗ trợ quản lý nhiều hệ thống ACS từ các nhà cung cấp phần cứng, phần mềm khác nhau, đồng thời kết nối với hệ thống tòa nhà thông minh và logic cửa liên động. Khả năng tích hợp cần được đánh giá theo giao thức, thiết bị và giấy phép thực tế.",
+          "ACS là một phần của nền tảng Fortis X C5I. Fortis X hỗ trợ quản lý nhiều hệ thống ACS từ các nhà cung cấp phần cứng, phần mềm khác nhau, đồng thời kết nối với hệ thống tòa nhà thông minh và logic cửa liên động. Khả năng tích hợp cần được đánh giá theo giao thức, thiết bị và giấy phép thực tế.",
           "Cửa liên động (interlock) điều khiển trình tự mở cửa để hỗ trợ hạn chế tiếp cận trái phép. Tích hợp tòa nhà thông minh có thể kích hoạt chiếu sáng khi mở khóa hoặc điều chỉnh hệ thống điều hòa, thông gió (HVAC) khi không gian không có người sử dụng. AQPTech đánh giá các kịch bản này theo từng dự án; logic liên động phải được thiết kế cùng yêu cầu thoát hiểm và phương án vận hành an toàn.",
         ],
         systems: [
@@ -74,8 +74,6 @@ export function gatesAccessPage({ icon }) {
       },
       resources: {
         title: "Trao đổi về hệ thống kiểm soát ra vào của bạn",
-        sourceName: "Gates & Access trên nền tảng Fortis X C5I",
-        sourceUrl: "https://www.magalsolutions.com/gates-access/",
       },
     },
   });

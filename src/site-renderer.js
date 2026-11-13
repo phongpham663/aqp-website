@@ -21,6 +21,7 @@ import { supportPage } from "./support.js";
 import { productRedirects } from "./route-redirects.js";
 import { productsPage } from "./products.js";
 import { cmmsPage } from "./cmms.js";
+import { fortisoptixPage } from "./fortisoptix.js";
 import { insightsPage, articlePage } from "./insights.js";
 
 const button = (label, href, style = "primary") =>
@@ -146,6 +147,9 @@ export function renderSite(pathname = "/", search = "") {
   } else if (path === "/products/cmms") {
     content = cmmsPage({ icon });
     title = "CMMS - Quản lý bảo trì & tài sản";
+  } else if (path === "/products/fortisoptix") {
+    content = fortisoptixPage({ icon });
+    title = "FortisOptix - Nền tảng AI cho robot và tự động hóa";
   } else if (path === "/solutions/gates-access") {
     content = gatesAccessPage({ icon });
     title = "Gates & Access";
@@ -218,6 +222,7 @@ export function renderSite(pathname = "/", search = "") {
     "/solutions/critical-sites",
     "/products/intelligent-video-analytics",
     "/products/cmms",
+    "/products/fortisoptix",
     "/solutions/gates-access",
     "/solutions/event-security",
     "/solutions/construction-site-security",
@@ -235,6 +240,7 @@ export function renderSite(pathname = "/", search = "") {
     ["factory-intelligence-page", path === "/solutions/factory-intelligence"], ["support-reference-page", path === "/support"],
     ["products-reference-page", path === "/products"],
     ["cmms-page", path === "/products/cmms"],
+    ["fortisoptix-page", path === "/products/fortisoptix"],
     ["insights-reference-page", isInsights],
     ["company-reference-page", Boolean(pageType)],
     [`${pageType}-reference-page`, Boolean(pageType)],
